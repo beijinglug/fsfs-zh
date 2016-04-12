@@ -10,6 +10,9 @@ title: Untitled Document
 1. How Much Surveillance Can Democracy Withstand? {#how-much-surveillance-can-democracy-withstand .chapter}
 =================================================
 
+1. 民主可以承受多少监控？ {#how-much-surveillance-can-democracy-withstand .chapter}
+=========================
+
 Thanks to Edward Snowden’s disclosures, we know that the current level
 of general surveillance in society is incompatible with human rights.
 The repeated harassment and prosecution of dissidents, sources, and
