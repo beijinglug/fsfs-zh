@@ -10,6 +10,9 @@ title: Untitled Document
 1. Overcoming Social Inertia {#overcoming-social-inertia .chapter}
 ============================
 
+1. 克服社会惯性 {#overcoming-social-inertia .chapter}
+===============
+
 @firstcopyingnotice{{Copyright © 2007, 2009 Richard Stallman\
  {This essay was originally published on <http://gnu.org>, in 2007. This
 version is part of @fsfsthreecite} Almost two decades have passed since
