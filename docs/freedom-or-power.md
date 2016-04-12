@@ -10,6 +10,9 @@ title: Untitled Document
 1. Freedom or Power? {#freedom-or-power .chapter}
 ====================
 
+1. 自由还是权力？ {#freedom-or-power .chapter}
+=================
+
 Written by Bradley M. Kuhn and Richard Stallman.\
  *The love of liberty is the love of others; the love of power is the
 love of ourselves.*
