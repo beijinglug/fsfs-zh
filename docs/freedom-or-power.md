@@ -14,8 +14,13 @@ title: Untitled Document
 =================
 
 Written by Bradley M. Kuhn and Richard Stallman.\
+
+本文由 Bradley M. Kuhn 和 Richard Stallman 撰写。
+
  *The love of liberty is the love of others; the love of power is the
 love of ourselves.*
+
+对自由的爱是对他人的爱；对权力的爱是对自己的爱。
 
 —William Hazlitt
 
