@@ -10,6 +10,9 @@ title: Untitled Document
 1. Can You Trust Your Computer? {#can-you-trust-your-computer .chapter}
 ===============================
 
+您能够信任您的计算机吗？
+========================
+
 @firstcopyingnotice{{Copyright © 2002, 2007, 2014, 2015 Richard
 Stallman\
  {本文首先于 2002 年发表于 <http://gnu.org>。此版本是 @fsfsthreecite 的一部分。} 
