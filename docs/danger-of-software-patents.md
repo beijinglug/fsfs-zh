@@ -10,6 +10,9 @@ title: Untitled Document
 1. The Danger of Software Patents {#the-danger-of-software-patents .chapter}
 =================================
 
+软件专利的威胁
+==============
+
 > This is an unedited transcript of the talk presented by Richard
 > Stallman on 8 October 2009 at Victoria University of Wellington, in
 > Wellington, New Zealand.
@@ -654,6 +657,9 @@ Fortunately, in fact, that patent was eventually invalidated, and partly
 on the strength of the fact that I had published using it earlier. But
 in the meantime they had had to remove this feature.
 
+事实上，幸运的是，那项专利最终被判无效，这在一定程度上得益于我先于该专利将
+其公开这一事实。然而当时他们不得不移除了那项功能。
+
 Now, to remove one or two features may not be a disaster. But when you
 have to remove 50 features, you could do it, but people are likely to
 say, “This program’s no good; it’s missing all the features I want.” So
@@ -662,10 +668,21 @@ wipes out an entire field, like the patent on public-key encryption,
 which in fact put public-key encryption basically off limits for about
 ten years.
 
+现在看来，移除一两项功能可能并不至于带来一场灾难。但是，如果您不得不移除 
+50 项功能呢？您自己可以这样做，但人们很可能会说：“这个程序不怎么样，缺少
+我所需要的任何功能。”因此，这可能不能成为一种解决方案。并且，有时一项专利
+的覆盖范围是如此宽泛，以至于它横扫了某一整个领域，例如关于公钥加密的专利，
+它事实上使得公钥加密在将近 10 年时间内几乎被完全禁止。
+
 So that’s the option of avoiding the patent—often possible, but
 sometimes not, and there’s a limit to how many patents you can avoid.
 
+以上说的是回避专利的选项——这通常是可能的，但有时是不可能的，并且您最多能
+回避多少专利是有限度的。
+
 What about the next possibility, of getting a license for the patent?
+
+那么，下一种可能性又当如何？即试图获得专利的使用授权许可。
 
 Well, the patent holder may not offer you a license. It’s entirely up to
 him. He could say, “I just want to shut you down.” I once got a letter
@@ -675,6 +692,12 @@ who wanted to make his business shut down. He sent me the patent. Claim
 1 was something like “a network with a multiplicity of computers, in
 which each computer supports a multiplicity of games, and allows a
 multiplicity of game sessions at the same time.”
+
+首先，专利持有者也许根本不会考虑给您一份授权许可，这完全取决于他的意志。
+他可以说：“我就是要逼你停业。”我曾经收到某人来信求助，此人的家族企业当时
+正在经营赌博游戏，当然是计算机上的，他被专利持有人威胁关闭他的整个企业。
+他将该项专利发送给我。其权利要求 1 是关于这样的东西：“一种拥有多台计算机
+的网络，其中每台计算机支持多种游戏，并且允许多个游戏会话在同时进行。”
 
 Now, I’m sure in the 1980s there was a university that set up a room
 with a network of workstations, and each workstation had some kind of
@@ -686,12 +709,25 @@ publishing an article about doing it, but it was worth patenting it. If
 it had occurred to you that you could get a monopoly on this trivial
 thing, then you could shut down your competitors with it.
 
+现在，我能够确信在 20 世纪 80 年代，有一所大学建立起了这样一间计算机房，
+内有一系列联网的工作站，每台工作站都拥有某种窗口显示功能。他们所需要做的
+全部事情就是去安装几种游戏，那些计算机将会可能同时显示多个游戏会话。这是
+多么地平淡无奇，以至于没有人会闲得发布一篇文章讲述如何实现它。没有人会有
+兴趣来专门为此发表一篇文章，但是，这件事就是值得为其申请专利。如果这件事
+发生在您身上，您就将获得对于这样平淡无奇之事的垄断权，然后您就可以用这项
+专利来迫使您的竞争对手停业。
+
 But why does the Patent Office issue so many patents that seem absurd
 and trivial to us?
+
+但是，为何专利局会批准如此之多的在我们看来荒唐可笑而又穷极无聊的专利呢？
 
 It’s not because the patent examiners are stupid, it’s because they’re
 following a system, and the system has rules, and the rules lead to this
 result.
+
+这并非由于专利审查者的愚蠢，而是由于他们必须遵守一种体系，这种体系有其规
+则，而这些规则必然引起这种结果。
 
 You see, if somebody has made a machine that does something once, and
 somebody else designs a machine that will do the same thing, but N
@@ -704,9 +740,22 @@ standards; and the result is patents that look absurd and trivial to us.
 Whether they’re legally valid I can’t say. But every programmer who sees
 them laughs.
 
+您已经看到了，如果某人研究了一台机器用于做一次某事，而其他人研制了一台能
+做同样一件事的机器，但它会连续做 N 次。对我们来说这就是 for 循环，但对于
+专利局而言这就是一种创新。如果有某些机器可以做事情 A，而有另一些机器可以
+做事情 B，然后某人发明了一种机器可以做 A 或 B，对于我们来说，这就是 
+if-then-else 语句，但对于专利局而言这就是一种创新。也就是说，他们的标准如
+此之低，并且他们遵循这些低标准；其结果就是那些在我们看来荒唐可笑而又穷极
+无聊的专利。它们是否真正合法有效我不敢确定，但是每个程序员见了它们都会呵
+呵大笑。
+
 In any case, I was unable to suggest anything he could do to help
 himself, and he had to shut down his business. But most patent holders
 will offer you a license. It’s likely to be rather expensive.
+
+在任何情况下，我都不能给他任何所能采取措施进行自救的建议，他最终被迫关闭
+了他的企业。但是，大部分专利持有者将会考虑提供给您一份使用授权许可。当然，
+这通常极其昂贵。
 
 But there are some software developers that find it particularly easy to
 get licenses, most of the time. Those are the megacorporations. In any
@@ -715,12 +764,24 @@ they cross-license each other, and they can make anybody else
 cross-license if he’s really producing anything. The result is that they
 end up painlessly with licenses for almost all the patents.
 
+但是，也有一些软件开发者觉得在大多数情况下都很容易获得专利使用授权许可。
+它们就是行业大鳄。在任何领域，这些行业大鳄通常都会手握该领域的半数专利。
+它们之间可以进行交叉授权许可，它们也可以迫使任何人同它们进行交叉授权许可，
+如果此人真的打算生产任何东西。其结果是它们不费吹灰之力就可以获得几乎所有
+专利的使用授权许可。
+
 IBM wrote an article in its house magazine, Think magazine—I think it’s
 issue 5, 1990—about the benefit IBM got from its almost 9,000 US patents
 at the time (now it’s up to 45,000 or more). They said that one of the
 benefits was that they collected money, but the main benefit, which they
 said was perhaps an order of magnitude greater, was “getting access to
 the patents of others,” namely cross-licensing.
+
+IBM 曾在其自家杂志，Think 杂志上刊登一篇文章——我认为那是在 1990 年的第 5 
+期上——文中提到当时 IBM 通过其所拥有的约 9000 项美国专利（现在已有 45000 
+项甚至更多）所获得的好处。他们说到其中一项好处就是他们藉此赚得盆满钵满；
+然而，他们所认为的比上述好处还要大出一个数量级的最主要的好处是通过自身拥
+有的专利获得其他公司所拥有的专利的使用权，即所谓的交叉授权许可。
 
 What this means is since IBM, with so many patents, can make almost
 everybody give them a cross-license, IBM avoids almost all the grief
@@ -733,10 +794,22 @@ way we can get up there. You know, if you’re a genius, you might start
 up a small company and get some patents, but you’ll never get into IBM’s
 league, no matter what you do.
 
+这种情况意味着，由于 IBM 本身拥有如此之多的专利，它几乎可以迫使任何人给它
+交叉授权许可。由此 IBM 得以回避专利体系可能为任何其他人施加的几乎所有灾难。
+这就可以解释为何 IBM 欢迎软件专利。这也可以解释为何行业大鳄普遍欢迎软件专
+利。由于它们知道自己可以通过交叉授权许可独占整个行业的制高点，犹如在山顶
+上成立某种专属俱乐部。而我们当中的所有其他人则位于山脚下，并且没有办法企
+及它们所在的高度。您应该明白，如果您是一位天才，您也许会创立一家小公司并
+且可能获得一些专利，但您始终不可能进入 IBM 所在的行列，无论您做什么。
+
 Now a lot of companies tell their employees, “Get us patents so we can
 defend ourselves” and they mean, “use them to try to get
 cross-licensing,” but it just doesn’t work well. It’s not an effective
 strategy if you’ve got a small number of patents.
+
+现在，许多公司会对它的员工说：“请你为我们获得专利，这样我们就可以用这些专
+利保护自己。”它们的实际意思是“试图用这些专利换取交叉授权许可”。但这并不能
+很好地解决问题。这也不是一种有效的策略，如果您仅仅拥有少数专利。
 
 Suppose you’ve got three patents. One points there, one points there,
 and one points there, and somebody over there points a patent at you.
@@ -746,8 +819,17 @@ company is going to notice that this patent is actually pointing at some
 people, and \[the company\] could threaten them and squeeze money out of
 them—never mind that those people didn’t attack this company.
 
+假设您拥有 3 项专利，其中一项指向那里，另一项指向那里，又一项指向那里。而
+位于此 3 处以外的某处的某人将一项专利矛头指向了您。此时您的 3 项专利不能
+为您带来丝毫帮助，由于它们当中没有任何一项指向此人。从另一个角度讲，该公
+司里的某些人迟早会注意到，这项专利实际上是针对某些人的，并且公司可以以此
+威胁这些人并且榨取其钱财——却从未注意到这些人并未对公司构成威胁。
+
 So if your employer says to you, “We need some patents to defend
 ourselves, so help us get patents,” I recommend this response:
+
+于是，如果您的雇主对您说：“我们需要专利来保护自己，请你帮我们获得专利。”
+我建议您如此回复：
 
 > Boss, I trust you and I’m sure you would only use those patents to
 > defend the company if it’s attacked. But I don’t know who’s going to
@@ -759,17 +841,34 @@ ourselves, so help us get patents,” I recommend this response:
 > repression, and then I’ll be able to get patents for the company with
 > a clean conscience.
 
+> 领导，我信任您并且确信您只会在公司受到威胁的时候使用这些专利来保护公司。
+> 但是，我不能确定 5 年以后谁将会是这家公司的首席执行官（CEO）。据我所知，
+> 这家公司可能会被微软收购。因此我实在不能信任这家公司关于只会使用这些专利
+> 保护自己的口头承诺，除非我能够得到书面承诺。请您白纸黑字地保证我所为这家
+> 公司提供的任何专利都将只能被用于保护自己以及公共安全，而非用于压制他人，
+> 然后我才可能带着良知去为公司获得专利。
+
 It would be most interesting to raise this not just in private with your
 boss, but also on the company’s discussion list.
+
+事情将会变得非常有趣，如果您不仅仅在同您的上司私下交谈时提出这个问题；而
+是同时在公司的讨论列表中提出。
 
 The other thing that could happen is that the company could fail and its
 assets could be auctioned off, including the patents; and the patents
 will be bought by someone who means to use them to do something nasty.
 
+另一种可能发生的事情是这家公司将会破产并且其资产将被拍卖，包括专利；而这
+些专利的买家将会蓄意使用这些专利去做一些龌龊的事情。
+
 This cross-licensing practice is very important to understand, because
 this is what punctures the argument of the software patent advocates who
 say that software patents are needed to protect the starving genius.
 They give you a scenario which is a series of unlikelihoods.
+
+理解这种交叉授权许可的实践是非常重要的，由于这种理解揭穿了软件专利倡导者
+的论证，他们宣称软件专利是有必要的，这可以用于保护那些穷困潦倒的天才程序
+员。他们将您带到了一种虚幻的场景，这里有一些不太可能发生的事情。
 
 So let’s look at it. According to this scenario, there’s a brilliant
 designer of whatever, who’s been working for years by himself in his
@@ -780,12 +879,25 @@ except for one thing: the big companies will compete with him and take
 all his market the away. And because of this, his business will almost
 certainly fail, and then he will starve.
 
+现在让我们着眼于这件事情。根据这种场景，有一位天才的设计者，他擅长设计任
+何东西，以他能够以更好的方式去实现任何事情的天赋起家，独立工作了若干年，
+现在时机成熟，他想要创办一家企业以量产他的产品；并且由于他的创意是如此之
+高明，以至于他的公司不可避免地获得成功——除了一件事情以外：行业大鳄将会与
+他竞争并且夺走他的全部市场份额。正由于此，他的企业几乎肯定会破产，然后他
+将会穷困潦倒。
+
 Well, let’s look at all the unlikely assumptions here.
+
+现在，让我们来看看这里的所有那些不太可能发生的假设。
 
 First of all, that he comes up with this idea working by himself. That’s
 not very likely. In a high-tech field, most progress is made by people
 working in a field, doing things and talking with people in the field.
 But I wouldn’t say it’s impossible, not that one thing by itself.
+
+首先，是关于此人以独立工作的方式起家。这是一种不太可能发生的事情。在高科
+技领域，大部分进展是由在同一领域共同工作的人们共同取得的。但我并不想说这
+是不可能的，即任何一件事都不是由他独立完成的。
 
 But anyway the next supposition is that he’s going to start a business
 and that it’s going to succeed. Well, just because he’s a brilliant
@@ -793,6 +905,11 @@ engineer doesn’t mean that he’s any good at running a business. Most new
 businesses fail; more than 95 percent of them, I think, fail within a
 few years. So that’s probably what’s going to happen to him, no matter
 what.
+
+但尽管如此，下一个假设是此人将会创立一家企业并且该企业将会获得成功，这是
+不太可能的。这是因为此人是一位天才的工程师并不意味着此人在经营企业方面有
+任何优势。绝大多数初创公司都失败了；超过 95% 的初创公司，我想，将会在短短
+几年内破产。因此这很可能就是将会发生在他身上的事情，不论他做什么。
 
 OK, let’s assume that in addition to being a brilliant engineer who came
 up with something great by himself, he’s also talented at running
@@ -805,8 +922,18 @@ succeeding. He might succeed. But let’s suppose it fails anyway. If he’s
 so brilliant and has a knack for running businesses, I’m sure he won’t
 starve, because somebody will want to give him a job.
 
+好吧，让我们做一些附加的假设：一位天才的工程师以他自己的卓越的设计起家，
+并且此人也精通企业运营。如果他拥有关于经营企业的独到本领，也许他的企业一
+时不会破产。不管怎么说，并非所有的初创企业都破产了，确实有少数取得了成功。
+如果此人了解商业规则，那么此人与其试图与行业大鳄正面交锋，不如试图做一些
+小公司更加擅长的事情，这样成功的机会更大。他也许能够成功，但我们假设不管
+怎样他还是失败了。如果他真的如此有天赋并且有一套经营企业的本领，我相信他
+不会穷困潦倒，由于有些人可能愿意给他一个职位。
+
 So a series of unlikelihoods—it’s not a very plausible scenario. But
 let’s look at it anyway.
+
+这就是一系列不太可能的事情——这已经是一种不太现实的场景。但我们继续着眼于它。
 
 Because where they go from there is to say the patent system will
 “protect” our starving genius, because he can get a patent on this
@@ -814,7 +941,14 @@ technique. And then when IBM wants to compete with him, he says, “IBM,
 you can’t compete with me, because I’ve got this patent,” and IBM says,
 “Oh, no, not again!”
 
+由于不管走到哪里都会有这样一种说法，专利体系将会“保护”那些穷困潦倒的天才，
+由于他可以获得一项关于他的技术的专利。于是，当 IBM 想要同他竞争的时候，他
+会说：“IBM，你不能同我竞争，因为我拥有这项专利。”然后 IBM 会说：“哦，不，
+再也不会了！”
+
 Well, here’s what really happens.
+
+然而，这才是真正将会发生的事情：
 
 IBM says, “Oh, how nice, you have a patent. Well, we have this patent,
 and this patent, and this patent, and this patent, and this patent, all
@@ -829,6 +963,16 @@ be free to compete with him just as if there were no patents, which
 means that the supposed benefit that they claim he would get by having
 this patent is not real. He won’t get this benefit.
 
+IBM 将会说：“哦，真不错，你拥有一项专利。可是我们拥有这项专利，还有这项
+专利，还有这项专利，还有这项专利，还有这项专利，所有这些专利覆盖了你的产
+品中实施的其他思想。如果你认为你能够对抗我们以上这些专利，我们将会拿出更
+多专利。这样吧，咱们签订一份交叉授权许可协议，这样谁都不会收到伤害。”现
+在，由于我们已经假设我们的天才懂得商业规则，他一定会意识到自己别无选择。
+他将会签订交叉授权许可的城下之盟，如同 IBM 所期望的任何人所做的。这意味
+着 IBM 将获得他的专利的使用权，也就是 IBM 可以同他展开自由竞争，如同他没
+有任何专利一般。这也就意味着他们所宣称的他通过拥有这项专利所理应获得的好
+处是不现实的，他不会得到这样的好处。
+
 The patent might “protect” him from competition from you or me, but not
 from IBM—not from the very megacorporations which the scenario says are
 the threat to him. You know in advance that there’s got to be a flaw in
@@ -838,9 +982,20 @@ competitors from them. If it really were going to do that, they wouldn’t
 be in favor of it. But this explains why \[software patents\] won’t do
 it.
 
+专利也许确实能够“保护”他不受来自您或者我的竞争威胁，但不能阻止来自 IBM 的
+竞争威胁——来自那些被此场景证实是对他的威胁的行业大鳄的竞争威胁。您已经事先
+知道，当那些效忠于行业大鳄的说客建议这样一套政策，据说是由于它有利于保护小
+公司免于来自行业大鳄的竞争威胁时，其理由当中必然存在某种瑕疵。如果它真的将
+会产生其所宣称的结果，他们不可能支持它。但这也解释了为什么软件专利不可能达
+到这样的目的。
+
 Even IBM can’t always do this, because there are companies that we refer
 to as patent trolls or patent parasites, and their only business is
 using patents to squeeze money out of people who really make something.
+
+即使是 IBM 也不能总是成功采取这样的方式，由于还存在着一些我们称之为专利流
+氓或者专利寄生虫的公司，它们所从事的唯一业务就是在人们真正想要做一些事情的
+时候，跳出来使用其所掌控的专利来榨取他们的钱财。
 
 Patent lawyers tell us that it’s really wonderful to have patents in
 your field, but they don’t have patents in their field. There are no
@@ -852,6 +1007,15 @@ cost of doing business, and we can live with it.” IBM and the other
 megacorporations figure that the general dominion over all activity that
 they get from their patents is good for them, and paying off the trolls
 they can live with. So that’s why they want software patents.
+
+专利律师对我们说：在你们的领域里有专利的存在真的是一件美好的事情。但是，
+在他们的领域里并没有专利。那里没有关于如何书写并寄出恐吓信的专利，没有关
+于如何发起一桩法律诉讼的专利，没有关于如何说服法官或陪审团的专利。因此，
+即使是 IBM 也不能迫使专利流氓签订交叉授权许可协议。但是 IBM 算清了：“我
+们的竞争对手也必须向它们付钱；这只是进行商业活动的成本的一部分，我们能够
+承受。”IBM 和其他行业大鳄得出这样的结论：通过其所拥有的专利能够获得对于
+所有商业活动的普遍统治地位，扣除付给专利流氓的保护费后仍然能够承受。这就
+是它们欢迎软件专利的原因。
 
 There are also certain software developers who find it particularly
 difficult to get a patent license, and those are the developers of free
