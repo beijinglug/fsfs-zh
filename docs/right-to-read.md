@@ -10,18 +10,31 @@ title: Untitled Document
 1. The Right to Read {#the-right-to-read .chapter}
 ====================
 
-@firstcopyingnotice{{ Copyright © 1996, 2002, 2007, 2009, 2010, 2014
+阅读的权利
+==========
+
+@firstcopyingnotice{{ 著作权所有 (C) 1996, 2002, 2007, 2009, 2010, 2014
 Richard Stallman\
- {This essay was written in 1996 and was published as “The Right to
-Read: A Dystopian Short Story” in Communications of the ACM, vol. 40, n.
-2, February 1997. This version is part of @fsfsthreecite} *From <span
+ {本文撰写于 1996 年并以标题 “The Right to Read: A Dystopian Short Story”
+（阅读的权利：一段反乌托邦的短故事）于 1997 年二月发表于 Communications of the ACM, vol. 40, n. 2。
+此版本是 @fsfsthreecite 的一部分。}
+
+*From <span
 class="roman">The Road to Tycho,</span> a collection of articles about
 the antecedents of the Lunarian Revolution, published in Luna City in
 2096.*\
+
+*本文摘自《第谷之路》，这是一系列关于“月球人革命”的前奏的文章，于 2096 年
+发表于月球城。*
+
  For Dan Halbert, the road to Tycho began in college—when Lissa Lenz
 asked to borrow his computer. Hers had broken down, and unless she could
 borrow another, she would fail her midterm project. There was no one she
 dared ask, except Dan.
+
+对于 Dan Halbert 而言，他的“第谷之路”始于大学时代——当 Lissa Lenz 向他借用
+计算机的时候。她的计算机发生了故障，并且除非她能够借到另一台计算机，她将
+肯定不能完成中期项目。她不敢向其他任何人求助，除了 Dan。
 
 This put Dan in a dilemma. He had to help her—but if he lent her his
 computer, she might read his books. Aside from the fact that you could
@@ -29,6 +42,11 @@ go to prison for many years for letting someone else read your books,
 the very idea shocked him at first. Like everyone, he had been taught
 since elementary school that sharing books was nasty and wrong—something
 that only pirates would do.
+
+这将 Dan 置于两难境地，他有责任帮助她——但如果将自己的计算机借给她，她将有
+机会阅读他的书籍。抛开如果您允许其他人阅读您的书籍，您将被处以很多年监禁
+这一事实，这种想法首先使他感到震惊。与其他任何人一样，他从小学开始就被这
+样教育：分享书本是龌龊并且非法的——只有盗版者才会做这些丑事。
 
 And there wasn’t much chance that the SPA—the Software Protection
 Authority—would fail to catch him. In his software class, Dan had
@@ -38,6 +56,13 @@ information to catch reading pirates, but also to sell personal interest
 profiles to retailers.) The next time his computer was networked,
 Central Licensing would find out. He, as computer owner, would receive
 the harshest punishment—for not taking pains to prevent the crime.
+
+并且，他不被 SPA ——软件保护权力机构——抓住的机会并不大，在他的计算机软件课
+上，Dan 知道了每本书都带有一个版权监视器，它将会将此书于何时何地被何人阅
+读的信息上报给中央授权许可机构。（它们对于这一信息的利用不仅仅是为了抓住
+阅读盗版者，也会将个人阅读兴趣特征出卖给图书零售商。）当他的计算机下一次
+联网时，中央授权许可机构将会发现这一切。他作为计算机拥有者将会受到最严厉
+的处罚——由于他未能尽力阻止这种犯罪。
 
 Of course, Lissa did not necessarily intend to read his books. She might
 want the computer only to write her midterm. But Dan knew she came from
@@ -49,6 +74,14 @@ to the researchers who wrote the papers; since Dan aimed for an academic
 career, he could hope that his own research papers, if frequently
 referenced, would bring in enough to repay this loan.)
 
+当然，也许 Lissa 本意上并不一定是要阅读他的书籍，她有可能只是想借用计算机
+来编写她的中期汇报。但是，Dan 知道她来自于中产阶级家庭，并且很难负担得起
+学费，遑论她的各种阅读费用。阅读他的书籍可能是她想要顺利毕业的唯一出路。
+他理解这种情形；他自己也必须借钱以支持其所需的科研论文阅读费用。（这些费
+用的 10% 将会被付给撰写了这些论文的科研人员；由于 Dan 致力于他的学术事业，
+他可以指望自己的科研论文被频繁引用，这样他就可以赚到足够的钱来支付这笔阅
+读费用。）
+
 Later on, Dan would learn there was a time when anyone could go to the
 library and read journal articles, and even books, without having to
 pay. There were independent scholars who read thousands of pages without
@@ -56,6 +89,12 @@ government library grants. But in the 1990s, both commercial and
 nonprofit journal publishers had begun charging fees for access. By
 2047, libraries offering free public access to scholarly literature were
 a dim memory.
+
+其后，Dan 将会了解到，以前曾经有一段时间，任何人都可以去图书馆阅读期刊文
+章甚至是图书而无需支付任何费用。那时也有独立的学者，他们可以阅读数千页的
+文献而无需得到政府图书馆的批准。但是，在 20 世纪 90 年代，商业性和非盈利
+性的期刊出版者都开始征收访问费用。直到 2047 年，提供对学术文献的免费公开
+访问的图书馆已经成为一种灰暗的记忆。
 
 There were ways, of course, to get around the SPA and Central Licensing.
 They were themselves illegal. Dan had had a classmate in software, Frank
@@ -66,6 +105,13 @@ a reward (students deep in debt were easily tempted into betrayal). In
 2047, Frank was in prison, not for pirate reading, but for possessing a
 debugger.
 
+当然，也有一些方式可用于绕过软件保护权力机构（SPA）和中央授权许可机构的审
+查。它们本身是非法的。Dan 曾经有一位计算机软件专业的同学，Frank Martucci，
+此人得到了一种非法的查错工具，并且将其应用于在阅读时绕过版权监视器的代码。
+但是，他将此事告知了太多的朋友，其中之一将他告发至 SPA 以获取一份奖赏。（
+债台高筑的学生很容易被利诱叛变。）2047 年，Frank 被捕入狱，并非由于盗版阅
+读，而是由于非法拥有一份查错工具。
+
 Dan would later learn that there was a time when anyone could have
 debugging tools. There were even free debugging tools available on CD or
 downloadable over the net. But ordinary users started using them to
@@ -73,11 +119,20 @@ bypass copyright monitors, and eventually a judge ruled that this had
 become their principal use in actual practice. This meant they were
 illegal; the debuggers’ developers were sent to prison.
 
+其后，Dan 将会知道曾经有一段时间，任何人都被允许拥有查错工具，那时甚至有可
+以从光盘（CD）获得或者从网络上下载得到的自由查错工具。但是，随着普通用户将
+其用于绕过版权监视器，最终一位法官裁决这一非法目的成为了它们在实际实践中的
+主要用途。这意味着它们是非法的，查错工具的开发者都被捕入狱。
+
 Programmers still needed debugging tools, of course, but debugger
 vendors in 2047 distributed numbered copies only, and only to officially
 licensed and bonded programmers. The debugger Dan used in software class
 was kept behind a special firewall so that it could be used only for
 class exercises.
+
+当然，程序员们仍然需要查错工具，但在 2047 年，查错工具厂商限量发布它们，并
+且仅对得到政府官方授权许可与担保的程序员分发。Dan 用于计算机软件课上的查错
+工具位于一道特殊的防火墙后面，使得它只能被用于课堂练习。
 
 It was also possible to bypass the copyright monitors by installing a
 modified system kernel. Dan would eventually find out about the free
@@ -87,16 +142,31 @@ could not install one if you had one, without knowing your computer’s
 root password. And neither the FBI nor Microsoft Support would tell you
 that.
 
+从前，通过安装某种修改过的操作系统内核来绕过版权监视器也是可能的。Dan 最终
+将会了解到这些自由内核，甚至整个自由操作系统。这些东西直到世纪之交前后都还
+存在。但是，它们不仅像查错工具那样是非法的——甚至您即使拥有它们也不能安装，
+由于您不知道您的计算机的 root 口令。而美国联邦调查局（FBI）或者微软客服都
+不会告知您那个口令。
+
 Dan concluded that he couldn’t simply lend Lissa his computer. But he
 couldn’t refuse to help her, because he loved her. Every chance to speak
 with her filled him with delight. And that she chose him to ask for
 help, that could mean she loved him too.
+
+Dan 得出结论，他不能简单地将计算机借给 Lissa，但他又不能拒绝帮助她，因为他
+爱着她。每次和她说话的机会都会使他充满愉悦。而她选择向他求助，这意味着她也
+爱着他。
 
 Dan resolved the dilemma by doing something even more unthinkable—he
 lent her the computer, and told her his password. This way, if Lissa
 read his books, Central Licensing would think he was reading them. It
 was still a crime, but the SPA would not automatically find out about
 it. They would only find out if Lissa reported him.
+
+Dan 做出了一些更加不可想象的举动来解决这种两难境地——他将计算机借给了她，并
+且将他的口令告知了她。通过这种方式，如果 Lissa 阅读了他的书籍，中央授权许
+可机构将会认为实际上是他在阅读这些书。这仍然是一种犯罪，但是 SPA 不会自动
+发现这一点，除非 Lissa 将他举报。
 
 Of course, if the school ever found out that he had given Lissa his own
 password, it would be curtains for both of them as students, regardless
@@ -107,15 +177,28 @@ harmful—the offense was making it hard for the administrators to check
 on you. They assumed this meant you were doing something else forbidden,
 and they did not need to know what it was.
 
+当然，如果学校最终发现他将自己的口令给了 Lissa，这将使得他们二人的学生身
+份终结，不论她使用这个口令做了什么。学校的政策是这样的，任何对其监控学生
+如何使用计算机的行为的干涉是惩戒行为的底线，不论您是否做了任何有害的事——
+这种所谓的攻击行为使得学校管理人员难于对您进行监控。他们认为这意味着您正
+在做一些其他的被禁止的事情，并且他们不需要知道这些事情到底是什么。
+
 Students were not usually expelled for this—not directly. Instead they
 were banned from the school computer systems, and would inevitably fail
 all their classes.
+
+学生们通常不会因此被开除——不是直接被开除。而是他们将会被禁止使用学校的计
+算机系统，这将使他们不可避免地不能通过他们的任何课程。
 
 Later, Dan would learn that this kind of university policy started only
 in the 1980s, when university students in large numbers began using
 computers. Previously, universities maintained a different approach to
 student discipline; they punished activities that were harmful, not
 those that merely raised suspicion.
+
+其后，Dan 将会知道，这种大学政策只是始于 20 世纪 80 年代，那时大学生们开
+始大规模使用计算机。在此之前，大学一直保持着另一种学生惩戒制度；它们将会
+惩罚那些有害的行为，而非那些仅仅是引起它们的怀疑的行为。
 
 Lissa did not report Dan to the SPA. His decision to help her led to
 their marriage, and also led them to question what they had been taught
@@ -125,6 +208,12 @@ even the original United States Constitution. They moved to Luna, where
 they found others who had likewise gravitated away from the long arm of
 the SPA. When the Tycho Uprising began in 2062, the universal right to
 read soon became one of its central aims.
+
+Lissa 没有向 SPA 举报 Dan，而他关于帮助她的决定使得他们终成眷属。这也促使
+他们质问他们在儿时曾被教给的关于盗版的东西。这对夫妇开始阅读关于版权的历
+史的东西，关于苏联以及它对复制的限制的东西，甚至是关于最初的美国宪法的东
+西。他们移居月球，在那里他们遇到了其他类似地选择了逃离 SPA 魔掌的人们。当
+第谷起义于 2062 年开始时，普遍的阅读权利立即成为这场起义的核心诉求。
 
 ### Author’s Notes {#authors-notes .subheading}
 
