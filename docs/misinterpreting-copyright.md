@@ -10,7 +10,11 @@ title: Untitled Document
 1. Misinterpreting Copyright—A Series of Errors {#misinterpreting-copyrighta-series-oferrors .chapter}
 ===============================================
 
-@begingroup @advance@vsize by 6pt Something strange and dangerous is
+对版权的错误解读——一系列错误
+============================
+
+@begingroup @advance@vsize by 6pt 
+Something strange and dangerous is
 happening in copyright law. Under the US Constitution, copyright exists
 to benefit users—those who read books, listen to music, watch movies, or
 run software—not for the sake of publishers or authors. Yet even as
@@ -19,10 +23,20 @@ restrictions imposed on them “for their own benefit,” the US government
 is adding more restrictions, and trying to frighten the public into
 obedience with harsh new penalties.
 
+版权法中发生了一些奇怪而又危险的事情。在美国宪法环境下，版权存在的意义是
+使用户获益——用户是指那些读书、听音乐、看电影或者运行软件的人们——而非为了
+出版商或作者。然而，即使人们越来越倾向于拒绝并且反抗那些“为了他们自己的
+好处”而强行施加给他们的各种版权限制，美国政府仍然正在施加更多的限制，并
+且试图以新的严厉惩罚措施来恐吓公众以迫使其服从。
+
 How did copyright policies come to be diametrically opposed to their
 stated purpose? And how can we bring them back into alignment with that
 purpose? To understand, we should start by looking at the root of United
 States copyright law: the US Constitution.
+
+那么，版权政策是如何一步一步地走到与其宣称的初衷完全背道而驰的地步的呢？
+而我们又如何才能使其重新回到与其初衷相符的正轨呢？为了理解这些，我们应当
+首先审视美国版权法的根基：美国宪法。
 
 ### Copyright in the US Constitution {#copyright-in-the-us-constitution .subheading}
 
