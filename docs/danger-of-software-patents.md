@@ -85,7 +85,7 @@ may go on for many pages of fine print.
 那么，专利到底在做什么？一项专利是一种具体的、由政府批准的对于某一种想法
 的使用权的独占。在专利中有一部分称为权利要求，它精确地描述了您所不被允许
 做的事情（尽管它们被书写为一种您很可能不能理解的形式）。要想获知那些禁令
-的真实涵义是一种费力的抗争，它们可能位于很多页精美的印刷品上。
+的真实涵义是一种费力的抗争，它们可能拥有很多页小字印刷的繁琐细则。
 
 So the patent typically lasts for 20 years, which is a fairly long time
 in our field. Twenty years ago there was no World Wide Web—a tremendous
@@ -108,8 +108,8 @@ lawyers, or they may work in the Patent Office, or they may be in the
 patent office of a megacorporation, so they want you to like the system.
 
 在大多数时间，当人们描述专利体系的功能时，他们会表现出对该体系的既定的兴
-趣。他们可能是专利律师，或者他们在专利局工作，或者他们在一家超级大型公司
-的专利部门工作。总之，他们想让您喜欢这种专利体系。
+趣。他们可能是专利律师，或者他们在专利局工作，或者他们在某家行业大鳄的专
+利部门工作。总之，他们想让您喜欢这种专利体系。
 
 The Economist once referred to the patent system as “a time-consuming
 lottery.” If you’ve ever seen publicity for a lottery, you understand
@@ -966,7 +966,7 @@ this patent is not real. He won’t get this benefit.
 IBM 将会说：“哦，真不错，你拥有一项专利。可是我们拥有这项专利，还有这项
 专利，还有这项专利，还有这项专利，还有这项专利，所有这些专利覆盖了你的产
 品中实施的其他思想。如果你认为你能够对抗我们以上这些专利，我们将会拿出更
-多专利。这样吧，咱们签订一份交叉授权许可协议，这样谁都不会收到伤害。”现
+多专利。这样吧，咱们签订一份交叉授权许可协议，这样谁都不会受到伤害。”现
 在，由于我们已经假设我们的天才懂得商业规则，他一定会意识到自己别无选择。
 他将会签订交叉授权许可的城下之盟，如同 IBM 所期望的任何人所做的。这意味
 着 IBM 将获得他的专利的使用权，也就是 IBM 可以同他展开自由竞争，如同他没
