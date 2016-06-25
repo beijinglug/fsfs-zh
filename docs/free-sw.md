@@ -1,16 +1,11 @@
----
-Generator: 'texi2html 1.82'
-description: Untitled Document
-distribution: global
-keywords: Untitled Document
-resource-type: document
-title: Untitled Document
-...
-
 1. What Is Free Software? {#what-is-free-software .chapter}
+=========================
+1. 什么是自由软件？
 =========================
 
 ### The Free Software Definition {#the-free-software-definition .subheading}
+
+### 自由软件的定义
 
 > The free software definition presents the criteria for whether a
 > particular software program qualifies as free software. From time to
@@ -18,6 +13,8 @@ title: Untitled Document
 > about subtle issues. For a list of the changes we’ve made to the
 > definition of free software, please see the “History” section,
 > following the definition, at <http://gnu.org/philosophy/free-sw.html>.
+
+> 自由软件的定义是一系列特定标准的软件。通过不断的修改这一定义，可以让我们更好的澄清和解决与之相关的各种问题。有关自由软件的变化，可以参考<http://gnu.org/philosophy/free-sw.html>中定义下面的“历史”一节。
 
 “Free software” means software that respects users’ freedom and
 community. Roughly, it means that **the users have the freedom to run,
@@ -27,6 +24,8 @@ you should think of “free” as in “free speech,” not as in “free beer.�
 We sometimes call it “libre software” to show we do not mean it is
 gratis.
 
+“自由软件”（Free Software）表示的是那些尊重用户和社群自由的软件。粗略的说，它表示**用户有运行、拷贝、再发行、学习、修改并改进软件的自由**。因此，“自由软件”是有关用户自由权益（liberty），而不是指免费（free）的价格。为了理解这个概念，你需要将“free”一词理解成“言论自由”中的“自由”，而不是“免费啤酒”里的“免费”。有时我们会称之为“Libre Software”，以避免表示免费的意思。
+
 We campaign for these freedoms because everyone deserves them. With
 these freedoms, the users (both individually and collectively) control
 the program and what it does for them. When users don’t control the
@@ -34,30 +33,47 @@ program, we call it a “nonfree” or “proprietary” program. The nonfree
 program controls the users, and the developer controls the program; this
 makes the program an instrument of unjust power.[(1)](#FOOT1)
 
+我们争取这些自由，盖因为每个人都应该关注这些。有了这些自由，用户（包括个体和自由）就可以控制程序为己所用。当用户无法控制程序时，我们称之为“非自由”（Nonfree）或“专有”程序。非自由的程序控制了用户，而开发者控制着程序：这就让程序成为了非正义权力的帮凶。[(1)](#FOOT1)
+
 @firstcopyingnotice{{@footnoterule@smallskip Copyright © 1996–2002,
 2004–2007, 2009–2015 Free Software Foundation, Inc.\
  {The free software definition was first published in 1996, on
-<http://gnu.org>. This version is part of @fsfsthreecite}
+ <http://gnu.org>. This version is part of @fsfsthreecite}
 
 A program is free software if the program’s users have the four
 essential freedoms:
 
+自由软件表示用户拥有四个必不可少的自由：
+
 -   The freedom to run the program as you wish, for any
-    purpose (freedom 0).
+purpose (freedom 0).
+
+-   基于任何目的，按你的意愿运行软件的自由（自由之零）。
+
 -   The freedom to study how the program works, and change it so it does
     your computing as you wish (freedom 1). Access to the source code is
     a precondition for this.
+
+-   学习软件如何工作的自由，按你的意愿修改软件以符合你的计算机的自由（自由之一）。可访问源代码是先决条件。
+
 -   The freedom to redistribute copies so you can help your
-    neighbor (freedom 2).
+neighbor (freedom 2).
+
+-   再发行软件副本的自由，因此你可以帮助你的邻居（自由之二）。
+
 -   The freedom to distribute copies of your modified versions to
     others (freedom 3). By doing this you can give the whole community a
     chance to benefit from your changes. Access to the source code is a
     precondition for this.
 
+-   将你修改过的软件版本再发行给其他人的自由（自由之三）。这样可以让整个社群有机会享受到你对软件的改动。可以访问源代码是先决条件。
+
 A program is free software if it gives users adequately all of these
 freedoms. Otherwise, it is nonfree. While we can distinguish various
 nonfree distribution schemes in terms of how far they fall short of
 being free, we consider them all equally unethical.
+
+一个自由软件可以充分授予用户所有这些自由，否则就是非自由软件。即使我们可以分清不同非自由发行方式与自由的差异，我们依然认为这些非自由软件是不道德的。
 
 In any given scenario, these freedoms must apply to whatever code we
 plan to make use of, or lead others to make use of. For instance,
@@ -67,8 +83,12 @@ will need B, so we need to judge whether both A and B are free. However,
 if we plan to modify A so that it doesn’t use B, only A needs to be
 free; we can ignore B.
 
+任何情况下，这些自由都必须符合我们计划使用的任何代码，或引导其他人使用之。例如，程序 A 会自动启动程序 B 来处理一些事情，如果我们独立发布 A 也意味着用户还需要 B，因此我们则需要判断 A 和 B 是否都是自由的。如果我们修改了 A 使得它不再需要 B，那么只需要 A 是自由的，可以忽略 B。
+
 The rest of this page clarifies certain points about what makes specific
 freedoms adequate or not.
+
+本页余下的内容，则会澄清特定自由是否适用的关键点。
 
 Freedom to distribute (freedoms 2 and 3) means you are free to
 redistribute copies, either with or without modifications, either gratis
@@ -76,10 +96,14 @@ or charging a fee for distribution, to anyone anywhere. Being free to do
 these things means (among other things) that you do not have to ask or
 pay for permission to do so.
 
+再发行软件的自由（自由之二和自由之三）表示你可以在任何地方发布软件的副本给任何人，无论是否有过修改，无论是免费或收取发行费用。自由的再发行（排除其他因素）你不需要强制索要再发行许可或为此付费。
+
 You should also have the freedom to make modifications and use them
 privately in your own work or play, without even mentioning that they
 exist. If you do publish your changes, you should not be required to
 notify anyone in particular, or in any particular way.
+
+你应该有修改软件的自由并将其用于私人的工作或娱乐，甚至不需要提到你的修改。如果你发布了自己的修改版，你不应被要求通知特定的人或以特定的方式发布。
 
 The freedom to run the program means the freedom for any kind of person
 or organization to use it on any kind of computer system, for any kind
@@ -90,10 +114,14 @@ as a user are free to run the program for your purposes, and if you
 distribute it to someone else, she is then free to run it for her
 purposes, but you are not entitled to impose your purposes on her.
 
+运行软件的自由，赋予任何个人或组织在任何计算机系统上，基于任何工作方式或任何目的运行软件的自由，不能被要求与任何开发者或特定实体沟通。在这个自由中，只与*用户的*目的有关，而无关*开发者的*的目的；作为用户你有基于任何目的运行软件的自由，如果你将软件发布给了其他人，则她也有按自己目的运行软件的自由，而你不能将自己的目的强加给她。
+
 The freedom to run the program as you wish means that you are not
 forbidden or stopped from doing so. It has nothing to do with what
 functionality the program has, or whether it is useful for what you want
 to do.
+
+以你的意愿运行软件的自由也表示你不能被要求禁止或停止运行，它无关软件的功能，或对你来说它是否有用。
 
 The freedom to redistribute copies must include binary or executable
 forms of the program, as well as source code, for both modified and
