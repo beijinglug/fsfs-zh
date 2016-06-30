@@ -132,11 +132,15 @@ program (since some languages don’t support that feature), but you must
 have the freedom to redistribute such forms should you find or develop a
 way to make them.
 
+重新发布软件副本的自由必须包括该程序的二进制可执行格式，以及源代码，包括已修改和未修改版。（以可运行格式发布程序可以方便在自由的操作系统上安装）。对特定程序也可以不发布和产生二进制可执行格式（因为一些编程语言不支持这个特性），但你也有发布这些格式的自由，或开发一种方法来产生这些格式文件。
+
 In order for freedoms 1 and 3 (the freedom to make changes and the
 freedom to publish the changed versions) to be meaningful, you must have
 access to the source code of the program. Therefore, accessibility of
 source code is a necessary condition for free software. Obfuscated
 “source code” is not real source code and does not count as source code.
+
+为了实现自由之一和自由之三（修改软件并发布修改版的自由），你必须能够访问程序的源代码，因此能访问程序的源代码对自由软件来说是一个必要条件。混淆的“源代码”不能算真正的源代码。
 
 Freedom 1 includes the freedom to use your changed version in place of
 the original. If the program is delivered in a product designed to run
@@ -146,11 +150,15 @@ terminology) as “secure boot”—freedom 1 becomes an empty pretense rather
 than a practical reality. These binaries are not free software even if
 the source code they are compiled from is free.
 
+自由之一包括了用你修改的版本来替代原始的。如果一个程序从产品设计的角度发布只能用其他人修过的版本而不能用你的修改版——例如所谓的“tivoization”或“锁定”，或者（用行业内的话来说）就是“安全启动”（Secure Boot）——这样自由之一就被架空而无法实现，即便这些软件的二进制是从自由的源代码吧编译而来，也不能算是自由软件。
+
 One important way to modify a program is by merging in available free
 subroutines and modules. If the program’s license says that you cannot
 merge in a suitably licensed existing module—for instance, if it
 requires you to be the copyright holder of any code you add—then the
 license is too restrictive to qualify as free.
+
+修改软件的一个重要方法是个并可用的自由子程序或模块。如果一个程序的许可证让你不能适用合并现有许可证保护的模块。例如要求你成为你修改过代码的版权所有者，因此该许可证对自由来说过于严苛。
 
 Freedom 3 includes the freedom to release your modified versions as free
 software. A free license may also permit other ways of releasing them;
@@ -158,11 +166,15 @@ in other words, it does not have to be a copyleft license. However, a
 license that requires modified versions to be nonfree does not qualify
 as a free license.
 
+自由之三包括你可以子自由软件的方式发布修改版。一个自由许可证允许以其他形式发布；也就是说，这不一定是 copyleft 许可证。不过如果一个许可证要求以非自由的方式发布修改版，则是非自由的。
+
 In order for these freedoms to be real, they must be permanent and
 irrevocable as long as you do nothing wrong; if the developer of the
 software has the power to revoke the license, or retroactively add
 restrictions to its terms, without your doing anything wrong to give
 cause, the software is not free.
+
+为了让这些自由得以实现，在你没有做错的情况下，这些条款必须是永久且不可撤销的。如果软件的开发者有权力撤销，或者添加限制性条款。在你没有做错的情况下，该软件就不是自由的。
 
 However, certain kinds of rules about the manner of distributing free
 software are acceptable, when they don’t conflict with the central
@@ -171,12 +183,16 @@ when redistributing the program, you cannot add restrictions to deny
 other people the central freedoms. This rule does not conflict with the
 central freedoms; rather it protects them.
 
+然而，一些对自由软件发发布方式的规则是可以接受的，前提是与核心自由不冲突。例如，copyleft（最简单的说）规定你不能在分发程序的时候添加限制性条款以拒绝其他人的核心自由。这一规则与核心自由并不冲突，反而是保护核心自由。
+
 In the GNU Project, we use copyleft to protect the four freedoms legally
 for everyone. We believe there are important reasons why it is better to
 use copyleft. However, noncopylefted free software is ethical too. See
 “Categories of Free Software” (@pageref{Categories}) for a description
 of how “free software,” “copylefted software” and other categories of
 software relate to each other.
+
+在 GNU 项目中，我们用 copyleft 合法保护每个人的四个自由，我们相信使用 copyleft 是非常重要的。然而非 copyleft 的许可证也是合乎道德的。有关“自由软件”、“copyleft 软件”和其他类型软件的话题可以参见[《自由软件的分类》]()一文。
 
 “Free software” does not mean “noncommercial.” A free program must be
 available for commercial use, commercial development, and commercial
@@ -187,9 +203,13 @@ copies at no charge. But regardless of how you got your copies, you
 always have the freedom to copy and change the software, even to sell
 copies.
 
+"自由软件"并不意味着“非商业”。一个自由软件能够商业使用，商业开发以及商业发布。自由软件的商业开发已经不是一件特殊的事情。这对自由软件是非常重要的，你也许需要为获取自由软件的副本而付费，也可能不需要付费。但是无论如何获得副本，你都有复制并修改软件的自由，甚至有自由重新销售。
+
 Whether a change constitutes an improvement is a subjective matter. If
 your right to modify a program is limited, in substance, to changes that
 someone else considers an improvement, that program is not free.
+
+对程序的改动是否有益只是一个主观判断。如果你对软件的修改权是受限的，实际上，任何修改都可以看成是一种提高，该程序并不自由。
 
 However, rules about how to package a modified version are acceptable,
 if they don’t substantively limit your freedom to release modified
@@ -201,6 +221,8 @@ burdensome that they effectively hamper you from releasing your changes,
 they are acceptable; you’re already making other changes to the program,
 so you won’t have trouble making a few more.
 
+不过，规范修改版打包行为的条款是可以接受的，如果他们实质上没有限制你发布修改版的自由，或者私下使用的自由。那么要求你改变修改版的名字，移除 LOGO，或者修改版为你自己所有。只要这些要求不那么繁冗以至于影响了正常发布，都是可以接受的。既然你都已经做过一些修改，也就无所谓再多做一些了。
+
 Rules that “if you make your version available in this way, you must
 make it available in that way also” can be acceptable too, on the same
 condition. An example of such an acceptable rule is one saying that if
@@ -210,6 +232,8 @@ you the choice of whether to distribute your version at all.) Rules that
 require release of source code to the users for versions that you put
 into public use are also acceptable.
 
+如果有“你的版本可以这样，也必须可以另一种方式”这样的条款也是可以接受的。同样的，比如有规则要求如果你发布了修改版，也必须给前一个开发者发送一份，也是可以接受的。（注意这样的条款仍然让你有自由选择是否发布的权力）。要求你为用户发布公开发布版的源代码，也是可以接受的。
+
 A special issue arises when a license requires changing the name by
 which the program will be invoked from other programs. That effectively
 hampers you from releasing your changed version so that it can replace
@@ -217,6 +241,8 @@ the original when invoked by those other programs. This sort of
 requirement is acceptable only if there’s a suitable aliasing facility
 that allows you to specify the original program’s name as an alias for
 the modified version.
+
+有个特殊问题是一个程序要求其他程序从已经撤销的名字改名。这样实际上是阻碍了发布你的修改版，以便通过修改名字来取代原始版。这种情况也是允许的，前提是通过一种别名机制来标示原始程序名是修改版的别名。
 
 Sometimes government export control regulations and trade sanctions can
 constrain your freedom to distribute copies of programs internationally.
@@ -227,6 +253,8 @@ affect activities and people outside the jurisdictions of these
 governments. Thus, free software licenses must not require obedience to
 any nontrivial export regulations as a condition of exercising any of
 the essential freedoms.
+
+有时政府的出口管制或者贸易制裁会压抑你软件国际化分布的自由。软件的开发者没有权力消除或覆盖这些限制，但他们可以做的是拒绝强制要求使用程序时接受这些条件。这样，这些限制就不会影响到政府管辖以外的国家和人民的活动。因此自由软件许可证为了行使这些必要的自由，不能要求服从任何这些出口限制条款。
 
 Merely mentioning the existence of export regulations, without making
 them a condition of the license itself, is acceptable since it does not
