@@ -11,18 +11,27 @@ title: Untitled Document
 @entrybreak{}in the Age of Computer Networks {#copyright-vs.-community-entrybreakin-the-age-of-computer-networks .chapter}
 ============================================
 
+计算机网络时代的版权与社区之争
+==============================
+
 > This is a transcript of the keynote speech presented by Richard
 > Stallman, on 12 October 2009, at the LIANZA conference, at the
 > Christchurch Convention Centre, in Christchurch, New Zealand.
 
-@firstcopyingnotice{{Copyright © 2009 Free Software Foundation, Inc.\
- Thank you to Bookman for the original transcript. This version of it is
-part of @fsfsthreecite}
+> 本文是 Richard Stallman 所做主题演讲之抄本，该主题演讲于 2009 年十月在
+> 新西兰基督城（克赖斯特彻奇）会展中心所举行的新西兰奥特亚罗瓦图书馆与信
+> 息协会（LIANZA）会议上进行。
+
+@firstcopyingnotice{{著作权所有 (C) 2009 自由软件基金会\
+感谢 Bookman 为此原始抄本所做的贡献。此版本是 @fsfsthreecite 的一部分。}
 
 > **Brenda Chawner:** Tena koutou, tena koutou, tena koutou katoa. Today
 > I have the privilege of introducing Richard Stallman, whose keynote
 > speech is being sponsored by the School of Information Management at
 > Victoria University of Wellington.
+>
+> **Brenda Chawner：** 今天，本人荣幸介绍 Richard Stallman，他的主题演讲
+> 由惠灵顿维多利亚大学信息管理学院所赞助。
 >
 > Richard has been working to promote software freedom for over 25
 > years. In 1983 he started the GNU Project to develop a free operating
@@ -31,11 +40,22 @@ part of @fsfsthreecite}
 > the Mailman software which is part of the GNU Project. So whether you
 > realize it or not, Richard’s work has touched all of your lives.
 >
+> Richard 致力于推进软件自由已有 25 年以上。他曾于 1983 年创始 GNU 计划以
+> 开发一种自由的操作系统（GNU 操作系统），并且于 1985 年创立自由软件基金
+> 会（FSF）。每当您读取或发送一条 nz-libs 信息时，您就在使用 Mailman 软件，
+> 它是 GNU 计划的一部分。因此无论您是否意识到这一点，Richard 的创作已经深
+> 入我们每个人的生活。
+>
 > I like to describe him as the most influential person most people have
 > never heard of, although he tells me that that cannot possibly be true
 > because it cannot be tested.
 >
+> 我想将他描述为最有影响力却不为大多数人所熟知的人物，
+> 尽管他曾对我说，这不可能是真的，由于它们的正确性不可能被证实。
+>
 > **RMS:** We can’t tell.
+>
+> **RMS：** 不能这样说。
 >
 > **BC:** I said that—I still like it. His ideas about software freedom
 > and free access to information were used by Tim Berners-Lee when he
@@ -43,9 +63,17 @@ part of @fsfsthreecite}
 > free online encyclopedia inspired Jimmy Wales to set up what is now
 > Wikipedia.
 >
+> **BC：** 我是想说——我仍然喜欢这样说。他关于软件自由以及信息应当可自由获
+> 取的理念被 Tim Berners-Lee 用于创建世界上第一台网络服务器，并且他在 1999 
+> 年对于一部自由的在线百科全书的深入思考启发了 Jimmy Wales，后者创立了现
+> 在的 Wikipedia。
+>
 > Today Richard will be talking to us about copyright vs. community in
 > the age of computer networks, and their implications for libraries.
 > Richard.
+>
+> 今天，Richard 将为我们带来关于计算机网络时代的版权与社区之争，以及它们
+> 对于图书馆的启示的演讲。有请 Richard。
 >
 > **RMS:** I’ve been in New Zealand for a couple of weeks, and in the
 > North Island it was raining most of the time. Now I know why they call
@@ -54,6 +82,12 @@ part of @fsfsthreecite}
 > took the ferry to get here, and as soon as we got off, people started
 > mocking and insulting us; but there were no hard feelings, they just
 > wanted to make us really feel Picton.
+>
+> **RMS：** 我来到新西兰已有两周时间，在北岛的大部分时间都在下雨。现在我
+> 可以理解为何他们将长筒橡胶靴子称为“惠灵顿靴”。而后我看到了一位使用银叶
+> 蕨的木材制造桌椅的工匠，他将其称为蕨类家具（fern-iture）。然后我们乘坐
+> 渡船来到此地，当我们下船时，人们立即开始嘲笑我们；但他们没有任何恶意，
+> 只是想让我们感受皮克顿当地的风情。
 
 The reason people usually invite me to give speeches is because of my
 work on free software. This is not a talk about free software; this talk
@@ -61,18 +95,37 @@ answers the question whether the ideas of free software extend to other
 kinds of works. But in order for that to make sense, I’d better tell you
 briefly what free software means.
 
+人们邀请我演讲的原因通常是基于我为自由软件所做的工作。而今天这场演讲并非
+关于自由软件；而是要回答这样一个问题，即自由软件的理念是否可以延伸至其他
+类型的作品。但为了使这个问题有意义，我最好还是简要介绍一下自由软件意味着
+什么。
+
 Free software is a matter of freedom, not price, so think of “free
 speech,” not “free beer.” Free software is software that respects the
 user’s freedom, and there are four specific freedoms that the user
 deserves always to have:
 
+自由软件关乎的是自由而非价格，因此请思考“自由言论”而非“免费啤酒”。自由软
+件是尊重用户自由的软件，而这里有四项特定的自由是用户总是应当拥有的：
+
 -   Freedom 0 is the freedom to run the program as you wish.
+
+-   自由之零：以您所希望的任何方式运行该程序的自由；
+
 -   Freedom 1 is the freedom to study the source code of the program and
     change it to make the program do what you wish.
+
+-   自由之一：研究程序的源代码并对其进行修改使程序能够满足您的需求的自由；
+
 -   Freedom 2 is the freedom to help your neighbor—that is, the freedom
     to redistribute copies of the program, exact copies when you wish.
+
+-   自由之二：帮助您的邻居——即再分发该程序的原始副本的自由；
+
 -   And freedom 3 is the freedom to contribute to your community. That’s
     the freedom to publish your modified versions when you wish.
+
+-   自由之三：贡献您的社区——即再分发您对该程序的改进版本的自由。
 
 If the program gives you these four freedoms then it’s free software,
 which means the social system of its distribution and use is an ethical
@@ -84,12 +137,24 @@ society. It’s a power grab. This unethical practice should not exist;
 the goal of the free software movement is to put an end to it. All
 software should be free, so that all users can be free.
 
+如果程序赋予您这四项基本自由，那么它就是自由软件，也就是意味着它的发布和
+使用所构成的社会体系属于一种尊重用户自由以及用户社区的社会协作的伦理体系。
+但如果以上自由中的任意一条缺失或是不充分，它称为私有软件、非自由软件或者
+迫使用户屈从的软件。这是不符合伦理的，也不能称其为对社会的贡献，而是一种
+权力的攫取。这种不符合伦理的实践不应当存在；自由软件运动的最终目标是终结
+这种行径。所有软件应当是自由的，于是所有用户也就因此获得自由。
+
 Proprietary software keeps the users divided and helpless: divided,
 because they’re forbidden to share it, and helpless, because they don’t
 have the source code so they can’t change it. They can’t even study it
 to verify what it’s really doing to them, and many proprietary programs
 have malicious features which spy on the user, restrict the user, even
 back doors to attack the user.
+
+私有软件使得用户陷入孤立无援的困境：所谓孤立，是由于用户被禁止分享；所谓
+无援，是由于用户不能拥有源代码，因此不能对其进行修改，他们甚至不能研究它
+以便确定它真正是在对他们做什么，而且众多私有软件拥有恶意功能用于刺探用户、
+限制用户、甚至为对用户的攻击提供后门。
 
 For instance, Microsoft Windows has a back door with which Microsoft can
 forcibly install software changes, without getting permission from the
@@ -99,11 +164,21 @@ Microsoft has owned your computer. Computers need to be defenestrated,
 which means either throw Windows out of the computer, or throw the
 computer out the window.
 
+例如，微软 Windows 操作系统拥有后门使得微软可以强制安装软件更改而无需得到
+理应作为计算机拥有者的用户的许可。您可能认为它仍是属于您的计算机，但如果
+您犯了用它运行 Windows 的错误，实际上是微软拥有了您的计算机。这样计算机应
+当被扔出窗外，意即要么将 Windows 从计算机中扔出去，要么将这台计算机从房间
+的窗户中扔出去。
+
 But any proprietary software gives the developers unjust power over the
 users. Some of the developers abuse this power more, and some abuse it
 less, but none of them ought to have it. You deserve to have control of
 your computing, and not be forcibly dependent on a particular company.
 So you deserve free software.
+
+但是，任何私有软件都赋予了其开发者凌驾于用户之上的不公权力。开发者们或多
+或少地滥用这种权力，但他们都不应该拥有这种权力。您理应拥有对您所进行的计
+算的控制权，并且不必屈从于任何一家特定的公司。因此，您应当使用自由软件。
 
 At the end of speeches about free software, people sometimes ask whether
 these same freedoms and ideas apply to other things. If you have a copy
@@ -112,6 +187,11 @@ should have the same four freedoms—whether it’s ethically essential that
 you have them or not. And that’s the question that I’m going to address
 today.
 
+在关于自由软件的演说结束时，人们有时会问，这些相同的自由和理念是否也适用
+于其他事物。如果您在自己的计算机上拥有一份已发表作品的副本，提问您是否应
+当拥有同样的四项基本自由是有意义的——即您是否拥有这些自由在伦理上是否重要。
+这就是我今天将要着重论述的问题。
+
 If you have a copy of something that’s not software, for the most part,
 the only thing that might deny you any of these freedoms is copyright
 law. With software that’s not so. The main ways of making software
@@ -119,18 +199,34 @@ nonfree are contracts and withholding the source code from the users.
 Copyright is a sort of secondary, back up method. For other things
 there’s no such distinction as between source code and executable code.
 
+如果您拥有一份除了软件以外的某种东西的副本，对于大多数情况，唯一可能拒绝
+您的任何一种自由的东西就是版权法。而对于软件则不是这样。使软件成为私有的
+主要途径是利用合同以及拒绝对用户公开源代码，而版权只是某种次要的备选方案。
+而对于其他东西，并没有源代码和可执行代码这样的区分。
+
 For instance, if we’re talking about a text, if you can see the text to
 read it, there’s nothing in the text that you can’t see. So it’s not the
 same kind of issue exactly as software. It’s for the most part only
 copyright that might deny you these freedoms.
 
+例如，我们谈论一篇文本，如果您能够看到该文本以便阅读它，那么该文本就没有
+您所不能看到的东西。因此这并不是存在于软件中的同类问题。大多数情况下，只
+有版权可能拒绝您的这些自由。
+
 So the question can be restated: “What should copyright law allow you to
 do with published works? What should copyright law say?”
+
+于是这个问题可以被转述为：“版权法应当允许您对已发布的作品做什么？版权法应
+当说些什么？”
 
 Copyright has developed along with copying technology, so it’s useful to
 review the history of copying technology. Copying developed in the
 ancient world, where you’d use a writing instrument on a writing
 surface. You’d read one copy and write another.
+
+版权随着复制技术一起发展，因此有必要回顾一下复制技术的发展史。在古代世界，
+只要您能在书写表面上使用书写工具，那里就有复制技术的发展。您可以阅读一份
+副本并且抄写另一份。
 
 This technology was rather inefficient, but another interesting
 characteristic was that it had no economy of scale. To write ten copies
@@ -140,12 +236,23 @@ no special skill other than literacy itself. The result was that copies
 of any particular book were made in a decentralized manner. Wherever
 there was a copy, if someone wanted to copy it, he could.
 
+这种复制技术的效率相当低下，但它的一个特性就是它没有经济规模效应。为了抄
+写 10 份副本，您需要花费相当于抄写一份副本的 10 倍的时间，它除了书写工具
+以外并不需要其他特殊设备，同时除了识字以外您也不需要其他的特殊技能。其结
+果是任何一本书的副本都是以一种去中心化的方式创作的。只要有一份副本，只要
+某人想要复制它，他就可以这样去做。
+
 There was nothing like copyright in the ancient world. If you had a copy
 and wanted to copy it, nobody was going to tell you you weren’t
 allowed—except if the local prince didn’t like what the book said, in
 which case he might punish you for copying it. But that’s not copyright,
 but rather something closely related, namely censorship. To this day,
 copyright is often used in attempts to censor people.
+
+古代世界没有像版权这样的东西的存在。如果您有一份副本并且想要复制它，无人
+会告知您您不被允许如此做——除非当地的首领不喜欢书中的内容，此时他可能会因
+为您复制了这本书而对您进行处罚。但这不是版权，而是与之紧密相关的其他东西，
+称为审查。而如今版权通常被用于对人们进行审查的企图。
 
 That went on for thousands of years, but then there was a big advance in
 copying technology, namely the printing press. The printing press made
@@ -155,6 +262,11 @@ time didn’t benefit from the printing press. In fact, you were better
 off just writing it by hand; that would be faster than trying to print
 one copy.
 
+这种情况持续了数千年，然而，此后复制技术发生了巨大进步，这称为印刷机。印
+刷机使得复制过程更有效率，但并不具有一致性。由于批量复制的效率得到巨大提
+升，但每次仅仅印制一份副本并不会由于印刷机的存在而变得高效。事实上，您最
+好还是自己进行手抄，这将会比用印刷机印制一份副本更快。
+
 The printing press has an economy of scale: it takes a lot of work to
 set the type, but then you can make many copies very fast. Also, the
 printing press and the type were expensive equipment that most people
@@ -163,6 +275,12 @@ know. Using a press was a different skill from writing. The result was a
 centralized manner of producing copies: the copies of any given book
 would be made in a few places, and then they would be transported to
 wherever someone wanted to buy copies.
+
+印刷机具有经济规模效应：需要花费大量工作来进行排版，但您随后就可以快速复
+制很多份副本。同时，印刷机和字模都属于相对昂贵的设备，大多数人并不拥有它
+们；而且大部分识字的人们也不知道如何使用它们。使用印刷机是一种不同于书写
+的技术。其结果是一种中心化的复制方式：任何给定的书本的副本只能在少数地方
+被印制，它们随后可以被运输到有人想要购买副本的任何地方。
 
 Copyright began in the age of the printing press. Copyright in England
 began as a system of censorship in the 1500s. I believe it was
@@ -177,9 +295,20 @@ something somewhat different. The Statute of Anne gave authors a
 copyright, and only for 14 years, although the author could renew it
 once.
 
+版权始于印刷机的时代。从 16 世纪开始，英格兰的版权制度开始成为一种审查体
+系。我相信其最初的本意只是审查新教徒，但其随后改为审查天主教徒，并且很可
+能也被用于审查许多其他人。根据这一法律，为了发行一本书，您必须得到皇家许
+可，而这种许可是以永久垄断权的形式被授予的。这种制度一直被允许存在直到 17 
+世纪 80 年代，我相信。（根据 Wikipedia 相关词条，它于 1695 年被废止。）
+出版商想要重新得到这项权利，但它们实际得到的是与之不同的东西。安娜法令赋
+予了作者一份版权，并且仅持续 14 年，尽管作者可以续期一次。
+
 This was a totally different idea—a temporary monopoly for the author,
 instead of a perpetual monopoly for the publisher. The idea developed
 that copyright was a means of promoting writing.
+
+这是一种完全不同的理念——出版商的永久垄断权变成了作者的临时垄断权。这一理
+念使版权成为了一种促进创作的方式。
 
 When the US constitution was written, some people wanted authors to be
 entitled to a copyright, but that was rejected. Instead, the US
@@ -190,10 +319,20 @@ anybody they do business with, but for the general public. Copyright has
 to last a limited time; publishers keep hoping for us to forget about
 this.
 
+当美国宪法被起草时，一些人希望作者被授予版权权利，但这被否决了。与之相反，
+美国宪法声明国会可以有选择地采纳一种版权法，并且如果真的要有一部版权法，
+其目标必须是促进进步。换言之，其目标不是版权持有人或者与他们进行交易的其
+他人的利益，而是为了公众的利益。版权必须仅仅持续一段有限的时间；而出版商
+一直都在盼望我们忘记这一点。
+
 Here we have an idea of copyright which is an industrial regulation on
 publishers, controlled by authors, and designed to provide benefits to
 the public at large. It functioned this way because it didn’t restrict
 the readers.
+
+这里，我们有了关于版权的这样一种理念，它是一种约束出版商的行业规范，由作
+者所控制，并且被设计为最终能够为公众带来利益。它能够以这种方式发挥作用，
+由于它并不限制读者。
 
 Now in the early centuries of printing, and still I believe in the
 1790s, lots of readers wrote copies by hand because they couldn’t afford
@@ -203,11 +342,20 @@ writing copies, it was meant to regulate the publishers. Because of this
 it was easy to enforce, uncontroversial, and arguably beneficial for
 society.
 
+在印刷时代的最初几个世纪，我相信直到 18 世纪 90 年代还是这样，大部分读者
+仍然采用手抄方式进行复制，由于他们买不起印刷的副本。从未有人期望版权法变
+成行业规范以外的东西，它的本意是约束出版商。正因为此，它容易被强制执行、
+不会引起争议、并且可以认为是对社会有益的。
+
 It was easy to enforce, because it only had to be enforced against
 publishers. And it’s easy to find the unauthorized publishers of a
 book—you go to a bookstore and say, “Where do these copies come from?”
 You don’t have to invade everybody’s home and everybody’s computer to do
 that.
+
+它是容易强制执行的，由于它只需针对出版商强制执行。并且想要找出未经许可的
+出版商也是容易的——您可以前往一家书店并且说：“这些副本来自哪里？”您无需入
+侵某人的住宅或者某人的计算机以实现这一目的。
 
 It was uncontroversial because, as the readers were not restricted, they
 had nothing to complain about. Theoretically they were restricted from
@@ -215,15 +363,26 @@ publishing, but not being publishers and not having printing presses,
 they couldn’t do that anyway. In what they actually could do, they were
 not restricted.
 
+它不会引起争议，由于读者并未被限制，他们无需担心什么。从理论上说，他们被
+禁止从事出版，但由于他们不是出版商，并且没有印刷机可用，他们无论如何不能
+从事出版。而在他们实际上可以做的事情当中，他们并未受到什么限制。
+
 It was arguably beneficial because the general public, according to the
 concepts of copyright law, traded away a theoretical right they were not
 in a position to exercise. In exchange, they got the benefits of more
 writing.
 
+它可以被认为是有益的，由于根据版权法的概念，公众所出让的是一种他们所不能
+行使的、仅存在于理论上的权利。作为回报，他们从更多的作品中得到了好处。
+
 Now if you trade away something you have no possible use for, and you
 get something you can use in exchange, it’s a positive trade. Whether or
 not you could have gotten a better deal some other way, that’s a
 different question, but at least it’s positive.
+
+现在，如果您出让的是一些您没有任何办法使用的东西，而得到的回报是一些您可
+以使用的东西，这是一笔有利的交易。不论您是否能够通过其他方式得到一笔更加
+划算的交易，那是另外一个问题，但至少这是一笔不亏的交易。
 
 So if this were still in the age of the printing press, I don’t think
 I’d be complaining about copyright law. But the age of the printing
