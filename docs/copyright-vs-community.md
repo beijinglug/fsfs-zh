@@ -390,10 +390,18 @@ press is gradually giving way to the age of the computer
 networks—another advance in copying technology that makes copying more
 efficient, and once again not uniformly so.
 
+因此，如果现在仍然处在印刷机时代，我想我不会抱怨版权法。但是，印刷机时代
+正在逐步让位于计算机网络时代——复制技术的另一次革命，它使得复制更加高效，
+同时也更加不那么具有一致性。
+
 Here’s what we had in the age of the printing press: mass production
 very efficient, one at a time copying still just as slow as the ancient
 world. Digital technology gets us here: they’ve both benefited, but
 one-off copying has benefited the most.
+
+这是我们曾经在印刷机时代拥有的东西：批量复制非常高效，而一次复制一本时仍
+然和古代一样慢。数字技术为我们带来了这些：它们都得到了提升，然而一次性的
+复制所得到的效率提升最大。
 
 We get to a situation much more like the ancient world, where one at a
 time copying is not so much worse \[i.e., harder\] than mass production
@@ -403,6 +411,12 @@ Consider how many people write CDs once in a while, even in poor
 countries. You may not have a CD-writer yourself, so you go to a store
 where you can do it.
 
+我们由此来到了一种更像古代世界的境地，彼时一次复制一本的行为相对于批量复
+制并不显得非常低效（困难），它只是略微低效，但它的成本足够低，以至于数以
+亿计的人们都能够进行这样的复制操作。想想看有多少人可以不时地烧录光盘（CD），
+即使是在欠发达的国家。您可能没有一台 CD 刻录机，不过您可以前往一家可提供
+此服务的商店。
+
 This means that copyright no longer fits in with the technology as it
 used to. Even if the words of copyright law had not changed, they
 wouldn’t have the same effect. Instead of an industrial regulation on
@@ -410,11 +424,20 @@ publishers controlled by authors, with the benefits set up to go to the
 public, it is now a restriction on the general public, controlled mainly
 by the publishers, in the name of the authors.
 
+这意味着版权不再像过去那样适应技术的发展。即使版权法中的词句保持不变，它
+不会再产生与之前相同的效果。此时的版权不再是一种由作者控制的针对出版商的
+行业规范，并且由此使公众受益。它已经成为了主要由出版商控制，以作者之名对
+公众的限制。
+
 In other words, it’s tyranny. It’s intolerable and we can’t allow it to
 continue this way.
 
+换言之，这是一种暴政，这是不可容忍的，我们决不能允许它以这种方式发展下去。
+
 As a result of this change, \[copyright\] is no longer easy to enforce,
 no longer uncontroversial, and no longer beneficial.
+
+由于这种性质上的转变，版权不再容易被强制执行、不再没有争议、也不再有益。
 
 It’s no longer easy to enforce because now the publishers want to
 enforce it against each and every person, and to do this requires cruel
@@ -422,14 +445,26 @@ measures, draconian punishments, invasions of privacy, abolition of our
 basic ideas of justice. There’s almost no limit to how far they will
 propose to go to prosecute the War on Sharing.
 
+它不再容易强制执行，由于现在是那些出版商想要针对每个人强制执行。而要达到
+这一目的，需要严酷的措施、德拉古式的严厉刑罚、对隐私的侵犯以及废除我们关
+于公平的基本理念。目前看来，他们将会在发动“消灭分享的战争”的道路上走多远，
+一时还看不到界限。
+
 It’s no longer uncontroversial. There are political parties in several
 countries whose basic platform is “freedom to share.”
+
+它不再没有争议。在一些国家已经出现了这样一些政党，其基本立场是“分享自由”。
 
 It’s no longer beneficial because the freedoms that we conceptually
 traded away (because we couldn’t exercise them), we now can exercise.
 They’re tremendously useful, and we want to exercise them.
 
+它也不再有益，由于我们曾经在概念上出让（由于那时我们不能行使它们）的自由
+现在是我们可以行使的了。它们是那么地重要，以至于我们现在想要行使它们。
+
 What would a democratic government do in this situation?
+
+那么，一个民主政府在这种情况下应当做些什么呢？
 
 It would reduce copyright power. It would say: “The trade we made on
 behalf of our citizens, trading away some of their freedom which now
@@ -438,8 +473,17 @@ the freedom that is important.” We can measure the sickness of democracy
 by the tendency of governments to do the exact opposite around the
 world, extending copyright power when they should reduce it.
 
+它应当减少版权权力。它应当说：“我们在以我们的公民之名进行的交易中出让的那
+部分自由是现在他们所需要的，这是不可容忍的。我们必须改变这一切；我们不能
+轻易出让这种至关重要的自由。”我们可以如此衡量民主的欠缺，通过考察世界各国
+政府所做出与民主完全背道而驰的事情的倾向性，即它们在本应减少版权权力的时
+候反而不断延伸版权权力。
+
 One example is in the dimension of time. Around the world we see
 pressure to make copyright last longer and longer and longer.
+
+一个例子是版权的时间尺度。放眼全世界，我们看到各种压力以使得版权持续时间
+更长、更长、更长。
 
 A wave of this started in the US in 1998. Copyright was extended by 20
 years on both past and future works. I do not understand how they hope
@@ -449,6 +493,14 @@ time machine with which to inform them, they haven’t used it. Our
 history books don’t say that there was a burst of vigor in the arts in
 the 20s when all the artists found out that their copyrights would be
 extended in 1998.
+
+一波此类事件于 1998 年发生在美国。对于过去和将来的作品的版权期限都延长了 
+20 年。我不明白他们怎样才能使得那些活跃于 20 世纪 20 - 30 年代的已经去世
+或者年迈的作家相信，通过在今天延长他们的作品的版权能够促使他们在当时创作
+更多的作品。如果他们拥有一台可用于在当时通知他们的时光机器，他们从未使用
+过它。我们的历史教材也从未说过在 20 世纪 20 年代曾经发生过文科创作活力的
+爆发式增长，由于当时所有的艺术家预知他们的作品的版权将会在 1998 年被延长 
+20 年。
 
 It’s theoretically conceivable that 20 years more copyright on future
 works would convince people to make more effort in producing those
@@ -461,10 +513,22 @@ claim otherwise ought to present its projected balance sheets for 75
 years in the future, which of course they can’t do because none of them
 really looks that far ahead.
 
+为未来的作品延长 20 年的版权期限将会说服人们为创作这些作品付出更多努力。
+这在理论上是可信的，但这不能说服那些有理性的人们，由于在未来 75 年——如果
+这篇作品是用于出租的——如果该作品拥有一位个人版权持有人，可能还会更长一些，
+在此基础上额外增加的 20 年版权期限的存在价值将会大打折扣，其存在价值小到
+不能说服任何有理性的人们为此去做一些不同的事情。任何想要宣称事情并非如此
+的商业公司应当被要求出示它在未来 75 年中的财务状况表，然而它们当然做不到
+这一点，由于他们当中没有一家会真正看问题看得那么远。
+
 The real reason for this law, the desire that prompted various companies
 to purchase this law in the US Congress, which is how laws are decided
 on for the most part, was they had lucrative monopolies and they wanted
 those monopolies to continue.
+
+这条法律的真正原因，以及驱使不同的商业公司向美国国会购买这条法律（国会在
+很大程度上有权决定法律）的原因在于它们已经拥有使其大大得利的垄断权，并且
+想让这种垄断权持续下去。
 
 For instance, Disney was aware that the first film in which Mickey Mouse
 appeared would go into the public domain in a few years, and then
@@ -473,6 +537,12 @@ works. Disney didn’t want that to happen. Disney borrows a lot from the
 public domain, but is determined never to give the slightest thing back.
 So Disney paid for this law, which we refer to as the Mickey Mouse
 Copyright Act.
+
+例如，迪士尼意识到米老鼠首次出现的那部电影将会在几年内进入公有领域，然后
+任何人都可以自由地绘制相同的角色以用于其他作品。迪士尼不希望这件事发生。
+此前，迪士尼曾经从公有领域借鉴了很多东西供自己使用，但它决定永远也不向公
+有领域做出哪怕是最微小的回馈。于是迪士尼买来了这条法律，我们称之为米老鼠
+版权法案。
 
 The movie companies say they want perpetual copyright, but the US
 Constitution won’t let them get that officially. So they came up with a
@@ -483,9 +553,19 @@ supposedly fall into the public domain. But that date is like tomorrow,
 it never comes. By the time you get there they will have postponed it,
 unless we stop them next time.
 
+电影公司说它们想要永久版权，但是美国宪法不会让它们以官方的方式得到它。于
+是它们想出了一种方式以便以非官方形式达到同样的结果：“永久版权无限续期方案”。
+每隔 20 年，它们会将版权期限再次延长 20 年。因此，在任意给定的时间，对于
+任意给定的作品，都存在这样一个日期，他们应当在此日期进入公有领域。但是，
+这个日期就如同明日复明日，永远不会到来。当您等到那一天的时候，它们又将其
+延后了，除非我们能够在下一次阻止它们这样做。
+
 That’s one dimension, the dimension of duration. But even more important
 is the dimension of breadth: which uses of the work does copyright
 cover?
+
+以上这些是一个方面，即版权期限的方面。但是更重要的一个方面是宽度：即版权
+将会覆盖对于作品的哪些方面的使用。
 
 In the age of the printing press, copyright wasn’t supposed to cover all
 uses of a copyrighted work, because copyright regulated certain uses
@@ -493,12 +573,21 @@ that were the exceptions in a broader space of unregulated uses. There
 were certain things you were simply allowed to do with your copy of a
 book.
 
+在印刷机时代，版权不应覆盖一篇作品的所有应用场景。由于版权所管制的某些应
+用同时也是一系列更宽泛的未受管制的应用中的一些例外。您很自然地被许可利用
+您的某本书的副本去做某些特定的事情。
+
 Now the publishers have got the idea that they can turn our computers
 against us, and use them to seize total power over all use of published
 works. They want to set up a pay-per-view universe. They’re doing it
 with DRM (Digital Restrictions Management)—the intentional features of
 software that’s designed to restrict the user. And often the computer
 itself is designed to restrict the user.
+
+现在，出版商有了这样的理念，它们可以使得我们的计算机背叛我们，并且利用它
+们攫取对于已发布作品的所有使用可能的绝对控制权力。它们想要建立一种按次付
+费点播的通用规则。它们正在通过数字版权管理（DRM）来实现这一点——软件的功能
+被故意设计为限制用户。而且计算机本身也通常被设计为限制用户。
 
 The first way in which the general public saw this was in DVDs. A movie
 on a DVD was usually encrypted, and the format was secret. The DVD
@@ -509,6 +598,13 @@ according to the rules, which say it has to stop the user from doing
 this, from doing that, from doing that—a precise set of requirements,
 all of which are malicious towards us.
 
+公众首次见识到它的方式是通过数码多功能影音光盘（DVD）。保存于 DVD 上的电
+影通常是加密的，并且其格式是私密的。DVD 阴谋集团保守这一秘密，由于它们宣
+称任何人想要制造 DVD 播放器必须加入这一阴谋集团，并且承诺保守这一秘密，
+同时还要承诺设计出的 DVD 播放器必须根据规则限制用户，也就是说，它必须阻
+止用户做这件事、还有那件事、还有那件事——一系列精准的要求，对我们都是恶意
+的。
+
 It worked for a while, but then some people figured out the secret
 format, and published free software capable of reading the movie on a
 DVD and playing it. Then the publishers said, “Since we can’t actually
@@ -516,14 +612,26 @@ stop them, we have to make it a crime.” And they started that in the US
 in 1998 with the Digital Millennium Copyright Act, which imposed
 censorship on software capable of doing such jobs.
 
+虽然花费了一些时间，但随后某些人还是破解了这种私密的格式，并且发布了可用
+于读取并播放 DVD 上的电影的自由软件。然后出版商说：“既然我们不能在事实上
+阻止他们，我们必须让这件事成为罪行。”它们在 1998 年在美国利用数字千年版权
+法案（DMCA）开始如此做，这一法案对能实现上述功能的软件强制实施了审查。
+
 So that particular piece of free software was the subject of a court
 case. Its distribution in the US is forbidden; the US practices
 censorship of software.
+
+因此，这一类特定的自由软件成为了法庭案例的主题。它在美国的分发被禁止；美
+国对其实施了审查。
 
 The movie companies are well aware that they can’t really make that
 program disappear—it’s easy enough to find it. So they designed another
 encryption system, which they hoped would be harder to break, and it’s
 called AACS, or the axe.
+
+电影公司意识到它们不能真正使得那个程序彻底消失——它仍然很容易被搜索到。于
+是它们设计出了另一套加密系统，并且希望它更难被破解，它被称为高级访问信息
+系统（AACS），或者“战斧”。
 
 The AACS conspiracy makes precise rules about all players. For instance,
 in 2011 it’s going to be forbidden to make analog video outputs. So all
@@ -534,12 +642,23 @@ to “close the analog hole.” *\[Stallman takes off his glasses.\]* Here’s
 one and here’s another, that they’d like to poke out
 permanently.[(1)](#FOOT1)
 
+AACS 阴谋集团为所有播放器制定了细致的规则。例如在 2011 年，它将会禁止模拟
+视频输出。因此所有视频输出将必须是数字式的，它们将会把信号以加密形式传输
+到一台特别设计为使这些内容对用户保持私密的显示器上。那是一种恶意硬件。它
+们宣称如此做的目的是“修补模拟漏洞”。（Stallman 摘下眼镜）这里有一个，那里
+还有一个，而它们想让这些漏洞永久消失[(1)](#FOOT1)。
+
 How do I know about these conspiracies? The reason is they’re not
 secret—they have web sites. The AACS web site proudly describes the
 contracts that manufacturers have to sign, which is how I know about
 this requirement. It proudly states the names of the companies that have
 established this conspiracy, which include Microsoft and Apple, and
 Intel, and Sony, and Disney, and IBM.
+
+我是如何知道这些阴谋的呢？其原因是它们并不是秘密——它们有其官方网站。AACS 
+网站骄傲地展示了生产商必须签署的霸王条款，这就是我之所以会知道这些限制条
+件。它还骄傲地展示了共同建立了这一阴谋集团的商业公司的名字，包括微软、苹
+果、英特尔、索尼、迪士尼、IBM 等。
 
 A conspiracy of companies designed to restrict the public’s access to
 technology ought to be prosecuted as a serious crime, like a conspiracy
@@ -549,15 +668,28 @@ governments are on their side against us. They have no fear against
 being prosecuted for these conspiracies, which is why they don’t bother
 to hide them.
 
+这些公司所设计的阴谋旨在限制公众对技术的访问，这应当作为一项重罪被起诉，
+就像操纵价格的阴谋那样，只是这比操纵价格更坏而已。因此，这种罪行的刑期应
+当更长。但是，那些公司信心满满，由于政府站在它们那边共同压制我们。它们丝
+毫不担心可能会因为这些阴谋而被起诉，这就是它们为何甚至不屑于掩饰这一点的
+原因。
+
 In general, DRM is set up by a conspiracy of companies. Once in a while
 a single company can do it, but generally it requires a conspiracy
 between technology companies and publishers, so \[it’s\] almost always a
 conspiracy.
 
+通常，DRM 是由一些公司组成的阴谋集团所实施的。有时一家单独的公司也能如此
+做，但通常这需要在技术公司和出版商之间达成某种阴谋，因此它几乎总是阴谋。
+
 They thought that nobody would ever be able to break the AACS, but about
 three and a half years ago someone released a free program capable of
 decrypting that format. However, it was totally useless, because in
 order to run it you need to know the key.
+
+它们认为无人能够破解 AACS，但是大约在 3 年半之前，某人发布了一款可以解密
+那种格式的自由软件。然而，这是完全无用的，由于如果您想要运行它，您需要知
+道它的密钥。
 
 And then, six months later, I saw a photo of two adorable puppies, with
 32 hex digits above them, and I wondered, “Why put those two things
@@ -565,6 +697,12 @@ together? I wonder if those numbers are some important key, and someone
 could have put the numbers together with the puppies, figuring people
 would copy the photo of the puppies because they were so cute. This
 would protect the key from being wiped out.”
+
+然后在 6 个月后，我看到了一幅照片，里面有两只可爱的小狗，每只小狗身上有 
+32 位的十六进制数，我当时觉得奇怪：“为何将这两样东西放在一起？我怀疑这些
+十六进制数是否可能是某个重要的密钥，而某人可能是将这些十六进制数和小狗放
+在一起，希望人们复制这张小狗的照片，由于它们是那么可爱。这也许能够保护该
+密钥免遭被抹除的厄运。”
 
 And that’s what it was—that was the key to break the axe. People posted
 it, and editors deleted it, because laws in many countries now conscript
