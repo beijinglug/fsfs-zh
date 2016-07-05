@@ -1308,6 +1308,10 @@ redistribute exact copies. After ten years it goes into the public
 domain, and people can contribute to art by publishing their modified
 versions.
 
+因此我提议相同的弱化版权覆盖商业应用和作品修改，但每个人都应当拥有对其原
+始版本进行非商业性再分发的自由。10 年之后，它将进入公有领域，人们可以通过
+发布他们的修改版本来继续为艺术发展做出贡献。
+
 One other thing: if you’re going to take little pieces out of a bunch of
 works and rearrange them into something totally different, that should
 just be legal, because the purpose of copyright is to promote art, not
@@ -1317,9 +1321,18 @@ when the government is under the control of the publishers of the
 existing successful works, and has totally lost sight of its intended
 purpose.
 
+还有一件事情，如果您想要从一系列作品中挑选一些片断并且将其整合为某种全新
+的作品，这应当是合法的，由于版权的初衷是促进艺术发展，而非阻碍艺术发展。
+使用版权来禁止这种使用作品片断的创作方式是愚蠢的——它是自相矛盾的。这是一
+种扭曲，只有当政府被那些现存成功作品的出版商所支配的时候才会发生这种事情，
+并且这已经完全迷失了其初衷。
+
 That’s what I propose, and in particular, this means that sharing copies
 on the internet must be legal. Sharing is good. Sharing builds the bonds
 of society. To attack sharing is to attack society.
+
+这就是我所提议的，特别要指出的是，这意味着在万维网上分享副本必须是合法的。
+分享是美好的。分享构建了社会的契约。反对分享就是反对社会。
 
 So any time the government proposes some new means to attack people who
 share, to stop them from sharing, we have to recognize that this is
@@ -1328,6 +1341,11 @@ ideas of justice. But that’s not a coincidence; the reason is because
 the purpose is evil. Sharing is good and the government should encourage
 sharing.
 
+因此，每当政府提议新的措施以制裁分享作品的人们并且强行禁止他们分享时，我
+们必须认识到这是一种罪恶。不仅仅是因为这些被提议的制裁措施无一例外地侵害
+了公平这一基本理念。但这并非巧合；其原因是这种提议的目的是罪恶的。分享是
+美好的，政府应当鼓励分享。
+
 But copyright did after all have a useful purpose. Copyright as a means
 to carry out that purpose has a problem now, because it doesn’t fit in
 with the technology we use. It interferes with all the vital freedoms
@@ -1335,6 +1353,12 @@ for all the readers, listeners, viewers, and whatever, but the goal of
 promoting the arts is still desirable. So in addition to the partly
 reduced copyright system, which would continue to be a copyright system,
 I propose two other methods.
+
+但不管怎么说，版权确实有其有用的目的。只是版权作为实现该目的的手段在现在
+遇到了问题，由于它不能适应当今我们所使用的技术。它干涉了读者、听众、观众
+及其他人的所有基本自由，但它促进艺术发展的目标仍然是美好的。因此，版权系
+统将继续作为版权系统而存在，除了在一定限度上减少它的权力，我提议两种其他
+方式。
 
 One \[works via\] taxes—distribute tax money directly to artists. This
 could be a special tax, perhaps on internet connectivity, or it could
@@ -1346,19 +1370,37 @@ bureaucrats to have the discretion to decide which artists to support
 and which to ignore, but based on popularity does not imply linear
 proportion.
 
+其一是（通过）征税（来实现）——直接将税金分发给作者。这可以是一种特殊税收，
+可以是对于万维网连接服务的税收，也可以来自一般性的收入，由于它的总量不会
+非常大，如果它是通过某种有效的方式进行分发的。以促进艺术发展为目的对其进
+行有效分发意味着不是按照作品流行度的线性比例进行分发。它应当基于流行度，
+由于我们不希望由官僚主义者独断决定哪些作者应该得到支持而哪些作者将会被无
+视。但是，基于流行度并不必然意味着按照线性比例进行分发。
+
 What I propose is measure the popularity of the various artists, which
 you could do through polling (samples) in which nobody is required to
 participate, and then take the cube root. The cube root looks like this:
 it means basically that \[the payment\] tapers off after a while.
 
+我所提议的是统计不同作品的流行度，您可以通过投票（样本）做到这一点，并且
+不是每个人都被强制参与，然后取其立方根。立方根就像这样：它基本意味着（收
+入）增加值将会逐渐变小。
+
 If superstar A is a thousand times as popular as successful artist B,
 with this system A would get ten times as much money as B, not a
 thousand times.
+
+如果某位明星大腕 A 的流行度是某位成功艺术家 B 的 1000 倍，按照这种体系， 
+A 将得到 10 倍于 B 的收入，而非 1000 倍。
 
 Linearly would give A a thousand times as much as B, which means that if
 we wanted B to get enough to live on we’re going to have to make A
 tremendously rich. This is wasteful use of the tax money—it shouldn’t be
 done.
+
+如果按照线性比例，A 将得到 1000 倍于 B 的收入，这意味着如果我们想让 B 得
+到足以维持其生计的钱，我们必须使 A 赚得盆满钵满。这是一种对税金的浪费——
+不应该这样做。
 
 But if we make it taper off, then yes, each superstar will get
 handsomely more than an ordinary successful artist, but the total of all
@@ -1367,6 +1409,11 @@ the money will go to support a large number of fairly successful
 artists, fairly appreciated artists, fairly popular artists. Thus the
 system will use money a lot more efficiently than the existing system.
 
+但如果我们使得收入增量逐渐变小，那么是的，每位明星仍将得到比普通的成功艺
+术家多得多的收入，但所有这些明星的收入总和将只占税金（总额）的一小部分。
+大部分税金将会被用于支持一大批相对成功、相对受欢迎、相对流行的艺术家。因
+此，这一体系将能够更有效地利用这笔税金，相对于现有的体系。
+
 The existing system is regressive. It actually gives far, far more per
 record, for instance, to a superstar than to anybody else. The money is
 extremely badly used. The result is we’d actually be paying a lot less
@@ -1374,11 +1421,20 @@ this way. I hope that’s enough to mollify some of these people who have
 a knee-jerk hostile reaction to taxes—one that I don’t share, because I
 believe in a welfare state.
 
+现有的体系是倒退的。它实际上，例如对每张唱片，给予明星大腕的钱远远超过给
+予其他任何人的。这种花钱的方式非常不合理。其结果是我们按照这种方式所实际
+花费的钱要少得多。我希望这足以安慰那些对税收有着如同膝跳反应般的敌意的人
+们——我并不分享税收，由于信任一个福利国家。
+
 I have another suggestion which is voluntary payments. Suppose every
 player had a button you could push to send a dollar to the artist who
 made the work you’re currently playing or the last one you played. This
 money would be delivered anonymously to those artists. I think a lot of
 people would push that button fairly often.
+
+我还有一个建议是关于志愿者捐助的。假设每台播放器都有这样一个按钮，您可以
+通过按下它来向您正在播放的作品或者已经播放的上一部作品的作者发送 1 美元。
+这笔钱将会被匿名地发送给作者。我相信会有很多人比较经常地按下那个按钮。
 
 For instance, all of us could afford to push that button once every day,
 and we wouldn’t miss that much money. It’s not that much money for us,
@@ -1389,17 +1445,33 @@ are not poor to do the job just fine. I’m sure you’re aware that a lot
 of people really love certain art and are really happy to support the
 artists.
 
+例如，我们当中的所有人应当能够负担得起每天按一次按钮的费用，这不会花费我
+们那么多钱。这笔钱对于我们是可接受的，我非常确信。当然，也会有贫困的人们
+不能负担按一下按钮的费用，然而即使他们不去按下按钮也没关系。我们不需要从
+穷人身上榨取钱财来支持作者。有足够多的经济状况尚可的人们，他们可以很好地
+完成这件事。我相信您已经注意到，有很多人确实喜爱某种艺术，并且非常乐意支
+持作者。
+
 An idea just came to me. The player could also give you a certificate of
 having supported so-and-so, and it could even count up how many times
 you had done it and give you a certificate that says, “I sent so much to
 these artists.” There are various ways we could encourage people who
 want to do it.
 
+于是我又有了一个想法。播放器还可以给您一份证书，表示您曾经支持过某位无名
+作者，它甚至还可以统计您曾经送出多少次支持，并且给您这样一份证书：“我为这
+些艺术家付出了这么多。”总之，我们可以通过很多方式鼓励那些想要如此做的人们。
+
 For instance, we could have a PR campaign which is friendly and kind:
 “Have you sent a dollar to some artists today? Why not? It’s only a
 dollar—you’ll never miss it and don’t you love what they’re doing? Push
 the button!” It will make people feel good, and they’ll think, “Yeah, I
 love what I just watched. I’ll send a dollar.”
+
+例如，我们可以开展一场友善的 PR 活动：“您今天向某位艺术家捐助 1 美元了吗？
+为什么不呢？这只是 1 美元——您将永远不会失去它，您难道不喜爱他们所创作的作
+品吗？现在就按下按钮！”这将使人们产生好感，他们将会想：“是的，我喜爱我所
+观看的作品，我将要捐助 1 美元。”
 
 This is already starting to work to some extent. There’s a Canadian
 singer who used to be called Jane Siberry. She put her music on her web
@@ -1412,6 +1484,14 @@ downloading something. But this might not even count whether there was
 an effect of bringing more people to come, and \[thus\] increasing the
 total number that this average was against.
 
+这在一定程度上已经开始产生效果。有一位曾经叫做 Jane Siberry 的加拿大歌手。
+她将自己的音乐放在自己的网站上，邀请人们下载并且捐助他们所愿意支付的任意
+金额。她曾经报道收到了平均每份副本多于 1 美元的收入，这是有趣的事情，由于
+大型唱片公司的收费还不到每份副本 1 美元。通过让人们自行决定是否捐助与捐助
+多少，她实际上得到了更多——如果按照实际下载了某些东西的访问者来统计，她通
+过每位访问者得到的甚至更多。但这可能还没有考虑是否存在这样一种效应，即吸
+引更多人访问，从而增大了这一平均值所对应的分母。
+
 So it can work, but it’s a pain in the neck under present circumstances.
 You’ve got to have a credit card to do it, and that means you can’t do
 it anonymously. And you’ve got to go find where you’re going to pay, and
@@ -1419,10 +1499,19 @@ the payment systems for small amounts, they’re not very efficient, so
 the artists are only getting half of it. If we set up a good system for
 this, it would work far, far better. So these are my two suggestions.
 
+因此，这是可行的，但在当前环境下是一种令人头痛的事。首先您必须拥有一张信
+用卡，这意味着您不能进行匿名捐助。并且您必须找到去哪里进行支付，而对于小
+额支付，现有的支付系统并不非常高效，因此艺术家们只是成功了一半。如果我们
+能够建立一种理想的支付系统，它将能够更好地实现我们的目的。
+
 And in [mecenat-global.org](mecenat-global.org),[(3)](#FOOT3) you can
 find another scheme that combines aspects of the two, which was invented
 by Francis Muguet and designed to fit in with existing legal systems
 better to make it easier to enact.
+
+在 mecenat-global.org 网站[(3)](#FOOT3)，您可以找到结合了这两条建议思想的
+另一种方案，它由 Francis Muguet 发明，并且被设计为旨在更好地适应现存法律
+体系以使其更容易实施。
 
 Be careful of proposals to “compensate the rights holders,” because when
 they say “compensate,” they’re trying to presume that if you have
@@ -1433,11 +1522,22 @@ it’s going to the publishers—the same publishers who basically exploit
 all the artists (except the few that you’ve all heard of, who are so
 popular that they have clout).
 
+当心这种关于“补偿版权持有人”的鬼话，由于当他们在说“补偿”的时候，他们是在
+试图假设如果您感激一篇作品，您已经欠下了某人一笔特殊的债务，并且您必须“补
+偿”此人。当他们说“版权持有人”的时候，它应该是在迫使您认为这是在支持艺术家，
+而实际上这是在支持出版商——正是那些从根本上剥削了所有艺术家（除了少数各位
+都听说过的艺术家，由于他们那么出名，以至于他们拥有了某种势力）的出版商。
+
 We don’t owe a debt; we have nobody that we have to “compensate.”
 \[But\] supporting the arts is still a useful thing to do. That was the
 motivation for copyright back when copyright fit in with the technology
 of the day. Today copyright is a bad way to do it, but it’s still good
 to do it other ways that respect our freedom.
+
+我们并不欠任何人任何东西；我们没有“补偿”任何人的理由和义务。但是，支持艺
+术发展仍然是有益的事情。这曾经是版权的动机，彼时的版权仍然是适应那个时代
+的技术发展水平的。而今天，版权对于支持艺术发展成了一种坏的实施方式。但以
+尊重我们的自由的方式来实施它，这还是好的。
 
 Demand that they change the two evil parts of the New Zealand Copyright
 Act. They shouldn’t replace the three strikes punishment,[(4)](#FOOT4)
@@ -1447,6 +1547,11 @@ negotiate a treaty between various countries, for all of these countries
 to attack their citizens, and we don’t know how because they won’t tell
 us.
 
+我们想要利用它们改变新西兰版权法案中的两大邪恶部分，它们不应取代“三振出局
+法”[(4)](#FOOT4)，由于分享是美好的，它们应当摆脱针对用于破解 DRM 的软件的
+审查。当心反假冒贸易协定（ACTA），它们试图在不同国家之间商定一种条约，使
+这些国家可以攻击它们的国民，我们不知道如何攻击，由于它们不会告诉我们。
+
 <div class="footnote">
 
 ------------------------------------------------------------------------
@@ -1455,40 +1560,33 @@ us.
 
 ### [(1)](#DOCF1)
 
-@raggedright In 2010, the encryption system for digital video output was
-definitively cracked. (See Mark Hachman’s “HDCP Master Key Confirmed;
-Blu-Ray Content Vulnerable” (September 16 2010), at
-<http://pcmag.com/article2/0,2817,2369280,00.asp>, for more
-information.) @end raggedright
+@raggedright 在 2010 年，关于数字视频输出的加密系统被正式破解。(参见 
+Mark Hachman’s “HDCP Master Key Confirmed;
+Blu-Ray Content Vulnerable” (September 16 2010)，位于
+<http://pcmag.com/article2/0,2817,2369280,00.asp> 以获得更多信息。) @end raggedright
 
 ### [(2)](#DOCF2)
 
-@raggedright 2015: I included scientific papers because I thought that
-publishing modified versions of someone else’s paper would cause harm;
-however, publishing physics and math papers under the Creative Commons
-Attribution License on [arXiv.org](arXiv.org) and many libre journals
-seems to have no problems. Thus, I subsequently concluded that
-scientific papers ought to be free. @end raggedright
+@raggedright 在 2015 年，我加入了科研论文这一条，由于我认为发布他人的论文
+的修改版本是有害的；然而，将物理和数学论文以创作共用：署名许可证发布在 
+arxiv.org 或是众多其他自由期刊上似乎并不会带来什么问题。于是，我随后得出
+结论，科研论文应当是自由的。@end raggedright
 
 ### [(3)](#DOCF3)
 
-@raggedright That page is no longer active; please see
-[https://stallman.org/mecenat/\
+@raggedright 此网页不再可访问，请移步至 [https://stallman.org/mecenat/\
 global-patronage.html](https://stallman.org/mecenat/%3Cbr%3Eglobal-patronage.html)
-instead. @end raggedright
+@end raggedright
 
 ### [(4)](#DOCF4)
 
-@raggedright New Zealand had enacted a system of punishment without
-trial for internet users accused of copying; then, facing popular
-protest, the government did not implement it, and announced a plan to
-implement a modified unjust punishment system. The point here was that
-they should not proceed to implement a replacement—rather, they should
-have no such system. However, the words I used don’t say this clearly.
+@raggedright 新西兰实施了一种未经审判的刑罚系统，对于被指控进行复制的万维网
+用户；然后，迫于大众的抗议，政府并未立即实施，而是宣布了一项计划以实施一种
+修订过的但仍然不公平的刑罚系统。本文此处的观点是，它们不应实施一种替代方案——
+与之相反，它们不应拥有这类系统。然而，我的用词未能清楚地表达这一点。
 
-@hglue@defaultparindent The New Zealand government subsequently
-implemented the punishment scheme more or less as originally planned.
-@end raggedright
+@hglue@defaultparindent 新西兰政府随后实施了一种与原本计划的或多或少相同的
+刑罚方案。@end raggedright
 
 </div>
 
@@ -1496,3 +1594,5 @@ implemented the punishment scheme more or less as originally planned.
 
 This document was generated by *tonghuix* on *March 25, 2016* using
 [*texi2html 1.82*](http://www.nongnu.org/texi2html/).\
+
+汉化：Nadebula
