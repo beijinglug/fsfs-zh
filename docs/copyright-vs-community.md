@@ -950,18 +950,32 @@ Then there is Digital Restrictions Management, so you can’t lend the
 book or sell it to a used bookstore, and the library can’t lend it
 either.
 
+由于存在 DRM，您不能将书借出或是卖给旧书商店，图书馆也不能将书借出。
+
 And then there’s the back door, which we found out about about three
 months ago, because Amazon used it. Amazon sent a command to all the
 Kindles to erase a particular book, namely 1984, by George Orwell. Yes,
 they couldn’t have picked a more ironic book to erase. So that’s how we
 know that Amazon has a back door with which it can erase books remotely.
 
+由于存在后门，我们是在大约 3 个月前知道的它的存在，由于亚马逊使用了它。
+亚马逊向所有 Kindle 发送了一条指令以删除一本特定的书，即 George Orwell 
+的《1984》。是的，它们找不出一本更具讽刺意味的书来删除了。这就是我们如何
+知道亚马逊拥有某种后门并且通过它远程删除电子书的。
+
 What else it can do, who knows? Maybe it’s like Microsoft Windows. Maybe
 Amazon can remotely upgrade the software, which means that whatever
 malicious things are not in it now, they could put them in it tomorrow.
 
+它还能做出什么事情来呢？谁知道。也许它就像微软 Windows。也许亚马逊可以远
+程升级它的软件，这意味着所有那些今天还没有的恶意功能，它们都可能在明天被
+带来。
+
 This is intolerable—any one of these restrictions is intolerable. They
 want to create a world where nobody lends books to anybody anymore.
+
+这是不可容忍的——这其中的任何一条限制都是不可容忍的。它们想要创造这样一个
+世界，再也无人能够将书籍借给他人。
 
 Imagine that you visit a friend and there are no books on the shelf.
 It’s not that your friend doesn’t read, but his books are all inside a
@@ -969,6 +983,11 @@ device, and of course he can’t lend you those books. The only way he
 could lend you any one of those books is to lend you his whole library,
 which is obviously a ridiculous thing to ask anybody to do. So there
 goes friendship for people who love books.
+
+假设您前去拜访一位朋友，他的书架上并没有一本书，这并不是由于您的朋友从来
+不读书，而是由于他的所有书都保存在某一台设备中，他当然不能将那些书借给您。
+他所能够借给您任意一本书的唯一方式是借给您他的整个图书馆。请求他人如此做
+显然是荒唐的。因此，热爱读书的人们之间的友谊将不复存在。
 
 Make sure that you inform people what this device implies. It means
 other readers will no longer be your friends, because you will be acting
@@ -978,17 +997,42 @@ recognize that are the people who are thinking so short-term that they
 don’t see it. It’s our job to help them see beyond the momentary
 convenience to the implications of this device.
 
+请您确保告知人们这种设备意味着什么。它意味着其他读者不再是您的朋友，由于
+您在他们面前表现得像个傻瓜。一定要先发制人地传播这句话。这款设备是您的敌
+人，它是任何读者的敌人。那些尚未意识到这一点的人们是那些思想短视，未能看
+穿这一点的人们。我们的任务是帮助他们透过眼前的易用性看穿这款设备的本质。
+
 I have nothing against distributing books in digital form, if they are
 not designed to take away our freedom. Strictly speaking, it is possible
 to have an e-book reader:
 
+我绝不反对以数字形式发布书籍，如果它们并非被设计用于剥夺我们的自由。严格
+地说，要想拥有这样一款电子书阅读器是可能的：
+
 -   that is not designed to attack you,
+
+-   不是被设计用于攻击您；
+
 -   which runs free software and not proprietary software,
+
+-   运行自由软件而非私有软件；
+
 -   which doesn’t have DRM,
+
+-   不带 DRM；
+
 -   which doesn’t make people identify yourself to get a book,
+
+-   不要求用户购书时提供身份信息；
+
 -   which doesn’t have a back door, \[and\]
+
+-   不带后门；
+
 -   which doesn’t restrict what you can do with the files on
     your machine.
+
+-   不限制您可以用它对您的计算机上的文件做什么事情。
 
 It’s possible, but the big companies really pushing e-books are doing it
 to attack our freedom, and we mustn’t stand for that. This is what
@@ -996,11 +1040,21 @@ governments are doing in cahoots with big business to attack our
 freedom, by making copyright harsher and nastier, more restrictive than
 ever before.
 
+这是可能的，但是，真正推广电子书的大型出版公司如此做的目的都是侵犯我们的
+自由，这是我们无论如何不能容忍和支持的。这正是政府和大型出版企业正在合谋
+所做的事情，通过使得版权变得越来越严酷和龌龊，越来越觉有约束性来侵犯我们
+的自由。
+
 But what should they do? Governments should make copyright power less.
 Here are my specific proposals.
 
+但是，它们应该做些什么呢？政府应该减少版权权力。以下是我的一些特别建议。
+
 First of all, there is the dimension of time. I propose copyright should
 last ten years, starting from the date of publication of a work.
+
+首先，是关于版权的时间尺度。我提议版权应该仅仅持续 10 年，从作品发布的日
+期计算。
 
 Why from the date of publication? Because before that, we don’t have
 copies. It doesn’t matter to us whether we would have been allowed to
@@ -1008,11 +1062,19 @@ copy our copies that we don’t have, so I figure we might as well let the
 authors have as much time as it takes to arrange publication, and then
 start the clock.
 
+为何从作品发布的日期开始计算？由于在此之前，我们并没有任何副本。我们是否
+被允许复制那些我们不曾拥有的作品副本并不重要，因此我认为我们同样允许作者
+拥有足够的时间来安排作品的发型，然后再开始计时。
+
 But why ten years? I don’t know about in this country, but in the US,
 the publication cycle has got shorter and shorter. Nowadays almost all
 books are remaindered within two years and out-of-print within three. So
 ten years is more than three times the usual publication cycle—that
 should be plenty comfortable.
+
+那么为何是 10 年？我不知道这个国家情况如何，但在美国，出版周期正在变得越
+来越段。现在几乎所有的书都只在 2 年内被廉价出售，并且会在 3 年内绝版。因
+此，10 年的期限是通常出版周期的 3 倍有余——这应当足以令人满意。
 
 But not everybody agrees. I once proposed this in a panel discussion
 with fiction writers, and the award-winning fantasy writer next to me
@@ -1022,10 +1084,20 @@ be out of print, but the publisher wouldn’t admit it. The publisher was
 using the copyright on his own book to stop him from distributing copies
 himself, which he wanted to do so people could read it.
 
+但是并非所有人都同意这一点。我曾在一次同科幻作家的研讨会上提出这一观点，
+而坐在我身边的一位获奖科幻作家说道：“10 年？不可能。超过 5 年的任何东西都
+是不可容忍的。”您可以看到，他与他的出版商之间进行了合法的争论。他的书将要
+绝版，但是出版商并不同意。该出版商正在使用此人自己所著的书的版权来禁止此
+人自行分发其副本，而他则希望如此做以使得人们可以阅读此书。
+
 This is what every artist starts out wanting—wanting to distribute her
 work so it will get read and appreciated. Very few make a lot of money.
 That tiny fraction face the danger of being morally corrupted, like JK
 Rowling.
+
+这正是每位作者正在开始要求的——他们想要分发自己的作品使其被人们阅读和感激。
+极少有人能赚得盆满钵满。这很小的一部分大发横财的人正在面临道德败坏的风险，
+比如 JK Rowling。
 
 JK Rowling, in Canada, got an injunction against people who had bought
 her book in a bookstore, ordering them not to read it. So in response I
@@ -1033,14 +1105,26 @@ call for a boycott of Harry Potter books. But I don’t say you shouldn’t
 read them; I leave that to the author and the publisher. I just say you
 shouldn’t buy them.
 
+在加拿大，JK Rowling 取得了一项针对那些从某家书店购买了她所著的书的人们的
+禁令，强行要求他们不得阅读该书。作为回应，我号召发动了一场抵制《哈利波特》
+丛书的运动。但我并未说您不应该阅读它们，我将这种抵制留给作者和出版商。我
+只是说，您不应该购买它们。
+
 It’s few authors that make enough money that they can be corrupted in
 this way. Most of them don’t get anywhere near that, and continue
 wanting the same thing they wanted at the outset: they want their work
 to be appreciated.
 
+只有少数作者能够赚到足以使得他们腐化堕落的钱。他们中的大多数远未达到这种
+境地，并且继续要求那些他们从一开始就在诉求的东西：他们想要自己的作品受到
+感激。
+
 He wanted to distribute his own book, and copyright was stopping him. He
 realized that more than five years of copyright was unlikely to ever do
 him any good.
+
+他想要分发自己的书，但版权禁止他如此做。他意识到超过 5 年的版权期限不可能
+为他带来任何好处。
 
 If people would rather have copyright last five years, I won’t be
 against it. I propose ten as a first stab at the problem. Let’s reduce
@@ -1048,13 +1132,24 @@ it to ten years and then take stock for a while, and we could adjust it
 after that. I don’t say I think ten years is the exact right number—I
 don’t know.
 
+如果人们更想让版权仅仅持续 5 年，我不会反对。我只是提议将 10 年作为解决问
+题的第一步。首先让我们将其缩短到 10 年，然后观望一段时间，接下来我们就可
+以继续调整它。我并没有说我认为 10 年就刚好是恰当的数字——我也不知道到底应
+该是多少。
+
 What about the dimension of breadth? Which activities should copyright
 cover? I distinguish three broad categories of works.
+
+那么，关于版权的宽度又如何呢？版权应当覆盖哪些活动？我在此区分三大类作品。
 
 First of all, there are the functional works that you use to do a
 practical job in your life. This includes software, recipes, educational
 works, reference works, text fonts, and other things you can think of.
 These works should be free.
+
+首先，有一些功能性的作品是您可以在您的生活中将其用于执行一项实践任务的。
+这包括软件、菜谱、教材、参考文献、字体、以及您所能想到的其他东西。这些作
+品应当是自由的。
 
 If you use the work to do a job in your life, then if you can’t change
 the work to suit you, you don’t control your life. Once you have changed
@@ -1062,12 +1157,22 @@ the work to suit you, then you’ve got to be free to publish it—publish
 your version—because there will be others who will want the changes
 you’ve made.
 
+如果您在生活中使用这样一件作品来完成一项任务，那么如果您不能修改该作品以
+使其适合您的需求，您就不能控制您的生活。一旦您更改了该作品以适应您的需求，
+那么您应该拥有发布它的自由——发布您的版本——由于将会有其他人想要得到您所做
+的修改。
+
 This leads quickly to the conclusion that users have to have the same
 four freedoms \[for all functional works\], not just for software. And
 you’ll notice that for recipes, practically speaking, cooks are always
 sharing and changing recipes just as if the recipes were free. Imagine
 how people would react if the government tried to stamp out so-called
 recipe piracy.
+
+这很快就能推出结论，用户必须拥有同样的四项基本自由（对于所有功能性的作品）
+而非仅限于软件。并且您将会注意到，对于菜谱，或者从实践角度讲，烹饪的行为
+总是在分享并且改进菜谱，如同菜谱是自由的一般。设想一下，人们将会作何反应，
+如果政府试图禁止所谓的“菜谱盗版”。
 
 The term “pirate” is pure propaganda. When people ask me what I think of
 music piracy, I say, “As far as I know, when pirates attack they don’t
@@ -1077,6 +1182,12 @@ as you get from being the moral equivalent of attacking ships.”
 Attacking ships is bad, sharing with other people is good, so we should
 firmly denounce that propaganda term “piracy” whenever we hear it.
 
+“盗版”一词完全是一种鼓吹的概念。当人们问我关于音乐盗版的看法时，我会说：
+“就我所知，当海盗们发动攻击时，他们并非采取拙劣地演奏乐器的方式，而是使用
+武力。因此这不是音乐‘盗版’，由于海盗行为是攻击船只，而分享和攻击船只的行
+为在道德上相去甚远。”攻击船只是坏事，而与他人分享则是好事，因此我们应当在
+我们听到“盗版”这一鼓吹的概念的时候给予坚决的揭露。
+
 People might have objected twenty years ago: “If we don’t give up our
 freedom, if we don’t let the publishers of these works control us, the
 works won’t get made and that will be a horrible disaster.” Now, looking
@@ -1084,10 +1195,20 @@ at the free software community, and all the recipes that circulate, and
 reference works like Wikipedia—we are even starting to see free
 textbooks being published—we know that that fear is misguided.
 
+早在 20 多年前，人们可能会反对这一点：“如果我们不放弃自己的自由，如果我们
+不让这些作品的出版商支配我们，这些作品就没有机会被创作，这是一种恐怖的灾
+难。”现在，请看自由软件社区，还有那些广为流传的菜谱，还有诸如 Wikipedia 
+这样的参考文献——我们甚至还开始见到自由的教科书的发布——我们就可以知道这种
+恐惧是被误导的结果。
+
 There is no need to despair and give up our freedom thinking that
 otherwise the works won’t get made. There are lots of ways to encourage
 them to get made if we want more—lots of ways that are consistent with
 and respect our freedom. In this category, they should all be free.
+
+完全没有必要因为想到若非如此作品就不会被创作而感到绝望并且因此放弃我们的
+自由。还有很多方式可以鼓励作者来创作这些作品，如果我们想要更多的作品——很
+多方式都可以维持并且尊重我们的自由。对于这一大类作品，它们都应当是自由的。
 
 But what about the second category, of works that say what certain
 people thought, like memoirs, essays of opinion, scientific
@@ -1096,10 +1217,18 @@ version of somebody else’s statement of what he thought is
 misrepresenting \[that\] somebody. That’s not particularly a
 contribution to society.
 
+那么，对于第二大类作品又如何呢？即对于那些包含人们的思想的作品，诸如回忆
+录、议论文、科研论文[(2)](#FOOT2)以及其他不同形式的作品。发布某些其他人对
+其自身思想的论述的修改版本将会曲解此人的本意，这绝不是对社会的贡献。
+
 Therefore it is workable and acceptable to have a somewhat reduced
 copyright system where all commercial use is covered by copyright, all
 modification is covered by copyright, but everyone is free to
 non-commercially redistribute exact copies.
+
+因此，创立这样一种在一定程度上弱化的版权体系是可行并且可接受的，在此体系
+中，所有商业应用受版权限制，所有对原作的修改受版权限制，但是任何人都拥有
+对原始版本的副本进行非商业性再分发的自由。
 
 That freedom is the minimum freedom we must establish for all published
 works, because the denial of that freedom is what creates the War on
@@ -1109,6 +1238,12 @@ absurdities backed by a lot of money that has corrupted our governments.
 We need to end the War on Sharing; we need to legalize sharing exact
 copies of any published work.
 
+这些自由是我们必须建立起来的针对所有已发布作品的最低限度自由，由于正是对
+这些自由的否定发动了“消灭分享之战”——它创造了恶毒的鼓吹的概念：分享就是盗
+窃，分享（盗版）行为就像海盗攻击船只的行为。这是荒谬的，但是这种由金钱支
+撑的荒谬理念腐化了我们的政府。我们需要终结“消灭分享之战”；我们需要使得分
+享任何已发布作品的原始版本合法化。
+
 In the second category of works, that’s all we need; we don’t need to
 make them free. Therefore I think it’s OK to have a reduced copyright
 system which covers commercial use and all modifications. And this will
@@ -1117,8 +1252,17 @@ provide a revenue stream to the authors in more or less the same
 mind \[that\] the present system, except for superstars, is usually
 totally inadequate.
 
+对于这第二大类作品，以上这些就是我们所需要的；我们不必使其成为自由的。因
+此我认为拥有一种覆盖了商业应用以及任何修改的减弱的版权体系是可以接受的。
+这可以为作者提供一种收入来源（通常是不足以体现其应得收入的），以某种与现
+有体系或多或少地相同的方式。您应当留意在现有体系中，除了少数明星大腕，绝
+大多数作者完全没有得到应得的收入。
+
 What about works of art and entertainment? Here it took me a while to
 decide what to think about modifications.
+
+那么对于艺术娱乐作品又如何呢？在此，我花费了一些时间来决定如何看待对作品
+的修改。
 
 You see, on one hand, a work of art can have an artistic integrity and
 modifying it could destroy that. Of course, copyright doesn’t
@@ -1127,11 +1271,20 @@ all the time. On the other hand, modifying the work can be a
 contribution to art. It makes possible the folk process which leads to
 things which are beautiful and rich.
 
+您可以看到，一方面，一幅艺术作品可能具有某种艺术上的完整性，对其进行修改
+可能会破坏这种完整性。当然，版权并不会必然地阻止作品以这种方式被糟蹋。好
+莱坞就一直在这样干。另一方面，修改一幅作品也可能成为对艺术的一种贡献，它
+使得民间传承的素材也能变得富有美感和意蕴。
+
 Even if we look at named authors only: consider Shakespeare, who
 borrowed stories from other works only a few decades old, and did them
 in different ways, and made important works of literature. If today’s
 copyright law had existed then, that would have been forbidden and those
 plays wouldn’t have been written.
+
+即使我们仅仅着眼于著名的作家：考虑莎士比亚，他从几十年前发布的作品中借鉴
+故事情节并且以其他方式进行呈现，最终创作出了文学史上的巨著。如果今天的版
+权法在当时也存在，这种创作方式将被禁止，那些剧本也不可能被创作出来。
 
 But eventually I realized that modifying a work of art can be a
 contribution to art, but it’s not desperately urgent in most cases. If
@@ -1141,6 +1294,13 @@ that long. Not like the present-day copyright that makes you wait maybe
 in some cases, because copyright in Mexico expires a hundred years after
 the author dies. This is insane, but ten years, as I’ve proposed
 copyright should last, that people can wait.
+
+但是，我最终意识到修改一幅艺术作品可能成为对艺术的贡献，然而这在大多数情
+况下并非急迫需求。如果您必须等上 10 年使得版权过期，您是可以等上那么长时
+间的。不像现在的版权法迫使您等上 75 年或是 95 年。在墨西哥，有时您可能不
+得不等上将近 200 年，由于墨西哥的版权将会在作者去世 100 年后过期。这是极
+其不理智的，但是如我所提议的 10 年，作为版权应该持续的时间，是人们可以在
+有生之年等到的。
 
 So I propose the same partly reduced copyright that covers commercial
 use and modification, but everyone’s got to be free to non-commercially
