@@ -710,6 +710,10 @@ them to censor this information. It was posted again, they deleted it;
 eventually they gave up, and in two weeks this number was posted in over
 700,000 web sites.
 
+事实上，它就是——破解“战斧”的密钥。人们发布它，然后网站编辑删除它，由于现
+在很多国家的法律动员他们对这类信息实施审查。它再次被发布，他们又将其删除；
+最后他们放弃了，这组密钥在两周之内被发布到了 70 多万个网站上。
+
 That’s a big outpouring of public disgust with DRM. But it didn’t win
 the war, because the publishers changed the key. Not only that: with HD
 DVD, this was adequate to break the DRM, but not with Blu-ray. Blu-ray
@@ -719,13 +723,27 @@ something incompatible with your own freedom. They are an enemy with
 which no accommodation is possible, at least not with our present level
 of knowledge.
 
+这是公众对于 DRM 的不满的一次大规模爆发。但这并未赢得这场战争，由于出版商
+更换了密钥。不仅如此，对于高清 DVD（HD DVD），这种方式足以破解其 DRM，但
+对于蓝光光盘（Blu-ray）则不行。蓝光光盘用有一个额外层级的 DRM，至今没有自
+由软件可以破解它，这意味着您必须将蓝光光盘看做某种与您自己的自由完全不兼
+容的东西。它们是您所不可能与之共存的敌人，至少对于我们当前的知识水平是如
+此。
+
 Never accept any product designed to attack your freedom. If you don’t
 have the free software to play a DVD, you mustn’t buy or rent any DVDs,
 or accept them even as gifts, except for the rare non-encrypted DVDs,
 which there are a few of. I actually have a few \[of these\]—I don’t
 have any encrypted DVDs, I won’t take them.
 
+永远不要接受任何被设计为用于攻击您的自由的产品。如果您没有可用于播放 DVD 
+的自由软件，您必须不要购买或者租用任何 DVD，或者以礼物的形式接受它们，除
+非是稀有的未加密的 DVD，并且确实存在少数这样的东西。我确实用有几片——但我
+没有任何加密的 DVD，我不会设法获得它们。
+
 So this is how things stand in video, but we’ve also seen DRM in music.
+
+以上这些就是视频方面的情况，但我们也已经遇到了音乐中的 DRM。
 
 For instance, about ten years ago we started to see things that looked
 like compact disks, but they weren’t written quite like compact disks.
@@ -733,6 +751,11 @@ They didn’t follow the standard. We called them “corrupt disks,” and the
 idea of them was that they would play in an audio player, but it was
 impossible to read them on a computer. These different methods had
 various problems.
+
+例如，大约 10 年前，我们开始见到一种形似光盘（CD）的东西，但是它们的烧录
+方式和 CD 并不十分相似。它们并不遵守标准。我们称之为“损坏的光盘”，它们所
+遵循的理念是它们可以用某种音频播放器进行播放，但不可能在计算机上读取。这
+些不同的方法具有不同的问题。
 
 Eventually Sony came up with a clever idea. They put a program on the
 disk, so that if you stuck the disk into a computer, the disk would
@@ -742,6 +765,11 @@ things in it to break the security of the system so that it can install
 the software deep inside the system, and modify various parts of the
 system.
 
+最终，索尼想出了一个聪明的主意。它将一个程序存储在盘片上，于是当您将盘片
+放入计算机中时，该盘片将会安装该程序。这个程序被设计为像病毒一样取得系统
+的控制权。它称为 root kit，这意味着它拥有破解系统安全措施的能力，使得它可
+以将软件植入系统深处，并且修改系统中的不同组成部分。
+
 For instance, it modified the command you could use to examine the
 system to see if the software was present, so as to disguise itself. It
 modified the command you could use to delete some of these files, so
@@ -750,6 +778,12 @@ but it’s not the only one Sony committed, because the software also
 included free software code—code that had been released under the GNU
 General Public License.
 
+例如，它修改了您可用于查看系统状态以获知某个软件是否存在的命令，因此它隐
+藏了自己的存在。它修改了您可用于删除它的某些文件的命令，因此这些命令并不
+能真正删除它们。现在，所有这些都是严重的罪行，但这还不是索尼所犯下的唯一
+罪行，由于该软件同时包含自由软件代码——这些代码是以 GNU 通用公共许可证
+（GNU GPL）发布的。
+
 Now the GNU GPL is a copyleft license, and that means it says, “Yes,
 you’re free to put this code into other things, but when you do, the
 entire program that you put things into you must release as free
@@ -757,17 +791,32 @@ software under the same license. And you must make the source code
 available to users, and to inform them of their rights you must give
 them a copy of this license when they get the software.”
 
+现在，GNU GPL 是一种左版许可证，这如同说：“是的，您拥有将此代码整合到其他
+程序中的自由，但如果您决定如此做，您将此代码整合到其中的整个程序也必须以
+相同的许可证作为自由软件发布。并且您必须保证用户可获得源代码，以及为了保
+证他们对于自己的权利拥有知情权，您必须在他们得到软件的同时为他们提供一份
+此许可证的副本。”
+
 Sony didn’t comply with all that. That’s commercial copyright
 infringement, which is a felony. They’re both felonies, but Sony wasn’t
 prosecuted because the government understands that the purpose of the
 government and the law is to maintain the power of those companies over
 us, not to help defend our freedom in any way.
 
+索尼并未完全遵守这些。这属于商业版权侵犯行为，是一种重罪。这两种行为都是
+重罪，但索尼并未因此被起诉，由于政府明白，政府和法律的目的是维护这些公司
+的凌驾于用户之上的权力，而非以任何方式帮助用户捍卫他们的自由。
+
 People got angry and they sued Sony. However, they made a mistake. They
 focused their condemnation not on the evil purpose of this scheme, but
 only on the secondary evils of the various methods that Sony used. So
 Sony settled the lawsuits and promised that in the future, when it
 attacks our freedom, it will not do those other things.
+
+不堪忍受的人们起诉了索尼。然而他们犯了一个错误。他们并未将谴责集中于这一
+阴谋的邪恶目的之上，而是仅仅局限于索尼将其次要罪恶付诸实现的不同方法上。
+于是索尼化解了这些法律诉讼，并承诺在未来继续侵犯我们的自由的时候，它将不
+会再次采用这些方法。
 
 Actually, that particular corrupt disk scheme was not so bad, because if
 you were not using Windows it would not affect you at all. Even if you
@@ -776,9 +825,18 @@ every time to hold it down, then the disk wouldn’t install the software.
 But of course it’s hard to remember that every time; you’re going to
 slip up some day. This shows the kind of thing we’ve had to deal with.
 
+事实上，这种“损坏的光盘”的阴谋并不是非常地坏，由于只要您不用 Windows，它
+不会对您产生任何影响。甚至即使您正在使用 Windows，在您的键盘上有这样一个
+键——如果您每次都记着按住它，该盘片就不会安装那个软件。但是，每次都记着按
+住那个键显然不是一件容易做到的事情；您总有一天会疏忽。这展示了我们必须去
+设法应对的某种事情。
+
 Fortunately music DRM is receding. Even the main record companies sell
 downloads without DRM. But we see a renewed effort to impose DRM on
 books.
+
+幸运的是，音乐所受的 DRM 威胁正在减少。即使是大型唱片公司也会销售不带 DRM 
+的下载版。但是，我们看到了又一波试图为电子书强行施加 DRM 的攻势。
 
 You see, the publishers want to take away the traditional freedoms of
 book readers—freedom to do things such as borrow a book from the public
@@ -787,8 +845,16 @@ buy it anonymously paying cash (which is the only way I buy books—we’ve
 got to resist the temptations to let Big Brother know everything that
 we’re doing.)
 
+您应该看到了，出版商想要剥夺读者的传统阅读自由——诸如从公共图书馆借阅；或
+者将书借给朋友；或者将书卖给旧书商店；或者使用现金匿名购书等自由。（这是
+我购书的唯一方式——我们必须抵御各种诱惑，不让当权者知道我们所做的每一件事
+情。）
+
 Even the freedom to keep the book as long as you wish, and read it as
 many times as you wish, they plan to get rid of.
+
+甚至是您想要保有该书任意长的时间，或者阅读该书任意多次的自由，它们也计划
+剥夺。
 
 The way they do it is with DRM. They knew that so many people read books
 and would get angry if these freedoms were taken away that they didn’t
@@ -797,17 +863,31 @@ freedoms—there would be too much opposition. Democracy is sick, but once
 in a while people manage to demand something. So they came up with a
 two-stage plan.
 
+它们通过 DRM 的方式做到这一点。它们知道有那么多的人读书，如果直接剥夺他们
+的这些自由，他们将会强烈反对，因此它们不认为自己能够简单地通过购买一条法
+律来特定地废除这些自由——这将会招致太多反对。民主是有缺陷的，但有时人们也
+能要求得到某些东西。于是它们想出了一种两步走的方案。
+
 First, take away these freedoms from e-books, and second, convince
 people to switch from paper books to e-books. They’ve succeeded with
 stage 1.
+
+首先，剥夺电子书的这些阅读自由，然后，迫使用户从纸版书转向电子书。它们已
+经成功做到了第一步。
 
 In the US they did it with the Digital Millennium Copyright Act, and in
 New Zealand, that was part of the Copyright Act \[of 2008\]; censorship
 on software that can break DRM was part of that law. That’s an unjust
 provision; it’s got to be repealed.
 
+在美国，它们通过 DMCA 做到了这一点，而在新西兰，这是版权法案（2008 年）的
+一部分，即对于可用于破解 DRM 的软件实施审查。这是一种不公平的条款，它应当
+被废除。
+
 The second stage is convince people to switch from printed books to
 e-books; that didn’t go so well.
+
+第二步是说服人们从纸版书转向电子书；这项进展并不十分顺利。
 
 One publisher in 2001 had the idea they would make their line of e-books
 really popular if they started it with my biography. So they found an
@@ -819,6 +899,13 @@ willing to publish the book under a free license giving you the four
 freedoms—so the book was then published, and sold a lot of copies on
 paper.
 
+2001 年，一家出版商想出了一种方法，如果它能够以我的传记开头，它的系列电子
+书将会变得非常流行。于是它们找到一位作者，后者询问我是否愿意合作，我说：
+“除非该电子书以未加密并且无 DRM 的形式发布。”出版商不愿意接受这一条，而我
+则强烈要求这样——我最终拒绝了。最后我们找到了另一家出版商，它愿意如此做——
+事实上是希望使用自由许可证发布该书以赋予您四项基本自由——于是该书最终出版，
+并且售出了很多份纸版副本。
+
 But in any case, e-books failed at the beginning of this decade. People
 just didn’t want to read them very much. And I said, “They will try
 again.” We saw an amazing number of news articles about electronic ink
@@ -827,19 +914,37 @@ to me probably the reason there’s so many is the publishers want us to
 think about this. They want us to be eager for the next generation of
 e-book readers.
 
+但不管怎么说，电子书在这十年之初并未取得预期成果。人们并不十分愿意阅读它
+们。我曾说过：“它们将会卷土重来。”我们见到了数量可观的关于类似电子墨水的
+新闻文章（或者称为电子纸，我记不清是哪个了），我认为之所以会有那么多文章，
+很可能是由于出版商想让我们考虑这种载体。它们希望我们迫切地想要成为下一代
+电子书的读者。
+
 Now they’re upon us. Things like the Sony Shreader (its official name is
 the Sony Reader, but if you put on ‘sh’ it explains what it’s designed
 to do to your books), and the Amazon Swindle, designed to swindle you
 out of your traditional freedoms without your noticing. Of course, they
 call it the Kindle which is what it’s going to do to your books.
 
+现在，它们终于来了。诸如索尼碎纸机（Shreader，它的官方名字是 reader，但是
+如果您加上 sh 两个字母，这就能很好地解释它是被设计用于对您的书做什么的了）
+和亚马逊诈骗（Swindle）这样的设备是被设计为用于在您毫无戒备的情况下骗走您
+的传统阅读自由的。当然，亚马逊将其称为 Kindle 恰如其分地解释了它将会对您
+的书做些什么。
+
 The Kindle is an extremely malicious product, almost as malicious as
 Microsoft Windows. They both have spy features, they both have Digital
 Restrictions Management, and they both have back doors.
 
+亚马逊焚书机（Kindle）是一款极端恶意的设备，几乎和微软 Windows 操作系统一
+样坏。它们都拥有间谍功能，都拥有 DRM，都拥有后门。
+
 In the case of the Kindle, the only way you can buy a book is to buy it
 from Amazon, and Amazon requires you to identify yourself, so they know
 everything that you’ve bought.
+
+对于 Kindle 焚书机，您唯一可能的购书方式就是从亚马逊购买，它要求您提供所
+有个人信息，于是它们知道关于您所购买的东西的所有信息。
 
 Then there is Digital Restrictions Management, so you can’t lend the
 book or sell it to a used bookstore, and the library can’t lend it
