@@ -33,10 +33,10 @@ program, we call it a “nonfree” or “proprietary” program. The nonfree
 program controls the users, and the developer controls the program; this
 makes the program an instrument of unjust power.[(1)](#FOOT1)
 
-我们争取这些自由，盖因为每个人都应该关注这些。有了这些自由，用户（包括个体和自由）就可以控制程序为己所用。当用户无法控制程序时，我们称之为“非自由”（Nonfree）或“专有”程序。非自由的程序控制了用户，而开发者控制着程序：这就让程序成为了非正义权力的帮凶。[(1)](#FOOT1)
+我们争取这些自由，盖因为每个人都应该关注这些。有了这些自由，用户（包括个体和自由）就可以控制程序为己所用。当用户无法控制程序时，我们称之为“非自由”（Nonfree）或“专有”程序。非自由的程序控制了用户，而开发者控制着程序：这就让程序成为了非正义权力的帮凶[^1]。
 
-@firstcopyingnotice{{@footnoterule@smallskip Copyright © 1996–2002,
-2004–2007, 2009–2015 Free Software Foundation, Inc.\
+>>> Copyright © 1996–2002,
+2004–2007, 2009–2015 Free Software Foundation, Inc.
  {The free software definition was first published in 1996, on
  <http://gnu.org>. This version is part of @fsfsthreecite}
 
@@ -264,14 +264,20 @@ however, it is a potential problem, since a later change in export law
 could make the requirement nontrivial and thus render the software
 nonfree.
 
+仅仅只是提到这些出口限制条款即可，而没有将这些条款作为软件许可证的条件，因为这样并没有限制用户所以也是可以接受的。如果该出口限制条款对自由软件并不重要，将其作为需要的条件也不是一个问题。然而这会产生一个潜在问题，出口限制法规若之后有一定修改，可能会让软件变成非自由的。
+
 A free license may not require compliance with the license of a nonfree
 program. Thus, for instance, if a license requires you to comply with
 the licenses of “all the programs you use,” in the case of a user that
 runs nonfree programs this would require compliance with the licenses of
 those nonfree programs; that makes the license nonfree.
 
+自由的许可证可以不要求遵守非自由程序的许可证。所以，比如，如果一个许可证要求你必须遵守“所有你运行的程序”的许可证，运行非自由程序的用户在这种情况下会需要尊重非自由程序的许可证，那么这将使得该许可证变成非自由的。
+
 It is acceptable for a free license to specify which jurisdiction’s law
 applies, or where litigation must be done, or both.
+
+自由的许可证里是可以制定适用的法律范围或诉讼时必须做的事情，亦可兼而有之。
 
 Most free software licenses are based on copyright, and there are limits
 on what kinds of requirements can be imposed through copyright. If a
@@ -282,11 +288,15 @@ licenses are based on contracts, and contracts can impose a much larger
 range of possible restrictions. That means there are many possible ways
 such a license could be unacceptably restrictive and nonfree.
 
+大多数自由软件许可证是基于版权的，还有通过版权来限制的要求。如果一个基于版权的许可证尊重如上文所说的自由，那么也就不会发生我们意料之外的问题（尽管这也许会发生）。然而很多自由软件许可证是基于合同的，而合同可以增加更大范围的限制。这样就有更大可能性使得该许可证出现无法接受的限制性或非自由。
+
 We can’t possibly list all the ways that might happen. If a
 contract-based license restricts the user in an unusual way that
 copyright-based licenses cannot, and which isn’t mentioned here as
 legitimate, we will have to think about it, and we will probably
 conclude it is nonfree.
+
+我们无法将这些可能的情形一一列出。如果一个基于合同的许可证以不同于基于版权许可证的方式限制了用户，此处也没有表明其为合法，那么我们需要考察这个许可证，并且很可能会将之视为非自由的。
 
 When talking about free software, it is best to avoid using terms like
 “give away” or “for free,” because those terms imply that the issue is
@@ -296,6 +306,8 @@ Care) Because They Are Loaded or Confusing” (@pageref{Words to Avoid})
 for a discussion of these terms. We also have a list of proper
 translations of “free software” into various languages
 (@pageref{Appendix B}).
+
+在谈到自由软件的时候，尽量不要用“白给”（Give Away）或“免费”(For Free)，因为这些词都是暗示免费价格而非自由的。一些常用语比如“盗版”也体现了一些我们希望你不会认同的意见。相关请详见[《避免使用容易混淆的词语》](words-to-avoid.html)一文。我们同时还有根据不同语言列出了“自由软件”（Free Software）一词的翻译，请见[附录B](appendix-b.html)。
 
 Finally, note that criteria such as those stated in this free software
 definition require careful thought for their interpretation. To decide
@@ -309,11 +321,15 @@ lawyer, before we can decide if the requirement is acceptable. When we
 reach a conclusion about a new issue, we often update these criteria to
 make it easier to see why certain licenses do or don’t qualify.
 
+最后，这些有关自由软件的标准需要谨慎的解读。判断一个软件许可证是否是自由软件，标准就是看它是否符合自由软件精神以及精准的用语。如果一个许可证包含了不合理的限制，我们会拒绝它，即便是此文中我们没有预料的问题。有些时候一个许可证会带来新的问题和思考，这需要我们与律师咨询以后，共同判断和思考。当我们最终得出结论，会更新这份标准以使其能更容易体现特定的许可证是否符合标准。
+
 If you are interested in whether a specific license qualifies as a free
 software license, see our list of licenses, at
 <http://gnu.org/licenses/license-list.html>. If the license you are
 concerned with is not listed there, you can ask us about it by sending
 us email at <licensing@gnu.org>.
+
+如果你对特定的许可证感兴趣，可以看我们的[许可证列表](http://gnu.org/licenses/license-list.html)。如果里面没有列出你关心的，可以发邮件询问我们：<licensing@gnu.org>。
 
 If you are contemplating writing a new license, please contact the Free
 Software Foundation first by writing to that address. The proliferation
@@ -321,26 +337,40 @@ of different free software licenses means increased work for users in
 understanding the licenses; we may be able to help you find an existing
 free software license that meets your needs.
 
+如果你打算写一个新的许可证，请首先向通过上面这个邮件联系自由软件基金会。不同的自由软件许可证意味着用户需要花费更多经历来理解；我们也许可以帮你从现有的自由软件许可证里找到符合你需要的。
+
 If that isn’t possible, if you really need a new license, with our help
 you can ensure that the license really is a free software license and
 avoid various practical problems.
 
+如果这样依然不行，如果真的需要一张新的许可证，有了我们的帮助也可以确保许可证符合自由软件标准并避免一些现实问题。
+
 ### Beyond Software {#beyond-software .subheading}
+
+### 软件之外
 
 Software manuals must be free,[(2)](#FOOT2) for the same reasons that
 software must be free, and because the manuals are in effect part of the
 software.
+
+软件手册必须是自由的[^2]，就如同软件必须是自由的一样，因为手册会部分影响软件。
 
 The same arguments also make sense for other kinds of works of practical
 use—that is to say, works that embody useful knowledge, such as
 educational works and reference works. Wikipedia is the best-known
 example.
 
+同理可证其他领域也应该如此——也就是说，任何体现知识可用性的，比如教育资源和参考资料。维基百科（Wikepedia）就是最著名的例子。
+
 Any kind of work *can* be free, and the definition of free software has
 been extended to a definition of free cultural works[(3)](#FOOT3)
 applicable to any kind of works.
 
+任何领域的作品都*可以*是自由的，对自由软件的定义已经扩展为了对自由文化的定义，可应用于任何领域的作品[^3]。
+
 ### Open Source? {#open-source .subheading}
+
+### 开放源代码？
 
 Another group users the term “open source” to mean something close (but
 not identical) to “free software.” We prefer the term “free software”
@@ -348,34 +378,14 @@ because, once you have heard that it refers to freedom rather than
 price, it calls to mind freedom. The word “open” never refers to
 freedom.[(4)](#FOOT4)
 
-<div class="footnote">
+另一些用户组织使用“开放源代码”（“开源”，Open Source）一词来表示与“自由软件”相近（但不尽相同）的意思。我们倾向于使用“自由软件”一词，因为一旦你理解它表示自由而不是价格，这么称呼可以表达自由。“开放”(Open)一词并不能表达自由之要义。
 
-------------------------------------------------------------------------
+[^1]: 可参见《自由软件更加重要了》一文。
 
-### Footnotes
+[^2]: 可参加《为什么自由软件需要自由文档》一文
 
-### [(1)](#DOCF1)
+[^3]: 可参见 <http://freedomdefined.org>
 
-@raggedright See “Free Software Is Even More Important Now”
-(@pageref{More Important Now}) for more on this issue. @end raggedright
+[^4]: 可参见《为什么开源软件没有抓住自由软件的要点》一文
 
-### [(2)](#DOCF2)
 
-@raggedright See “Why Free Software Needs Free Documentation”
-(@pageref{Free Doc}). @end raggedright
-
-### [(3)](#DOCF3)
-
-@raggedright See <http://freedomdefined.org>. @end raggedright
-
-### [(4)](#DOCF4)
-
-@raggedright See “Why Open Source Misses the Point of Free Software”
-(@pageref{OS Misses Point}). @end raggedright
-
-</div>
-
-------------------------------------------------------------------------
-
-This document was generated by *tonghuix* on *March 25, 2016* using
-[*texi2html 1.82*](http://www.nongnu.org/texi2html/).\
