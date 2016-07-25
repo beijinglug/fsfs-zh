@@ -4,10 +4,12 @@ Free Software, Free Society v3 Chinese Translation
 如何参与
 ---------
 
+关于翻译术语，请见：<https://blug.sh/wiki/doku.php?id=projects:fsfs-zh>
+
 ### 翻译流程
 
 - 总的原则是谁开的坑谁来填。
-- 翻译之前先到 issue 里看看欲翻译的那篇文章有没有被人占据，以防冲突或重复劳动
+- 翻译之前先到 issues 里看看欲翻译的那篇文章有没有被人占据，以防冲突或重复劳动。
 - 开个 issue 表明想要翻译的文章
 - 翻译时以段落为单位，将译文写到原文下方即可，**不要删除**原英文，以备校对时使用
 - 整篇文章翻译完之后顺便将自己的名字写到````README.md````文件的贡献者一栏，然后将所有 commit 一起提交 Pull Request 即可。
@@ -16,7 +18,7 @@ Free Software, Free Society v3 Chinese Translation
 
 ### 校对流程
 
-- 任何已经翻译好的文章都可以校对
+- 任何已经翻译好的文章都可以校对，已翻译过的文章列表可参见 issue #14
 - 一边校对一边删除原文，校对完成一段删除一段原文
 - 校对时注意整篇文章的翻译用语必须一致
 - 删除时注意调整 Markdown 格式
