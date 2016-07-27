@@ -241,7 +241,7 @@ buzzword.[(11)](#FOOT11)
 
 ### Different Values Can Lead to Similar Conclusions…but Not Always {#different-values-can-lead-to-similar-conclusionsbut-notalways .subheading}
 
-
+### 不同的价值观会得出类似的结论……但并非总是如此
 
 Radical groups in the 1960s had a reputation for factionalism: some
 organizations split because of disagreements on details of strategy, and
@@ -249,11 +249,15 @@ the two daughter groups treated each other as enemies despite having
 similar basic goals and values. The right wing made much of this and
 used it to criticize the entire left.
 
+二十世纪六十年代，激进组织因为派别纷争而获得一些声誉：一些组织因为对策略上细节的分歧而导致分裂。尽管依然有着相似的基本目标和价值观，但是分裂出来的两个组织往往把对方当作敌人。右翼组织做过很多类似行为，并以此来批评左派。
+
 Some try to disparage the free software movement by comparing our
 disagreement with open source to the disagreements of those radical
 groups. They have it backwards. We disagree with the open source camp on
 the basic goals and values, but their views and ours lead in many cases
 to the same practical behavior—such as developing free software.
+
+有些人试图把我们和开源之间的分歧比作这些激进组织之间的分歧，以此来诋毁自由软件运动。但是他们完全错了。我们虽然和开源阵营在根本目标和价值观上无法达成共识，但是他们和我们的观点在许多情况下是一样的，都引领了实际行动——比如开发自由软件。
 
 As a result, people from the free software movement and the open source
 camp often work together on practical projects such as software
@@ -261,6 +265,8 @@ development. It is remarkable that such different philosophical views
 can so often motivate different people to participate in the same
 projects. Nonetheless, there are situations where these fundamentally
 different views lead to very different actions.
+
+结果是，来自自由软件运动和开源阵营的人们经常在一些诸如软件开发的实际项目中协同工作。不同的哲学观点能够如此频繁地激励不同人参与到相同的项目中，这是非同寻常的。不过因为这些观点相差很大，所以也存在导致行为相差很大的情况。
 
 The idea of open source is that allowing users to change and
 redistribute the software will make it more powerful and reliable. But
@@ -270,11 +276,15 @@ powerful and reliable, even though it does not respect the users’
 freedom. Free software activists and open source enthusiasts will react
 very differently to that.
 
+开源的思想是允许用户修改和重新发布软件以使它更强大、更可靠。但是这些并不能得到保证。专有软件的开发者们并非必然就不称职。有时他们开发的程序是强大而且可靠的，尽管它并没有尊重用户的自由。自由软件积极分子和开源爱好者对此的反应是非常不同的。
+
 A pure open source enthusiast, one that is not at all influenced by the
 ideals of free software, will say, “I am surprised you were able to make
 the program work so well without using our development model, but you
 did. How can I get a copy?” This attitude will reward schemes that take
 away our freedom, leading to its loss.
+
+一个从未受到自由软件思想影响的纯开源爱好者，会说：“我非常惊讶你们不使用我们的开发模式，居然能让程序工作得这么好，但是你们确实做到了。我怎样才能得到一份副本呢？”。这种态度会鼓励那些夺走我们自由，或有损自由的项目。
 
 The free software activist will say, “Your program is very attractive,
 but I value my freedom more. So I reject your program. I will get my
@@ -282,11 +292,17 @@ work done some other way, and support a project to develop a free
 replacement.” If we value our freedom, we can act to maintain and defend
 it.
 
+自由软件积极拥护者会说：“虽然你的程序很吸引人，但不能和我的自由相提并论。所以我不得不放弃它。相反，我会支持开发自由替代品的项目”。如果我们重视自由，那么就会用行动来维护和捍卫。
+
 ### Powerful, Reliable Software Can Be Bad {#powerful-reliable-software-can-be-bad .subheading}
+
+### 强大而可靠的软件可能是件坏事
 
 The idea that we want software to be powerful and reliable comes from
 the supposition that the software is designed to serve its users. If it
 is powerful and reliable, that means it serves them better.
+
+我们想让软件变得强大、可靠的想法，来自软件被设计用于服务它的用户的假设。如果软件强大、可靠，这意味着它将很好地服务于用户。
 
 But software can be said to serve its users only if it respects their
 freedom. What if the software is designed to put chains on its users?
@@ -295,6 +311,8 @@ reliability that they are harder to remove. Malicious features, such as
 spying on the users, restricting the users, back doors, and imposed
 upgrades are common in proprietary software, and some open source
 supporters want to implement them in open source programs.
+
+然而只有在软件尊重了用户的自由时，才能说它服务于用户。如果软件被设计的目的是使用户枷锁加身会怎样呢？那样的话，强大仅仅意味着枷锁套得更紧，而可靠则使枷锁更难去除。恶意的功能，比如针对用户的间谍行为、限制用户、后门和在专有软件里很常见的强制性升级，甚至有些开源的支持者也想实现这些。
 
 Under pressure from the movie and record companies, software for
 individuals to use is increasingly designed specifically to restrict
@@ -306,6 +324,8 @@ in spirit: since the goal of DRM is to trample your freedom, DRM
 developers try to make it hard, impossible, or even illegal for you to
 change the software that implements the DRM.
 
+在电影和唱片公司的压力下，个人使用的软件逐渐被有意地设计成能够限制用户的软件。这种恶意的特征被称为 DRM 或者数字限制管理（Digital Restrictions Management，参见[DefectiveByDesign.org](DefectiveByDesign.org)），而这正是与自由软件所要提倡的自由精神相对立的。并且不仅仅在精神上：因为 DRM 的目标是践踏你们的自由，DRM 的开发者们试图使你修改实现了 DRM 的软件变得困难、或者不可能，甚至非法。
+
 Yet some open source supporters have proposed “open source DRM”
 software. Their idea is that, by publishing the source code of programs
 designed to restrict your access to encrypted media and by allowing
@@ -313,13 +333,19 @@ others to change it, they will produce more powerful and reliable
 software for restricting users like you. The software would then be
 delivered to you in devices that do not allow you to change it.
 
+然而，一些开源支持者提出了所谓“开源 DRM”软件。他们的想法是，通过公开并允许人们修改那些被设计成用来限制你访问加密媒体的程序的源代码，来为像你这样的受限用户生产更加强大、可靠的软件。然后，再将这些程序放到那些不允许你修改的设备中发布。
+
 This software might be open source and use the open source development
 model, but it won’t be free software since it won’t respect the freedom
 of the users that actually run it. If the open source development model
 succeeds in making this software more powerful and reliable for
 restricting you, that will make it even worse.
 
+这种软件或许是开放源代码的，而且使用了开源的开发模式，但它并不是自由软件，因为并没有尊重实际运行它的用户的自由。如果开源开发模式通过开发更强大和更可靠的软件来限制用户而获得了成功，这将使它变得更糟糕。
+
 ### Fear of Freedom {#fear-of-freedom .subheading}
+
+### 对自由的敬畏
 
 The main initial motivation of those who split off the open source camp
 from the free software movement was that the ethical ideas of “free
@@ -330,11 +356,15 @@ as whether their conduct is ethical. This can trigger discomfort, and
 some people may simply close their minds to it. It does not follow that
 we ought to stop talking about these issues.
 
+起初，开源阵营从自由软件运动中分裂出来，是因为“自由软件”的伦理观念使一些人不安。这的确是事实：谈论关于自由、道义问题、可靠性和方便性，提醒人们去考虑那些可能被他们忽略的问题，比如他们的行为是否是道德的。这会引起不舒服，而且一些人甚至会回避它。但这并不意味着我们应该停止讨论这些事情。
+
 That is, however, what the leaders of open source decided to do. They
 figured that by keeping quiet about ethics and freedom, and talking only
 about the immediate practical benefits of certain free software, they
 might be able to “sell” the software more effectively to certain users,
 especially business.
+
+然而，这正是开源的引领者决定要做的。他们希望停止对伦理规范的和自由问题的讨论，而仅仅关注某个自由软件直接的实际利润，这样，他们或许就能更有效地将软件“卖”给某些用户，特别是商业用户。
 
 This approach has proved effective, in its own terms. The rhetoric of
 open source has convinced many businesses and individuals to use, and
@@ -345,6 +375,8 @@ of free software; it brings many people into our community, but does not
 teach them to defend it. That is good, as far as it goes, but it is not
 enough to make freedom secure. Attracting users to free software takes
 them just part of the way to becoming defenders of their own freedom.
+
+用他们自己的话说，这种方法已经被证实是有效的。开源的修辞方式已经吸引了许多商业和个人用户来使用，甚至开发这些壮大我们社区的自由软件——但仅仅是在表面的、实用上的。开源哲学，和它纯粹的实用主义价值观，阻碍了人们对自由软件更深层观点的理解；它将许多人带进了我们的社区，但却没有教他们去捍卫社区。就目前的现状来看还是不错的，但是它不足以捍卫自由。要吸引自由软件用户，需要让他们成为个体自由的捍卫者。
 
 Sooner or later these users will be invited to switch back to
 proprietary software for some practical advantage. Countless companies
@@ -357,12 +389,16 @@ quiet” approach to business can be useful for the community, but it is
 dangerous if it becomes so common that the love of freedom comes to seem
 like an eccentricity.
 
+迟早这些会因为一些实际利益而转向专有软件。无数的公司试图提供这种诱惑，有些甚至提供免费副本。为什么用户会减少？只有他们领悟了自由软件所赋予用户的自由，去珍惜自由的价值，而不只关心特定自由软件在技术上和实用性上的方便性价值，他们就会明白了。为了传播这种思想，我们必须谈论自由。对商业采取一定的沉默方式对于社区来说是有益的，但是，如果大家普遍地把对自由的向往看作是一种怪癖，那将是很危险的。
+
 That dangerous situation is exactly what we have. Most people involved
 with free software, especially its distributors, say little about
 freedom—usually because they seek to be “more acceptable to business.”
 Nearly all GNU/Linux operating system distributions add proprietary
 packages to the basic free system, and they invite users to consider
 this an advantage rather than a flaw.
+
+这种危险确实已经发生。大多数投入自由软件的人，特别是发行者，很少谈论“自由”——通常是因为他们追求“更容易被商业接受”。几乎所有的 GNU/Linux 操作系统发行版都在基本的自由系统上加入了专有软件包，而且他们让用户认为这是优点，而不是与“自由”思想背道而驰的。
 
 Proprietary add-on software and partially nonfree GNU/Linux
 distributions find fertile ground because most of our community does not
@@ -373,7 +409,11 @@ don’t uphold freedom and the words that don’t talk about freedom go hand
 in hand, each promoting the other. To overcome this tendency, we need
 more, not less, talk about freedom.
 
+加入专有版权的软件和部分非自由的 GNU/linux 发行版之所以找到了孕育的温床，是因为我们的许多社区没有在他们的软件上贯彻自由。这并非巧合。大多数 GNU/Linux 的用户是通过讨论“开源”而引入到这个系统的，这些讨却并没有将“自由”作为目标。那些不支持自由的行为和不谈讨自由的言论并肩而行，相互促进。为了避免这种趋势，我们需要更多地，而不是更少地，来谈论“自由”。
+
 ### “FLOSS” and “FOSS” {#floss-and-foss .subheading}
+
+### “FLOSS” 和 “FOSS”
 
 The terms “FLOSS” and “FOSS”[(12)](#FOOT12) are used to be neutral
 between free software and open source. If neutrality is your goal,
@@ -381,7 +421,11 @@ between free software and open source. If neutrality is your goal,
 want to stand up for freedom, using a neutral term isn’t the way.
 Standing up for freedom entails showing people your support for freedom.
 
+为了在自由软件和开源之间保持中立，常用“FLOSS” 和 “FOSS”[^12]这种说法。如果你的目标是中立性，那么“FLOSS”更好，因为这真的很中立。如果你更想表达自由，那么用中立的说法并不好。站在自由的一边，让人们看到你对自由的支持。
+
 ### Rivals for Mindshare {#rivals-for-mindshare .subheading}
+
+### 对立的传播
 
 “Free” and “open” are rivals for mindshare. “Free software” and “open
 source” are different ideas but, in most people’s way of looking at
@@ -394,6 +438,8 @@ they recognize that we stand for something *else.* Any activity that
 promotes the word “open” tends to extend the curtain that hides the
 ideas of the free software movement.
 
+“自由”和“开放”是一对传播上对立概念。“自由软件”和“开源”虽然是不同的思想，大多数认为i这两个在概念上是相同的。当人们变得习惯于说和思考“开源”，这对他们获取自由软件运动的理念和思考是一个障碍。如果他们已经将“开放”和我们联系起来，在他们认识到我们代表*其他事情*之前，也许需要冲击他们的理性。任何推广“开放”的活动实际上都会更深的让自由软件运动隐藏在幕后。
+
 Thus, free software activists are well advised to decline to work on an
 activity that calls itself “open.” Even if the activity is good in and
 of itself, each contribution you make does a little harm on the side.
@@ -402,7 +448,11 @@ or “libre.” Each contribution to those projects does a little extra good
 on the side. With so many useful projects to choose from, why not choose
 one which does extra good?
 
+因此，自由软件的活跃者经过深思熟虑以后决定拒绝参加那些标榜自己是“开放”的活动。即使活动本身并不错，每次为“开放”多做的贡献，都会对另一方作出伤害。也有很多很好的活动是“自由”或“解放”的。而参与这些活动，会对这些项目有小小的额外好出。既然有这么多有益的项目可选，为什么不选能更有好处的呢？
+
 ### Conclusion {#conclusion .subheading}
+
+### 结论
 
 As the advocates of open source draw new users into our community, we
 free software activists must shoulder the task of bringing the issue of
@@ -410,7 +460,11 @@ freedom to their attention. We have to say, “It’s free software and it
 gives you freedom!”—more and louder than ever. Every time you say “free
 software” rather than “open source,” you help our cause.
 
+开源的拥护者把新用户引入我们的社区，我们这些自由软件支持者必须做更多地工作来让这些新用户关注自由的问题。我们必须大声且更大声的高呼：“是自由软件给予了你们自由！” 每当你说“自由软件”，而不是说“开源”的时候，你就是在为我们助阵。
+
 #### Note {#note .subsubheading}
+
+#### 备注
 
 Karim R. Lakhani and Robert G. Wolf’s paper on the motivation of free
 software developers (“Why Hackers Do What They Do: Understanding
@@ -424,21 +478,22 @@ software should be free. This is despite the fact that they surveyed the
 developers on SourceForge, a site that does not support the view that
 this is an ethical issue.
 
-<div class="footnote">
+Karim R. Lakhani 和 Robert G. Wolf的论文[“Why Hackers Do What They Do: Understanding Motivation and Effort in Free/Open Source Software Projects,” （剑桥: MIT 出版社, 2005）](http://ocw.mit.edu/courses/sloan-school-of-management/15-352-managing-innovation-emerging-trends-spring-2005/readings/%3Cbr%3Elakhaniwolf.pdf)在探讨自由软件开发者动机时，指出相当一部分人被“软件必须是自由的”的观点所鼓舞。这里忽略了他们调查的调查对象是 SourceFourge 的开发人员这一事实，而该站点并不支持这是个伦理问题的观点。
 
-------------------------------------------------------------------------
-
-### Footnotes
 
 ### [(1)](#DOCF1)
 
 @raggedright See @pageref{Definition} for the full definition of free
 software. @end raggedright
 
+[^1]: 有关自由软件的完整定义，参见《自由软件定义》一文。
+
 ### [(2)](#DOCF2)
 
 @raggedright See “Linux and the GNU System” (@pageref{Linux and GNU})
 for more on the operating system. @end raggedright
+
+[^2]: 关于操作系统可参见《Linux 和 GNU 系统》一文
 
 ### [(3)](#DOCF3)
 
@@ -449,21 +504,29 @@ article\
 Open-Source-Is-Woven-Into-the-Latest-Hottest-Trends-78937.html](http://www.linuxinsider.com/story/%3Cbr%3EOpen-Source-Is-Woven-Into-the-Latest-Hottest-Trends-78937.html)).
 @end raggedright
 
+[^3]: 一个典型的领子，比如 Jay Lyman 的文章[“Open Source Is Woven Into the Latest, Hottest Trends” (12 September 2013)](http://www.linuxinsider.com/story/%3Cbr%3EOpen-Source-Is-Woven-Into-the-Latest-Hottest-Trends-78937.html) 
+
 ### [(4)](#DOCF4)
 
 @raggedright See “How Free Software and Open Source Relate as Categories
 of Programs,” at <http://gnu.org/philosophy/free-open-overlap.html>.
 @end raggedright
 
+[^4]: 参见[“How Free Software and Open Source Relate as Categories of Programs”](http://gnu.org/philosophy/free-open-overlap.html)一文
+
 ### [(5)](#DOCF5)
 
 @raggedright See <http://opensource.org/docs/osd> for the full
 definition. @end raggedright
 
+[^5]: 全部定义可参见<http://opensource.org/docs/osd> 
+
 ### [(6)](#DOCF6)
 
 @raggedright Neal Stephenson, In the Beginning...Was the Command Line
 (New York: HarperCollins Publishers, 1999), p. 94. @end raggedright
+
+[^6]: Neal Stephenson, In the Beginning...Was the Command Line（纽约，HarperCollins出版，1999年），p 49。
 
 ### [(7)](#DOCF7)
 
@@ -472,6 +535,9 @@ Architecture,” version 8.0, 20.3.8, accessed 11 October 2001,
 [https://web.archive.org/web/\
 20001011193422/http://da.state.ks.us/ITEC/TechArchPt6ver80.pdf](https://web.archive.org/web/%3Cbr%3E20001011193422/http://da.state.ks.us/ITEC/TechArchPt6ver80.pdf).
 @end raggedright
+
+[^7]: 堪萨斯州全州技术架构，“信息架构”，version 8.0, 20.3.8, 2011年10月11日。
+<https://web.archive.org/web/20001011193422/http://da.state.ks.us/ITEC/TechArchPt6ver80.pdf>
 
 ### [(8)](#DOCF8)
 
@@ -482,6 +548,8 @@ gigaom/2009/02/07/07gigaom-the-brave-new-world-of-open-source-game-\
 design-37415.html](http://www.nytimes.com/external/%3Cbr%3Egigaom/2009/02/07/07gigaom-the-brave-new-world-of-open-source-game-%3Cbr%3Edesign-37415.html).
 @end raggedright
 
+[^8]: Mary Jane Irwin，“The Brave New World of Open-Source Game Design”（开源游戏设计的勇敢新世界），纽约时报，在线版，2009年2月7日。<http://www.nytimes.com/external/%3Cbr%3Egigaom/2009/02/07/07gigaom-the-brave-new-world-of-open-source-game-%3Cbr%3Edesign-37415.html>
+
 ### [(9)](#DOCF9)
 
 @raggedright Karl Mathiesen and Tess Riley, “Texas Teenager Creates \$20
@@ -490,10 +558,14 @@ Water Purifier to Tackle Toxic E-Waste Pollution,” 27 August 2015,
 toxic-e-waste-pollution](http://theguardian.com/sustainable-business/2015/aug/27/texas-teenager-water-purifier-%3Cbr%3Etoxic-e-waste-pollution).
 @end raggedright
 
+[^9]: Karl Mathiesen 和 Tess Riley，“Texas Teenager Creates $20 Water Purifier to Tackle Toxic E-Waste Pollution”（德州青少年创建 $20 水净化器，以解决有毒电子废物污染环境），2015年8月27日。<http://theguardian.com/sustainable-business/2015/aug/27/texas-teenager-water-purifier-%3Cbr%3Etoxic-e-waste-pollution>
+
 ### [(10)](#DOCF10)
 
 @raggedright See “Various Licenses and Comments about Them,” at\
  <http://gnu.org/licenses/license-list.html>. @end raggedright
+
+[^10]: 参见“Various Licenses and Comments about Them” <http://gnu.org/licenses/license-list.html>”
 
 ### [(11)](#DOCF11)
 
@@ -501,15 +573,13 @@ toxic-e-waste-pollution](http://theguardian.com/sustainable-business/2015/aug/27
 <http://www.nytimes.com/2013/03/17/opinion/sunday/morozov-open-and-closed.html>.
 @end raggedright
 
+[^11]:  Evgeny Morozov，“Open and Closed”（开放和封闭），2013年3月16日，<http://www.nytimes.com/2013/03/17/opinion/sunday/morozov-open-and-closed.html>
+
 ### [(12)](#DOCF12)
 
 @raggedright See both @pageref{FLOSS} and the article “FLOSS and FOSS,”
 at <http://www.gnu.org/philosophy/floss-and-foss.html>, for more on this
 issue. @end raggedright
 
-</div>
+[^12]: 可参见本文或文章”FLOSS 和 FOSS“<http://www.gnu.org/philosophy/floss-and-foss.html>
 
-------------------------------------------------------------------------
-
-This document was generated by *tonghuix* on *March 25, 2016* using
-[*texi2html 1.82*](http://www.nongnu.org/texi2html/).\
