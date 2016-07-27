@@ -66,7 +66,7 @@ practical values, such as making or having powerful, reliable software.
 Most of the supporters of open source have come to it since then, and
 they make the same association.
 
-一些“开源”的支持者认为它是“自由软件的商业市场运动”，因为突出现实利益能吸引商业执行部门，并且避免纠缠于他们不想听的是非观点。其他支持者甚至断然否定自由软件运动的伦理和社会价值观。不管他们的观点是哪一种，“开源”运动中都没有谈起或提倡这种价值观。“开源”这个说法很快便与仅仅表彰诸如构建强大、稳定的软件等等一些实用价值联系在一起。许多“开源”的支持者从那时走到这一步，而且那样的现状就是他们那样做的用意。
+一些“开源”的支持者认为它是“自由软件的商业市场运动”，因为突出现实利益能吸引商业执行部门，并且避免纠缠于他们不想听的是非观点。其他支持者甚至断然否定自由软件运动的伦理和社会价值观。不管他们的观点是哪一种，“开源”运动中都没有谈起或提倡这种价值观。“开源”这个说法很快便与一些现实想法和论点勾连在一起了，比如构建强大而稳定的软件。从那时起许多“开源”的支持者也因此而加入其中，并持同样观点。
 
 The two terms describe almost the same category of software, but they
 stand for views based on fundamentally different values. Open source is
@@ -79,8 +79,12 @@ inferior solution to the practical problem at hand. Most discussion of
 “open source” pays no attention to right and wrong, only to popularity
 and success. [(3)](#FOOT3)
 
+这两个说法其实说的几乎都是同一类软件，但是它们所秉持的价值观是根本不同的。开源是一种开发方法论，自由软件是一唱社会运动。对自由软件运动而言，自由软件是一种道义责任，尊重用户最根本的自由。而另一方面，开源的哲学更关注如何让软件“更好”——只关心实践意义。开源认为，非自由软件只是手边问题的欠妥解答，“开源”的大多数讨论不关注对与错，只有知名度和成功[^3]。
+
 For the free software movement, however, nonfree software is a social
 problem, and the solution is to stop using it and move to free software.
+
+然而自由软件运动中，非自由软件是一个社会问题，解决方案就是停止使用并转向自由软件。
 
 “Free software.” “Open source.” If it’s the same software (or nearly
 so[(4)](#FOOT4)), does it matter which name you use? Yes, because
@@ -90,10 +94,14 @@ in a lasting way depends above all on teaching people to value freedom.
 If you want to help do this, it is essential to speak of “free
 software.”
 
+“自由软件”，“开放源代码”，如果指代的是同样（或几乎相同[^4]）的软件，你用什么名字很重要吗？是的，因为不同的文字传达了不同的理念。虽然现在一个以其他方式命名的自由程序能给你同样的自由，但是可持续的构筑自由依赖于教育人们珍惜自由。如果你愿意帮助做这个，说出“自由软件”是很重要的。
+
 We in the free software movement don’t think of the open source camp as
 an enemy; the enemy is proprietary (nonfree) software. But we want
 people to know we stand for freedom, so we do not accept being
 mislabeled as open source supporters.
+
+自由软件运动中我们并不把开源阵营看作敌人；敌人是专有（非自由）软件。但是我们希望人们知道我们代表自由，所以我们不能接受把我们和开源支持者混为一谈。
 
 ### Practical Differences between Free Software and Open Source {#practical-differences-between-free-software-and-open-source .subheading}
 
