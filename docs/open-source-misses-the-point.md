@@ -1,14 +1,10 @@
----
-Generator: 'texi2html 1.82'
-description: Untitled Document
-distribution: global
-keywords: Untitled Document
-resource-type: document
-title: Untitled Document
-...
-
 1. Why Open Source Misses the Point of Free Software {#why-open-source-misses-the-point-of-freesoftware .chapter}
 ====================================================
+
+“开放源代码”为什么不符合自由软件的思想
+======
+
+>> Copyright © 2007, 2008,2010, 2012–2015 Richard Stallman 此文最早于2007年发布于 <http://gnu.org>
 
 When we call software “free,” we mean that it respects the users’
 essential freedoms: the freedom to run it, to study and change it, and
@@ -16,12 +12,16 @@ to redistribute copies with or without changes.[(1)](#FOOT1) This is a
 matter of freedom, not price, so think of “free speech,” not “free
 beer.”
 
+当我们说软件“自由”的时候，我们意指它尊重用户最根本的自由：即运行、学习和修改软件，或者重新发布软件副本（无论是否修改过）的自由[^1]。这是一个关于自由的问题，而非价格。因此我们应该理解为“言论自由”，而不是“免费啤酒“。
+
 These freedoms are vitally important. They are essential, not just for
 the individual users’ sake, but for society as a whole because they
 promote social solidarity—that is, sharing and cooperation. They become
 even more important as our culture and life activities are increasingly
 digitized. In a world of digital sounds, images, and words, free
 software becomes increasingly essential for freedom in general.
+
+这些自由极其重要，而且必要的，不仅是因为它们满足用户的个体利益，更是因为它们促进社会的团结——也就是分享与协作。由于我们的文化和生活变得越来越数字化，因此这些自由就变得越来越重要了。在一个由数字化的声音、图像和文字组成的世界里，自由软件正在逐渐地趋近于通常意义上的自由。
 
 Tens of millions of people around the world now use free software; the
 public schools of some regions of India and Spain now teach all students
@@ -32,10 +32,7 @@ nowadays this system and community are more often spoken of as “open
 source,” attributing them to a different philosophy in which these
 freedoms are hardly mentioned.
 
-@firstcopyingnotice{{@footnoterule @smallskip Copyright © 2007, 2008,
-2010, 2012–2015 Richard Stallman\
- {This essay was originally published on <http://gnu.org>, in 2007. This
-version is part of @fsfsthreecite}
+现在全世界有数以千万计的人使用自由软件；印度和西班牙的一些学校正在教授所有的学生使用自由的 GNU/Linux 操作系统[^2]。但是，大多数用户都没有听说过我们开发这个系统以及建立自由软件社区的伦理原因，因为现在这个系统和社区更多地被描述为“开放源代码”（简称“开源”），并将其归属为另一种不同的、几乎不提及自由的哲学。
 
 The free software movement has campaigned for computer users’ freedom
 since 1983. In 1984 we launched the development of the free operating
@@ -45,6 +42,8 @@ essential components of the system and designed the GNU General Public
 License (GNU GPL) to release them under—a license designed specifically
 to protect freedom for all users of a program.
 
+自 1983 年以来，自由软件运动为计算机用户的自由而战。1984 年，我们发起开发自由的操作系统 GNU，避免那些否定用户自由的非自由操作系统。在八十年代，我们开发出了这个系统的重要组件，还有 GNU 通用公共许可证（GNU GPL）——一个专门用于保护所有用户自由的许可证。
+
 Not all of the users and developers of free software agreed with the
 goals of the free software movement. In 1998, a part of the free
 software community splintered off and began campaigning in the name of
@@ -52,6 +51,8 @@ software community splintered off and began campaigning in the name of
 misunderstanding of the term “free software,” but it soon became
 associated with philosophical views quite different from those of the
 free software movement.
+
+并不是所有的自由软件用户和开发人员都认同自由软件运动的目标。1998年，一部分人从自由软件社区中分裂出去，并且开始了以“开源”为旗号的运动。提出“开源”这个说法原本是为了避免“自由软件”可能产生的一些误解，但却很快就与自由软件运动哲学观点分道扬镳了。
 
 Some of the supporters of open source considered the term a “marketing
 campaign for free software,” which would appeal to business executives
@@ -64,6 +65,8 @@ quickly became associated with ideas and arguments based only on
 practical values, such as making or having powerful, reliable software.
 Most of the supporters of open source have come to it since then, and
 they make the same association.
+
+一些“开源”的支持者认为它是“自由软件的商业市场运动”，因为突出现实利益能吸引商业执行部门，并且避免纠缠于他们不想听的是非观点。其他支持者甚至断然否定自由软件运动的伦理和社会价值观。不管他们的观点是哪一种，“开源”运动中都没有谈起或提倡这种价值观。“开源”这个说法很快便与仅仅表彰诸如构建强大、稳定的软件等等一些实用价值联系在一起。许多“开源”的支持者从那时走到这一步，而且那样的现状就是他们那样做的用意。
 
 The two terms describe almost the same category of software, but they
 stand for views based on fundamentally different values. Open source is
