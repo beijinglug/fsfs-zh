@@ -105,6 +105,8 @@ mislabeled as open source supporters.
 
 ### Practical Differences between Free Software and Open Source {#practical-differences-between-free-software-and-open-source .subheading}
 
+### 自由软件和开放源代码的实际差别
+
 In practice, open source stands for criteria a little weaker than those
 of free software. As far as we know, all existing free software would
 qualify as open source. Nearly all open source software is free
@@ -113,6 +115,8 @@ too restrictive, so they do not qualify as free licenses. For example,
 “Open Watcom” is nonfree because its license does not allow making a
 modified version and using it privately. Fortunately, few programs use
 such licenses.
+
+实际上，开源的标准比自由软件要弱一些。据我们所知，目前所有的自由软件都算是开源软件。几乎所有开源软件也都是自由软件，但也有例外。首先是一些开源许可证过于严苛，因此不能认定为是自由许可证。比如“Open Watcom”的许可证就不是自由的，因为它不允许将修改后的软件私人使用。幸运的是，只有很少一些程序使用这样的许可证。
 
 Second, and more important in practice, many products containing
 computers check signatures on their executable programs to block users
@@ -123,13 +127,19 @@ called “tivoization” after the product (Tivo) where we first saw it.
 Even if the executable is made from free source code, the users cannot
 run modified versions of it, so the executable is nonfree.
 
+其次，实践中更重要的一点是，很多产品包含了计算机可以检查可执行程序签名的方法，以便封锁用户安装其他版本的可执行程序。只有这个有特权的公司可以允许所有设备运行，或允许访问其全部兼容设备。这种设备我们称之为“暴君”（Tyrants），而这种行为称之为“tivoization”，而其产品则称为“Tivo”。即使可执行文件是从自由的源代码构建，用户无法运行修改版，所以可执行文件也是非自由的。
+
 The criteria for open source do not recognize this issue; they are
 concerned solely with the licensing of the source code. Thus, these
 unmodifiable executables, when made from source code such as Linux that
 is open source and free, are open source but not free. Many Android
 products contain nonfree tivoized executables of Linux.
 
+开源标准并没有认识到这个问题。它只关注源代码的许可证问题。因此，当从比如像 Linux 这种开源且自由的源代码构建的不可修改的可执行文件，其源代码依旧不是自由的。很多 Android 产品包含了这种基于 Linux 的非自由“暴君”可执行文件。
+
 ### Common Misunderstandings of “Free Software” and “Open Source” {#common-misunderstandings-of-free-software-and-open-source .subheading}
+
+### 对“自由软件”和“开放源代码”的常见误解
 
 The term “free software” is prone to misinterpretation: an unintended
 meaning, “software you can get for zero price,” fits the term just as
@@ -140,6 +150,8 @@ is not a perfect solution; it cannot completely eliminate the problem.
 An unambiguous and correct term would be better, if it didn’t present
 other problems.
 
+对“自由软件”有一个错误的判断：一个下意识的理解，“你可以零价格得到的软件”，而“给予用户真正自由的软件”更适合这个说法，和真正的意义。我们通过广为散播自由软件的定义和强调“理解 free 为'自由的言论'，而并非'免费啤酒'”，来解决这个问题。这不是一个完美的解决方法；它不能完全排除这个问题。也许一个没有歧义且正确的说法能更好一些，如果它没有其它问题。
+
 Unfortunately, all the alternatives in English have problems of their
 own. We’ve looked at many that people have suggested, but none is so
 clearly “right” that switching to it would be a good idea. (For
@@ -148,11 +160,15 @@ well, but people in India do not recognize it at all.) Every proposed
 replacement for “free software” has some kind of semantic problem—and
 this includes “open source software.”
 
+然而很不幸，英语里所有可选的说法都存在各种问题。我们曾考虑过许多人被所建议的备选方案，但没有一个是明显“正确”的选择。每个提交的用来替代“自由软件”的词语都存在一些语义问题——这也包括“开源软件”。
+
 The official definition of “open source software” (which is published by
 the Open Source Initiative and is too long to include here[(5)](#FOOT5))
 was derived indirectly from our criteria for free software. It is not
 the same; it is a little looser in some respects. Nonetheless, their
 definition agrees with our definition in most cases.
+
+“开放源代码软件”的官方定义（由开源创始者公布，这里引用太长了[^5]）是间接引述自我们的“自由软件”的标准。与自由软件是不同的；在一些方面稍微有点宽松限制，所以开源支持者们采纳了一些我们无法接受的对用户的限制。尽管如此，他们的定义大多数情况还是非常接近我们的定义的。
 
 However, the obvious meaning for the expression “open source
 software”—and the one most people seem to think it means—is “You can
@@ -160,6 +176,8 @@ look at the source code.” That criterion is much weaker than the free
 software definition, much weaker also than the official definition of
 open source. It includes many programs that are neither free nor open
 source.
+
+然而，“开源软件”这个概念表面的意思是“你可以看源代码”，因此多数人似乎都把这当作它的真正意义。这个标准比自由软件更脆弱，甚至比开源的官方定义都脆弱。这样就包括了很多即不自由也不开源的软件。
 
 Since that obvious meaning for “open source” is not the meaning that its
 advocates intend, the result is that most people misunderstand the term.
@@ -173,15 +191,21 @@ open-source software (OSS). OSS is software for which the source code is
 freely and publicly available, though the specific licensing agreements
 vary as to what one is allowed to do with that code.”[(7)](#FOOT7)
 
+由于“开放源代码”的表面含义并非拥护者们所设想的，结果大多数人曲解了这个说法。以下是撰稿人 Neal Stephenson 所定义的“开源”：“Linux 是‘开源’软件的意思，简单地说，就是任何人都可以得到源代码的副本。[^6]”我并不认为他有意抵触或者争论官方的定义。我想他只是用了英语习俗来提出开源的含义。堪萨斯洲曾经发表过类似的定义：“使用开源软件(OSS)。开源软件是源代码可自由、公开使用的软件，但特定的许可证规定了人们可以用代码做些什么[^7]”。
+
 The New York Times ran an article that stretched the meaning of the term
 to refer to user beta testing[(8)](#FOOT8)—letting a few users try an
 early version and give confidential feedback—which proprietary software
 developers have practiced for decades.
 
+《纽约时报》的一篇文章引申了开源的意思，认为开源就是让用户做测试[^8]——让一小部分用户测试产品的早期版本并给出反馈——而这已经是专有软件数十年来就在做的事情。
+
 The term has even been stretched to include designs for equipment that
 are published without a patent.[(9)](#FOOT9) Patent-free equipment
 designs can be laudable contributions to society, but the term “source
 code” does not pertain to them.
+
+这个说法还被引申为设计和发布没有专利的产品[^9]。无专利的设备对社会而言确实值得称赞，但是“源代码”并不属于这些。
 
 Open source supporters try to deal with this by pointing to their
 official definition, but that corrective approach is less effective for
@@ -193,12 +217,16 @@ different from the meaning its supporters intend. So there is no
 succinct way to explain and justify its official definition. That makes
 for worse confusion.
 
+开源的支持者们试图通过指出他们的官方定义来应对这个问题，但收效甚微，甚至还不如直接用“自由软件”。“自由软件”这个说法天生就只有两种含义，其中一个是我们设想的含义，所以领会了“言论自由，而并非免费的啤酒”的人就不会曲解它。但是“开源”只有一个天然的含义，但是这个含义却和它的支持者们预想的不同。所以不存在一个一劳永逸的方法来解释和证明其官方定义。这就产生了更大的歧义。
+
 Another misunderstanding of “open source” is the idea that it means “not
 using the GNU GPL.” This tends to accompany another misunderstanding
 that “free software” means “GPL-covered software.” These are both
 mistaken, since the GNU GPL qualifies as an open source license and most
 of the open source licenses qualify as free software licenses. There are
 many free software licenses aside from the GNU GPL.[(10)](#FOOT10)
+
+另外一个关于“开源”的误解认为它的意思是“不使用GNU GPL”。这还会产对一个对“自由软件”的误解，认为自由软件就是“GPL 许可证保护的软件”。这样都不对了，因为 GNU GPL 被当作是一个开源许可证，而大多数开源许可证被当作是自由软件许可证。而且还有很多不是 GNU GPL 的自由软件许可证[^10]。
 
 The term “open source” has been further stretched by its application to
 other activities, such as government, education, and science, where
@@ -209,7 +237,11 @@ stretch the term so far that it only means “participatory” or
 “transparent”, or less than that. At worst, it has become a vacuous
 buzzword.[(11)](#FOOT11)
 
+“开放源代码”更已经被引申和应用到了其他活动中，比如政府、教育和科学，那些没有源代码的，与软件的标准并不相关的领域。这些活动有唯一的共同点是他们只是以某种方式邀请人们参加。而目前为止这个概念只是被引申成了“参与”或“透明”而以，甚至更浅。最坏的情况，它已成为一个空洞的流行语[^11]。
+
 ### Different Values Can Lead to Similar Conclusions…but Not Always {#different-values-can-lead-to-similar-conclusionsbut-notalways .subheading}
+
+
 
 Radical groups in the 1960s had a reputation for factionalism: some
 organizations split because of disagreements on details of strategy, and
