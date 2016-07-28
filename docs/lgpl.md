@@ -1,10 +1,10 @@
 # GNU 宽通用许可证
 
-> 中文翻译 [Leo](mailto:leohca@yahoo.com) 源网页：<http://www.thebigfly.com/gnu/lgpl/lgpl-v3.php>
+> 中文翻译 Leo <leohca@yahoo.com>  源网页：<http://www.thebigfly.com/gnu/lgpl/lgpl-v3.php>
 
 这是一份 GNU 宽通用许可证非正式的中文翻译。它并非由自由软件基金会所发表，亦非使用 GNU 宽通用许可证的文件的法定发布条款─只有 [GNU 宽通用许可证英文原文](http://www.gnu.org/licenses/lgpl.html)的版本始具有此等效力。然而，我们希望这份翻译能帮助中文的使用者更了解 GNU 宽通用许可证。
 
-%This is an unofficial translation of the LGPL Free Documentation License into Chinese. It was not published by the Free Software Foundation, and does not legally state the distribution terms for documents that uses the GNU LGPL--only [the original English text of the GNU LGPL](http://www.gnu.org/licenses/lgpl.html) does that. However, we hope that this translation will help Chinese speakers understand the GNU LGPL better
+This is an unofficial translation of the LGPL Free Documentation License into Chinese. It was not published by the Free Software Foundation, and does not legally state the distribution terms for documents that uses the GNU LGPL--only [the original English text of the GNU LGPL](http://www.gnu.org/licenses/lgpl.html) does that. However, we hope that this translation will help Chinese speakers understand the GNU LGPL better
 
 ### GNU 宽通用许可证
 
