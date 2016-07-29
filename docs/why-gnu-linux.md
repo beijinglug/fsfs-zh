@@ -1,14 +1,7 @@
----
-Generator: 'texi2html 1.82'
-description: Untitled Document
-distribution: global
-keywords: Untitled Document
-resource-type: document
-title: Untitled Document
-...
-
 1. What’s in a Name? {#whats-in-a-name .chapter}
 ====================
+
+名字的含义？
 
 @firstcopyingnotice{{To learn more about this issue, you can read our
 GNU/Linux FAQ, at <http://gnu.org/gnu/gnu-linux-faq.html>, the essay
@@ -28,6 +21,11 @@ conveys a mistaken idea of the system’s origin, history, and purpose. If
 you call it GNU/Linux, that conveys (though not in detail) an accurate
 idea.
 
+> 关于此主题了解更多，你也可以阅读我们的 GNU/Linux FAQ <http://gnu.org/gnu/gnu-linux-faq.html>，我们关于Linux 与 GNU 项目 和 从来没听过GNU的GNU用户的页面。Copyright © 2000, 2006, 2007 Richard Stallman
+> 原中译 monnand，此处略有修改
+
+顾名则思义；我们所选的名字代表了我们所要传达的思想。一个不恰当的名字会向人们传递错误的思想。玫瑰不管叫什么闻起来总是甜的——但是如果你把它叫作笔，当人们用它写字时将会很失望。同样地，如果你把笔叫作“玫瑰”，人们可能就不知道它们能做什么了。如果你把我们的操作系统称为“Linux”，则会传达一些关于系统起源、历史和目的的错误概念。如果你称之为GNU/Linux，这将传达（虽然不详细）一个准确的概念。
+
 Does this really matter for our community? Is it important whether
 people know the system’s origin, history, and purpose? Yes—because
 people who forget history are often condemned to repeat it. The Free
@@ -35,13 +33,19 @@ World that has developed around GNU/Linux is not guaranteed to survive;
 the problems that led us to develop GNU are not completely eradicated,
 and they threaten to come back.
 
+这对我们的社区重要吗？人们是否了解系统的起源、历史和目的重要吗？是的——因为忘记历史的人往往要注定要重蹈覆辙。围绕 GNU/Linux 而开发出来的自由世界是不安全的；迫使我们开发 GNU 的问题并没有被彻底根除，而且他们总是想复辟
+
 When I explain why it’s appropriate to call the operating system
 GNU/Linux rather than Linux, people sometimes respond this way:
+
+当我解释为什么把这个操作系统称为“GNU/Linux”比“Linux”要好时，人们有时这样回应：
 
 > Granted that the GNU Project deserves credit for this work, is it
 > really worth a fuss when people don’t give credit? Isn’t the important
 > thing that the job was done, not who did it? You ought to relax, take
 > pride in the job well done, and not worry about the credit.
+
+> 就算 GNU 工程因其工作而应该得到赞誉，但如果人们不给予它这种赞誉，就真的值得如此大惊小怪的吗？不管是谁做的，反正工作被完成了，这不是重要的事吗？你应该心态平和，以干好工作为荣，而不是对荣誉的问题耿耿于怀。 
 
 This would be wise advice, if only the situation were like that—if the
 job were done and it were time to relax. If only that were true! But
@@ -49,6 +53,8 @@ challenges abound, and this is no time to take the future for granted.
 Our community’s strength rests on commitment to freedom and cooperation.
 Using the name GNU/Linux is a way for people to remind themselves and
 inform others of these goals.
+
+这似乎是个明智的建议，如果所有的情况都像那样，大家干完工作后都不计得失，那这建议还真是对的！但现实充满挑战，现在还不是那样对未来想当然的时候。我们社区的力量靠的是自由与合作的保证。使用GNU/Linux这个名字是一种让人们用来提醒自己和他人了解这些目标的方式。
 
 It is possible to write good free software without thinking of GNU; much
 good work has been done in the name of Linux also. But the term “Linux”
