@@ -84,3 +84,32 @@ ISBN 978-0-9831592-5-4\
 - [**B:** Translations of “Free Software” and “Gratis Software”](appendix-B)
 - [**C:** The Free Software Song](appendix-c.md)
 
+.. toctree::
+
+foreword-v3
+forewor
+free-software-even-more-important
+edu-school
+government-free-software
+free-doc
+selling
+applying-free-sw-criteria
+why-gnu-linux
+linux-and-gnu
+categories
+open-source-misses-the-point
+not-ipr
+why-call-it-the-swindle
+words-to-avoid
+right-to-read
+misinterpreting-copyright
+push-copyright-aside
+copyright-vs-community
+software-literary-patents
+danger-of-software-patents
+limit-patent-effect
+licenses-introduction
+license-recommendations
+x
+programs-must-not-limit-freedom-to-run
+copyleft
