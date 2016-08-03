@@ -1,8 +1,8 @@
-site_name: fsfs-tong
+site_name: 自由软件，自由社会（第三版）
 site_description: Free Software, Free Society 3rd ed, Chinese Translation
 site_author: Beijing GNU/Linux User Group
 
-repo_url: https://github.com/tonghuix/fsfs-zh/
+repo_url: https://github.com/beijinglug/fsfs-zh/
 
 pages:
 - Home: index.md
@@ -72,3 +72,5 @@ markdown_extensions:
     - toc:
         permalink: 
     - admonition:
+
+copyright: Copyright &copy; 2016 <a href="https://blug.sh">Beijing GNU/Linux User Group</a>.
