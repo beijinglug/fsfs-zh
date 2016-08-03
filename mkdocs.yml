@@ -62,10 +62,10 @@ pages:
   - Freedom or Power?: freedom-or-power.md
   - Imperfection Is Not the Same as Oppression: imperfection-isnt-oppression.md
   - How Much Surveillance Can Democracy Withstand?: surveillance-vs-democracy.md
-- Appendix
-  - A Note on Software:appendix-a.md
-  - B Translations of “Free Software” and “Gratis Software”:appendix-b.md
-  - C The Free Software Song:appendix-c.md
+- Appendix:
+  - A Note on Software: appendix-a.md
+  - B Translations of “Free Software” and “Gratis Software”: appendix-b.md
+  - C The Free Software Song: appendix-c.md
 
 markdown_extensions:
     - toc:
