@@ -3,21 +3,6 @@
 
 此为 Richard Stallman 文集《自由软件，自由社会》第三版。
 
-> Free Software Foundation
-> 51 Franklin Street, Fifth Floor
-> Boston, MA 02110-1335
-> Copyright © 2002, 2010, 2015 Free Software Foundation, Inc.
-
-> Verbatim copying and distribution of this entire book are permitted
-> worldwide, without royalty, in any medium, provided this notice is
-> preserved. Permission is granted to copy and distribute translations
-> of this book from the original English into another language provided
-> the translation has been approved by the Free Software Foundation and
-> the copyright notice and this permission notice are preserved on all
-> copies.
-
-ISBN 978-0-9831592-5-4\
-
 封面设计 Kyle Winfree
 
 目  录
@@ -29,35 +14,35 @@ ISBN 978-0-9831592-5-4\
 - Part One
   - [What Is Free Software?](free-sw.md)
   - [The GNU Project](the-gnu-project.md)
-  - [The Initial Announcement of the GNU Operating System](initial-announcement.md)
+  - [The Initial Announcement of the GNU Operating System](initial-announcement.md)
   - [Free Software Is Even More Important Now](free-software-even-more-important.md)
-  - [Why Schools Should Exclusively Use Free Software](edu-school.md)
+  - [Why Schools Should Exclusively Use Free Software](edu-school.md)
   - [Measures Governments Can Use to Promote Free Software](government-free-software.md)
-  - [Why Free Software Needs Free Documentation](free-doc.md)
+  - [Why Free Software Needs Free Documentation](free-doc.md)
   - [Selling Free Software](selling.md)
   - [Applying the Free Software Criteria](applying-free-sw-criteria.md)
 - Part Two
   - [What’s in a Name?](why-gnu-linux.md)
   - [Linux and the GNU System](linux-and-gnu.md)
   - [Categories of Free and Nonfree Software](categories.md)
-  - [Why Open Source Misses the Point of Free Software](open-source-misses-the-point.md)
-  - [Did You Say “Intellectual Property”? It’s a Seductive Mirage](not-ipr.md)
+  - [Why Open Source Misses the Point of Free Software](open-source-misses-the-point.md)
+  - [Did You Say “Intellectual Property”? It’s a Seductive Mirage](not-ipr.md)
   - [Why Call It the Swindle?](why-call-it-the-swindle.md)
-  - [Words to Avoid (or Use with Care) Because They Are Loaded or Confusing](words-to-avoid.md)
+  - [Words to Avoid (or Use with Care) Because They Are Loaded or Confusing](words-to-avoid.md)
 - Part Three
   - [The Right to Read](right-to-read.md)
-  - [Misinterpreting Copyright—A Series of Errors](misinterpreting-copyright.md)
+  - [Misinterpreting Copyright—A Series of Errors](misinterpreting-copyright.md)
   - [Science Must Push Copyright Aside](push-copyright-aside.md)
   - [Copyright vs. Community in the Age of Computer Networks](copyright-vs-community.md)
 - Part Four
   - [Software Patents and Literary Patents](software-literary-patents.md)
   - [The Danger of Software Patents](danger-of-software-patents.md)
-  - [Giving the Software Field Protection from Patents](limit-patent-effect.md)
+  - [Giving the Software Field Protection from Patents](limit-patent-effect.md)
 - Part Five
   - [Introduction to the Licenses](licenses-introduction.md)
   - [How to Choose a License for Your Own Work](license-recommendations.md)
   - [The X Window System Trap](x.md)
-  - [Programs Must Not Limit the Freedom to Run Them](programs-must-not-limit-freedom-to-run.md)
+  - [Programs Must Not Limit the Freedom to Run Them](programs-must-not-limit-freedom-to-run.md)
   - [What Is Copyleft?](copyleft.md)
   - [Why Copyleft?](why-copyleft.md)
   - [Copyleft: Pragmatic Idealism](pragmatic.md)
@@ -69,7 +54,7 @@ ISBN 978-0-9831592-5-4\
 - Part Six
   - [Can You Trust Your Computer?](can-you-trust.md)
   - [The JavaScript Trap](javascript-trap.md)
-  - [Releasing Free Software If You Work at a University](university.md)
+  - [Releasing Free Software If You Work at a University](university.md)
   - [Nonfree DRM’d Games on GNU/Linux: Good or Bad?](nonfree-games.md)
   - [The Danger of E-Books](the-danger-of-ebooks.md)
   - [E-books Must Increase Our Freedom, Not Decrease It](ebooks-must-increase-freedom.md)
@@ -81,35 +66,23 @@ ISBN 978-0-9831592-5-4\
   - [Imperfection Is Not the Same as Oppression](imperfection-isnt-oppression.md)
   - [How Much Surveillance Can Democracy Withstand?](surveillance-vs-democracy.md)
 - [**A:** Note on Software](appendix-A)
-- [**B:** Translations of “Free Software” and “Gratis Software”](appendix-B)
+- [**B:** Translations of “Free Software” and “Gratis Software”](appendix-B)
 - [**C:** The Free Software Song](appendix-c.md)
 
-.. toctree::
+> Verbatim copying and distribution of this entire book are permitted 
+> worldwide, without royalty, in any medium, provided this notice is
+> preserved. Permission is granted to copy and distribute translations
+> of this book from the original English into another language provided
+> the translation has been approved by the Free Software Foundation and
+> the copyright notice and this permission notice are preserved on all
+> copies.
 
-foreword-v3
-forewor
-free-software-even-more-important
-edu-school
-government-free-software
-free-doc
-selling
-applying-free-sw-criteria
-why-gnu-linux
-linux-and-gnu
-categories
-open-source-misses-the-point
-not-ipr
-why-call-it-the-swindle
-words-to-avoid
-right-to-read
-misinterpreting-copyright
-push-copyright-aside
-copyright-vs-community
-software-literary-patents
-danger-of-software-patents
-limit-patent-effect
-licenses-introduction
-license-recommendations
-x
-programs-must-not-limit-freedom-to-run
-copyleft
+* * *
+````
+ Free Software Foundation
+ 51 Franklin Street, Fifth Floor
+ Boston, MA 02110-1335
+ Copyright © 2002, 2010, 2015 Free Software Foundation, Inc.
+````
+
+ISBN 978-0-9831592-5-4
