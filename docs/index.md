@@ -41,7 +41,7 @@ ISBN 978-0-9831592-5-4\
   - [Linux and the GNU System](linux-and-gnu.md)
   - [Categories of Free and Nonfree Software](categories.md)
   - [Why Open Source Misses the Point of Free Software](open-source-misses-the-point.md)
-  - [Did You Say “Intellectual Property”?@entrybreak{}It’s a Seductive Mirage](not-ipr.md)
+  - [Did You Say “Intellectual Property”? It’s a Seductive Mirage](not-ipr.md)
   - [Why Call It the Swindle?](why-call-it-the-swindle.md)
   - [Words to Avoid (or Use with Care) Because They Are Loaded or Confusing](words-to-avoid.md)
 - Part Three
@@ -68,6 +68,7 @@ ISBN 978-0-9831592-5-4\
   - [On Selling Exceptions to the GNU GPL](selling-exceptions.md)
 - Part Six
   - [Can You Trust Your Computer?](can-you-trust.md)
+  - [The JavaScript Trap](javascript-trap.md)
   - [Releasing Free Software If You Work at a University](university.md)
   - [Nonfree DRM’d Games on GNU/Linux: Good or Bad?](nonfree-games.md)
   - [The Danger of E-Books](the-danger-of-ebooks.md)
@@ -82,5 +83,4 @@ ISBN 978-0-9831592-5-4\
 - [**A:** Note on Software](appendix-A)
 - [**B:** Translations of “Free Software” and “Gratis Software”](appendix-B)
 - [**C:** The Free Software Song](appendix-c.md)
-
 
