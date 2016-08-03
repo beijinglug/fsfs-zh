@@ -7,7 +7,7 @@ repo_url: https://github.com/tonghuix/fsfs-zh/
 pages:
 - Foreword to the Third Edition: foreword-v3.md
 - Foreword to the First Edition: foreword-v1.md
-- Preface: preface.md
+- Preface: preface-v3.md
 - Part One:
   - What Is Free Software?: free-sw.md
   - The GNU Project: the-gnu-project.md
