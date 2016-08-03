@@ -5,6 +5,7 @@ site_author: Beijing GNU/Linux User Group
 repo_url: https://github.com/tonghuix/fsfs-zh/
 
 pages:
+- Home: index.md
 - Foreword to the Third Edition: foreword-v3.md
 - Foreword to the First Edition: foreword-v1.md
 - Preface: preface-v3.md
