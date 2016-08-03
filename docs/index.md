@@ -62,7 +62,7 @@
 - Part Seven
   - [Avoiding Ruinous Compromises](compromise.md)
   - [Overcoming Social Inertia](social-inertia.md)
-  - [Freedom or Power?](freedom-or-power)
+  - [Freedom or Power?](freedom-or-power.md)
   - [Imperfection Is Not the Same as Oppression](imperfection-isnt-oppression.md)
   - [How Much Surveillance Can Democracy Withstand?](surveillance-vs-democracy.md)
 - [**A:** Note on Software](appendix-A)

@@ -52,19 +52,20 @@ pages:
   - Can You Trust Your Computer?: can-you-trust.md
   - The JavaScript Trap: javascript-trap.md
   - Releasing Free Software If You Work at a University: university.md
-  - Nonfree DRM’d Games on GNU/Linux: Good or Bad?: nonfree-games.md
+  - Nonfree DRM’d Games on GNU/Linux：Good or Bad?: nonfree-games.md
   - The Danger of E-Books: the-danger-of-ebooks.md
   - E-books Must Increase Our Freedom, Not Decrease It: ebooks-must-increase-freedom.md
   - Who Does That Server Really Serve?: who-does-that-server-really-serve.md
 - Part Seven:
   - Avoiding Ruinous Compromises: compromise.md
   - Overcoming Social Inertia: social-inertia.md
-  - Freedom or Power?: freedom-or-power
+  - Freedom or Power?: freedom-or-power.md
   - Imperfection Is Not the Same as Oppression: imperfection-isnt-oppression.md
   - How Much Surveillance Can Democracy Withstand?: surveillance-vs-democracy.md
-- **A:** Note on Software: appendix-A
-- **B:** Translations of “Free Software” and “Gratis Software”: appendix-B
-- **C:** The Free Software Song: appendix-c.md
+- Appendix
+  - A Note on Software: appendix-A
+  - B Translations of “Free Software” and “Gratis Software”: appendix-B
+  - C The Free Software Song: appendix-c.md
 
 markdown_extensions:
     - toc:
