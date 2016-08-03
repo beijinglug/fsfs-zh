@@ -158,7 +158,7 @@ merge in a suitably licensed existing module—for instance, if it
 requires you to be the copyright holder of any code you add—then the
 license is too restrictive to qualify as free.
 
-修改软件的一个重要方法是个并可用的自由子程序或模块。如果一个程序的许可证让你不能适用合并现有许可证保护的模块。例如要求你成为你修改过代码的版权所有者，因此该许可证对自由来说过于严苛。
+修改软件的一个重要方法是个合并可用的自由子程序或模块。如果一个程序的许可证让你不能适用合并现有许可证保护的模块。例如要求你成为你修改过代码的版权所有者，因此该许可证对自由来说过于严苛。
 
 Freedom 3 includes the freedom to release your modified versions as free
 software. A free license may also permit other ways of releasing them;
@@ -183,7 +183,7 @@ when redistributing the program, you cannot add restrictions to deny
 other people the central freedoms. This rule does not conflict with the
 central freedoms; rather it protects them.
 
-然而，一些对自由软件发发布方式的规则是可以接受的，前提是与核心自由不冲突。例如，copyleft（最简单的说）规定你不能在分发程序的时候添加限制性条款以拒绝其他人的核心自由。这一规则与核心自由并不冲突，反而是保护核心自由。
+然而，一些对自由软件发布方式的规则是可以接受的，前提是与核心自由不冲突。例如，copyleft（最简单的说）规定你不能在分发程序的时候添加限制性条款以拒绝其他人的核心自由。这一规则与核心自由并不冲突，反而是保护核心自由。
 
 In the GNU Project, we use copyleft to protect the four freedoms legally
 for everyone. We believe there are important reasons why it is better to
