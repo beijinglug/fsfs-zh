@@ -1,14 +1,8 @@
----
-Generator: 'texi2html 1.82'
-description: Untitled Document
-distribution: global
-keywords: Untitled Document
-resource-type: document
-title: Untitled Document
-...
-
 **B:** Translations of “Free Software” and “Gratis Software” {#b-translations-of-freesoftware-and-gratissoftware .unnumbered}
 ============================================================
+
+对“自由软件”和“免费软件”的翻译
+=============
 
 @firstcopyingnotice{{ The most current list of translations and
 transliterations is maintained at
@@ -50,7 +44,7 @@ ar
 Arabic
 
 @lowerbox{2.7pt,
-![fs-translations/ar-libre](fs-translations/ar-libre.jpg)}\
+![fs-translations/ar-libre](fs-translations/ar-libre.png)}\
  *(barmajiyat ḥorrah)*
 
 be
@@ -58,7 +52,7 @@ be
 Belarusian
 
 @lowerbox{2pt,
-![fs-translations/be-libre](fs-translations/be-libre.jpg)} *(svabodnae
+![fs-translations/be-libre](fs-translations/be-libre.png)} *(svabodnae
 pragramnae zabes’pjachen’ne)*
 
 bg
@@ -66,11 +60,11 @@ bg
 Bulgarian
 
 @lowerbox{2pt,
-![fs-translations/bg-libre](fs-translations/bg-libre.jpg)}\
+![fs-translations/bg-libre](fs-translations/bg-libre.png)}\
  *(svoboden softuer)*
 
 @lowerbox{2pt,
-![fs-translations/bg-gratis](fs-translations/bg-gratis.jpg)} *(bezplaten
+![fs-translations/bg-gratis](fs-translations/bg-gratis.png)} *(bezplaten
 softuer)*
 
 bn
@@ -78,7 +72,7 @@ bn
 Bengali
 
 @lowerbox{3pt,
-![fs-translations/bn-libre](fs-translations/bn-libre.jpg)}\
+![fs-translations/bn-libre](fs-translations/bn-libre.png)}\
  *(swadhin software)*
 
 ca
@@ -124,11 +118,11 @@ el
 Greek
 
 @lowerbox{1pt,
-![fs-translations/el-libre](fs-translations/el-libre.jpg)}\
+![fs-translations/el-libre](fs-translations/el-libre.png)}\
  *(elefthero logismiko)*
 
 @lowerbox{1pt,
-![fs-translations/el-gratis](fs-translations/el-gratis.jpg)}\
+![fs-translations/el-gratis](fs-translations/el-gratis.png)}\
  *(dorean logismiko)*
 
 eo
@@ -166,11 +160,11 @@ fa
 Persian (Farsi)
 
 @lowerbox{1pt,
-![fs-translations/fa-libre](fs-translations/fa-libre.jpg)}\
+![fs-translations/fa-libre](fs-translations/fa-libre.png)}\
  *(narmafzar azad)*
 
 @lowerbox{1pt,
-![fs-translations/fa-gratis](fs-translations/fa-gratis.jpg)}\
+![fs-translations/fa-gratis](fs-translations/fa-gratis.png)}\
  *(narmafzar raygan)*
 
 fi
@@ -202,11 +196,11 @@ he
 Hebrew
 
 @lowerbox{1pt,
-![fs-translations/he-libre](fs-translations/he-libre.jpg)}\
+![fs-translations/he-libre](fs-translations/he-libre.png)}\
  *(tochna chofshit)*
 
 @lowerbox{1pt,
-![fs-translations/he-gratis](fs-translations/he-gratis.jpg)}\
+![fs-translations/he-gratis](fs-translations/he-gratis.png)}\
  *(tochna chinamit)*
 
 hi
@@ -214,11 +208,11 @@ hi
 Hindi
 
 @lowerbox{3pt,
-![fs-translations/hi-libre](fs-translations/hi-libre.jpg)}\
+![fs-translations/hi-libre](fs-translations/hi-libre.png)}\
  *(mukt software)*
 
 @lowerbox{3pt,
-![fs-translations/hi-gratis](fs-translations/hi-gratis.jpg)}\
+![fs-translations/hi-gratis](fs-translations/hi-gratis.png)}\
  *(muft software)*
 
 hr
@@ -242,7 +236,7 @@ hy
 Armenian
 
 @lowerbox{2pt,
-![fs-translations/hy-libre](fs-translations/hy-libre.jpg)}\
+![fs-translations/hy-libre](fs-translations/hy-libre.png)}\
  *(azat tsragir/tsragrer)*
 
 ia
@@ -283,11 +277,11 @@ ja
 Japanese
 
 @kern -0.5pt @lowerbox{1.5pt,
-![fs-translations/ja-kanji-libre](fs-translations/ja-kanji-libre.jpg)}\
+![fs-translations/ja-kanji-libre](fs-translations/ja-kanji-libre.png)}\
  *(jiyū-sofutouea)*
 
 @lowerbox{1.5pt,
-![fs-translations/ja-kanji-gratis](fs-translations/ja-kanji-gratis.jpg)}
+![fs-translations/ja-kanji-gratis](fs-translations/ja-kanji-gratis.png)}
 *(muryō-sofutouea)*
 
 ka
@@ -295,11 +289,11 @@ ka
 Georgian
 
 @lowerbox{3pt,
-![fs-translations/ka-libre](fs-translations/ka-libre.jpg)} *(tavisupali
+![fs-translations/ka-libre](fs-translations/ka-libre.png)} *(tavisupali
 programebi)*
 
 @lowerbox{3pt,
-![fs-translations/ka-gratis](fs-translations/ka-gratis.jpg)} *(upaso
+![fs-translations/ka-gratis](fs-translations/ka-gratis.png)} *(upaso
 programebi)*
 
 ko
@@ -307,7 +301,7 @@ ko
 Korean
 
 @lowerbox{3pt,
-![fs-translations/ko-libre](fs-translations/ko-libre.jpg)}\
+![fs-translations/ko-libre](fs-translations/ko-libre.png)}\
  *(ja-yu software)*
 
 lt
@@ -331,11 +325,11 @@ mk
 Macedonian
 
 @lowerbox{3pt,
-![fs-translations/mk-libre](fs-translations/mk-libre.jpg)}\
+![fs-translations/mk-libre](fs-translations/mk-libre.png)}\
  *(sloboden softver)*
 
 @lowerbox{3pt,
-![fs-translations/mk-gratis](fs-translations/mk-gratis.jpg)} *(besplaten
+![fs-translations/mk-gratis](fs-translations/mk-gratis.png)} *(besplaten
 softver)*
 
 ml
@@ -343,11 +337,11 @@ ml
 Malayalam
 
 @lowerbox{3pt,
-![fs-translations/ml-libre](fs-translations/ml-libre.jpg)}
+![fs-translations/ml-libre](fs-translations/ml-libre.png)}
 *(svatantrasophṯṯveyar)*
 
 @lowerbox{3pt,
-![fs-translations/ml-gratis](fs-translations/ml-gratis.jpg)}
+![fs-translations/ml-gratis](fs-translations/ml-gratis.png)}
 *(soujanyasophṯṯveyar)*
 
 ms
@@ -397,11 +391,11 @@ ru
 Russian
 
 @lowerbox{2pt,
-![fs-translations/ru-libre](fs-translations/ru-libre.jpg)}\
+![fs-translations/ru-libre](fs-translations/ru-libre.png)}\
  *(svobodnie programmi)*
 
 @lowerbox{2pt,
-![fs-translations/ru-gratis](fs-translations/ru-gratis.jpg)}
+![fs-translations/ru-gratis](fs-translations/ru-gratis.png)}
 *(besplatnie programmi)*
 
 sc
@@ -415,7 +409,7 @@ si
 Sinhala
 
 @lowerbox{3pt,
-![fs-translations/si-libre](fs-translations/si-libre.jpg)}\
+![fs-translations/si-libre](fs-translations/si-libre.png)}\
  *(nidahas mṛdukāṅga)*
 
 sk
@@ -443,11 +437,11 @@ sr
 Serbian
 
 @lowerbox{2pt,
-![fs-translations/sr-libre](fs-translations/sr-libre.jpg)} *or*\
+![fs-translations/sr-libre](fs-translations/sr-libre.png)} *or*\
  slobodni softver
 
 @lowerbox{2pt,
-![fs-translations/sr-gratis](fs-translations/sr-gratis.jpg)} *or*
+![fs-translations/sr-gratis](fs-translations/sr-gratis.png)} *or*
 besplatni softver
 
 sv
@@ -468,11 +462,11 @@ ta
 Tamil
 
 @lowerbox{3.5pt,
-![fs-translations/ta-libre](fs-translations/ta-libre.jpg)}\
+![fs-translations/ta-libre](fs-translations/ta-libre.png)}\
  *(kaṭṭaṟṟa meṉpoñaḷ)*
 
 @lowerbox{3.5pt,
-![fs-translations/ta-gratis](fs-translations/ta-gratis.jpg)} *(illavasa
+![fs-translations/ta-gratis](fs-translations/ta-gratis.png)} *(illavasa
 menporul)*
 
 th
@@ -480,7 +474,7 @@ th
 Thai
 
 @lowerbox{2pt,
-![fs-translations/th-libre](fs-translations/th-libre.jpg)}\
+![fs-translations/th-libre](fs-translations/th-libre.png)}\
  *(sofotwerseri)*
 
 tl
@@ -500,7 +494,7 @@ uk
 Ukrainian
 
 @kern -1pt @lowerbox{3.1pt,
-![fs-translations/uk-libre](fs-translations/uk-libre.jpg)} *(vil’ne
+![fs-translations/uk-libre](fs-translations/uk-libre.png)} *(vil’ne
 prohramne zabezpechennja)*
 
 ur
@@ -508,11 +502,11 @@ ur
 Urdu
 
 @lowerbox{3pt,
-![fs-translations/ur-libre](fs-translations/ur-libre.jpg)}\
+![fs-translations/ur-libre](fs-translations/ur-libre.png)}\
  *(azad software)*
 
 @lowerbox{3pt,
-![fs-translations/ur-gratis](fs-translations/ur-gratis.jpg)}\
+![fs-translations/ur-gratis](fs-translations/ur-gratis.png)}\
  *(muft software)*
 
 vi
@@ -520,18 +514,18 @@ vi
 Vietnamese
 
 @lowerbox{3pt,
-![fs-translations/vi-libre](fs-translations/vi-libre.jpg)}
+![fs-translations/vi-libre](fs-translations/vi-libre.png)}
 
 zh-cn
 
 Chinese (simplified)
 
 @lowerbox{0.9pt,
-![fs-translations/zh-cn-libre](fs-translations/zh-cn-libre.jpg)}\
+![fs-translations/zh-cn-libre](fs-translations/zh-cn-libre.png)}\
  *(zi-you ruan-jian)*
 
 @lowerbox{3pt,
-![fs-translations/zh-cn-gratis](fs-translations/zh-cn-gratis.jpg)}\
+![fs-translations/zh-cn-gratis](fs-translations/zh-cn-gratis.png)}\
  *(mian-fei ruan-jian)*
 
 zh-tw
@@ -539,11 +533,11 @@ zh-tw
 Chinese (traditional)
 
 @lowerbox{0.9pt,
-![fs-translations/zh-tw-libre](fs-translations/zh-tw-libre.jpg)}\
+![fs-translations/zh-tw-libre](fs-translations/zh-tw-libre.png)}\
  *(zih-yo)*
 
 @lowerbox{3pt,
-![fs-translations/zh-tw-gratis](fs-translations/zh-tw-gratis.jpg)}\
+![fs-translations/zh-tw-gratis](fs-translations/zh-tw-gratis.png)}\
  *(mien-fei)*
 
 zu
@@ -552,9 +546,3 @@ Zulu
 
 isoftware ekhululekile
 
-@end raggedright
-
-------------------------------------------------------------------------
-
-This document was generated by *tonghuix* on *March 25, 2016* using
-[*texi2html 1.82*](http://www.nongnu.org/texi2html/).\
