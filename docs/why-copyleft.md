@@ -1,6 +1,9 @@
 1. Why Copyleft? {#why-copyleft .chapter}
 ================
 
+为什么使用 Copyleft
+==========
+
 > Copyright © 2003, 2007, 2008, 2013 Free Software Foundation, Inc. 此文原载于 <http://gnu.org>
 
 > When it comes to defending the freedom of others, to lie down and do
