@@ -18,9 +18,7 @@ every technological advance offers business an opportunity to impose new
 restrictions on the public. Technologies that could have empowered us
 are used to chain us instead.
 
-在这样一个由企业支配我们的政府并且制定我们的法律的时代，任何技术上的进展
-都会为企业提供对公众施加新的限制条件的机会。本应赋予我们权利的技术现在被
-用于束缚我们。
+在这样一个由企业支配我们的政府并且制定我们的法律的时代，任何技术上的进展都会为企业提供对公众施加新的限制条件的机会。本应赋予我们权利的技术现在被用于束缚我们。
 
 With printed books,
 
@@ -84,32 +82,26 @@ Contrast that with Amazon e-books (fairly typical):
     but only by specifying by name another user of the same system. No
     giving or selling.
 
--   在一段限定时间内，代用词“借阅”被允许用于某些电子书，但仅限使用相同系统
-    的实名用户。禁止赠与或转卖。
+-   在一段限定时间内，代用词“借阅”被允许用于某些电子书，但仅限使用相同系统的实名用户。禁止赠与或转卖。
 
 -   To copy the e-book is impossible due to Digital Restrictions
     Management[(1)](#FOOT1) in the player and prohibited by the license,
     which is more restrictive than copyright law.
 
--   在阅读器中复制电子书是不可能的，由于数字版权管理（DRM），这也被霸王条款
-    所禁止，它比版权法更加苛刻。
+-   在阅读器中复制电子书是不可能的，由于数字版权管理（DRM），这也被霸王条款所禁止，它比版权法更加苛刻。
 
 -   Amazon can remotely delete the e-book using a back door. It used
     this back door in 2009 to delete thousands of copies of George
     Orwell’s 1984.
 
--   亚马逊可以利用后门远程删除电子书，例如它曾于 2009 年利用此后门远程删除了
-    数千份 George Orwell 所著的《1984》。
+-   亚马逊可以利用后门远程删除电子书，例如它曾于 2009 年利用此后门远程删除了数千份 George Orwell 所著的《1984》。
 
-@firstcopyingnotice{{@footnoterule @smallskip 著作权所有 (C) 2011, 2014
-Richard Stallman\
- {此版本是 @fsfsthreecite 的一部分。}
+@firstcopyingnotice{{@footnoterule @smallskip 著作权所有 (C) 2011, 2014 Richard Stallman {此版本是 @fsfsthreecite 的一部分。}
 
 Even one of these infringements makes e-books a step backward from
 printed books. We must reject e-books until they respect our freedom.
 
-这些侵害行为只需其一便可使得电子书相对于纸版书成为一种倒退。我们必须拒绝
-电子书，直到他们尊重我们的自由。
+这些侵害行为只需其一便可使得电子书相对于纸版书成为一种倒退。我们必须拒绝电子书，直到他们尊重我们的自由。
 
 The e-book companies say denying our traditional freedoms is necessary
 to continue to pay authors. The current copyright system supports those
@@ -117,10 +109,7 @@ companies handsomely and most authors badly. We can support authors
 better in other ways that don’t require curtailing our freedom, and even
 legalize sharing. Two methods I’ve suggested are:
 
-电子书公司宣称它们拒绝我们的传统阅读自由是必需的，唯有如此它们才能继续向
-作者支付稿酬。现行的版权系统对这些公司给予了慷慨的支持，但却未能给予大多
-数作者起码应有的支持。我们可以以其他方式对作者提供更好的支持，而无需牺牲
-自己的自由，甚至使分享合法化。我在此建议两种方式：
+电子书公司宣称它们拒绝我们的传统阅读自由是必需的，唯有如此它们才能继续向作者支付稿酬。现行的版权系统对这些公司给予了慷慨的支持，但却未能给予大多数作者起码应有的支持。我们可以以其他方式对作者提供更好的支持，而无需牺牲自己的自由，甚至使分享合法化。我在此建议两种方式：
 
 -   To distribute tax funds to authors based on the cube root of each
     author’s popularity.[(2)](#FOOT2)
@@ -130,13 +119,12 @@ legalize sharing. Two methods I’ve suggested are:
 -   To design players so users can send authors anonymous
     voluntary payments.
 
--   开发出这样的阅读器使得用户可以向作者匿名捐款。
+-   开发出这样的阅读器，使得用户可以向作者匿名捐款。
 
 E-books need not attack our freedom (Project Gutenberg’s e-books don’t),
 but they will if companies get to decide. It’s up to us to stop them.
 
-电子书不应该侵害我们的自由（古腾堡计划的电子书不会这样），但是，一旦商业
-公司决定如此做，它们就会侵害我们的自由。我们有责任阻止这种行为。
+电子书不应该侵害我们的自由（古腾堡计划的电子书不会这样），但是，一旦商业公司决定如此做，它们就会侵害我们的自由。我们有责任阻止这种行为。
 
 Join the fight: sign up at <http://DefectiveByDesign.org/ebooks.html>.
 
@@ -154,9 +142,7 @@ Join the fight: sign up at <http://DefectiveByDesign.org/ebooks.html>.
 
 ### [(2)](#DOCF2)
 
-@raggedright 参见 “Copyright vs. Community in the Age of Computer
-Networks” (@pageref{Copyright vs. Community}) 和我在 2012 年致巴西参议院主席 Senator José Sarney 的公开信，位于
-<https://stallman.org/articles/internet-sharing-license.en.html>，以获得更多信息。 @end raggedright
+@raggedright 参见 “Copyright vs. Community in the Age of Computer Networks” (@pageref{Copyright vs. Community}) 和我在 2012 年致巴西参议院主席 Senator José Sarney 的公开信，位于 <https://stallman.org/articles/internet-sharing-license.en.html>，以获得更多信息。 @end raggedright
 
 </div>
 
@@ -164,5 +150,3 @@ Networks” (@pageref{Copyright vs. Community}) 和我在 2012 年致巴西参�
 
 This document was generated by *tonghuix* on *March 25, 2016* using
 [*texi2html 1.82*](http://www.nongnu.org/texi2html/).\
-
-汉化：Nadebula
