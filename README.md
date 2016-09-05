@@ -47,6 +47,7 @@ Free Software, Free Society v3 Chinese Translation
 | @liushuyu | 翻译了 Linux and GNU 一文 |
 | @persmle | 翻译了 The GNU Project 一文 | 
 | @MandyMY | 稍作校对 |
+| @biergaii | 少量翻译 |
 
 授权许可
 --------
