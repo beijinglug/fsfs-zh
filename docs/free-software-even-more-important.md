@@ -1,48 +1,10 @@
----
-Generator: 'texi2html 1.82'
-description: Untitled Document
-distribution: global
-keywords: Untitled Document
-resource-type: document
-title: Untitled Document
-...
-
 1. Free Software Is Even More Important Now {#free-software-is-even-more-important-now .chapter}
 ===========================================
 
-Since 1983, the Free Software Movement has campaigned for computer
-users’ freedom—for users to control the software they use, rather than
-vice versa. When a program respects users’ freedom and community, we
-call it “free software.”
+如今自由软件更加重要
+================
 
-We also sometimes call it “libre software” to emphasize that we’re
-talking about liberty, not price. Some proprietary (nonfree) programs,
-such as Photoshop, are very expensive; others, such as Flash Player, are
-available gratis—but that’s a minor detail. Either way, they give the
-program’s developer power over the users, power that no one should have.
-
-Those two nonfree programs have something else in common: they are both
-*malware.* That is, both have functionalities designed to mistreat the
-user. Proprietary software nowadays is often malware because the
-developers’ power corrupts them.[(1)](#FOOT1) With free software, the
-users control the program, both individually and collectively. So they
-control what their computers do (assuming those computers are loyal and
-do what the users’ programs tell them to do).
-
-With proprietary software, the program controls the users, and some
-other entity (the developer or “owner”) controls the program. So the
-proprietary program gives its developer power over its users. That is
-unjust in itself, and tempts the developer to mistreat the users in
-other ways.
-
-Freedom means having control over your own life. If you use a program to
-carry out activities in your life, your freedom depends on your having
-control over the program. You deserve to have control over the programs
-you use, and all the more so when you use them for something important
-in your life.
-
-Users’ control over the program requires four essential
-freedoms.[(2)](#FOOT2) @firstcopyingnotice{{@footnoterule @smallskip See
+@firstcopyingnotice{{@footnoterule @smallskip See
 <http://gnu.org/help> for ways to help the free software movement.
 @medskip @footnoterule @medskip Copyright © 2015 Richard Stallman\
  {A substantially edited version of this article was published on the
@@ -52,7 +14,58 @@ Ever Before” (Wired, 28 September 2013,
 is-more-important-now-than-ever-before](http://wired.com/opinion/2013/09/why-free-software-%3Cbr%3Eis-more-important-now-than-ever-before)).
 This version of this essay is part of @fsfsthreecite}
 
+> Copyright © 2015 Richard Stallman。此文大幅修改后发表于[《连线》杂志](Wired)网站，标题是[Why Free Software Is More Important Now Than Ever Before”](http://wired.com/opinion/2013/09/why-free-software-%3Cbr%3Eis-more-important-now-than-ever-before)，2013年9月28日。
+
+Since 1983, the Free Software Movement has campaigned for computer
+users’ freedom—for users to control the software they use, rather than
+vice versa. When a program respects users’ freedom and community, we
+call it “free software.”
+
+自1983年以来，自由软件运动一直在为计算机用户的自由而战——用户控制他们使用的软件，而不是相反。当一个程序尊重用户和社区的自由时，我们把它称为“自由软件”。
+
+We also sometimes call it “libre software” to emphasize that we’re
+talking about liberty, not price. Some proprietary (nonfree) programs,
+such as Photoshop, are very expensive; others, such as Flash Player, are
+available gratis—but that’s a minor detail. Either way, they give the
+program’s developer power over the users, power that no one should have.
+
+我们有时也称之为“libre software”以便澄清我们关注的是自由，而不是价格。一些专有（非自由）软件比如 Photoshop，非常昂贵；而其他比如 Flash 播放器则免费提供——所以价格并不是大问题。无论高价还是免费，它们都将程序开发者的权力凌驾于用户之上，而这种权力是不应该存在的。
+
+Those two nonfree programs have something else in common: they are both
+*malware.* That is, both have functionalities designed to mistreat the
+user. Proprietary software nowadays is often malware because the
+developers’ power corrupts them.[(1)](#FOOT1) With free software, the
+users control the program, both individually and collectively. So they
+control what their computers do (assuming those computers are loyal and
+do what the users’ programs tell them to do).
+
+同时这款软件还有个共同点：他们都是*恶意软件*。也就是说从功能上都设计用来亏待用户的。专有软件现在往往是恶意软件，因为开发者的权力腐化了他们[^1]。而自由软件，用户控制着程序，既是单独用户控制同时也是群体控制。这样他们就控制着计算机做的事情（假设这些程序都是忠实完成用户的指令）。
+
+With proprietary software, the program controls the users, and some
+other entity (the developer or “owner”) controls the program. So the
+proprietary program gives its developer power over its users. That is
+unjust in itself, and tempts the developer to mistreat the users in
+other ways.
+
+专有软件程序控制着用户，另一些（用户或“所有者”）则完全控制着程序。因此专有程序给了开发者凌驾用户的权力。而这本身就是不公平的，并且诱使开发者用其他方式亏待用户。
+
+Freedom means having control over your own life. If you use a program to
+carry out activities in your life, your freedom depends on your having
+control over the program. You deserve to have control over the programs
+you use, and all the more so when you use them for something important
+in your life.
+
+自由意味着你控制着自己的生活。如果你用的程序接管了你的生活，你的自由就取决于你如何控制着这些程序。你值得取得对程序的控制权，更何况这些程序控制着你生活中重要的事情。
+
+Users’ control over the program requires four essential
+freedoms.[(2)](#FOOT2) 
+
+用户对程序的控制需要四个重要的自由[^2]。
+
 1.  The freedom to run the program as you wish, for whatever purpose.
+
+1. 基于任何目的，按你的意愿运行软件的自由。
+
 2.  The freedom to study the program’s “source code,” and change it, so
     the program does your computing as you wish. Programs are written by
     programmers in a programming language—like English combined with
@@ -63,6 +76,9 @@ This version of this essay is part of @fsfsthreecite}
     are efficient for the computer to run but extremely hard for a human
     being to understand, understanding and changing the program in that
     form are forbiddingly hard.
+
+2. 学习软件“源代码”并修改的自由，这样可以让程序执行你想做的事情。程序是由程序员使用编程语言编写的（比如英语结合代数），这种形式称为“源代码”。任何熟悉编程，并能以源代码形式编程的人，都可以读源代码，懂得其逻辑，并可以修改之。而这些使用可执行格式，也就是对计算机来说能理解，但对人类极难读懂并修改的一系列数字，这种形式是极力禁止的。
+
 3.  The freedom to make and distribute exact copies when you wish. (It
     is not an obligation; doing this is your choice. If the program is
     free, that doesn’t mean someone has an obligation to offer you a
@@ -70,8 +86,13 @@ This version of this essay is part of @fsfsthreecite}
     Distributing a program to users without freedom mistreats them;
     however, choosing not to distribute the program—using it
     privately—does not mistreat anyone.)
+
+3. 将当前副本重新分发的自由。不过这不是一种义务，这样做是你的选择。如果是自由的，并不意味别人有义务提供给你一份副本，或者你有义务提供其他人副本。如果没有自由的分发，会亏待用户。然而如果不分发软件（只是私下使用）则不会亏待任何人。
+
 4.  The freedom to make and distribute copies of your modified versions,
-    when you wish.
+when you wish.
+
+4. 随时分发你修改过的版本的自由。
 
 The first two freedoms mean each user can exercise individual control
 over the program. With the other two freedoms, any group of users can
