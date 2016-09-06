@@ -100,6 +100,8 @@ together exercise *collective control* over the program. With all four
 freedoms, the users fully control the program. If any of them is missing
 or inadequate, the program is proprietary (nonfree), and unjust.
 
+前两个自由表示用户可以实际控制程序。而剩下的自由，表示任何用户团体都可以*集体控制*程序。具备这四个自由，用户就可以完全控制程序。这四个自由缺一不可，否则程序就是专有的（非自由的），并且不道德。
+
 Other kinds of works are also used for practical activities, including
 recipes for cooking, educational works such as textbooks, reference
 works such as dictionaries and encyclopedias, fonts for displaying
@@ -110,6 +112,8 @@ strictly speaking doesn’t cover them; but the same reasoning applies and
 leads to the same conclusion: these works should carry the four
 freedoms.
 
+任何实践类的作品都可以适用，包括烹饪菜谱，教育作品比如教科书，参考书比如字典和百科全书，显示文章的字体，硬件设计的电路程序，3D 打印用的（不只是装饰品）模型文件。因为这些并不是软件，所以自由软件运动严格上来说并不包括它们，但同理可证：这些作品也需要符合上面这四项自由。
+
 A free program allows you to tinker with it to make it do what you want
 (or cease do to something you dislike). Tinkering with software may
 sound ridiculous if you are accustomed to proprietary software as a
@@ -118,13 +122,19 @@ way to learn programming. Even the traditional American pastime of
 tinkering with cars is obstructed because cars now contain nonfree
 software.
 
+一个自由的程序允许你按照自己想法去改造。对于将专有软件看成密封盒子的人来说，改造软件看起来很荒谬，然而在自由的世界里则是非常普遍，并且对学习编程非常有利。传统美国消费者对汽车的改造并不顺畅，恰是因为汽车包含非自由的软件。
+
 ### The Injustice of Proprietariness {#the-injustice-of-proprietariness .subheading}
+
+### 专有化的不公
 
 If the users don’t control the program, the program controls the users.
 With proprietary software, there is always some entity, the developer or
 “owner” of the program, that controls the program—and through it,
 exercises power over its users. A nonfree program is a yoke, an
 instrument of unjust power.
+
+如果用户没有控制程序，那么程序就在控制用户。对专有软件，开发者或者程序“所有者”总会通过一些入口，控制着程序，将权力凌驾于用户之上。一个非自由的程序就像个操纵杆，是一把操纵不公权力的工具。
 
 In outrageous cases (though this outrage has become quite usual)
 proprietary programs are designed to spy on the users, restrict them,
@@ -135,15 +145,21 @@ Chrome for Windows include a universal back door that allows some
 company to change the program remotely without asking permission. The
 Amazon Kindle has a back door that can erase books.
 
+令人发指的是（这种情况很常见）专有程序设计用来窥视、限制、审查甚至虐待用户[^3]。例如苹果的 iThings 操作系统做了所有这些，同样的基于 ARM 芯片移动设备上的 Windows 系统也是如此。Windows 手机固件以及 Google Chrom Windows 版包含了通用后门，可以让一些公司不经过同意就远程修改程序。亚马逊的 Kindle 则通过后门删除用户的电子书。
+
 The use of nonfree software in the “internet of things” would turn it
 into the “internet of telemarketers”[(4)](#FOOT4) as well as the
 “internet of snoopers.”
+
+“物联网”（internet of things）产品上使用的非自由程序会将物联网变成“骗联网”（internet of telemarketers）[^4]或“窥联网”（internet of snoopers）。
 
 With the goal of ending the injustice of nonfree software, the free
 software movement develops free programs so users can free themselves.
 We began in 1984 by developing the free operating system GNU. Today,
 millions of computers run GNU, mainly in the GNU/Linux
 combination.[(5)](#FOOT5)
+
+为了结束非自由程序的不公，自由软件运动的开发者开发了自由的程序，这样用户可以解放自己。我们首先在 1984 年开发了自由的操作系统 GNU。现在数以万计的计算机运行着 GNU，主要是 GNU/Linux 结合体[^5]。
 
 Distributing a program to users without freedom mistreats those users;
 however, choosing not to distribute the program does not mistreat
@@ -153,12 +169,18 @@ same as doing wrong.) Thus, when we say all software must be free, we
 mean that every copy must come with the four freedoms, but we don’t mean
 that someone has an obligation to offer you a copy.
 
+分发非自由的程序给用户是残害用户的行为；然而如果不分发程序则不会伤害任何人。如果你写了一个程序并私下使用，不会伤害到任何人。你也许会失去做好事的机会，但这与做错事是不一样的。因此，我们说所有程序都应该是自由，意思是所有副本都应该遵循这四个自由，但并不意味着别人有义务提供给你一份副本。
+
 ### Nonfree Software and SaaSS {#nonfree-software-and-saass .subheading}
+
+### 非自由软件与 SaaSS
 
 Nonfree software was the first way for companies to take control of
 people’s computing. Nowadays, there is another way, called Service as a
 Software Substitute, or SaaSS. That means letting someone else’s server
 do your own computing tasks.
+
+非自由软件蹭是公司控制人们电脑的首选方案。今天，还有另外一种方式，称为“服务即软件替代”（SaaSS，Service as a Software Substitute）。这意思是让别人的服务器去做你自己电脑的任务。
 
 SaaSS doesn’t mean the programs on the server are nonfree (though they
 often are). Rather, using SaaSS causes the same injustices as using a
@@ -168,18 +190,26 @@ server, and the server translates it (from English to Spanish, say) and
 sends the translation back to the user. Now the job of translating is
 under the control of the server operator rather than the user.
 
+SaaSS 并不意味着运行在服务器上的程序是非自由的（虽然大多数确实是非自由的）。然而，使用 SaaSS 会导致与使用非自由程序一样的不公：殊途同归。就拿 SaaSS 翻译服务为例：用户发送文本到服务器，服务器将其翻译好的发给用户（比如从英文翻译为西班牙文）。那么翻译的工作是由服务器运营商控制的，而不是用户。
+
 If you use SaaSS, the server operator controls your computing. It
 requires entrusting all the pertinent data to the server operator, which
 will be forced to show it to the state as well—who does that server
 really serve, after all?[(6)](#FOOT6)
 
+如果你使用 SaaSS，服务器运营商控制着你的计算过程。它需要委托所有数据到服务器运营商那里，而这些数据也可能会被迫出让给国家——毕竟谁是服务器真正服务的人[^6]？
+
 ### Primary and Secondary Injustices {#primary-and-secondary-injustices .subheading}
+
+### 主要和次要的不公
 
 When you use proprietary programs or SaaSS, first of all you do wrong to
 yourself, because it gives some entity unjust power over you. For your
 own sake, you should escape. It also wrongs others if you make a promise
 not to share. It is evil to keep such a promise, and a lesser evil to
 break it; to be truly upright, you should not make the promise at all.
+
+当你使用专有软件或者 SaaSS，首先你对自己不好，因为这给了别人用不公的权力凌驾你的入口。所以为你着想，你必须远离非自由的程序。即使你承诺不分享程序，而这个承诺本身就是罪恶，不那么罪恶的是打破承诺；最好的做法就是完全不作出承诺。
 
 There are cases where using nonfree software puts pressure directly on
 others to do likewise. Skype is a clear example: when one person uses
@@ -189,13 +219,19 @@ have the same problem.) It is wrong even to suggest using such programs.
 We should refuse to use them even briefly, even on someone else’s
 computer.
 
+有一些非自由的程序会直接给用户施压。Skype 就是一个例子：当用户使用了一个非自由的 Skype 客户端软件，它会要求其他人使用同样的软件——这样两个人都将自由屈服了（Google Hangouts 也有同样的问题）。建议使用这样的软件也是同样的错误。我们必须坚决拒绝他们，即使是使用别人的电脑。
+
 Another harm of using nonfree programs and SaaSS is that it rewards the
 perpetrator, encouraging further development of that program or
 “service,” leading in turn to even more people falling under the
 company’s thumb.
 
+另一个使用非自由程序和 SaaSS 的害处是会嘉奖肇事者，鼓励他们开发更多这样的程序或“服务”，导致更多人掉入公司的陷阱。
+
 All the forms of indirect harm are magnified when the user is a public
 entity or a school.
+
+所有这些间接伤害发生在公共入口或学校的时候会更加显著。
 
 ### Free Software and the State {#free-software-and-the-state .subheading}
 
