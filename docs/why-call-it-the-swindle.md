@@ -10,6 +10,9 @@ title: Untitled Document
 1. Why Call It the Swindle? {#why-call-it-the-swindle .chapter}
 ===========================
 
+为何称之为诈骗（Swindle）？
+===========================
+
 I go out of my way to call nasty things by names that criticize them. I
 call Apple’s user-subjugating computers the “iThings,” and Amazon’s
 abusive e-reader the “Swindle.” Sometimes I refer to Microsoft’s
@@ -19,9 +22,9 @@ my feelings and have fun. But this fun is more than personal; it serves
 an important purpose. Mocking our enemies recruits the power of humor
 into our cause.
 
-@firstcopyingnotice{{@footnoterule @smallskip Copyright © 2013 Richard
-Stallman\
- {This version of this essay is part of @fsfsthreecite}
+我有意地用具有批判性的名字来称呼龌龊的东西。我将苹果的迫使用户屈从于它们的计算机称为“iThings”，而将亚马逊的虐待读者的电子书阅读器称为“诈骗”（Swindle）。有时我将微软的操作系统称为“Losedows”，而将微软的第一款操作系统称为“MS-Dog”[(1)](#FOOT1)。当然，我如此做是为了表达自己的不满以及作为消遣。然而这种消遣并不是个人层面的，它服务于一项重要目的。通过嘲讽我们的敌人，我们可以将幽默的力量注入我们的事业。
+
+@firstcopyingnotice{{@footnoterule @smallskip 著作权所有 (C) 2013 Richard Stallman {此版本是@fsfsthreecite的一部分。}
 
 Twisting a name is disrespectful. If we respected the makers of these
 products, we would use the names that they chose…and that’s exactly the
@@ -32,6 +35,8 @@ them and even push them around: the trend is for products to get
 nastier. These products deserve to be wiped out. Those with DRM ought to
 be illegal.
 
+扭曲名字是一种不尊重对方的行为。如果我们尊重这些产品的制造商，我们将会使用它们所选定的名字……并且那将是恰如其分的。这些恶意的产品只配得到我们的鄙视而非我们的尊重。每一款私有软件迫使其用户屈从于某些实体的权力，但如今最常用的私有软件已经不限于窥探用户和限制用户，甚至是任意摆布用户：趋势是这些产品正在变得越来越龌龊。它们理应被消灭干净，其中带有数字限制管理（DRM）的产品应该被判定为非法。
+
 When we mention them, we should show that we condemn them, and what
 easier way than by twisting their names? If we don’t do that, it is all
 too easy to mention them and fail to present the condemnation. When the
@@ -39,9 +44,13 @@ product comes up in the middle of some other topic, for instance,
 explaining at greater length that the product is bad might seem like a
 long digression.
 
+当我们谈论它们的时候，我们应当表达出我们对它们的谴责，那么，还有什么方式比扭曲它们的名字更容易呢？如果我们不如此做，就很可能在称呼它们的同时未能表达出我们的谴责。例如，当它们出现在某些其他话题之中时，下笔千言来解释它们为什么是坏的，就会显得离题万里。
+
 To mention these products by name and fail to condemn them has the
 effect of legitimizing them, which is the opposite of what they call
 for.
+
+点名谈论这些产品但未能表达出我们的谴责，将会产生使其合法化的反效果，这是与它们所应得的谴责正好相反的。
 
 Companies choose names for products as part of a marketing plan. They
 choose names they think people will be likely to repeat, then invest
