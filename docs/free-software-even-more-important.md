@@ -235,6 +235,8 @@ entity or a school.
 
 ### Free Software and the State {#free-software-and-the-state .subheading}
 
+### 自由软件与国家
+
 Public agencies exist for the people, not for themselves. When they do
 computing, they do it for the people. They have a duty to maintain full
 control over that computing so that they can assure it is done properly
@@ -242,11 +244,15 @@ for the people. (This constitutes the computational sovereignty of the
 state.) They must never allow control over the state’s computing to fall
 into private hands.
 
+公共机构是为人民服务的，而不是为他们自己。他们做计算机领域也是如此，有义务完全控制计算机以确保恰当的为人民服务（也就是所谓的国家主权计算）。他们决不能让计算机的控制权落入私人之手。
+
 To maintain control of the people’s computing, public agencies must not
 do it with proprietary software (software under the control of an entity
 other than the state). And they must not entrust it to a service
 programmed and run by an entity other than the state, since this would
 be SaaSS.
+
+为了维护控制人民的计算机，公共机构必须不能使用专有软件（非国家掌控的控制入口），同时不能委托国家机构以外的实体编写或运行服务，因为这会是 SaaSS。
 
 Proprietary software has no security at all in one crucial case—against
 its developer. And the developer may help others attack. Microsoft shows
@@ -257,7 +263,11 @@ government of any other country uses such software, it endangers
 national security.[(8)](#FOOT8) Do you want the NSA to break into your
 government’s computers?
 
+专有软件在非常时期是没有安全可言的——除非其开发者。甚至开发者会帮助其他人攻击。微软会在修复 Windows 的 bug 之前将其展示给 NSA[^7]（美国数字间谍机构）。我们不知道苹果是不是也这样做，但他们同样受到与微软一样的政府压力。如果其他国家政府使用这样的软件，会危害国家安全[^8]。你会希望 NSA 攻入你的政府计算机吗？
+
 ### Free Software and Education {#free-software-and-education .subheading}
+
+### 自由软件与教育
 
 Schools (and this includes all educational activities) influence the
 future of society through what they teach. They should teach exclusively
@@ -267,6 +277,8 @@ mission of education. By training in use of free software, schools will
 direct society’s future towards freedom, and help talented programmers
 master the craft.
 
+学校（包括所有这类教育活动）通过他们的教学会影响社会的未来。为了做善事他们必须只教自由软件。教授专有程序会产生依赖性，这与教育的任务是相悖的。通过培训使用自由软件，学校会将社会的未来转向自由，并帮助天才的程序员掌握这门手艺。
+
 They will also teach students the habit of cooperating, helping other
 people. Each class should have this rule: “Students, this class is a
 place where we share our knowledge. If you bring software to class, you
@@ -275,11 +287,17 @@ rest of the class—including the program’s source code, in case someone
 else wants to learn. Therefore, bringing proprietary software to class
 is not permitted except to reverse engineer it.”
 
+他们同时也教育了学生协作的习惯，帮助其他人。没个班级都要有这样的规则：“对学生而言，这个班级是分享知识的地方，如果你将一个软件带来，不仅仅是你自己用，同时你必须将副本分享给班里其他人——包括源代码，万一某个人想要学习。因此，不允许将专有软件带到课堂，除非学习逆向工程。”
+
 Proprietary developers would have us punish students who are good enough
 at heart to share software and thwart those curious enough to want to
 change it. This means a bad education.[(9)](#FOOT9)
 
+专有软件的开发者会惩罚那些好心分享软件的学生，并阻挠学生修改的好奇心。这是很烂的教育[^9]。
+
 ### Free Software: More Than “Advantages” {#free-software-more-than-advantages .subheading}
+
+### 自由软件：不止“优势”
 
 I’m often asked to describe the “advantages” of free software. But the
 word “advantages” is too weak when it comes to freedom. Life without
@@ -289,6 +307,8 @@ the programs or computing services control over the computing we do.
 This is the right thing to do, for selfish reasons; but not solely for
 selfish reasons.
 
+经常有人让我描述自由软件的“优势”。然而“优势”这个词对自由而言太弱了。没有自由的生活是一种压迫，无论是我们平时的生活还是计算机领域。我们必须拒绝让软件或计算机服务的开发者控制我们的计算机。这才是我们要做的事情，虽然有自私的因素；但不仅仅是自私的考量。
+
 Freedom includes the freedom to cooperate with others. Denying people
 that freedom means keeping them divided, which is the start of a scheme
 to oppress them. In the free software community, we are very much aware
@@ -296,6 +316,8 @@ of the importance of the freedom to cooperate because our work consists
 of organized cooperation. If your friend comes to visit and sees you use
 a program, she might ask for a copy. A program which stops you from
 redistributing it, or says you’re “not supposed to,” is antisocial.
+
+自由包括与其他人协作的自由。拒绝人们的这项自由意味着让人孤立，会成为对人压迫的开始。在自由软件社群，我们深刻的意识到与他人协作的重要性因为我们的工作正是有组织的协作。如果一个朋友看到你在用一个程序，她也许会要一份副本。而程序禁止人们再分发，或者说你“不应该”这么做，这是一种反社会行为。
 
 In computing, cooperation includes redistributing exact copies of a
 program to other users. It also includes distributing your changed
@@ -307,7 +329,11 @@ web in someone else’s server, by someone else’s copy of a program, you
 can’t see it or touch the software that does your computing, so you
 can’t redistribute it or change it.
 
+在计算机领域，协作包括向用户再分发原始副本，也包括分发你修改过的版本。自由软件鼓励所有这些协作，而专有软件禁止这些。专有软件禁止再分发副本，并拒绝提供给用户源代码，封锁人们对软件的修改。SaaSS 也有同样的效果：如果你的计算过程是由互联网上其他人的服务器，其他人的程序副本做出的，你不能看到或碰触到这些计算用的软件，因此你就不能再分发或修改了。
+
 ### Conclusion {#conclusion .subheading}
+
+### 结论
 
 We deserve to have control of our own computing; how can we win this
 control? By rejecting nonfree software on the computers we own or
@@ -316,37 +342,43 @@ software[(10)](#FOOT10) (for those of us who are programmers). By
 refusing to develop or promote nonfree software or SaaSS. By spreading
 these ideas to others.[(11)](#FOOT11)
 
+我们应该控制我们自己的计算机，如何赢回控制权？可以通过拒绝我们自己或平时所用计算机上的非自由软件，拒绝 SaaSS。对于我们这些程序员而言，可以通过开发自由软件[^10]。还可以通过拒绝开发或者推广非自由软件或 SaaSS，散布这些理念给其他人[^11]。
+
 We and thousands of users have done this since 1984, which is how we now
 have the free GNU/Linux operating system that anyone—programmer or
 not—can use. Join our cause, as a programmer or an activist. Let’s make
 all computer users free.
 
-<div class="footnote">
-
-------------------------------------------------------------------------
-
-### Footnotes
+我们以及上千用户从1984年开始就这么做，这样才有了现在我们使用的自由的 GNU/Linux 操作系统，服务给所有人——无论是否是程序员。加入我们的事业，以一个程序员或活动者的身份。让我们一起解放所有计算机用户吧。
 
 ### [(1)](#DOCF1)
 
 @raggedright See <http://gnu.org/proprietary/proprietary.html> for an
 evolving list of these threats. @end raggedright
 
+[^1]: 参见<http://gnu.org/proprietary/proprietary.html>可知这些不断增加的威胁。
+
 ### [(2)](#DOCF2)
 
 @raggedright See @pageref{Definition} for the full definition of free
 software. @end raggedright
+
+[^2]: 自由软件的完整定义可参见《自由软件的定义》一文。
 
 ### [(3)](#DOCF3)
 
 @raggedright See footnote 1, on @pageref{Proprietary Software}. @end
 raggedright
 
+[^3]: 参见《专有软件》一文的脚注1
+
 ### [(4)](#DOCF4)
 
 @raggedright Marcelo Rinesi, “The Telemarketer Singularity,”
 6 August 2015, <http://ieet.org/index.php/IEET/more/rinesi20150806>.
 @end raggedright
+
+[^4]: 参见 Marcelo Rinesi 于2015年8月6日发表的文章"The Telemarketer Singularity"<http://ieet.org/index.php/IEET/more/rinesi20150806>
 
 ### [(5)](#DOCF5)
 
@@ -355,10 +387,14 @@ the history of the GNU operating system, and
 <http://gnu.org/gnu/gnu-linux-faq.html>, for the “GNU/Linux FAQ.” @end
 raggedright
 
+[^5]: 关于 GNU 操作系统的历史可参见《GNU 工程》一文，以及“GNU/Linux FAQ”<http://gnu.org/gnu/gnu-linux-faq.html>。
+
 ### [(6)](#DOCF6)
 
 @raggedright See “Who Does That Server Really Serve?” (@pageref{Server})
 for more on this issue. @end raggedright
+
+[^6]: 参见《服务器》一文的相关章节“服务器真正为谁服务？”
 
 ### [(7)](#DOCF7)
 
@@ -368,16 +404,22 @@ from Microsoft, Others,” 14 June 2013,
 early-access-to-zero-day-data-from-microsoft-others/](http://arstechnica.com/security/2013/06/nsa-gets-%3Cbr%3Eearly-access-to-zero-day-data-from-microsoft-others/).
 @end raggedright
 
+[^7]: 参见 Sean Gallagher 于2013年6月14日发表的文章“NSA Gets Early Access to Zero-Day Data from Microsoft, Others”<http://arstechnica.com/security/2013/06/nsa-gets-%3Cbr%3Eearly-access-to-zero-day-data-from-microsoft-others/>
+
 ### [(8)](#DOCF8)
 
 @raggedright See “Measures Governments Can User to Promote Free
 Software” (@pageref{Government}) for our suggested policies. @end
 raggedright
 
+[^8]: 关于我们建议的政策可参见《用推广自由软件来考评政府》一文
+
 ### [(9)](#DOCF9)
 
 @raggedright See <http://gnu.org/education> for more discussion of the
 use of free software in schools. @end raggedright
+
+[^9]: 有关自由软件在学校的讨论可参见 <http://gnu.org/education>
 
 ### [(10)](#DOCF10)
 
@@ -385,14 +427,11 @@ use of free software in schools. @end raggedright
 (@pageref{License Recommendations}) for our licensing recommendations.
 @end raggedright
 
+[^10]: 关于许可证的建议可参见《推荐许可证》一文中的“如何为你自己的作品选择许可证”
+
 ### [(11)](#DOCF11)
 
 @raggedright See <http://gnu.org/help> for the various ways you could
 help. @end raggedright
 
-</div>
-
-------------------------------------------------------------------------
-
-This document was generated by *tonghuix* on *March 25, 2016* using
-[*texi2html 1.82*](http://www.nongnu.org/texi2html/).\
+[^11]: 各种帮助的方式可参见 <http://gnu.org/help>
