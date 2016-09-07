@@ -1,18 +1,20 @@
----
-Generator: 'texi2html 1.82'
-description: Untitled Document
-distribution: global
-keywords: Untitled Document
-resource-type: document
-title: Untitled Document
-...
-
 1. Measures Governments Can Use to Promote Free Software {#measures-governments-can-use-to-promote-free-software .chapter}
 ========================================================
+
+## 政府推动自由软件的措施
+
+@firstcopyingnotice{{@footnoterule @smallskip Copyright © 2011–2014 Free
+Software Foundation, Inc.\
+ {This article was first published on <http://gnu.org>, in 2011. This
+version is part of @fsfsthreecite}
+
+> Copyright © 2011–2014 自由软件基金会，此文首发于2011年 <http://gnu.org>。
 
 This article suggests policies for a strong and firm effort to promote
 free software within the state, and to lead the rest of the country
 towards software freedom.
+
+本文提出了一些强力政策推动自由软件在国内的发展，并让国内其他地方都转向软件自由。
 
 The mission of the state is to organize society for the freedom and
 well-being of the people. One aspect of this mission, in the computing
@@ -20,6 +22,8 @@ field, is to encourage users to adopt free software: software that
 respects the users’ freedom.[(1)](#FOOT1) A proprietary (nonfree)
 program tramples the freedom of those that use it; it is a social
 problem that the state should work to eradicate.
+
+国家的使命是通过整合社会资源为人民自由谋福祉。这个福利的一个方面在计算机领域就是鼓励用户使用自由软件：代表用户自由的软件[^1]。而专有（非自由）软件则践踏了人民的自由，这是一个社会问题，所以政府应该去解决这个问题。
 
 @firstcopyingnotice{{@footnoterule @smallskip Copyright © 2011–2014 Free
 Software Foundation, Inc.\
@@ -35,9 +39,13 @@ on computing, and its control over those activities depends on its
 control over that computing. Losing this control in an agency whose
 mission is critical undermines national security.
 
+从国家计算机主权角度来说，国家需要坚持自由软件的主张（国家控制计算机）。所有用户鼓励控制自己的计算机，但国家有责任对人民表示计算机的控制。现在大多数政府活动都依赖计算机，而控制这些活动则依赖于对计算机的控制。而若机构失去对计算机的控制将会极大危害国家安全。
+
 Moving state agencies to free software can also provide secondary
 benefits, such as saving money and encouraging local software-support
 businesses.
+
+将国家机构转向自由软件同时也会提供额外的好处，比如节省经费和鼓励本地软件支持商业等等。
 
 In this text, “state entities” refers to all levels of government, and
 means public agencies including schools, public-private partnerships,
@@ -45,10 +53,16 @@ largely state-funded activities such as charter schools, and “private”
 corporations controlled by the state or established with special
 privileges or functions by the state.
 
+本文中，“国家实体”指代各级政府，以及普通的公共机构包括学校，公共-私立伙伴关系，大型国有活动比如特许公立学校，以及由国家控制或由国家特许经营或注资的“私营”企业。
+
 ### Education {#education .subheading}
+
+### 教育领域
 
 The most important policy concerns education, since that shapes the
 future of the country:
+
+教育领域的政策非常重要，因为会影响国家的未来
 
 -   **Teach only free software**\
      Educational activities, or at least those of state entities, must
@@ -57,10 +71,18 @@ future of the country:
     insisting on free software. To teach a nonfree program is to teach
     dependence, which is contrary to the mission of the school.
 
+- **只能教授自由软件**
+
+  教育活动或者至少这些国立教育实体，必须只教授自由软件（因此，他们决不能引导学生使用非自由程序），并教育学生坚持使用自由软件背后公民原因。教授非自由程序就是在教授依赖性，这与学校的使命是相悖的。
+
 ### The State and the Public {#the-state-and-the-public .subheading}
+
+### 国家与公众
 
 Also crucial are state policies that influence what software individuals
 and organizations use:
+
+这些政策对个人与组织使用软件有巨大影响：
 
 -   **Never require nonfree programs**\
      Laws and public sector practices must be changed so that they never
@@ -68,15 +90,30 @@ and organizations use:
     nonfree program. They should also discourage communication and
     publication practices that imply such consequences (including
     Digital Restrictions Management[(2)](#FOOT2)).
+
+- **永远不要求非自由程序**
+
+  法律和公共部门实践活动必须改革永远不能要求或施压给个人组织使用非自由程序。他们还必须不能在沟通或出版行业引入类似的规定（包括数字版权管理 Digital Restrictions Management[^2]）。
+
 -   **Distribute only free software**\
      Whenever a state entity distributes software to the public,
     including programs included in or specified by its web pages, it
     must be distributed as free software, and must be capable of running
     on a platform containing exclusively free software.
+
+- **只散播自由软件**
+
+  国家实体无论在什么时候将软件公开散播，包括程序附带或网页，必须散播自由软件，且必须与只运行自由软件的环境兼容。
+
 -   **State web sites**\
      State entity web sites and network services must be designed so
     that users can use them, without disadvantage, by means of free
     software exclusively.
+
+- **政府网站**
+
+  政府实体的网站和网络服务必须设计给用户能够使用的，不能有缺陷，只能是普遍自由软件的方式。
+
 -   **Free formats and protocols**\
      State entities must use only file formats and communication
     protocols that are well supported by free software, preferably with
@@ -86,6 +123,11 @@ and organizations use:
     audio or video recordings in formats that require Flash or nonfree
     codecs, and public libraries must not distribute works with Digital
     Restrictions Management.
+
+- **自由的格式和协议**
+
+  国家实体必须只使用自由软件广泛支持的文件格式和通信协议，特别是已经公开的规格（我们并不说“标准”，因为它应该适用于标准和非标准的接口）。例如，他们必须不能散播使用 Flash 或者非自由解码器播放的音频或视频文件，对外公布的库必须不能包含数字版权管理 Digital Restrictions Management。
+
 -   **Untie computers from licenses**\
      Sale of computers must not require purchase of a proprietary
     software license. The seller should be required by law to offer the
@@ -98,12 +140,20 @@ and organizations use:
     advantage, detrimental to users’ freedom. It is proper for the state
     to prevent this abuse.
 
+- **解除对计算机的限制性许可证**
+
+  销售计算机必须不能要求购买一份专有软件许可证。必须通过法律来约束销售方提供给消费者购买计算机时不需要专有软件以及不需要为此付费的选项。强制付费是另一个错误，不能让我们从专有软件的不公中分散注意力，应更关注失去自由而导致的损失。虽然如此，强迫用户为其付费等于是给了特定专有软件开发者一个额外的不平等优势，让他们来决定用户的自由。国家应该防止这种情况发生。
+
 ### Computational Sovereignty {#computational-sovereignty .subheading}
+
+### 国家计算主权
 
 Several policies affect the computational sovereignty of the state.
 State entities must maintain control over their computing, not cede
 control to private hands. These points apply to all computers, including
 smartphones.
+
+很多政策会影响到国家计算主权。国家实体必须维护控制它们的计算资源，而不是放弃控制到私人之手。这一点适用于所有计算机，包括智能手机。
 
 -   **Migrate to free software**\
      State entities must migrate to free software, and must not install,
@@ -112,6 +162,11 @@ smartphones.
     grant these temporary exceptions, and only when shown
     compelling reasons. This agency’s goal should be to reduce the
     number of exceptions to zero.
+
+- **迁移到自由软件**
+
+  国家实体必须迁移到自由软件，并且不能安装和继续使用非自由软件，除非临时例外。只有一个机构可以有权获得这些临时例外，且需要拿出令人信服的理由。这个机构的目标必须是将这些例外减少到零。
+
 -   **Develop free IT solutions**\
      When a state entity pays for development of a computing solution,
     the contract must require it be delivered as free software, and that
@@ -119,6 +174,11 @@ smartphones.
     100-percent-free environment. All contracts must require this, so
     that if the developer does not comply with these requirements, the
     work cannot be paid for.
+
+- **开发自由的 IT 解决方案**
+
+  当政府实体需要为开发计算机解决方案付费时，合同必须包括以自由软件形式交付，并且方案必须设计为可以在百分之百自由软件环境中运行和开发。所有合同都需要这条，这样如果开发商一旦不符合需求，这样就不能付款。
+
 -   **Choose computers for free software**\
      When a state entity buys or leases computers, it must choose among
     the models that come closest, in their class, to being capable of
@@ -126,17 +186,33 @@ smartphones.
     for each class of computers, a list of the models authorized based
     on this criterion. Models available to both the public and the state
     should be preferred to models available only to the state.
+
+- **为自由软件选配计算机**
+
+  当政府实体购买或租借计算机时，必须选择最接近同类产品，同等级，并适用于没有专有软件的型号。政府需要维护每个等级的计算机，相应的选配型号也应符合这个标准。对于公开型号和政府型号，应该选择只对政府开放的型号。
+
 -   **Negotiate with manufacturers**\
      The state should negotiate actively with manufacturers to bring
     about the availability in the market (to the state and the public)
     of suitable hardware products, in all pertinent product areas, that
     require no proprietary software.
+
+- **与厂商协商**
+
+  国家必须经常与厂商协商市场（对外销售或和政府）上适合的硬件产品，在所有专利产品领域，都不能需要专有软件。
+
 -   **Unite with other states**\
      The state should invite other states to negotiate collectively with
-    manufacturers about suitable hardware products. Together they will
-    have more clout.
+     manufacturers about suitable hardware products. Together they will
+     have more clout.
+
+- **与其他国家联合**
+
+  本国需邀请其他国家来协商厂商的硬件产品。联合它们获得更多影响力。
 
 ### Computational Sovereignty II {#computational-sovereignty-ii .subheading}
+
+### 国家计算主权之二
 
 The computational sovereignty (and security) of the state includes
 control over the computers that do the state’s work. This requires
@@ -144,6 +220,8 @@ avoiding Service as a Software Substitute,[(3)](#FOOT3) unless the
 service is run by a state agency under the same branch of government, as
 well as other practices that diminish the state control over its
 computing. Therefore,
+
+国家计算主权（和安全）包括控制计算机做国家的事情。这需要避免“服务即软件替换”（Service as a Software Substitute）[^3]，除非这类服务是运行在国家机关的同一分支，并降低对计算资源的控制，除非：
 
 -   **State must control its computers**\
      Every computer that the state uses must belong to or be leased by
@@ -154,24 +232,45 @@ computing. Therefore,
     portable, then while in use it must be in a physical space of which
     the state is the occupant (either as owner or as tenant).
 
+- **国家必须控制其计算机**
+
+  每一台国家使用的计算机必须从属于或租借自政府的同一个分支，而这个政府分支必须不能把谁有权物理访问计算机，谁能维护（软件和硬件），或者能够安装什么软件的权力放弃给外人。如果计算机不可移动，那么计算机所在的物理空间必须是国家所有（无论是所有者或者承租人）。
+
 ### Influence Development {#influence-development .subheading}
 
+### 对开发的影响
+
 State policy affects free and nonfree software development:
+
+国家政策会影响自由和非自由软件的开发：
 
 -   **Encourage free**\
      The state should encourage developers to create or enhance free
     software and make it available to the public, e.g. by tax breaks and
     other financial incentive. Contrariwise, no such incentives should
     be granted for development, distribution or use of nonfree software.
+
+- **鼓励自由**
+
+  国家需要鼓励开发者创立或完善自由软件并将其公开，比如通过减税或其他财政补贴的方式。相反，对非自由软件的开发者则没有此类财政补贴。
+
 -   **Don’t encourage nonfree**\
      In particular, proprietary software developers should not be able
     to “donate” copies to schools and claim a tax write-off for the
     nominal value of the software. Proprietary software is not
     legitimate in a school.
 
+- **不要鼓励非自由**
+
+  特别的，专有软件开发者不应该“捐献”软件副本给学校并减少税务的义务。专有软件在学校是不合法的。
+
 ### E-Waste {#e-waste .subheading}
 
+### 电子垃圾
+
 Freedom should not imply e-waste:
+
+自由并不意味着产生更多电子垃圾：
 
 -   **Replaceable software**\
      Many modern computers are designed to make it impossible to replace
@@ -189,13 +288,23 @@ Freedom should not imply e-waste:
     operating system, or in which the interfaces for some peripherals
     are secret.
 
+- **可替代性软件**
+
+  很多现在计算机设计为不可将自由软件替代其预装的软件。因此唯一解放它们的方式就是丢掉，而这对社会不利。
+
+  因此，这样做是非法的，或者至少通过给新计算机（不是二手）的销售者、进口商或发布商增加税收份额，或者它们的计算机相关产品的硬件接口保密或者潜在限制用户禁止用户开发、安装或者使用替代只有厂商可以升级的预装软件。这同样适用于任何需要“越狱”的设备以便安装不同的操作系统，或者类似的接口和外设是秘密的。
+
 ### Technological Neutrality {#technological-neutrality .subheading}
+
+### 技术中立
 
 With the measures in this article, the state can recover control over
 its computing, and lead the country’s citizens, businesses and
 organizations towards control over their computing. However, some object
 on the grounds that this would violate the “principle” of technological
 neutrality.
+
+通过本文中中给出的措施，政府可以恢复对计算机的控制，并引导国家公民、商业和组织控制自己的计算机。然而，很多反对意见认为这会违反技术中立的“原则”。
 
 The idea of technological neutrality is that the state should not impose
 arbitrary preferences on technical choices. Whether that is a valid
@@ -206,16 +315,14 @@ of *technological* neutrality.[(4)](#FOOT4) Only those who wish to
 subjugate a country would suggest that its government be “neutral” about
 its sovereignty or its citizens’ freedom.
 
-<div class="footnote">
-
-------------------------------------------------------------------------
-
-### Footnotes
+技术中立是指国家不应该在技术选型时强加干涉。无论这是不是有效的原则或是争议，这仅仅只涉及到技术问题。而这里提出来的措施解决的是道义、社会和政治问题，因此超出了*技术*中立的范畴[^4]。除非他们觉得其政府需要在主权和公民自由上保持“中立”。
 
 ### [(1)](#DOCF1)
 
 @raggedright See @pageref{Definition} for the full definition of free
 software. @end raggedright
+
+[^1]: 参见《自由软件定义》一文了解自由软件的定义
 
 ### [(2)](#DOCF2)
 
@@ -224,10 +331,14 @@ software. @end raggedright
 what\_is\_drm](http://defectivebydesign.org/%3Cbr%3Ewhat_is_drm), and
 @pageref{DRM} for more on this issue. @end raggedright
 
+[^2]: 参见反 DRM 活动网站[http://defectivebydesign.org/what\_is\_drm](http://defectivebydesign.org/%3Cbr%3Ewhat_is_drm)以及《DRM》一文了解相关问题。
+
 ### [(3)](#DOCF3)
 
 @raggedright See “Who Does That Server Really Serve?” (@pageref{Server})
 for more on SaaSS. @end raggedright
+
+[^3]: 参见《服务器》一文的“服务器真正为谁服务？”相关章节，了解 SaaSS。
 
 ### [(4)](#DOCF4)
 
@@ -236,9 +347,4 @@ Software,” at [http://www.\
 gnu.org/philosophy/technological-neutrality.html](http://www.%3Cbr%3Egnu.org/philosophy/technological-neutrality.html),
 for more on this issue. @end raggedright
 
-</div>
-
-------------------------------------------------------------------------
-
-This document was generated by *tonghuix* on *March 25, 2016* using
-[*texi2html 1.82*](http://www.nongnu.org/texi2html/).\
+[^4]: 参见我的文章“Technological Neutrality and Free Software” [http://www.gnu.org/philosophy/technological-neutrality.html](http://www.%3Cbr%3Egnu.org/philosophy/technological-neutrality.html)
