@@ -522,7 +522,7 @@ who wanted to make his business shut down. He sent me the patent. Claim
 which each computer supports a multiplicity of games, and allows a
 multiplicity of game sessions at the same time.”
 
-首先，专利持有者也许根本不会考虑给您一份授权许可，这完全取决于他的意志。他可以说：“我就是要逼你停业。”我曾经收到某人来信求助，此人的家族企业当时正在经营赌博游戏，当然是计算机上的，他被专利持有人威胁关闭他的整个企业。他将该项专利发送给我。其权利要求 1 是关于这样的东西：“一种拥有多台计算机的网络，其中每台计算机支持多种游戏，并且允许多个游戏会话在同时进行。”
+首先，专利持有者也许根本不会考虑给您一份授权许可，这完全取决于他的意志。他可以说：“我就是要逼你停业。”我曾经收到某人来信求助，此人的家族企业当时正在经营博彩游戏，当然是计算机上的，他被专利持有人威胁关闭他的整个企业。他将该项专利发送给我。其权利要求 1 是关于这样的东西：“一种拥有多台计算机的网络，其中每台计算机支持多种游戏，并且允许多个游戏会话在同时进行。”
 
 Now, I’m sure in the 1980s there was a university that set up a room
 with a network of workstations, and each workstation had some kind of
@@ -617,7 +617,7 @@ them—never mind that those people didn’t attack this company.
 So if your employer says to you, “We need some patents to defend
 ourselves, so help us get patents,” I recommend this response:
 
-于是，如果您的雇主对您说：“我们需要专利来保护自己，请你帮我们获得专利。”我建议您如此回复：
+于是，如果您的雇主对您说：“我们需要专利来保护自己，请你帮助我们获得专利。”我建议您如此回复：
 
 > Boss, I trust you and I’m sure you would only use those patents to
 > defend the company if it’s attacked. But I don’t know who’s going to
