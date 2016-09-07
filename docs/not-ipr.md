@@ -215,7 +215,7 @@ and simplistic picture the term “intellectual property” suggests.
 Consider each of these issues separately, in its fullness, and you have
 a chance of considering them well.
 
-如果您想要对专利法、版权法、商标法或是其他不同法律所引起的问题进行清晰的思考，第一步就是忘记将它们不分青红皂白地放在一起的想法，并且将它们作为独立的问题区别对待。第二部是拒绝“知识产权”这一概念所提示的狭隘视角和过度简单化的情景。只有对每个问题进行独立且完整的思考，您才能有机会清晰地思考它们。
+如果您想要对专利法、版权法、商标法或是其他不同法律所引起的问题进行清晰的思考，第一步就是忘记将它们不分青红皂白地放在一起的想法，并且将它们作为独立的问题区别对待。第二步是拒绝“知识产权”这一概念所提示的狭隘视角和过度简单化的情景。只有对每个问题进行独立且完整的思考，您才能有机会清晰地思考它们。
 
 ### Notes {#notes .subheading}
 
