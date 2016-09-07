@@ -124,7 +124,7 @@ to verify what it’s really doing to them, and many proprietary programs
 have malicious features which spy on the user, restrict the user, even
 back doors to attack the user.
 
-私有软件使得用户陷入孤立无援的困境：所谓孤立，是由于用户被禁止分享；所谓无援，是由于用户不能拥有源代码，因此不能对其进行修改，他们甚至不能研究它以便确定它真正是在对他们做什么，而且众多私有软件拥有恶意功能用于刺探用户、限制用户、甚至为对用户的攻击提供后门。
+私有软件使得用户陷入孤立无援的困境：所谓孤立，是由于用户被禁止分享；所谓无援，是由于用户不能拥有源代码，因此不能对其进行修改，他们甚至不能研究它以便确定它真正是在对他们做什么，而且众多私有软件拥有恶意功能用于窥探用户、限制用户、甚至为对用户的攻击提供后门。
 
 For instance, Microsoft Windows has a back door with which Microsoft can
 forcibly install software changes, without getting permission from the
@@ -559,7 +559,7 @@ something incompatible with your own freedom. They are an enemy with
 which no accommodation is possible, at least not with our present level
 of knowledge.
 
-这是公众对于 DRM 的不满的一次大规模爆发。但这并未赢得这场战争，由于出版商更换了密钥。不仅如此，对于高清 DVD（HD DVD），这种方式足以破解其 DRM，但对于蓝光光盘（Blu-ray）则不行。蓝光光盘用有一个额外层级的 DRM，至今没有自由软件可以破解它，这意味着您必须将蓝光光盘看做某种与您自己的自由完全不兼容的东西。它们是您所不可能与之共存的敌人，至少对于我们当前的知识水平是如此。
+这是公众对于 DRM 的不满的一次大规模爆发。但这并未赢得这场战争，由于出版商更换了密钥。不仅如此，对于高清 DVD（HD DVD），这种方式足以破解其 DRM，但对于蓝光光盘（Blu-ray）则不行。蓝光光盘拥有一个额外层级的 DRM，至今没有自由软件可以破解它，这意味着您必须将蓝光光盘看做某种与您自己的自由完全不兼容的东西。它们是您所不可能与之共存的敌人，至少对于我们当前的知识水平是如此。
 
 Never accept any product designed to attack your freedom. If you don’t
 have the free software to play a DVD, you mustn’t buy or rent any DVDs,
@@ -711,7 +711,7 @@ to do to your books), and the Amazon Swindle, designed to swindle you
 out of your traditional freedoms without your noticing. Of course, they
 call it the Kindle which is what it’s going to do to your books.
 
-现在，它们终于来了。诸如索尼碎纸机（Shreader，它的官方名字是 reader，但是如果您加上 sh 两个字母，这就能很好地解释它是被设计用于对您的书做什么的了）和亚马逊诈骗（Swindle）这样的设备是被设计为用于在您毫无戒备的情况下骗走您的传统阅读自由的。当然，亚马逊将其称为 Kindle 恰如其分地解释了它将会对您的书做些什么。
+现在，它们终于来了。诸如索尼碎纸机（Shreader，它的官方名字是 reader，但是如果您加上 sh 两个字母，这就能很好地解释它是被设计用于对您的书做什么的了）和亚马逊诈骗（Swindle）这样的设备是被设计为用于在您毫无戒备的情况下骗走您的传统阅读自由的。当然，亚马逊将其称为 Kindle（焚烧）恰如其分地解释了它将会对您的书做些什么。
 
 The Kindle is an extremely malicious product, almost as malicious as
 Microsoft Windows. They both have spy features, they both have Digital
@@ -806,7 +806,7 @@ governments are doing in cahoots with big business to attack our
 freedom, by making copyright harsher and nastier, more restrictive than
 ever before.
 
-这是可能的，但是，真正推广电子书的大型出版公司如此做的目的都是侵犯我们的自由，这是我们无论如何不能容忍和支持的。这正是政府和大型出版企业正在合谋所做的事情，通过使得版权变得越来越严酷和龌龊，越来越觉有约束性来侵犯我们的自由。
+这是可能的，但是，真正推广电子书的大型出版公司如此做的目的都是侵犯我们的自由，这是我们无论如何不能容忍和支持的。这正是政府和大型出版企业正在合谋所做的事情，通过使得版权变得越来越严酷和龌龊，越来越具有约束性来侵犯我们的自由。
 
 But what should they do? Governments should make copyright power less.
 Here are my specific proposals.
