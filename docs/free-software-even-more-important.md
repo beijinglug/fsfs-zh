@@ -1,8 +1,7 @@
 1. Free Software Is Even More Important Now {#free-software-is-even-more-important-now .chapter}
 ===========================================
 
-如今自由软件更加重要
-================
+## 如今自由软件更加重要
 
 @firstcopyingnotice{{@footnoterule @smallskip See
 <http://gnu.org/help> for ways to help the free software movement.
@@ -134,7 +133,7 @@ With proprietary software, there is always some entity, the developer or
 exercises power over its users. A nonfree program is a yoke, an
 instrument of unjust power.
 
-如果用户没有控制程序，那么程序就在控制用户。对专有软件，开发者或者程序“所有者”总会通过一些入口，控制着程序，将权力凌驾于用户之上。一个非自由的程序就像个操纵杆，是一把操纵不公权力的工具。
+如果用户没有控制程序，那么程序就在控制用户。对专有软件，有一些实体比如开发者或者程序“所有者”，控制着程序，将权力凌驾于用户之上。一个非自由的程序就像个操纵杆，是一把操纵不公权力的工具。
 
 In outrageous cases (though this outrage has become quite usual)
 proprietary programs are designed to spy on the users, restrict them,
@@ -209,7 +208,7 @@ own sake, you should escape. It also wrongs others if you make a promise
 not to share. It is evil to keep such a promise, and a lesser evil to
 break it; to be truly upright, you should not make the promise at all.
 
-当你使用专有软件或者 SaaSS，首先你对自己不好，因为这给了别人用不公的权力凌驾你的入口。所以为你着想，你必须远离非自由的程序。即使你承诺不分享程序，而这个承诺本身就是罪恶，不那么罪恶的是打破承诺；最好的做法就是完全不作出承诺。
+当你使用专有软件或者 SaaSS，首先你对自己不好，因为这给了别的实体可以用不公的权力凌驾你。所以为你着想，你必须远离非自由的程序。即使你承诺不分享程序，而这个承诺本身就是罪恶，不那么罪恶的是打破承诺；最好的做法就是完全不作出承诺。
 
 There are cases where using nonfree software puts pressure directly on
 others to do likewise. Skype is a clear example: when one person uses
@@ -231,7 +230,7 @@ company’s thumb.
 All the forms of indirect harm are magnified when the user is a public
 entity or a school.
 
-所有这些间接伤害发生在公共入口或学校的时候会更加显著。
+所有这些间接伤害发生在公共实体或学校的时候会更加显著。
 
 ### Free Software and the State {#free-software-and-the-state .subheading}
 
@@ -252,7 +251,7 @@ other than the state). And they must not entrust it to a service
 programmed and run by an entity other than the state, since this would
 be SaaSS.
 
-为了维护控制人民的计算机，公共机构必须不能使用专有软件（非国家掌控的控制入口），同时不能委托国家机构以外的实体编写或运行服务，因为这会是 SaaSS。
+为了维护控制人民的计算机，公共机构必须不能使用专有软件（一个由国家之外的实体掌控的软件），同时不能委托国家机构以外的实体编写或运行服务，因为这会是 SaaSS。
 
 Proprietary software has no security at all in one crucial case—against
 its developer. And the developer may help others attack. Microsoft shows
@@ -412,7 +411,7 @@ early-access-to-zero-day-data-from-microsoft-others/](http://arstechnica.com/sec
 Software” (@pageref{Government}) for our suggested policies. @end
 raggedright
 
-[^8]: 关于我们建议的政策可参见《用推广自由软件来考评政府》一文
+[^8]: 关于我们建议的政策可参见《政府推动自由软件的措施》一文
 
 ### [(9)](#DOCF9)
 
