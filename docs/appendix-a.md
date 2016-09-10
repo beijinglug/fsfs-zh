@@ -1,37 +1,14 @@
-**A:** A Note on Software {#a-a-note-on-software .unnumbered}
-=========================
-
-关于软件的基础知识
-================
+##关于软件的基础知识
 
 > Copyright © 2002 Richard E.Buckman and Joshua Gay. 此文最早发布于 2002 年。
 
 由 Richard E. Buckman 和 Joshua Gay 撰写
 
-This section is intended for people who have little or no knowledge of
-the technical aspects of computer science. It is not necessary to read
-this section to understand the essays and speeches presented in this
-book; however, it may be helpful to those readers not familiar with some
-of the jargon that comes with programming and computer science.
+本节内容是特意为对计算机科学技术了解不多的人准备的。这节内容对于理解书中的文章和演讲并不是必须的，不过，它可以帮助那些不熟悉编程和计算机的人理解一些术语。
 
-此文面向那些对计算机科学技术方面没有什么知识的人。为了理解书中的文章和演讲，其实不需要阅读此文，不过对不熟悉编程和计算机的人来说，此文可以帮助理解一些术语。
+计算机*程序员*来写软件或者计算机程序。而程序可以认为是告诉计算机如何完成特定任务的一系列*指令*。你应该熟悉许多不同类型的应用程序：比如你的网页浏览器、你的文字处理器和你的邮件客户端等等。
 
-A computer *programmer* writes software, or computer programs. A program
-is more or less a recipe with *commands* to tell the computer what to do
-in order to carry out certain tasks. You are more than likely familiar
-with many different programs: your Web browser, your word processor,
-your email client, and the like.
-
-计算机*程序员*写程序或及计算机程序。而程序可以认为是告诉计算机如何完成特定任务的一系列*指令*。这样就构成了你熟悉的不同软件：网页浏览器、文字处理器和邮件客户端等等皆是如此。
-
-A program usually starts out as *source code*. This higher-level set of
-commands is written in a *programming language* such as C or Java. After
-that, a tool known as a *compiler* translates this to a lower-level
-language known as *assembly language*. Another tool known as an
-*assembler* breaks the assembly code down to the final stage of *machine
-language*—the lowest level—which the computer understands *natively*.
-
-而程序常常是从*源代码*开始。这是一系列高级指令写成的*编程语言*，比如 C 或者 Java。之后会使用一个称为*编译器*的工具将代码编译为底层的*汇编语言*。另一个工具叫做*汇编器*会将汇编代码转成最终阶段的*机器码*——计算机可以*原生*理解的最底层代码。
+程序最初的形态通常是*源代码*。这一系列高级指令由*编程语言*（比如 C 或者 Java）编写而成。之后会被一个名为*编译器*的工具编译为一种更底层的语言——*汇编语言*。另一种被称为*汇编器*的工具会将汇编代码分解为最终的*机器语言*——计算机可以*原生*理解的最底层代码。
 
 ![code](code.png)
 
