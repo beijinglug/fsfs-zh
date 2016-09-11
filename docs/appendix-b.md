@@ -1,29 +1,9 @@
-**B:** Translations of “Free Software” and “Gratis Software” {#b-translations-of-freesoftware-and-gratissoftware .unnumbered}
-============================================================
+## 不同语言对“自由软件”和“免费软件”的翻译
 
-对“自由软件”和“免费软件”的翻译
-=============
+> Copyright © 1999, 2000, 2004, 2006–2015 自由软件基金会 
+> 更新的翻译列表可参见 <http://gnu.org/philosophy/fs-translations.html>。增加新的语种翻译可联系 <web-translators@gnu.org>。
 
-> Copyright © 1999, 2000, 2004, 2006–2015 Free Software Foundation, Inc. 
-
-@firstcopyingnotice{{ The most current list of translations and
-transliterations is maintained at
-<http://gnu.org/philosophy/fs-translations.html>. Please send any
-additional translations or corrections to the list to
-<web-translators@gnu.org>. @medskip @footnoterule @smallskip Copyright ©
-1999, 2000, 2004, 2006–2015 Free Software Foundation, Inc.\
-{This version of the list is part of @fsfsthreecite}
-
-> 更新的翻译列表可参见 <http://gnu.org/philosophy/fs-translations.html>。增加新的翻译可联系 <web-translators@gnu.org>。
-
-This is a list of recommended unambiguous translations for the term
-“free software” (“free as in freedom”) into various languages, along
-with translations for the term “gratis software,” in a separate column,
-to show how to make the contrast. The parenthesized phrases in Latin
-letters after some of the entries are transliterations (with vowels
-added where relevant).
-
-以下列出的是对“自由软件”和“免费软件”不同语种的翻译，拆分成不同的列以便比较。个别条目中的拉丁字母表示的是音译。
+以下列出的是对“自由软件”和“免费软件”不同语种的翻译，拆分成不同的列以便比较。个别条目中的拉丁字母表示的是音译（相关位置增加了元音）。
 
 | 语言标识 | 语言名称 | 自由软件 | 免费软件 |
 | ------- |-----| -------| ------|
