@@ -56,17 +56,7 @@ int main() {
 
 另一个重要概念是理解什么是*操作系统*。操作系统是控制输入输出，内存分配和任务调度的软件。通常点说，一些更常见且更有用的程序，比如*图形用户界面*（*Graphical User Interface*，GUI），也是操作系统的一部分。GNU/Linux 操作系统包括 GNU 和非 GNU 软件，以及一个被称为*Linux*的*内核*。内核负责处理底层任务比如输入输出和任务调度。GNU 软件包含了操作系统其余的大部分，比如 GCC，一款支持多种语言的通用编译器；GNU Emacs，一款可扩展的并且有很多很多特性的文本编辑器；GNOME，GNU 桌面环境；GNU libc，一个程序库，除内核外所有其他程序与内核通讯时都必须使用的库；以及 Bash，GNU 命令行解释器可以读取你的命令行。这些程序很多都是早期由理查德·斯托曼在 GNU 工程里开发，并成为现代 GNU/Linux 操作系统的组成部分。
 
-It is important to understand that even if *you* cannot change the
-source code for a given program, or directly use all these tools, it is
-relatively easy to find someone who can. Therefore, by having the source
-code to a program you are usually given the power to change, fix,
-customize, and learn about a program—this is a power that you do not
-have if you are not given the source code. Source code is one of the
-requirements that makes a piece of software *free*. The other
-requirements will be found along with the philosophy and ideas behind
-them in this collection.
-
-重要的是理解即使*你*没有修改一个程序的源代码的能力，也可以直接使用所有工具，这也比找到其他人能改更相对容易。因此，有源代码的程序你就有权力去修改、修复、个性化和学习编程——而如果得不到源代码就没有这些权力。源代码是让一个软件变*自由*的必要条件之一，而其他必要条件可从本书的哲学和理想中找到答案。
+重要的是理解即使*你*没有修改程序源代码或直接使用所有这些工具的能力，找到一个可以做到的人也是相对容易的。因此，有源代码的程序你就有权力去修改、修复、定制和学习编程——而如果得不到源代码就没有这些权力。源代码是让一个软件变*自由*的必要条件之一，而其他必要条件可从本书的哲学和理想中找到答案。
 
 ### [(1)](#DOCF1)
 
