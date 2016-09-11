@@ -193,7 +193,7 @@ Therefore, to recommend a distro to the general public, we insist that
 its name not be similar to a distro we reject, so our message
 recommending only the free distro can be reliably transmitted.
 
-因此，要想向公众推荐一款发行版，我们坚持要求它们的名字不能与我们所拒绝的某个发行版相似，唯有如此，我们关于仅仅推荐自由发行版的信念才能被可靠地传达。
+因此，要想向公众推荐一款发行版，我们坚持要求它们的名字不能与我们所拒绝的某个发行版相似，唯有如此，我们关于仅仅推荐自由发行版的信息才能被可靠地传达。
 
 Another difference between a distro and a software package is how likely
 it is for nonfree code to be added. The developers of a program
@@ -328,7 +328,7 @@ must use LibreJS or disable JavaScript. So we have decided to go ahead
 and link to pages that work without nonfree JavaScript, while urging
 users to protect themselves from nonfree JavaScript in general.
 
-与此同时，链接至一个包含非自由 JavaScript 程序的网页是否符合伦理呢？如果我们坚决不做任何妥协，我们将只能链接至自由的 JavaScript 代码。然而，很多网页即使不运行它们的 JavaScript 代码也能工作。并且，您遭遇非自由 JavaScript 代码的最通常方式并非跟随我们的链接；为了避免这些情况，您必须使用 LibreJS。因此，我们决定做出让步并且链接那些不运行非自由 JavaScript 程序也能工作的网页，同事鼓励用户在普遍意义上保护自己不受来自非自由 JavaScript 程序的威胁。
+与此同时，链接至一个包含非自由 JavaScript 程序的网页是否符合伦理呢？如果我们坚决不做任何妥协，我们将只能链接至自由的 JavaScript 代码。然而，很多网页即使不运行它们的 JavaScript 代码也能工作。并且，您遭遇非自由 JavaScript 代码的最通常方式并非跟随我们的链接；为了避免这些情况，您必须使用 LibreJS。因此，我们决定做出让步并且链接那些不运行非自由 JavaScript 程序也能工作的网页，同时鼓励用户在普遍意义上保护自己不受来自非自由 JavaScript 程序的威胁。
 
 However, if a page can’t do its job without running the nonfree
 JavaScript code, linking to it undeniably asks people to run that
