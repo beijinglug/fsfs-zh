@@ -13,7 +13,7 @@ title: Untitled Document
 自由与非自由软件的分类
 ======================
 
-@firstcopyingnotice{{ 参见 “Words to Avoid (or Use with Care) Because They Are Loaded or Confusing” (@pageref{Words to Avoid})一文。@medskip @footnoterule @smallskip 著作权所有 (C) 1996–1998, 2001, 2006, 2007, 2009, 2011, 2012, 2014, 2015 自由软件基金会。{本人最初于 1996 年发表于 <http://gnu.org>此版本是 @fsfsthreecite的一部分。}
+@firstcopyingnotice{{ 参见 “Words to Avoid (or Use with Care) Because They Are Loaded or Confusing” (@pageref{Words to Avoid})一文。@medskip @footnoterule @smallskip 著作权所有 (C) 1996–1998, 2001, 2006, 2007, 2009, 2011, 2012, 2014, 2015 自由软件基金会。{本文最初于 1996 年发表于 <http://gnu.org>此版本是 @fsfsthreecite的一部分。}
 
 ![category](category-zh.png)
 
