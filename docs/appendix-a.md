@@ -41,23 +41,9 @@ public class hello {
 0110010000100001010000100110111101101111
 ```
 
-The above form of machine language is the most basic representation
-known as binary. All data in computers is made up of a series of 0-or-1
-values, but a person would have much difficulty understanding the data.
-To make a simple change to the binary, one would have to have an
-intimate knowledge of how a particular computer interprets the machine
-language. This could be feasible for small programs like the above
-examples, but any interesting program would involve an exhausting effort
-to make simple changes.
+上面这段机器码就是基本的二进制形式。计算机中所有的数据都是由 0 或 1 组成的，但是人们很难理解这些数据。如果想要对二进制的值进行一个简单的更改，就不得不对特定计算机编译机器语言的原理了如指掌。这对于类似于上面这种小程序来说或许是可行的，但是对于任何有趣的程序，做一个简单的修改就需要耗费大量的精力。
 
-上面这段机器码就是基本的二进制形式。所有机器数据都是由 0 或 1 组成的，然而人类很难理解这种数据。为了更容易修改二进制的值，需要对如何编译二进制成竹在胸，这对像上面这种小程序还可以，然而大程序就需要花费大量努力来做很小的修改了。
-
-As an example, imagine that we wanted to make a change to our “Hello
-World” program written in C so that instead of printing “Hello World” in
-English it prints it in French. The change would be simple; here is the
-new program:
-
-比如说，假设让 C 语言的“Hello World”程序输出的英语“Hello World”变成法语。只需要很简单的修改即可：
+比如说，如果我们想让让 C 语言编写的“Hello World”程序输出的英语“Hello World”变成法语。只需要做出简单的修改；新的程序如下：
 
 ```C
 int main() {
@@ -111,11 +97,7 @@ them in this collection.
 
 ### [(1)](#DOCF1)
 
-In other programming languages, such as Scheme, the *Hello World*
-program is usually not your first program. In Scheme you often start
-with a program like this:
-
-其他编程语言，比如 Scheme，Hello World 程序并非你的第一个程序。在 Scheme，你通常会从这样的程序开始：
+对于其他的编程语言，比如 Scheme，通常不从 Hello World 程序开始入门。在 Scheme 中，你通常会从这样的程序开始：
 
 ```lisp
 (define (factorial n) 
@@ -123,9 +105,5 @@ with a program like this:
       1
       (* n (factorial (- n 1)))))
 ```
-
-This computes the factorial of a number; that is, running
-`(factorial 5)`would output 120, which is computed by doing 5 \* 4 \* 3
-\* 2 \* 1 \* 1.
 
 这段程序是求一个数的阶乘；也就是运行`(factorial 5)`将会输出 120，即 5 乘以 4 乘以 3 乘以 2 乘以 1。
