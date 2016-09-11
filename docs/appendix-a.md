@@ -12,10 +12,6 @@
 
 ![code](code.png)
 
-For example, consider the “hello world” program, a common first program
-for people learning C, which (when compiled and executed) prints “Hello
-World!” on the screen. [(1)](#FOOT1)
-
 例如，“Hello World”这个程序，通常是人们学习 C 语言时的第一个程序，编译和执行后会在屏幕上打印出“Hello World”[^1]。
 
 ```C
@@ -24,10 +20,6 @@ int main(){
     return 0;
 } 
 ```
-
-In the Java programming language the same program would be written like
-this:
-
 在 Java 语言中，同样的程序会是这么写：
 
 ```Java
@@ -37,9 +29,6 @@ public class hello {
     }
 } 
 ``` 
-
-However, in machine language, a small section of it may look similar to
-this:
 
 然而用机器码表示，其中的一小部分可能会类似这样：
 
