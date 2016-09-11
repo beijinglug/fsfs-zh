@@ -151,5 +151,5 @@ See
 <http://bbc.co.uk/worldservice/sci_tech/features/health/tobaccotrial/usa.htm>.
 @end raggedright
 
-[^1]: 参见 《雷诺烟草公司被罚$1500万因为2002年向儿童发放卷烟免费样品》[RJ Reynolds Tobacco Company was fined \$15m in 2002 for handing out free samples of cigarettes at events attended by children](http://bbc.co.uk/worldservice/sci_tech/features/health/tobaccotrial/usa.htm)
+[^1]: 参见 《雷诺烟草公司因向儿童发放卷烟样品，于2002年被罚1500万美元》[RJ Reynolds Tobacco Company was fined \$15m in 2002 for handing out free samples of cigarettes at events attended by children](http://bbc.co.uk/worldservice/sci_tech/features/health/tobaccotrial/usa.htm)
 
