@@ -128,7 +128,7 @@ as `xset` and `xrdb`, which are close to the core of X and do not need
 major improvements. At least we know that the X.org group has a firm
 commitment to developing these programs as free software.
 
-如果您贡献于 X 核心或是诸如 X server、Xlib、Xt等程序，确实有一种不使用左版的实践上的原因。由于 X.org 小组在为整个社区维护这些程序的过程中已经做了重大贡献，使用左版发布我们的更改所带来的好处少于对整体开发进行分叉所带来的负面影响。于是最好与他们协同工作并且不用左版发布我们对这些程序的修改。与之相似的还有诸如 xset 和 xrdb 等工具，它们与 X 核心很靠近并且不需要大规模改进。至少我们知道 X.org 小组对于将这些程序作为自由软件发布有着坚定的承诺。
+如果您贡献于 X 核心或是诸如 X server、Xlib、Xt 等程序，确实有一种不使用左版的实践上的原因。由于 X.org 小组在为整个社区维护这些程序的过程中已经做了重大贡献，使用左版发布我们的更改所带来的好处少于对整体开发进行分叉所带来的负面影响。于是最好与他们协同工作并且不用左版发布我们对这些程序的修改。与之相似的还有诸如 xset 和 xrdb 等工具，它们与 X 核心很靠近并且不需要大规模改进。至少我们知道 X.org 小组对于将这些程序作为自由软件发布有着坚定的承诺。
 
 The issue is different for programs outside the core of X: applications,
 window managers, and additional libraries and widgets. There is no
