@@ -20,6 +20,7 @@ int main(){
     return 0;
 } 
 ```
+
 在 Java 语言中，同样的程序会是这么写：
 
 ```Java
