@@ -16,7 +16,7 @@ For example, consider the “hello world” program, a common first program
 for people learning C, which (when compiled and executed) prints “Hello
 World!” on the screen. [(1)](#FOOT1)
 
-例如，“Hello World”这个程序，比如学习 C 语言时的第一个程序，编译和执行后会在屏幕上打印“Hello World”[^1]。
+例如，“Hello World”这个程序，通常是人们学习 C 语言时的第一个程序，编译和执行后会在屏幕上打印出“Hello World”[^1]。
 
 ```C
 int main(){
@@ -28,7 +28,7 @@ int main(){
 In the Java programming language the same program would be written like
 this:
 
-而 Java 语言，同样的程序会是这样：
+在 Java 语言中，同样的程序会是这么写：
 
 ```Java
 public class hello {
@@ -41,7 +41,7 @@ public class hello {
 However, in machine language, a small section of it may look similar to
 this:
 
-而机器码，同样一段程序最终会变成相似的这种：
+然而用机器码表示，其中的一小部分可能会类似这样：
 
 ```
 1100011110111010100101001001001010101110
