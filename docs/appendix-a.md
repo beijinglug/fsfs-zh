@@ -52,18 +52,7 @@ int main() {
 }
 ```
 
-It is safe to say that one can easily infer how to change the program
-written in the Java programming language in the same way. However, even
-many programmers would not know where to begin if they wanted to change
-the binary representation. When we say “source code,” we do not mean
-machine language that only computers can understand—we are speaking of
-higher-level languages such as C and Java. A few other popular
-programming languages are C++, Perl, and Python. Some are harder than
-others to understand and program in, but they are all much easier to
-work with compared to the intricate machine language they get turned
-into after the programs are compiled and assembled.
-
-因此同样也知道如何修改 Java 里面的这段代码了。然而更多的程序员不懂如何修改二进制形式。当我们说“源代码”的时候，不是指只有机器可以理解的机器码——我们指的是高级语言代码比如 C 或 Java 这种。其他的比如 C++、Perl 和 Python。有些比其他更难理解或编程，但都比理解编译和汇编以后的机器码简单多了。
+可以肯定地说，我们可以很容易的推断出如何修改 Java 代码以达到同样的效果。然而更多的程序员不懂如何修改二进制形式。当我们说“源代码”的时候，不是指只有机器可以理解的机器语言——我们指的是一些高级语言比如 C 和 Java。还有一些其他的比较流行的编程语言，比如 C++、Perl 和 Python。或许有些在理解或编程时比较难以理解，但都比理解编译和汇编以后的机器语言简单多了。
 
 Another important concept is understanding what an *operating system*
 is. An operating system is the software that handles input and output,
