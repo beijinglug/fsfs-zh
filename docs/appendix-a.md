@@ -53,19 +53,8 @@ int main() {
 ```
 
 可以肯定地说，我们可以很容易的推断出如何修改 Java 代码以达到同样的效果。然而更多的程序员不懂如何修改二进制形式。当我们说“源代码”的时候，不是指只有机器可以理解的机器语言——我们指的是一些高级语言比如 C 和 Java。还有一些其他的比较流行的编程语言，比如 C++、Perl 和 Python。或许有些在理解或编程时比较难以理解，但都比理解编译和汇编以后的机器语言简单多了。
-The GNU/Linux operating system contains a
-both GNU and non-GNU software, and a *kernel* called *Linux*. The kernel
-handles low-level tasks that applications depend upon such as
-input/output and task scheduling. The GNU software comprises much of the
-rest of the operating system, including GCC, a general-purpose compiler
-for many languages; GNU Emacs, an extensible text editor with many, many
-features; GNOME, the GNU desktop; GNU libc, a library that all programs
-other than the kernel must use in order to communicate with the kernel;
-and Bash, the GNU command interpreter that reads your command lines.
-Many of these programs were pioneered by Richard Stallman early on in
-the GNU Project and come with any modern GNU/Linux operating system.
 
-另一个重要概念是理解什么是*操作系统*。操作系统是控制输入输出，内存分配和任务调度的软件。通常点说，一些更常见且更有用的程序，比如*图形用户界面*（*Graphical User Interface*，GUI），也是操作系统的一部分。GNU/Linux 操作系统包括 GNU 和非 GNU 软件，以及一个称为*Linux*的*内核*。内核负责处理底层任务比如输入输出和任务调度。GNU 软件包含了操作系统其余的大部分，比如 GCC，一个支持多种语言的通用编译器；GNU Emacs，一个可扩展的有很多很多特性的文本编辑器；GNOME，一个 GNU 桌面；GNU libc，除了内核以外，所有其他程序都需要与内核通讯的库；以及 Bash，GNU 命令行解释器可以读取你的命令。很多这些程序早期由理查德·斯托曼在 GNU 工程里开发，并成为现代 GNU/Linux 操作系统的组成部分。
+另一个重要概念是理解什么是*操作系统*。操作系统是控制输入输出，内存分配和任务调度的软件。通常点说，一些更常见且更有用的程序，比如*图形用户界面*（*Graphical User Interface*，GUI），也是操作系统的一部分。GNU/Linux 操作系统包括 GNU 和非 GNU 软件，以及一个被称为*Linux*的*内核*。内核负责处理底层任务比如输入输出和任务调度。GNU 软件包含了操作系统其余的大部分，比如 GCC，一款支持多种语言的通用编译器；GNU Emacs，一款可扩展的并且有很多很多特性的文本编辑器；GNOME，GNU 桌面环境；GNU libc，一个程序库，除内核外所有其他程序与内核通讯时都必须使用的库；以及 Bash，GNU 命令行解释器可以读取你的命令行。这些程序很多都是早期由理查德·斯托曼在 GNU 工程里开发，并成为现代 GNU/Linux 操作系统的组成部分。
 
 It is important to understand that even if *you* cannot change the
 source code for a given program, or directly use all these tools, it is
