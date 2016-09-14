@@ -7,9 +7,11 @@ resource-type: document
 title: Untitled Document
 ...
 
-1. Words to Avoid (or Use with Care)\
-Because They Are Loaded or Confusing {#words-to-avoid-or-use-with-care-becausetheyareloadedorconfusing .chapter}
+1. Words to Avoid (or Use with Care) Because They Are Loaded or Confusing {#words-to-avoid-or-use-with-care-becausetheyareloadedorconfusing .chapter}
 =====================================
+
+应避免使用（或慎用）的词语，由于它们是不公正的或者引起混淆的
+============================================================
 
 There are a number of words and phrases that we recommend avoiding, or
 avoiding in certain contexts and usages. Some are ambiguous or
@@ -18,10 +20,16 @@ hope you disagree with it too. (See also “Categories of Free and Nonfree
 Software” (@pageref{Categories}) and “Why Call It the Swindle?”
 (@pageref{Swindle}).)
 
+有些单词或短语是我们建议避免使用或者避免在特定上下文或应用场景使用的。其中的一些词语具有歧义或误导性；而其他一些词语则预设了某种我们所不赞同的观点，并且我们希望您也不会同意那些观点。（参见“Categories of Free and Nonfree Software” (@pageref{Categories}) 和 “Why Call It the Swindle?” (@pageref{Swindle})两篇文章。）
+
 ### “Access” {#access .subheading}
+
+### 可获得性（Access）
 
 It is a common misunderstanding to think free software means that the
 public has “access” to a program. That is not what free software means.
+
+有一种普遍的误解认为，自由软件意味着公众必须可以获得某一程序。这并非自由软件的本意。
 
 The criterion for free software[(1)](#FOOT1) is not about who has
 “access” to the program; the four essential freedoms concern what a user
@@ -30,19 +38,22 @@ says that that user is free to make another copy and give or sell it to
 you. But no user is *obligated* to do that for you; you do not have a
 *right* to demand a copy of that program from any user.
 
-@firstcopyingnotice{{@footnoterule @smallskip Copyright © 1996–1999,
-2001–2004, 2007–2015 Free Software Foundation, Inc.\
- {This list was first published on <http://gnu.org>, in 1996. This
-version is part of @fsfsthreecite}
+自由软件的准则[(1)](#FOOT1)并不是关于谁能够获得某一程序的；四项基本自由所关注的是拥有它的一份副本的用户可以用它做什么。例如，自由之二称该用户拥有为其复制一份副本并且送给或卖给您的自由。但是任何用户都没有为您复制副本的义务；并且您也没有权利强行要求任何用户为您提供副本。
+
+@firstcopyingnotice{{@footnoterule @smallskip 著作权所有 (C) 1996–1999，2001–2004，2007–2015，自由软件基金会。{本列单最初于 1996 年发表于 <http://gnu.org>，此版本是 @fsfsthreecite 的一部分。}
 
 In particular, if you write a program yourself and never offer a copy to
 anyone else, that program is free software (in a trivial way) because
 you (the sole user that has it) have the four essential freedoms.
 
+特别地，如果您为您自己编写了一个程序并且从不向任何人提供副本，该程序也是自由软件（尽管是在一种平凡的意义上），由于您（作为拥有它的唯一用户）拥有四项基本自由。
+
 In practice, when many users have copies of a program, someone is sure
 to post it on the internet, giving everyone access to it. We think
 people ought to do that, if the program is useful. But this isn’t a
 requirement of free software.
+
+事实上，当很多用户拥有某一程序的副本时，某些人确实会将其发布到万维网上，并且供其他人访问。我们认为人们应当如此做，如果该程序确实有用。但这并非自由软件的强制要求。
 
 There is one specific point in which a question of having access is
 directly pertinent to free software: the GNU GPL permits giving a
@@ -51,7 +62,11 @@ substitute for physically giving that user a copy of the source. This
 applies to the special case in which the user already has a copy of the
 program in non-source form.
 
+确实有一种特殊情况，此时是否拥有可获得性与自由软件直接相关：GNU 通用公共许可证（GNU GPL）允许赋予一位特定用户下载程序源代码的访问权，作为以实物载体的形式为该用户提供源代码副本的替代方案。这条规则也适用于用户已经拥有一份非源代码形式的副本这一特例。
+
 ### “Alternative” {#alternative .subheading}
+
+### 可选择物（Alternative）
 
 We don’t describe free software as an “alternative” to proprietary,
 because that word presumes all the “alternatives” are legitimate and
@@ -59,13 +74,19 @@ each additional one makes users better off. In effect, it assumes that
 free software ought to coexist with software that does not respect
 users’ freedom.
 
+我们从不将自由软件描述为私有软件之外的可选择物，由于这一单词假设所有“可选择物”都是合法的，并且每增加一种“可选择物”都对用户有利。事实上，这一单词假设自由软件应该和那些不尊重用户自由的软件共存。
+
 We believe that distribution as free software is the only ethical way to
 make software available for others to use. The other methods, nonfree
 software and {@parfillskip=0pt@par Service as a Software Substitute
 subjugate their users.[(2)](#FOOT2) We do not think it is good to offer
 users those “alternatives” to free software.
 
+我们坚信以自由软件形式发布是发布软件以供他人使用的唯一符合伦理的当时。而其他方式，不论是私有软件还是“服务作为软件替代品”（SaaSS）都会迫使用户屈从。[(2)](#FOOT2)因此我们不认为向用户提供这些自由软件之外的“可选择物”才是好的。
+
 ### “BSD-Style” {#bsd-style .subheading}
+
+### BSD 风格（BSD-Style）
 
 The expression “BSD-style license” leads to confusion because it lumps
 together licenses that have important differences.[(3)](#FOOT3) For
@@ -73,10 +94,16 @@ instance, the original BSD license with the advertising clause is
 incompatible with the GNU General Public License, but the revised BSD
 license is compatible with the GPL.
 
+“BSD 风格许可证”这一表述将会引起混淆，由于它将具有显著不同的许可证混为一谈。[(3)](#FOOT3)例如，最初的 BSD 许可证由于带有广告条款从而与 GNU GPL 不兼容，但是改进过的 BSD 许可证与 GPL 兼容。
+
 To avoid confusion, it is best to name the specific license in
 question[(4)](#FOOT4) and avoid the vague term “BSD-style.”
 
+为了避免混淆，最好在谈论中明确给出许可证的名字[(4)](#FOOT4)并且避免使用含混不清的短语“BSD 风格”。
+
 ### “Closed” {#closed .subheading}
+
+### 闭源（Closed）
 
 Describing nonfree software as “closed” clearly refers to the term “open
 source.” In the free software movement, we do not want to be confused
@@ -85,7 +112,11 @@ would encourage people to lump us in with them.[(5)](#FOOT5) For
 instance, we avoid describing nonfree software as “closed.” We call it
 “nonfree” or “proprietary.”[(6)](#FOOT6)
 
+将私有软件描述为“闭源”很明显是与“开源”概念相对。在自由软件运动中，我们不希望被别人同开源阵营混为一谈，因此我们谨慎地避免使用那种促使人们将我们与他们混在一起的表达方式。[(5)](#FOOT5)例如，我们避免将非自由软件描述为“闭源”，我们称之为非自由或私有。[(6)](#FOOT6)
+
 ### “Cloud Computing” {#cloud-computing .subheading}
+
+### 云计算（Cloud Computing）
 
 The term “cloud computing” (or just “cloud,” in the context of
 computing) is a marketing buzzword with no coherent meaning. It is used
@@ -94,24 +125,36 @@ that they use the internet for something beyond transmitting files.
 Thus, the term spreads confusion. If you base your thinking on it, your
 thinking will be confused.
 
+“云计算”这一短语（或者在表示计算的上下文中进一步简称为“云”）是一种含混不清的市场化流行语，它没有任何合乎逻辑的涵义。它被用于指代一系列不同的活动，其唯一的共同点是它们都使用万维网进行文件传输以外的事情。因此，这一短语是在散布混淆。如果您基于它进行思考，您的思考将会是混乱的。
+
 When thinking about or responding to a statement someone else has made
 using this term, the first step is to clarify the topic. What scenario
 is the statement about? What is a good, clear term for that scenario?
 Once the topic is clearly formulated, coherent discussion is possible.
 
+当您思考或是回应一个由他人提出的并且使用这一概念的论述时，第一步是要澄清话题。该论述是关于什么场景的？适用于此场景的恰当并且清晰的概念是什么？只有当话题被清晰阐述之时，合乎逻辑的讨论才是可能的。
+
 One of the many meanings of “cloud computing” is storing your data in
 online services. In most scenarios, that is foolish because it exposes
 you to surveillance.[(7)](#FOOT7)
+
+“云计算”的众多可能的涵义之一是将您的数据存储于在线服务上。在大多数场景中，这是愚蠢的做法，由于这使您暴露在监控之下。[(7)](#FOOT7)
 
 Another meaning (which overlaps that but is not the same thing) is
 Service as a Software Substitute, which denies you control over your
 computing. You should never use SaaSS.[(8)](#FOOT8)
 
+另一种可能的涵义（与上一条有所重叠但又不完全相同）是“服务作为软件替代品”（SaaSS），它拒绝了您对于您自己的计算的控制权。您应该从不使用 SaaSS。[(8)](#FOOT8)
+
 Another meaning is renting a remote physical server, or virtual server.
 These practices are OK under certain circumstances.
 
+另一种可能的涵义包括租赁远程的实体或虚拟服务器。这些实践在某些特定环境下是可以接受的。
+
 Another meaning is accessing your own server from your own mobile
 device. That raises no particular ethical issues.
+
+另一种可能的涵义是通过您自己的移动设备访问您自己的服务器。这并不会产生特别的伦理问题。
 
 The NIST definition of “cloud computing” [(9)](#FOOT9) mentions three
 scenarios that raise different ethical issues: Software as a Service,
@@ -122,21 +165,31 @@ as defined by NIST overlaps considerably with Service as a Software
 Substitute, which mistreats the user, but the two concepts are not
 equivalent.
 
+美国国家标准技术研究所（NIST）为“云计算”的定义[(9)](#FOOT9)提出了三种场景，它们会带来不同的伦理问题：软件即服务（SaaS）、平台即服务（PaaS）、基础设施即服务（IaaS）。然而，这种定义与“云计算”通常的用法并不匹配，由于它并未包括向在线服务中存储数据。由 NIST 定义的 SaaS 在很大程度上与 SaaSS 重叠，后者虐待它的用户，但这两个概念并不等同。
+
 These different computing practices don’t even belong in the same
 discussion. The best way to avoid the confusion the term “cloud
 computing” spreads is not to use the term “cloud” in connection with
 computing. Talk about the scenario you mean, and call it by a specific
 term.
 
+这些不同的计算实践甚至不属于同一个讨论范围。避免使用“云计算”这一概念所带来的混淆的最佳方式是不使用术语“云”与计算相关联。只谈论您想要表达的话题，并且以一种具体的概念称呼它。
+
 Curiously, Larry Ellison, a proprietary software developer, also noted
 the vacuity of the term “cloud computing.”[(10)](#FOOT10) He decided to
 use the term anyway because, as a proprietary software developer, he
 isn’t motivated by the same ideals as we are.
 
+有趣的是，Larry Ellison，一位私有软件开发者也注意到了“云计算”这一概念的空泛性。[(10)](#FOOT10)他决定仍然使用这一概念，由于作为一位私有软件开发者，此人与我们不是由相同理念所驱使的。
+
 ### “Commercial” {#commercial .subheading}
+
+### 商业（Commercial）
 
 Please don’t use “commercial” as a synonym for “nonfree.” That confuses
 two entirely different issues.
+
+请不要将“商业”用作“非自由”的同义词。这将两种完全不同的问题混为一谈。
 
 A program is commercial if it is developed as a business activity. A
 commercial program can be free or nonfree, depending on its manner of
@@ -145,11 +198,15 @@ can be free or nonfree, depending on its manner of distribution. The two
 questions—what sort of entity developed the program and what freedom its
 users have—are independent.
 
+一个程序称为商业软件，如果它是作为一种商业行为而被开发的。一个商业软件可以是自由或非自由的，取决于他的发布方式。类似地，由学校或个人开发的程序也可以是自由或非自由的，取决于它的发布方式。这两个问题——程序由何种实体开发，以及它的用户应当拥有什么自由——是不相关的。
+
 In the first decade of the free software movement, free software
 packages were almost always noncommercial; the components of the
 GNU/Linux operating system were developed by individuals or by nonprofit
 organizations such as the FSF and universities. Later, in the 1990s,
 free commercial software started to appear.
+
+在自由软件运动的最初十年，自由软件包几乎都是非商业的；GNU/Linux 操作系统的组件由个人或者诸如自由软件基金会（FSF）和大学的非盈利性组织所开发。其后，在 20 世纪 90 年代，自由的商业软件开始出现。
 
 Free commercial software is a contribution to our community, so we
 should encourage it. But people who think that “commercial” means
@@ -157,7 +214,11 @@ should encourage it. But people who think that “commercial” means
 self-contradictory, and dismiss the possibility. Let’s be careful not to
 use the word “commercial” in that way.
 
+自由的商业软件是对我们的社区的贡献，因此我们应当鼓励。但是那些认为“商业”等同于“非自由”的人们倾向于认为“自由商业”的组合是自相矛盾的并且否定其可能性。让我们小心对待，不要以这种方式使用“商业”一词。
+
 ### “Compensation” {#compensation .subheading}
+
+### 补偿（Compensation）
 
 To speak of “compensation for authors” in connection with copyright
 carries the assumptions that (1) copyright exists for the sake of
@@ -165,10 +226,14 @@ authors and (2) whenever we read something, we take on a debt to the
 author which we must then repay. The first assumption is simply
 false,[(11)](#FOOT11) and the second is outrageous.
 
+当与版权联系在一起的时候谈论“补偿作者”将会带来以下两种假设：（1）版权是以作者之名而存在的；以及（2）每当我们阅读任何东西的时候，我们已经欠下了作者一笔债务并且必须补偿这笔债务。第一个假设是错误的[(11)](#FOOT11)，而第二个假设是不可容忍的。
+
 “Compensating the rights-holders” adds a further swindle: you’re
 supposed to imagine that means paying the authors, and occasionally it
 does, but most of the time it means a subsidy for the same publishing
 companies that are pushing unjust laws on us.
+
+而“补偿版权持有人”的鬼话在此基础上又附加了一层诈骗：您很可能认为这是在补偿作者，尽管在少数情况下确实是这样，但是绝大多数情况下这是在补偿出版商，正是那些对我们强行施加不平等法律的出版商。
 
 ### “Consume” {#consume .subheading}
 
