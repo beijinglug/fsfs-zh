@@ -82,7 +82,7 @@ software and {@parfillskip=0pt@par Service as a Software Substitute
 subjugate their users.[(2)](#FOOT2) We do not think it is good to offer
 users those “alternatives” to free software.
 
-我们坚信以自由软件形式发布是发布软件以供他人使用的唯一符合伦理的当时。而其他方式，不论是私有软件还是“服务作为软件替代品”（SaaSS）都会迫使用户屈从。[(2)](#FOOT2)因此我们不认为向用户提供这些自由软件之外的“可选择物”才是好的。
+我们坚信以自由软件形式发布是发布软件以供他人使用的唯一符合伦理的当时。而其他方式，不论是私有软件还是“服务作为软件替代品”（SaaSS）都会迫使用户屈从。[(2)](#FOOT2)因此我们认为不向用户提供这些自由软件之外的“可选择物”才是好的。
 
 ### “BSD-Style” {#bsd-style .subheading}
 
