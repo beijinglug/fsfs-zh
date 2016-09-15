@@ -458,7 +458,7 @@ unawares into seeing the issue from the viewpoint of the few that impose
 the restrictions, and ignoring that of the general public on whom these
 restrictions are imposed.
 
-“数字版权管理”（简写为 DRM）是指那些被设计用于对计算机用于强行施加限制条件的技术机制。其中“权利”（rights）一词的使用是一种鼓吹，其用意是诱使您在不经意间以那些施加这些限制的少数人的观点来看待这一问题，并且忽略被强行施加了这些限制的公众。
+“数字版权管理”（简写为 DRM）是指那些被设计用于对计算机用户强行施加限制条件的技术机制。其中“权利”（rights）一词的使用是一种鼓吹，其用意是诱使您在不经意间以那些施加这些限制的少数人的观点来看待这一问题，并且忽略被强行施加了这些限制的公众。
 
 Good alternatives include “Digital Restrictions Management,” and
 “digital handcuffs.”
