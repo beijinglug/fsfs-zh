@@ -237,6 +237,8 @@ companies that are pushing unjust laws on us.
 
 ### “Consume” {#consume .subheading}
 
+### 消费（Consume）
+
 “Consume” refers to what we do with food: we ingest it, after which the
 food as such no longer exists. By analogy, we employ the same word for
 other products whose use *uses them up.* Applying it to durable goods,
@@ -246,6 +248,8 @@ a file), whose nature is to last indefinitely and which can be run,
 played or read any number of times, is simply an error. Playing a
 recording, or running a program, does not consume it.
 
+消费是指我们对食物所做的事情：当我们消化了它以后，它就不再作为食物继续存在。作为类比，我们可以将相同的词语用于那些我们可以将其消耗殆尽的其他产品。将其用于耐用品诸如衣物或电器是一种涵义的延伸。然而，如果将其应用于发表的作品（计算机程序、保存于盘片或文件中的唱片、保存于纸上或文件中的书籍），这些作品的本质意义是永续保存并且可以被无限次地运行、播放或阅读，这显然就是一种错误。播放唱片或者运行程序并不消费它们。
+
 The term “consume” is associated with the economics of uncopyable
 material products, and leads people to transfer its conclusions
 unconsciously to copyable digital works—an error that proprietary
@@ -253,21 +257,29 @@ software developers (and other publishers) dearly wish to encourage.
 Their twisted viewpoint comes through clearly in a Business Insider
 article,[(12)](#FOOT12) which also refers to publications as “content.”
 
+“消费”一词是与不可复制的实物产品的经济层面相关联的，而引导人们在毫无察觉的情况下将这一结论套用到可复制的数字作品上——这种错误正是私有软件开发者（以及其他出版商）所热切希望并且积极推动的。它们的这种扭曲的观点在一篇 Business Insider 文章中暴露无遗。[(12)](#FOOT12)这篇文章还将出版的作品称为“内容”。
+
 The narrow thinking associated with the idea that we “consume content”
 paves the way for laws such as the DMCA that forbid users to break the
 Digital Restrictions Management (DRM) facilities in digital devices. If
 users think what they do with these devices is “consume,” they may see
 such restrictions as natural.
 
+与我们“消费内容”相关的狭隘想法为诸如数字千年版权法案（DMCA）这样的法律奠定了基础，它们禁止用户破解数字设备中的数字限制管理（DRM）。如果用户认为他们对这些设备所做的事情是“消费”，他们就可以将这种限制视为自然的要求。
+
 It also encourages the acceptation of “streaming” services, which use
 DRM to limit use of digital recordings to a form that fits the word
 “consume.”
+
+它还鼓励人们将利用 DRM 对数字唱片的使用进行限制的“串流”服务也认可为一种适用于“消费”这一概念的形式。
 
 Why is this perverse usage spreading? Some may feel that the term sounds
 sophisticated; if that attracts you, rejecting it with cogent reasons
 can appear even more sophisticated. Others may be acting from business
 interests (their own, or their employers’). Their use of the term in
 prestigious forums gives the impression that it’s the “correct” term.
+
+为何这种不合理的用法广泛流传？有人也许认为这一概念过于高深；如果它吸引了您，用强有力的理由来拒绝它就会显得更为高深。其他人也许是出于商业利益（他们自己的或是他们的雇主的）。他们在各种有声望的地方对这一概念的使用将会给人以它是“正确”的错觉。
 
 To speak of “consuming” music, fiction, or any other artistic works is
 to treat them as products rather than as art. If you don’t want to
@@ -276,7 +288,11 @@ spread that attitude, you would do well to reject using the term
 artistic work or a work stating a point of view, and that someone “uses”
 a practical work.
 
+说“消费”音乐、小说或是任何其他艺术作品就是将它们视为产品而非艺术。如果您不想散播这种态度，您应当努力拒绝对它们使用“消费”这一概念。我们建议您说某人“体验”一件艺术作品或者一件表达一种观点的作品，以及某人“使用”一件实物作品。
+
 ### “Consumer” {#consumer .subheading}
+
+### 消费者（Consumer）
 
 The term “consumer,” when used to refer to the users of computing, is
 loaded with assumptions we should reject. Some come from the idea that
@@ -284,20 +300,30 @@ using the program “consumes” the program (see the previous entry), which
 leads people to impose on copyable digital works the economic
 conclusions that were drawn about uncopyable material products.
 
+当“消费者”一词被用于指代计算机用户的时候，它被附加了一种我们应当拒绝的假设。其中一些假设来自于使用程序就是“消费”程序这一理念（参见上一条目），这将会引导人们将那些从不可复制的实物产品中得出的结论也强行套用到可复制的数字作品上来。
+
 In addition, describing the users of software as “consumers” refers to a
 framing in which people are limited to selecting between whatever
 “products” are available in the “market.” There is no room in this
 framing for the idea that users can directly exercise control over what
 a program does.[(13)](#FOOT13)
 
+此外，将软件用户描述为“消费者”指的是这样一种境地，人们被限制为只能在“市场”中可以买到的“产品”中做出选择。这里没有这种理念的容身之地，即用户可以对程序所做的事情直接行使控制权。[(13)](#FOOT13)
+
 To describe people who are not limited to passive use of works, we
 suggest terms such as “individuals” and “citizens,” rather than
 “consumers.”
 
+为了描述那些并不被限制为被动使用作品的人们，我们建议使用“个人”或者“公民”而非“消费者”。
+
 This problem with the word “consumer” has been noted
 before.[(14)](#FOOT14)
 
+“消费者”一词所带来的问题已经在此前有所注释。[(14)](#FOOT14)
+
 ### “Content” {#content .subheading}
+
+### 内容（Content）
 
 If you want to describe a feeling of comfort and satisfaction, by all
 means say you are “content,” but using the word as a noun to describe
@@ -305,6 +331,8 @@ publications and works of authorship adopts an attitude you might rather
 avoid: it treats them as a commodity whose purpose is to fill a box and
 make money. In effect, it disparages the works themselves. If you don’t
 agree with that attitude, you can call them “works” or “publications.”
+
+如果您想要描述一种舒适和满足的感觉，您一定会说“content”，但如果将这个词语用作名词以指代具有作者权的出版物和作品，这将服务于一种您可能很想避免的态度，这种态度将它们视为商品，其目的是装满包装盒并且用于赚钱。事实上，这贬低了作品本身。如果您不同意这种态度，您可以称之为“作品”或者“出版物”。
 
 Those who use the term “content” are often the publishers that push for
 increased copyright power in the name of the authors (“creators,” as
@@ -314,8 +342,12 @@ to Steve Case[(15)](#FOOT15) and search for “content provider” in that
 page. Alas, Ms. Love is unaware that the term “intellectual property” is
 also biased and confusing.[(16)](#FOOT16))
 
+那些使用“内容”一词的人们通常是那些以作者（它们称之为“创造者”，creator）之名攫取更多版权权力的出版商。“内容”一词暴露了它们对于这些作品及其作者的真实态度。（参见 Courtney Love 致 Steve Case 的公开信[(15)](#FOOT15)并且在页面中搜索 content provider（内容提供商）。哎呀，Love 女士没有注意到“知识产权”一词也是带有偏见和欺骗性的。[(16)](#FOOT16)）
+
 However, as long as other people use the term “content provider,”
 political dissidents can well call themselves “malcontent providers.”
+
+然而，只要其他人仍然使用“内容提供商”这一概念，持不同政见者也可以称他们自己为“恶意内容提供商”。
 
 The term “content management” takes the prize for vacuity. “Content”
 means “some sort of information,” and “management” in this context means
@@ -323,11 +355,17 @@ means “some sort of information,” and “management” in this context means
 for doing something to some sort of information. Nearly all programs fit
 that description.
 
+“内容管理”（content management）这一短语的涵义的空泛性无出其右。“内容”指代“某种信息”，而“管理”在此上下文中指代“对它们做一些事情”。因此某种“内容管理系统”是一种用于对某种信息做出某种事情的系统。几乎所有计算机程序都符合这个定义。
+
 In most cases, that term really refers to a system for updating pages on
 a web site. For that, we recommend the term “web site revision system”
 (WRS).
 
+在大多数情况下，这一概念指代用于更新网站页面的系统。对于这种定义，我们推荐“网站修改系统”（WRS）这一概念。
+
 ### “Creative Commons Licensed” {#creative-commons-licensed .subheading}
+
+### 创作共用许可的（Creative Commons Licensed）
 
 The most important licensing characteristic of a work is whether it is
 free. Creative Commons publishes seven licenses; three are free (CC BY,
@@ -336,12 +374,18 @@ CC BY-SA and CC0) and the rest are nonfree. Thus, to describe a work as
 suggests that the question is not important. The statement may be
 accurate, but the omission is harmful.
 
+对于一篇作品的许可证，最重要的方面是它是否自由。创作共用发布了七种许可证；其中三种（CC BY、CC BY-SA 和 CC0）是自由的，而其他几种则是非自由的。因此，将一篇作品描述为“创作共用许可的”未能说明它是否是自由的，并且暗示这个问题并不重要。这一论述也许是准确的，但它对于自由的省略是有害的。
+
 To encourage people to pay attention to the most important distinction,
 always specify *which* Creative Commons license is used, as in “licensed
 under CC BY-SA.” If you don’t know which license a certain work uses,
 find out and then make your statement.
 
+为了鼓励人们关注最重要的区别，务必具体指定哪种创作共用许可证被使用，例如“使用 CC BY-SA 许可证”。如果您不知道一篇特定的作品应该使用哪种许可证，您需要设法获知这一点才能做出您的论述。
+
 ### “Creator” {#creator .subheading}
+
+### 创造者（Creator）
 
 The term “creator” as applied to authors implicitly compares them to a
 deity (“the creator”). The term is used by publishers to elevate
@@ -352,7 +396,11 @@ However, in many cases “copyright holder” is what you really mean. These
 two terms are not equivalent: often the copyright holder is not the
 author.
 
+当“创造者”一词被应用于作者时，这是在暗含着将他们比作神（造物主，deity）。这一概念被出版商所使用，以便将作者的道德高度提升到普通人之上，进而以此为理由赋予他们更多的版权权力，然后出版商就能够以作者之名来行使这种权力。我们建议您仍然说“作者”。然而，在很多情况下，“版权持有人”才是您所真正想要表达的。这两个概念是不同的，“版权持有人”通常不是作者。
+
 ### “Digital Goods” {#digital-goods .subheading}
+
+### 数字物品（Digital Goods）
 
 The term “digital goods,” as applied to copies of works of authorship,
 identifies them with physical goods—which cannot be copied, and which
@@ -362,12 +410,18 @@ based on their views and intuitions about physical goods. It also frames
 issues in terms of economics, whose shallow and limited values don’t
 include freedom and community.
 
+当“数字物品”这一短语被应用于具有作者权的作品副本时，这将它们与实体物品等同起来——这些实体物品不可复制，并且因此必须被量产并且销售。这种比喻鼓励人们将他们用于评估实物商品的观点和直觉也套用到评估软件或者其他数字作品上来。这种比喻同样将问题限定在经济方面，其肤浅和有限的价值并不包括自由和社区。
+
 ### “Digital Locks” {#digital-locks .subheading}
+
+### 数字锁（Digital Locks）
 
 “Digital locks” is used to refer to Digital Restrictions Management by
 some who criticize it. The problem with this term is that it fails to do
 justice to the badness of DRM. The people who adopted that term did not
 think it through.
+
+“数字锁”这一短语被某些批评者用于指代数字限制管理（DRM）。这一短语的问题在于它未能批判 DRM 的危害。而那些接受这一概念的人们未能对其进行透彻的思考。
 
 Locks are not necessarily oppressive or bad. You probably own several
 locks, and their keys or codes as well; you may find them useful or
@@ -376,9 +430,13 @@ them. Likewise, we find encryption[(17)](#FOOT17) invaluable for
 protecting our digital files. That too is a kind of digital lock that
 you have control over.
 
+锁并不一定是压迫性的或者坏的。您可能拥有很多把锁，以及它们的钥匙或代码；您可能觉得它们有用或是会带来麻烦，但它们并未压迫您，由于您可以自己打开或锁上它们。类似地，我们发现加密[(17)](#FOOT17)对于保护我们的数字文件是无价之宝。这也是一种数字锁，并且您拥有其控制权。
+
 DRM is like a lock placed on you by someone else, who refuses to give
 you the key—in other words, like *handcuffs.* Therefore, the proper
 metaphor for DRM is “digital handcuffs,” not “digital locks.”
+
+而 DRM 就像是由其他人为您安置的锁，他们拒绝给您钥匙——换言之，就像手铐。因此，对于 DRM 的恰当的比喻是“数字手铐”而非“数字锁”。
 
 A number of opposition campaigns have chosen the unwise term “digital
 locks”; to get things back on the right track, we must firmly insist on
@@ -387,7 +445,11 @@ correcting this mistake. The FSF can support a campaign that opposes
 support, we conspicuously replace the term with “digital handcuffs” and
 say why.
 
+一系列反对 DRM 的运动为其选择了不明智的术语“数字锁”；为了让事情重回正轨，我们必须坚持改正这一错误。FSF 可以为一场反对“数字锁”的运动提供支持，如果我们同意其基本立场；然而，当我们表示我们的支持的时候，我们将会引人注目地将该短语更改为“数字手铐”，并且解释为何如此做。
+
 ### “Digital Rights Management” {#digital-rights-management .subheading}
+
+### 数字版权管理（Digital Rights Management）
 
 “Digital Rights Management” (abbreviated “DRM”) refers to technical
 mechanisms designed to impose restrictions on computer users. The use of
@@ -396,17 +458,27 @@ unawares into seeing the issue from the viewpoint of the few that impose
 the restrictions, and ignoring that of the general public on whom these
 restrictions are imposed.
 
+“数字版权管理”（简写为 DRM）是指那些被设计用于对计算机用于强行施加限制条件的技术机制。其中“权利”（rights）一词的使用是一种鼓吹，其用意是诱使您在不经意间以那些施加这些限制的少数人的观点来看待这一问题，并且忽略被强行施加了这些限制的公众。
+
 Good alternatives include “Digital Restrictions Management,” and
 “digital handcuffs.”
+
+较好的替代短语包括“数字限制管理”和“数字手铐”。
 
 @raggedright Please sign up to support our campaign to abolish DRM, at
 [DefectiveByDesign.org](DefectiveByDesign.org). @end raggedright
 
+请您签名支持我们致力于废除 DRM 的运动，它位于[DefectiveByDesign.org](DefectiveByDesign.org)。
+
 ### “Ecosystem” {#ecosystem .subheading}
+
+### 生态系统（Ecosystem）
 
 It is inadvisable to describe the free software community, or any human
 community, as an “ecosystem,” because that word implies the absence of
 ethical judgment.
+
+我们不建议将自由软件社区或是任何人类社区描述为“生态系统”，由于这一短语暗示伦理评价的缺失。
 
 The term “ecosystem” implicitly suggests an attitude of nonjudgmental
 observation: don’t ask how what *should* happen, just study and
@@ -417,11 +489,15 @@ they do so. Species’ populations grow or shrink according to the
 conditions; this is neither right nor wrong, merely an ecological
 phenomenon, even if it goes so far as the extinction of a species.
 
+“生态系统”这一短语暗含着建议这样一种不加批判地服从的态度：不要问什么应该发生，只要学习并理解发生了什么。在生态系统中，一些机体吃掉其他一些机体。在生态学中，我们从不追问一只猫头鹰吃掉一只老鼠或是一只老鼠吃掉一颗种子是好是坏，我们只需观察到它们这样做。物种种群的增长或衰退基于它的生存条件；这无所谓对错，这只是一种生态现象，即使到了某一物种灭绝的程度。
+
 By contrast, beings that adopt an ethical stance towards their
 surroundings can decide to preserve things that, without their
 intervention, might vanish—such as civil society, democracy, human
 rights, peace, public health, a stable climate, clean air and water,
 endangered species, traditional arts…and computer users’ freedom.
+
+与之相反，对其生存环境持有伦理立场的存在可以决定保护那些如果没有它们的干预就会消亡的东西——诸如公民社会、民主、人权、和平、公共卫生、稳定的气候、洁净的空气和水、濒危物种、传统艺术……以及计算机用户的自由。
 
 ### “FLOSS” {#floss .subheading}
 
