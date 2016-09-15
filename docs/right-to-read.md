@@ -172,9 +172,9 @@ Lissa 没有向 SPA 举报 Dan，而他关于帮助她的决定使得他们终�
 -   本文据说应该是由其他人在未来撰写的一篇历史文章，描述了 Dan Halbert 在一种专制社会下的青年生活，这种专制社会是由那些将“盗版”作为宣传口号的敌人创立的。因此本文使用那种社会下的用语。我尝试从今天的视角呈现它，使其看起来更具压迫性。
 
 -   The following note has been updated several times since the first
-    publication of the story.\
+    publication of the story.
 
--   以下注记自本文初次发表之后经过数次更新。\
+-   以下注记自本文初次发表之后经过数次更新。
 
      The right to read is a battle being fought today. Although it may
     take 50 years for our present way of life to fade into obscurity,
@@ -200,8 +200,7 @@ Lissa 没有向 SPA 举报 Dan，而他关于帮助她的决定使得他们终�
     unpronounceable CBDTPA, which was glossed as the “Consume But Don’t
     Try Programming Act.”
 
-    在 2001 年，由迪士尼赞助的参议员 Hollings 提出了一项称为“安全系统与标准认证法案”（SSSCA）的法律，其要求每台新计算机带有强制性的限制复制设备并且禁止用户绕过它。继 Clipper 芯片及类似的美国政府关于密钥保管的提案之后，这显示了一种长期趋势：计算机系统越来越倾向于赋予不在场者对该计算机系统的实际使用者进行有效控制的权力。SSSCA 随后更名为“消费者宽带和数字电视促进法案”（CBDTPA）这一不可拼读的名称，它被评注为“消
-    灭但不要尝试编程法案”（Consume But Don't Try Programming Act）。
+    在 2001 年，由迪士尼赞助的参议员 Hollings 提出了一项称为“安全系统与标准认证法案”（SSSCA）的法律，其要求每台新计算机带有强制性的限制复制设备并且禁止用户绕过它。继 Clipper 芯片及类似的美国政府关于密钥保管的提案之后，这显示了一种长期趋势：计算机系统越来越倾向于赋予不在场者对该计算机系统的实际使用者进行有效控制的权力。SSSCA 随后更名为“消费者宽带和数字电视促进法案”（CBDTPA）这一不可拼读的名称，它被评注为“消灭但不要尝试编程法案”（Consume But Don't Try Programming Act）。
 
     The Republicans took control of the US Senate shortly thereafter.
     They are less tied to Hollywood than the Democrats, so they did not
@@ -325,7 +324,7 @@ include:
     See “The Danger of E-Books” (@pageref{E-Books Danger}) for more
     on this.
 
--   今天的商业性电子书剥夺了读者的传统自由。参见(@pageref{E-Books Danger})的“电子书的威胁”一文以获得更多信息；
+-   今天的商业电子书剥夺了读者的传统自由。参见(@pageref{E-Books Danger})的“电子书的威胁”一文以获得更多信息；
 
 -   The publication of a “biology textbook” web site[(3)](#FOOT3) that
     you can access only by signing a contract not to lend it to anyone
