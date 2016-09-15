@@ -501,17 +501,25 @@ endangered species, traditional arts…and computer users’ freedom.
 
 ### “FLOSS” {#floss .subheading}
 
+### 自由和开源软件（FLOSS）
+
 The term “FLOSS,” meaning “Free/Libre and Open Source Software,” was
 coined as a way to be neutral between free software and open
 source.[(18)](#FOOT18) If neutrality is your goal, “FLOSS” is the best
 way to be neutral. But if you want to show you stand for freedom, don’t
 use a neutral term.
 
+FLOSS 意指“自由和开源软件”（Free/Libre and Open Source Software），这一概念试图在自由和开源之间寻求中立。[(18)](#FOOT18)如果保持中立就是您的最终目标，使用 FLOSS 是保持中立的最佳方式。但如果您想要表达您对自由的支持，就不要使用这种中立性的短语。
+
 ### “For Free” {#for-free .subheading}
+
+### 免费（For Free）
 
 If you want to say that a program is free software, please don’t say
 that it is available “for free.” That term specifically means “for zero
 price.” Free software is a matter of freedom, not price.
+
+如果您想要表述一个程序是自由软件，不要说它是可以“免费获得”的。这一短语明确表示“零价格”。自由软件关乎的是自由而非价格。
 
 Free software copies are often available for free—for example, by
 downloading via FTP. But free software copies are also available for a
@@ -519,10 +527,16 @@ price on CD-ROMs; meanwhile, proprietary software copies are
 occasionally available for free in promotions, and some proprietary
 packages are normally available at no charge to certain users.
 
+自由软件副本通常可以免费获得——例如，从文件传输协议（FTP）服务器下载。但自由软件副本也可以存储在只读光盘（CD-ROM）上进行贩卖；与此同时，私有软件副本有时也可以作为促销手段而免费获得，并且一些私有软件也通常对于某些特定用户可免费获得。
+
 To avoid confusion, you can say that the program is available “as free
 software.”
 
+为了避免混淆，您可以称该程序可以“作为自由软件而获得”。
+
 ### “FOSS” {#foss .subheading}
+
+### 自由和开源软件（FOSS）
 
 The term “FOSS,” meaning “Free and Open Source Software,” was coined as
 a way to be neutral between free software and open source, but it
@@ -530,7 +544,11 @@ doesn’t really do that.[(19)](#FOOT19) If neutrality is your goal,
 “FLOSS” is better. But if you want to show you stand for freedom, don’t
 use a neutral term.
 
+FOSS 意指“自由和开源软件”（Free and Open Source Software），这一概念试图在自由和开源之间寻求中立。[(19)](#FOOT19)如果保持中立就是您的最终目标，使用 FLOSS 更好。但如果您想要表达您对自由的支持，就不要使用这种中立性的短语。
+
 ### “Freely Available” {#freely-available .subheading}
+
+### 可自由获得（Freely Available）
 
 Don’t use “freely available software” as a synonym for “free software.”
 The terms are not equivalent. Software is “freely available” if anyone
@@ -538,12 +556,18 @@ can easily get a copy. “Free software” is defined in terms of the
 freedom of users that have a copy of it. These are answers to different
 questions.
 
+不要将“可自由获得的软件”用作自由软件的同义词。这两个短语并不等同。如果任何人可以轻松获得一份副本，就可称其为“可自由获得”。而自由软件的定义是基于那些拥有其一份副本的用户所拥有的自由。这是对于不同的问题的回答。
+
 ### “Freeware” {#freeware .subheading}
+
+### 免费软件（Freeware）
 
 Please don’t use the term “freeware” as a synonym for “free software.”
 The term “freeware” was used often in the 1980s for programs released
 only as executables, with source code not available. Today it has no
 particular agreed-on definition.
+
+不要将“免费软件”用作自由软件的同义词。“免费软件”这一短语在 20 世纪 80 年代常用于指代那些仅以可执行文件形式发布的程序，其源代码不可获得。现在这一短语没有任何特别的公认定义。
 
 When using languages other than English, please avoid borrowing English
 terms such as “free software” or “freeware.” It is better to translate
@@ -551,18 +575,26 @@ the term “free software” into your language. (Please see @pageref{FS
 Translations} for a list of recommended unambiguous translations for the
 term “free software” into various languages.)
 
+当使用英语以外的语言时，请避免直接借用英语短语诸如“free software”或“freeware”。最好能将 free software 翻译为您所说的语言。（参见 @pageref{FS Translations} 以获得将 free software 无歧义地翻译为多种语言的方式。）
+
 By using a word in your own language, you show that you are really
 referring to freedom and not just parroting some mysterious foreign
 marketing concept. The reference to freedom may at first seem strange or
 disturbing to your compatriots, but once they see that it means exactly
 what it says, they will really understand what the issue is.
 
+通过使用您自己的语言中的词汇，您表明了您真正想要表达的自由之意，而非只是对某些神秘的外国市场概念鹦鹉学舌。首次引用自由的概念可能会使您的同胞感到奇怪和不安，但是一旦他们发现它所表达的正是它所宣称的涵义，他们将会真正地理解问题的实质。
+
 ### “Give Away Software” {#give-away-software .subheading}
+
+### 赠送软件（Give Away Software）
 
 It’s misleading to use the term “give away” to mean “distribute a
 program as free software.” This locution has the same problem as “for
 free”: it implies the issue is price, not freedom. One way to avoid the
 confusion is to say “release as free software.”
+
+用“赠送”指代“将程序作为自由软件发布”是误导性的。这种表达方式与“免费”一词相似：它暗示问题的关键是价格而非自由。避免这种混淆的方式是说“作为自由软件发布”。
 
 ### “Google” {#google .subheading}
 
