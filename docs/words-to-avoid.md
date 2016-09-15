@@ -752,25 +752,39 @@ also privileges the MP3 that we ought to reject. We suggest the terms
 
 ### “Open” {#open .subheading}
 
+### 开源（Open）
+
 Please avoid using the term “open” or “open source” as a substitute for
 “free software.” Those terms refer to a different
 position[(24)](#FOOT24) based on different values. Free software is a
 political movement; open source is a development model.
 
+请不要将“开放”或者“开源”用作自由软件的替代词语。这些短语基于不同的价值观代表不同的立场。[(24)](#FOOT24)自由软件是一场政治运动；开源只是一种开发模式。
+
 When referring to the open source position, using its name is
 appropriate; but please do not use it to label us or our work—that leads
 people to think we share those views.
 
+当指代开源的立场时，使用它的名字是恰当的；但不要为我们或我们的作品贴上“开源”的标签——那将会使人们误认为我们也持有那样的立场。
+
 ### “PC” {#pc .subheading}
+
+### 个人计算机（PC）
 
 It’s OK to use the abbreviation “PC” to refer to a certain kind of
 computer hardware, but please don’t use it with the implication that the
 computer is running Microsoft Windows. If you install GNU/Linux on the
 same computer, it is still a PC.
 
+使用 PC 这一缩略词指代某一特定类型的计算机硬件是可以的，但是请您不要用它来暗示该计算机必须运行微软 Windows 操作系统。如果您在同一台计算机上安装 GNU/Linux，它仍然是一台 PC。
+
 The term “WC” has been suggested for a computer running Windows.
 
+建议使用 WC 来称呼一台运行 Windows 的计算机。
+
 ### “Photoshop” {#photoshop .subheading}
+
+### Photoshop（PS）
 
 Please avoid using the term “photoshop” as a verb, meaning any kind of
 photo manipulation or image editing in general. Photoshop is just the
@@ -778,7 +792,11 @@ name of one particular image editing program, which should be avoided
 since it is proprietary. There are plenty of free programs for editing
 images, such as the GIMP.[(25)](#FOOT25)
 
+请不要将 photoshop 用于动词以在普遍意义上指代任何照片处理或图像编辑。它只是一款特定的图像编辑软件的名字，我们应当尽量避免使用它，由于它是私有软件。有很多自由软件可用于图像编辑，例如 GNU 图像操作程序（GIMP）。[(25)](#FOOT25)
+
 ### “Piracy” {#piracy .subheading}
+
+### 盗版（Piracy）
 
 Publishers often refer to copying they don’t approve of as “piracy.” In
 this way, they imply that it is ethically equivalent to attacking ships
@@ -787,6 +805,8 @@ such propaganda, they have procured laws in most of the world to forbid
 copying in most (or sometimes all) circumstances. (They are still
 pressuring to make these prohibitions more complete.)
 
+出版商通常将不被它们批准的复制行为称为“盗版”。通过这种形式，它们暗示这在伦理上与在外海攻击船只以及绑架谋杀船上的人一样坏。基于这样一种鼓吹，它们在世界上的大部分地区骗取到了法律支持以便在绝大多数（有时是全部）环境下进行复制。（它们仍在继续施压以使得这些禁令更加完整。）
+
 If you don’t believe that copying not approved by the publisher is just
 like kidnapping and murder, you might prefer not to use the word
 “piracy” to describe it. Neutral terms such as “unauthorized copying”
@@ -794,10 +814,16 @@ like kidnapping and murder, you might prefer not to use the word
 available for use instead. Some of us might even prefer to use a
 positive term such as “sharing information with your neighbor.”
 
+如果您不认可未经批准的复制行为就像绑架谋杀的理念，您可能也不愿意使用“盗版”一词来描述此行为。中立性的短语诸如“非授权复制”（或者“被禁止的复制”，用于此种行为不合法的情况）可作为替代。我们中的一些人甚至倾向于使用某种褒义词，诸如“与我们的邻居分享信息”。
+
 A US judge, presiding over a trial for copyright infringement,
 recognized that “piracy” and “theft” are smear words.[(26)](#FOOT26)
 
+一位主持了一场版权侵犯审判的美国法官认可“盗版”和“盗窃”属于诽谤性的词语。[(26)](#FOOT26)
+
 ### “PowerPoint” {#powerpoint .subheading}
+
+### PowerPoint（PPT）
 
 Please avoid using the term “PowerPoint” to mean any kind of slide
 presentation. “PowerPoint” is just the name of one particular
@@ -805,7 +831,11 @@ proprietary program to make presentations. For your freedom’s sake, you
 should use only free software to make your presentations. Recommended
 options include TeX’s `beamer` class and OpenOffice.org’s Impress.
 
+请不要使用 PowerPoint 指代任何类型的幻灯片演示文稿。它只是一款特定的用于制作演示文稿的私有软件的名字。为了您的自由，您应该只用自由软件来制作演示文稿。推荐的可选工具包括 TeX 的 beamer 类以及 OpenOffice.org 的 Impress。
+
 ### “Protection” {#protection .subheading}
+
+### 保护（Protection）
 
 Publishers’ lawyers love to use the term “protection” to describe
 copyright. This word carries the implication of preventing destruction
@@ -813,16 +843,24 @@ or suffering; therefore, it encourages people to identify with the owner
 and publisher who benefit from copyright, rather than with the users who
 are restricted by it.
 
+出版商的律师喜爱使用“保护”一词来描述版权。这个单词带有防止破坏或者痛苦的暗示；因此，它鼓励人们去同情那些通过版权得利的版权持有人和出版商，而非那些受到版权限制的用户。
+
 It is easy to avoid “protection” and use neutral terms instead. For
 example, instead of saying, “Copyright protection lasts a very long
 time,” you can say, “Copyright lasts a very long time.”
 
+避免说“保护”而改用中立性的词语是容易做到的。例如，与其说“版权保护持续很长时间”，不如说“版权持续很长时间”。
+
 Likewise, instead of saying, “protected by copyright,” you can say,
 “covered by copyright” or just “copyrighted.”
+
+类似地，与其说“受版权保护”，不如说“被版权覆盖”或者更简单的“具有版权”。
 
 If you want to criticize copyright rather than be neutral, you can use
 the term “copyright restrictions.” Thus, you can say, “Copyright
 restrictions last a very long time.”
+
+如果您想要批判版权制度而非只是想保持中立，您还可以使用“版权限制”这一短语。因此，您可以说“版权限制持续很长时间”。
 
 The term “protection” is also used to describe malicious features. For
 instance, “copy protection” is a feature that interferes with copying.
@@ -831,7 +869,11 @@ that malicious feature “copy obstruction.” More often it is called
 Digital Restrictions Management (DRM)—see the Defective by Design
 campaign, at [DefectiveByDesign.org](DefectiveByDesign.org).
 
+“保护”一词还被用于描述恶意功能。例如，“复制保护”是一种干扰复制行为的功能。从用户的观点来看，这是一种阻碍。因此我们将此恶意功能称为“复制阻碍”。它更多地被称为数字限制管理（DRM）——参见 Defective by Design 运动， 它位于[DefectiveByDesign.org](DefectiveByDesign.org)。
+
 ### “RAND (Reasonable and Non-Discriminatory)” {#rand-reasonable-and-non-discriminatory .subheading}
+
+### 合理与无差别（RAND，Reasonable and Non-Discriminatory）
 
 Standards bodies that promulgate patent-restricted standards that
 prohibit free software typically have a policy of obtaining patent
@@ -839,12 +881,16 @@ licenses that require a fixed fee per copy of a conforming program. They
 often refer to such licenses by the term “RAND,” which stands for
 “reasonable and non-discriminatory.”
 
+推广那些禁止自由软件实现的受专利限制的标准的标准化组织通常拥有这样的专利许可获得政策，它要求符合此标准的软件的每份副本支付一笔固定的专利费。它们通常将这样的专利许可条款称为 RAND，即“合理与无差别”。
+
 That term whitewashes a class of patent licenses that are normally
 neither reasonable nor nondiscriminatory. It is true that these licenses
 do not discriminate against any specific person, but they do
 discriminate against the free software community, and that makes them
 unreasonable. Thus, half of the term “RAND” is deceptive and the other
 half is prejudiced.
+
+这一短语洗白了一系列通常既不合理也并非无歧视的专利许可条款。确实，这些许可条款并不歧视任何特定的个人，但它们确实是在歧视自由软件社区，这使得它们成为不合理的。因此，RAND 的一半是欺骗性的，而另一半是带有偏见的。
 
 Standards bodies should recognize that these licenses are
 discriminatory, and drop the use of the term “reasonable and
@@ -854,11 +900,17 @@ reject that term. To accept and use it merely because patent-wielding
 companies have made it widespread is to let those companies dictate the
 views you express.
 
+标准化组织应该认识到这些许可条款是具有歧视性的，并且放弃使用“合理与无差别”或者 RAND 来描述它们。直到它们如此做，不希望加入这种“洗白”的政策制定者才能拒绝这一短语。仅仅由于那些持有大量专利的商业公司使其变得普遍流行就接受并使用这一短语，将会允许那些商业公司支配您所表达的观点。
+
 We suggest the term “uniform fee only,” or “UFO” for short, as a
 replacement. It is accurate because the only condition in these licenses
 is a uniform royalty fee.
 
+我们建议使用“仅限统一付费”（uniform fee only）或者简写为 UFO 来作为替代，这种描述是精准的，由于这些许可条款的唯一条件就是统一的权利金。
+
 ### “SaaS” or “Software as a Service” {#saas-or-software-as-a-service .subheading}
+
+### 软件即服务（SaaS，Software as a Service）
 
 We used to say that SaaS (short for “Software as a Service”) is an
 injustice, but then we found that there was a lot of variation in
@@ -867,14 +919,22 @@ to a new term, “Service as a Software Substitute” or “SaaSS.” This term
 has two advantages: it wasn’t used before, so our definition is the only
 one, and it explains what the injustice consists of.
 
+我们曾经说“软件即服务”是一种不公，但我们随后发现人们对于哪些活动属于 SaaS 的理解还存在诸多分歧。于是我们转为使用一个新的短语，“服务作为软件替代品”，即 SaaSS。这个短语有两个优点：由于它从未被使用过，因此我们的定义是其唯一定义；另外它解释了这种不公包括哪些方面。
+
 See “Who Does That Server Really Serve?” (@pageref{Server}) for
 discussion of this issue.
+
+参见 “Who Does That Server Really Serve?” (@pageref{Server}) 一文以获得关于此问题的更多讨论。
 
 In Spanish we continue to use the term “software como servicio” because
 the joke of “software como ser vicio”[(27)](#FOOT27) is too good to give
 up.
 
+在西班牙语中，我们继续使用“software como servicio”这一短语，这是由于“software como ser vicio”[(27)](#FOOT27)这个笑话太精妙绝伦了，以至于我们不舍得放弃它。
+
 ### “Sell Software” {#sell-software .subheading}
+
+### 贩卖软件（Sell Software）
 
 The term “sell software” is ambiguous. Strictly speaking, exchanging a
 copy of a free program for a sum of money is selling the program, and
@@ -884,10 +944,16 @@ the subsequent use of the software. You can be clear, and prevent
 confusion, by saying either “distributing copies of a program for a fee”
 or “imposing proprietary restrictions on the use of a program.”
 
+“贩卖软件”这一短语是含混不清的。严格地说，用一份自由软件副本换取一笔资金是在贩卖该软件，这样做也无可厚非。然而，人们通常将“贩卖软件”与对该软件的后续使用的私有限制相关联。您可以保持清醒并且拒绝混淆，通过说“有偿发布软件副本”或者“为软件的使用施加私有限制”。
+
 See “Selling Free Software” (@pageref{Selling}) for further discussion
 of this issue.
 
+参见 “Selling Free Software” (@pageref{Selling}) 一文以获得关于此问题的更多讨论。
+
 ### “Sharing Economy” {#sharing-economy .subheading}
+
+### 分享经济（Sharing Economy）
 
 The term “sharing economy” is not a good way to refer to services such
 as Uber and Airbnb that arrange business transactions between people. We
@@ -896,10 +962,16 @@ noncommercial redistribution of exact copies of published works.
 Stretching the word “sharing” to include these transactions undermines
 its meaning, so we don’t use it in this context.
 
+“分享经济”这一短语不是一种用于指代诸如 Uber 或者 Airbnb 这样的在人与人之间安排商业交易的服务的好方式。我们使用“分享”这一词语来指代非商业合作，包括对已发布的作品的原始版本进行非商业性的再分发。将“分享”一词的涵义延伸至包含这些商业交易的程度破坏了它的本意，因此我们不会在这种上下文中使用它。
+
 A more suitable term for businesses like Uber is the “piecework service
 economy.”
 
+用于描述诸如 Uber 的业务的更好的短语是“计件工作服务经济”（pieceword service economy）。
+
 ### “Skype” {#skype .subheading}
+
+### Skype
 
 Please avoid using the term “skype” as a verb, meaning any kind of video
 communication or telephony over the internet in general. “Skype” is just
@@ -909,7 +981,11 @@ internet in a way that respects both your freedom and your privacy, try
 one of the numerous free Skype replacements, at
 <https://libreplanet.org/wiki/Group:Skype_Replacement>.
 
+请不要将 Skype 作为动词使用，用于从一般意义上指代任何类型的视频通讯或者网络电话。Skype 只是一种特定的私有软件的名字，它会窥探用户。[(28)](#FOOT28)如果您想要以一种同时尊重您的自由和隐私的方式进行网络音视频通话，您可以试用众多自由的 Skype 替代品之一，位于<https://libreplanet.org/wiki/Group:Skype_Replacement>。
+
 ### “Software Industry” {#software-industry .subheading}
+
+### 软件工业（Software Industry）
 
 The term “software industry” encourages people to imagine that software
 is always developed by a sort of factory and then delivered to
@@ -918,13 +994,19 @@ Software businesses exist, and various businesses develop free and/or
 nonfree software, but those that develop free software are not run like
 factories.
 
+“软件工业”一词鼓励人们想象软件总是由某种工厂开发并且送达“消费者”手中的。自由软件社区已经证实了事情并非如此。软件企业确实才能在，并且不同的企业开发自由和/或私有软件，但那些开发自由软件的企业并不是像工厂那样运营的。
+
 The term “industry” is being used as propaganda by advocates of software
 patents. They call software development “industry” and then try to argue
 that this means it should be subject to patent monopolies. The European
 Parliament, rejecting software patents in 2003, voted to define
 “industry” as “automated production of material goods.”[(29)](#FOOT29)
 
+“工业”一词正在被软件专利的倡导者用作一种鼓吹。他们将软件开发称为“工业”，然后试图争论这意味着它也应该受到专利垄断权的支配。欧洲议会于 2003 年拒绝软件专利，并且通过表决，将“工业”一词定义为“实物物品的自动化生产”。[(29)](#FOOT29)
+
 ### “Source Model” {#source-model .subheading}
+
+### 源代码模型（Source Model）
 
 Wikipedia uses the term “source model” in a confused and ambiguous way.
 Ostensibly it refers to how a program’s source is distributed, but the
@@ -935,18 +1017,28 @@ practices, some of which are “open source.” Thus, this term really
 conveys no coherent information, but it provides an opportunity to say
 “open source” in pages describing free software programs.
 
+Wikipedia 以一种使人混淆的方式使用“源代码模型”这一概念。从表面看，它指的是程序的源代码如何分发，但其文本将这一概念与开发方法论混淆起来。它将区分“开放源代码”和“共享源代码”作为答案，但它们是重叠的——微软将后者作为一种市场概念以覆盖一系列实践，其中的一些也是“开放源代码”的。因此，这一概念实际上未能传达任何合乎逻辑的信息，但它为连篇累牍地将自由软件描述为“开源”提供了机会。
+
 ### “Terminal” {#terminal .subheading}
+
+### 终端（Terminal）
 
 Mobile phones and tablets are computers, and people should be able to do
 their computing on them using free software. To call them “terminals”
 supposes that all they are good for is to connect to servers, which is a
 bad way to do your own computing.
 
+移动电话和平板设备是计算机，并且人们应当被允许在它们上面使用自由软件以进行他们的计算。将它们称为“终端”暗示它们仅仅适合于连接到服务器，这是您进行您自己的计算的一种坏的方式。
+
 ### “Theft” {#theft .subheading}
+
+### 盗窃（Theft）
 
 The supporters of a too-strict, repressive form of copyright often use
 words like “stolen” and “theft” to refer to copyright infringement. This
 is spin, but they would like you to take it for objective truth.
+
+一种过于严格和专制的版权制度的支持者通常使用诸如“盗版”或者“盗窃”这样的词语来指代侵犯版权的行为。这是一种偏见，但是它们希望您将其作为客观事实而接受。
 
 Under the US legal system, copyright infringement is not theft. Laws
 about theft are not applicable to copyright infringement. The supporters
@@ -954,23 +1046,35 @@ of repressive copyright are making an appeal to authority—and
 misrepresenting what authority says.[(30)](#FOOT30) which shows what can
 properly be described as “copyright theft.”
 
+在美国法律体系中，版权侵犯并不属于盗窃。适用于盗窃的法律并不适用于版权侵犯。专制性的版权制度的支持者正在请求权力机构——并且错误地解读权力机构所说的话[(30)](#FOOT30)，这显示了什么才能被恰当地描述为“版权盗窃”。
+
 Unauthorized copying is forbidden by copyright law in many circumstances
 (not all!), but being forbidden doesn’t make it wrong. In general, laws
 don’t define right and wrong. Laws, at their best, attempt to implement
 justice. If the laws (the implementation) don’t fit our ideas of right
 and wrong (the spec), the laws are what should change.
 
+非授权复制在很多情况下（不是全部！）被版权法所禁止，但是被禁止并不意味着它是错误的。从普遍意义上说，法律并不定义正确与错误。法律充其量只能试图实施公正。如果法律（实现）不能适应我们的是非观（具体），那么这样的法律就应该被改变。
+
 A US judge, presiding over a trial for copyright infringement,
 recognized that “piracy” and “theft” are smear words.[(31)](#FOOT31)
 
+一位主持了一场版权侵犯审判的美国法官认可“盗版”和“盗窃”属于诽谤性的词语。[(31)](#FOOT31)
+
 ### “Trusted Computing” {#trusted-computing .subheading}
+
+### 信任计算（Trusted Computing）
 
 “Trusted computing” is the proponents’ name for a scheme to redesign
 computers so that application developers can trust your computer to obey
 them instead of you.[(32)](#FOOT32) From their point of view, it is
 “trusted”; from your point of view, it is “treacherous.”
 
+“信任计算”是其倡导者所起的名字，用于指代这样一种重新设计计算机的阴谋，这使得应用程序开发者可以信任您的计算机将会服从他们而非您。[(32)](#FOOT32)从他们的角度看，这是“信任”；从您的角度看，这是“背叛”。
+
 ### “Vendor” {#vendor .subheading}
+
+### 供应商（Vendor）
 
 Please don’t use the term “vendor” to refer generally to anyone that
 develops or packages software. Many programs are developed in order to
@@ -981,6 +1085,8 @@ copies. These developers are not vendors. Likewise, only some of the
 packagers of GNU/Linux distributions are vendors. We recommend the
 general term “supplier” instead.
 
+请不要使用“供应商”一词一般性地指代任何开发或者打包软件的人。很多程序被开发的目的是贩卖其副本并且它们的开发者自然也是其供应商；这甚至也包括部分自由软件包。然而，很多程序是由志愿者或者并非致力于贩卖副本的组织开发的。这些开发者不是供应商。类似地，只有部分 GNU/Linux 发行版的打包者是供应商，我们建议“供应者”（supplier）这一通用性的概念。
+
 <div class="footnote">
 
 ------------------------------------------------------------------------
@@ -989,195 +1095,131 @@ general term “supplier” instead.
 
 ### [(1)](#DOCF1)
 
-@raggedright See @pageref{Definition} for the full definition of free
-software. @end raggedright
+@raggedright 参见 @pageref{Definition} 以获得自由软件的完整定义。@end raggedright
 
 ### [(2)](#DOCF2)
 
-@raggedright See “Free Software Is Even More Important Now”
-(@pageref{More Important Now}) and “Who Does That Server Really Serve?”
-(@pageref{Server}) for more on this. @end raggedright
+@raggedright 参见 “Free Software Is Even More Important Now” (@pageref{More Important Now}) 和 “Who Does That Server Really Serve?” (@pageref{Server}) 以获得更多信息。@end raggedright
 
 ### [(3)](#DOCF3)
 
-@raggedright See “The BSD License Problem,” at
-<http://gnu.org/philosophy/bsd.html>. @end raggedright
+@raggedright 参见 “The BSD License Problem” 一文，位于<http://gnu.org/philosophy/bsd.html>。@end raggedright
 
 ### [(4)](#DOCF4)
 
-@raggedright See “Various Licenses and Comments about Them,” at\
-<http://gnu.org/licenses/license-list.html>. @end raggedright
+@raggedright 参见 “Various Licenses and Comments about Them”，位于<http://gnu.org/licenses/license-list.html>。@end raggedright
 
 ### [(5)](#DOCF5)
 
-@raggedright See “Why Open Source Misses the Point of Free Software”
-(@pageref{OS Misses Point}). @end raggedright
+@raggedright 参见 “Why Open Source Misses the Point of Free Software” (@pageref{OS Misses Point})。@end raggedright
 
 ### [(6)](#DOCF6)
 
-@raggedright See @pageref{Category Proprietary Software} for more on
-proprietary software. @end raggedright
+@raggedright 参见 @pageref{Category Proprietary Software} 以获得关于私有软件的更多信息。@end raggedright
 
 ### [(7)](#DOCF7)
 
-@raggedright John Harris, “Why Hackers and Spooks Want Our Heads in the
-Cloud,” 25 April 2011,
-[http://guardian.co.uk/commentisfree/2011/apr/25/hackers-\
-spooks-cloud-antiauthoritarian-dream](http://guardian.co.uk/commentisfree/2011/apr/25/hackers-%3Cbr%3Espooks-cloud-antiauthoritarian-dream).
-@end raggedright
+@raggedright John Harris，“Why Hackers and Spooks Want Our Heads in the Cloud”，2011 年四月 25 日，[http://guardian.co.uk/commentisfree/2011/apr/25/hackers-spooks-cloud-antiauthoritarian-dream](http://guardian.co.uk/commentisfree/2011/apr/25/hackers-spooks-cloud-antiauthoritarian-dream)。@end raggedright
 
 ### [(8)](#DOCF8)
 
-@raggedright See “Who Does That Server Really Serve?” (@pageref{Server})
-for more on this issue. @end raggedright
+@raggedright 参见 “Who Does That Server Really Serve?” (@pageref{Server}) 以获得关于此问题的更多信息。@end raggedright
 
 ### [(9)](#DOCF9)
 
-@raggedright Peter Mell and Anthony Grance, “The NIST Definition of
-Cloud Computing: Recommendations of the National Institute of Standards
-and Technology,” NIST Special Publication 800-145 (September 2011),
-[http://csrc.nist.gov/\
-publications/nistpubs/800-145/SP800-145.pdf](http://csrc.nist.gov/%3Cbr%3Epublications/nistpubs/800-145/SP800-145.pdf).
-@end raggedright
+@raggedright Peter Mell 和 Anthony Grance，“The NIST Definition of Cloud Computing: Recommendations of the National Institute of Standards and Technology”，NIST Special Publication 800-145 (2011 年九月)，[http://csrc.nist.gov/publications/nistpubs/800-145/SP800-145.pdf](http://csrc.nist.gov/publications/nistpubs/800-145/SP800-145.pdf)。@end raggedright
 
 ### [(10)](#DOCF10)
 
-@raggedright Dan Farber, “Oracle’s Ellison Nails Cloud Computing,”
-26 September 2008, <http://news.cnet.com/8301-13953_3-10052188-80.html>.
-@end raggedright @vglue -1pc
+@raggedright Dan Farber，“Oracle’s Ellison Nails Cloud Computing”，2008 年九月 26 日，<http://news.cnet.com/8301-13953_3-10052188-80.html>。@end raggedright @vglue -1pc
 
 ### [(11)](#DOCF11)
 
-@raggedright See “Misinterpreting Copyright” (@pageref{Mis Cop}) for
-more on this. @end raggedright
+@raggedright 参见 “Misinterpreting Copyright” (@pageref{Mis Cop}) 一文以获得关于此问题的更多信息。@end raggedright
 
 ### [(12)](#DOCF12)
 
-@raggedright Lara O’Reilly, “A Former Googler Has Declared War on Ad
-Blockers with a New Startup That Tackles Them in an Unorthodox Way,”
-18 June 2015, [http://uk.\
-businessinsider.com/former-google-exec-launches-sourcepoint-with-10-\
-million-series-a-funding-2015-6?r=US&IR=T](http://uk.%3Cbr%3Ebusinessinsider.com/former-google-exec-launches-sourcepoint-with-10-%3Cbr%3Emillion-series-a-funding-2015-6?r=US&IR=T).
-@end raggedright @vglue -1pc
+@raggedright Lara O’Reilly，“A Former Googler Has Declared War on Ad Blockers with a New Startup That Tackles Them in an Unorthodox Way”，2015 年六月 18 日，[http://uk.businessinsider.com/former-google-exec-launches-sourcepoint-with-10-million-series-a-funding-2015-6?r=US&IR=T](http://uk.businessinsider.com/former-google-exec-launches-sourcepoint-with-10-million-series-a-funding-2015-6?r=US&IR=T)。@end raggedright @vglue -1pc
 
 ### [(13)](#DOCF13)
 
-@raggedright See “Free Software Is Even More Important Now”
-(@pageref{More Important Now}) for more on this. @end raggedright
+@raggedright 参见 “Free Software Is Even More Important Now” (@pageref{More Important Now}) 一文以获得关于此问题的更多信息。@end raggedright
 
 ### [(14)](#DOCF14)
 
-@raggedright Owen Hatherley, “Be a User, Not a Consumer: How Capitalism
-Has Changed Our Language,” 11 August 2013,
-[http://theguardian.com/commentisfree/\
-2013/aug/11/capitalism-language-raymond-williams](http://theguardian.com/commentisfree/%3Cbr%3E2013/aug/11/capitalism-language-raymond-williams).
-@end raggedright @vglue -1pc
+@raggedright Owen Hatherley，“Be a User, Not a Consumer: How Capitalism Has Changed Our Language”，2013 年八月 11 日，[http://theguardian.com/commentisfree/2013/aug/11/capitalism-language-raymond-williams](http://theguardian.com/commentisfree/2013/aug/11/capitalism-language-raymond-williams)。@end raggedright @vglue -1pc
 
 ### [(15)](#DOCF15)
 
-@raggedright An unedited transcript of American rock musician Courtney
-Love’s 16 May 2000 speech to the Digital Hollywood online-entertainment
-conference is available at <http://www.salon.com/2000/06/14/love_7/>.
-@end raggedright @vglue -1pc
+@raggedright 美国摇滚音乐家 Courtney Love 于 2000 年五月 16 日在数字好莱坞在线娱乐会议上的演讲的未编辑抄本可以在此找到：<http://www.salon.com/2000/06/14/love_7/>。@end raggedright @vglue -1pc
 
 ### [(16)](#DOCF16)
 
-@raggedright See @pageref{WtA IPR} for the reason why. @end raggedright
+@raggedright 参见 @pageref{WtA IPR} 以获知这一问题的原因。@end raggedright
 
 ### [(17)](#DOCF17)
 
-@raggedright Cory Doctorow, “Encryption Won’t Work If It Has a Back Door
-Only the ‘Good Guys’ Have Keys To,” 1 May 2015,
-[http://theguardian.com/technology/2015/\
-may/01/encryption-wont-work-if-it-has-a-back-door-only-the-good-guys-\
-have-keys-to-](http://theguardian.com/technology/2015/%3Cbr%3Emay/01/encryption-wont-work-if-it-has-a-back-door-only-the-good-guys-%3Cbr%3Ehave-keys-to-).
-@end raggedright
+@raggedright Cory Doctorow，“Encryption Won’t Work If It Has a Back Door Only the ‘Good Guys’ Have Keys To”，2015 年五月 1 日，[http://theguardian.com/technology/2015/may/01/encryption-wont-work-if-it-has-a-back-door-only-the-good-guys-have-keys-to-](http://theguardian.com/technology/2015/may/01/encryption-wont-work-if-it-has-a-back-door-only-the-good-guys-have-keys-to-)。@end raggedright
 
 ### [(18)](#DOCF18)
 
-@raggedright See <http://www.gnu.org/philosophy/floss-and-foss.html> for
-more on this. @end raggedright
+@raggedright 参见 <http://www.gnu.org/philosophy/floss-and-foss.html> 以获得关于此问题的更多信息。@end raggedright
 
 ### [(19)](#DOCF19)
 
-@raggedright See previous footnote. @end raggedright
+@raggedright 参见上一条脚注。@end raggedright
 
 ### [(20)](#DOCF20)
 
-@raggedright “DuckDuckGo Privacy Policy,” last modified on
-11 April 2012,\
- <https://duckduckgo.com/privacy>. @end raggedright
+@raggedright “DuckDuckGo Privacy Policy”，最后更新于 2012 年四月 12 日，<https://duckduckgo.com/privacy>. @end raggedright
 
 ### [(21)](#DOCF21)
 
-@raggedright See my article “On Hacking,” at
-<http://stallman.org/articles/on-hacking.html>. @end raggedright @vglue
--1pc
+@raggedright 参见我的文章 “On Hacking”，位于<http://stallman.org/articles/on-hacking.html>。@end raggedright @vglue -1pc
 
 ### [(22)](#DOCF22)
 
-@raggedright Richard Stallman, “Public Awareness of Copyright, WIPO,
-June 2002,”\
- last updated in 2014, [http://gnu.org/philosophy/\
-wipo-PublicAwarenessOfCopyright-2002.html](http://gnu.org/philosophy/%3Cbr%3Ewipo-PublicAwarenessOfCopyright-2002.html).
-@end raggedright
+@raggedright Richard Stallman，“Public Awareness of Copyright, WIPO, June 2002”，最后更新于 2014 年，[http://gnu.org/philosophy/wipo-PublicAwarenessOfCopyright-2002.html](http://gnu.org/philosophy/wipo-PublicAwarenessOfCopyright-2002.html)。@end raggedright
 
 ### [(23)](#DOCF23)
 
-@raggedright See also “Linux and the GNU System” (@pageref{Linux and
-GNU}) for more on the history of the GNU/Linux system as it relates to
-this issue of naming. @end raggedright
+@raggedright 参见 “Linux and the GNU System” (@pageref{Linux and GNU}) 一文以获知 GNU/Linux 操作系统的更多历史背景，由于它与本文所提到的命名问题相关。@end raggedright
 
 ### [(24)](#DOCF24)
 
-@raggedright See “Why Open Source Misses the Point of Free Software”
-(@pageref{OS Misses Point}) for a complete explanation. @end raggedright
+@raggedright 参见 “Why Open Source Misses the Point of Free Software” (@pageref{OS Misses Point}) 以获得完整解释。@end raggedright
 
 ### [(25)](#DOCF25)
 
-@raggedright See <http://directory.fsf.org/wiki/GIMP>. @end raggedright
+@raggedright 参见 <http://directory.fsf.org/wiki/GIMP>。@end raggedright
 
 ### [(26)](#DOCF26)
 
-@raggedright Ernesto Van der Sar, “MPAA Banned from Using Piracy and
-Theft Terms in Hotfile Trial,” 29 November 2013,
-[http://torrentfreak.com/mpaa-banned-\
-from-using-piracy-and-theft-terms-in-hotfile-trial-131129](http://torrentfreak.com/mpaa-banned-%3Cbr%3Efrom-using-piracy-and-theft-terms-in-hotfile-trial-131129).
-@end raggedright
+@raggedright Ernesto Van der Sar，“MPAA Banned from Using Piracy and Theft Terms in Hotfile Trial”，2013 年十一月 29 日，[http://torrentfreak.com/mpaa-banned-from-using-piracy-and-theft-terms-in-hotfile-trial-131129](http://torrentfreak.com/mpaa-banned-from-using-piracy-and-theft-terms-in-hotfile-trial-131129)。@end raggedright
 
 ### [(27)](#DOCF27)
 
-@raggedright “software, as being pernicious” (*sp.*) @end raggedright
+@raggedright “软件，作为恶意的”之意。@end raggedright
 
 ### [(28)](#DOCF28)
 
-@raggedright See
-[http://gnu.org/proprietary/proprietary-surveillance.html\#\
-SpywareInSkype](http://gnu.org/proprietary/proprietary-surveillance.html#%3Cbr%3ESpywareInSkype)
-for more on this. @end raggedright
+@raggedright 参见[http://gnu.org/proprietary/proprietary-surveillance.html#SpywareInSkype](http://gnu.org/proprietary/proprietary-surveillance.html#SpywareInSkype)以获得更多信息。@end raggedright
 
 ### [(29)](#DOCF29)
 
-@raggedright European Parliament, “Directive on the Patentability of
-Computer-Implemented Inventions,” 24 September 2003,
-[http://web.archive.org/web/\
-20071222001014/http://www.swpat.ffii.org/papers/europarl0309](http://web.archive.org/web/%3Cbr%3E20071222001014/http://www.swpat.ffii.org/papers/europarl0309).
-@end raggedright @vglue -1pc
+@raggedright 欧洲议会，“Directive on the Patentability of Computer-Implemented Inventions”，2003 年九月 24 日，[http://web.archive.org/web/20071222001014/http://www.swpat.ffii.org/papers/europarl0309](http://web.archive.org/web/20071222001014/http://www.swpat.ffii.org/papers/europarl0309)。@end raggedright @vglue -1pc
 
 ### [(30)](#DOCF30)
 
-@raggedright To refute them, you can point to the real case of Harper
-Lee suing her agent for allegedly duping her into assigning him the
-copyright on To Kill a Mockingbird. @end raggedright
+@raggedright 为了驳斥他们，您可以援引这一真实案例：Harper Lee 起诉她的代理人涉嫌诱骗她将 To Kill a Mockingbird 一书的版权指认给他。@end raggedright
 
 ### [(31)](#DOCF31)
 
-@raggedright See footnote 25, on @pageref{Piracy}. @end raggedright
+@raggedright 参见脚注 25，位于 @pageref{Piracy}。@end raggedright
 
 ### [(32)](#DOCF32)
 
-@raggedright See “Can You Trust Your Computer?” (@pageref{Can You
-Trust}) for more on this issue. @end raggedright
+@raggedright 参见 “Can You Trust Your Computer?” (@pageref{Can You Trust}) 以获得关于此问题的更多信息。@end raggedright
 
 </div>
 
