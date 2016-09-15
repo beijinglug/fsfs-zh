@@ -598,6 +598,8 @@ confusion is to say “release as free software.”
 
 ### “Google” {#google .subheading}
 
+### 谷歌（Google）
+
 Please avoid using the term “google” as a verb, meaning to search for
 something on the internet. “Google” is just the name of one particular
 search engine among others. We suggest to use the term “web search”
@@ -605,7 +607,11 @@ instead. Try to use a search engine that respects your privacy;
 DuckDuckGo claims not to track its users,[(20)](#FOOT20) although we
 cannot confirm.
 
+请不要将“谷歌”用作动词以指代在万维网上进行搜索。它只是众多搜索引擎中的一种。我们建议使用“网络搜索”这一短语。尽可能使用一种尊重您的隐私的搜索引擎；DuckDuckGo 声称它不会跟踪其用户[(20)](#FOOT20)，尽管我们不能确认这一点。
+
 ### “Hacker” {#hacker .subheading}
+
+### 黑客（Hacker）
 
 A hacker is someone who enjoys playful cleverness[(21)](#FOOT21)—not
 necessarily with computers. The programmers in the old MIT free software
@@ -613,10 +619,16 @@ community of the 60s and 70s referred to themselves as hackers. Around
 1980, journalists who discovered the hacker community mistakenly took
 the term to mean “security breaker.”
 
+黑客是指享受智慧乐趣的人们[(21)](#FOOT21)——并不一定与计算机有关。在 20 世纪 60 至 70 年代，麻省理工学院（MIT）的自由软件社区的程序员称他们自己为黑客。大约在 1980 年，那些发现了黑客社区的记者们错误地将这一词语用于指代“安全破坏者”。
+
 Please don’t spread this mistake. People who break security are
 “crackers.”
 
+请不要散播这种错误。那些破坏安全的人称为骇客（cracker）。
+
 ### “Intellectual Property” {#intellectual-property .subheading}
+
+### 知识产权（Intellectual Property）
 
 Publishers and lawyers like to describe copyright as “intellectual
 property”—a term also applied to patents, trademarks, and other more
@@ -625,29 +637,45 @@ much, that it is ill-advised to generalize about them. It is best to
 talk specifically about “copyright,” or about “patents,” or about
 “trademarks.”
 
+出版商和律师喜好将版权描述为“知识产权”——这一短语也被应用于专利、商标以及其他更为晦涩的法律领域。这些法律之间的共同特性如此之少，而它们之间的区别如此之大，以至于对它们进行广义化是无谋的。最好还是具体地讨论版权，或是专利，或是商标。
+
 The term “intellectual property” carries a hidden assumption—that the
 way to think about all these disparate issues is based on an analogy
 with physical objects, and our conception of them as physical property.
+
+“知识产权”这一短语带有一种隐藏的假设——即对于那些不同类的问题的思考方式应当基于同实物对象的类比，以及我们关于它们的概念应当基于同实物产权的类比。
 
 When it comes to copying, this analogy disregards the crucial difference
 between material objects and information: information can be copied and
 shared almost effortlessly, while material objects can’t be.
 
+当涉及复制的时候，这种类比抹杀了实物对象和信息之间的本质区别：信息可以被毫不费力地复制，而实物对象则不能。
+
 To avoid spreading unnecessary bias and confusion, it is best to adopt a
 firm policy not to speak or even think in terms of “intellectual
 property.”
 
+为了避免不必要的偏见和混淆，最好能够采取这样一种严格的策略，不允许将“知识产权”作为讨论甚至是思考的基础。
+
 The hypocrisy of calling these powers “rights” is starting to make the
 World “Intellectual Property” Organization embarrassed.[(22)](#FOOT22)
 
+虚伪地将这些权力称为“权利”已经开始使得世界“知识产权”组织（WIPO）感到尴尬。[(22)](#FOOT22)
+
 ### “LAMP System” {#lamp-system .subheading}
+
+### LAMP 系统（LAMP System）
 
 “LAMP” stands for “Linux, Apache, MySQL and PHP”—a common combination of
 software to use on a web server, except that “Linux” in this context
 really refers to the GNU/Linux system. So instead of “LAMP” it should be
 “GLAMP”: “GNU, Linux, Apache, MySQL and PHP.”
 
+LAMP 是指“Linux，Apache，MySQL 和 PHP”——用于网络服务器的一种常见的软件组合，除了此上下文环境中的“Linux”实际上是指 GNU/Linux 操作系统。因此，LAMP 应该改为 GLAMP，即“GNU，Linux，Apache，MySQL 和 PHP”。
+
 ### “Linux System” {#linux-system .subheading}
+
+### Linux 系统（Linux System）
 
 Linux is the name of the kernel that Linus Torvalds developed starting
 in 1991. The operating system in which Linux is used is basically GNU
@@ -656,15 +684,23 @@ confusing. Please call the complete system GNU/Linux, both to give the
 GNU Project credit and to distinguish the whole system from the kernel
 alone.[(23)](#FOOT23)
 
+Linux 是由 Linus Torvalds 于 1991 年开始开发的内核的名字，使用 Linux 内核的操作系统基本上是由 GNU 再加上 Linux 内核组成的。将整个操作系统称为“Linux”是不公平并且引起混淆的。请将此完整的操作系统称为 GNU/Linux，既尊重 GNU 计划，也将整个操作系统和它的内核区分开来。[(23)](#FOOT23)
+
 ### “Market” {#market .subheading}
+
+### 市场（Market）
 
 It is misleading to describe the users of free software, or the software
 users in general, as a “market.”
+
+将自由软件用户，或者更普遍地将软件用户称为“市场”是误导性的。
 
 This is not to say there is no room for markets in the free software
 community. If you have a free software support business, then you have
 clients, and you trade with them in a market. As long as you respect
 their freedom, we wish you success in your market.
+
+这并不意味着自由软件社区之中没有市场的立锥之地。如果您拥有一项自由软件的支持业务，您就可以拥有客户，并且您可以在市场中同他们进行交易。只要您仍然尊重他们的自由，我们就会祝愿您在自己的市场中取得成功。
 
 But the free software movement is a social movement, not a business, and
 the success it aims for is not a market success. We are trying to serve
@@ -673,7 +709,11 @@ a rival. To equate this campaign for freedom to a business’s efforts for
 mere success is to deny the importance of freedom and legitimize
 proprietary software.
 
+但是，自由软件运动是一场社会运动而非一项业务，其致力于的成功并非某种市场上的成功。我们试图通过赋予公众自由来服务于公众——而非通过竞争从对手手中夺取市场份额。将这场为自由而战的运动同某种仅仅是为了商业上的成功而进行的行为等量齐观，就是否认了自由的重要性，并且使得私有软件合法化了。
+
 ### “Monetize” {#monetize .subheading}
+
+### 货币化（Monetize）
 
 The proper definition of “monetize” is “to use something as currency.”
 For instance, human societies have monetized gold, silver, copper,
@@ -681,16 +721,24 @@ printed paper, special kinds of seashells, and large rocks. However, we
 now see a tendency to use the word in another way, meaning “to use
 something as a basis for profit.”
 
+“monetize”一词的恰当定义是“将某物用作货币”。例如，人类社会曾经将金、银、铜、印刷的纸、某些种类的贝壳、大块的岩石等货币化。然而，我们现在见到一种趋势正在将这个词语用作另一种用途，即“将某物用作盈利的基础”。
+
 That usage casts the profit as primary, and the thing used to get the
 profit as secondary. That attitude applied to a software project is
 objectionable because it would lead the developers to make the program
 proprietary, if they conclude that making it free/libre isn’t
 sufficiently profitable.
 
+这种用法将利润置于首要位置，而将用于盈利的东西置于次要位置。将这种态度用于软件工程是令人反感的，由于这将引导开发者将软件变为私有的，如果他们得出的结论是使其成为自由软件不能为其带来足够的利润。
+
 A productive and ethical business can make money, but if it subordinates
 all else to profit, it is not likely to remain ethical.
 
+一家富有生产力并且合乎伦理的企业也可以盈利，但只要它将所有其他东西置于利润之下，它就不再是合乎伦理的。
+
 ### “MP3Player” {#mp3player .subheading}
+
+### MP3 播放器（MP3 Player）
 
 In the late 1990s it became feasible to make portable, solid-state
 digital audio players. Most support the patented MP3 codec, but not all.
@@ -699,6 +747,8 @@ not even support MP3-encoded files at all, precisely to avoid these
 patents. To call such players “MP3 players” is not only confusing, it
 also privileges the MP3 that we ought to reject. We suggest the terms
 “digital audio player,” or simply “audio player” if context permits.
+
+在 20 世纪 90 年代后期，制造便携式、固态存储的数字音频播放器成为可能。其中的大部分支持受专利限制的 MP3 编码译码器（codec），但这并不是全部。某些播放器支持不受专利限制的音频编码译码器诸如 Ogg Vorbis 或者自由无损音频编码译码器（FLAC），还有些播放器甚至完全不支持 MP3 编码的文件，这显然是为了回避这些专利。将这些设备称为“MP3 播放器”不仅仅是引起混淆的，它也赋予了 MP3 额外的好处，而这正是我们应当拒绝的。我们建议使用“数字音频播放器”或者更简单的“音频播放器”，如果上下文允许如此简略。
 
 ### “Open” {#open .subheading}
 
