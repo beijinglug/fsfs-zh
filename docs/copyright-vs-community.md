@@ -374,7 +374,7 @@ the freedom that is important.” We can measure the sickness of democracy
 by the tendency of governments to do the exact opposite around the
 world, extending copyright power when they should reduce it.
 
-它应当减少版权权力。它应当说：“我们在以我们的公民之名进行的交易中出让的那部分自由是现在他们所需要的，这是不可容忍的。我们必须改变这一切；我们不能轻易出让这种至关重要的自由。”我们可以如此衡量民主的欠缺，通过考察世界各国政府所做出与民主完全背道而驰的事情的倾向性，即它们在本应减少版权权力的时候反而不断延伸版权权力。
+它应当减少版权权力。它应当说：“我们在以我们的公民之名进行的交易中出让的那部分自由是现在他们所需要的，这是不可容忍的。我们必须改变这一切；我们不能轻易出让这种至关重要的自由。”我们可以如此衡量民主的欠缺，通过考察世界各国政府所做出与民主背道而驰的事情的倾向性，即它们在本应减少版权权力的时候反而不断延伸版权权力。
 
 One example is in the dimension of time. Around the world we see
 pressure to make copyright last longer and longer and longer.
@@ -390,7 +390,7 @@ history books don’t say that there was a burst of vigor in the arts in
 the 20s when all the artists found out that their copyrights would be
 extended in 1998.
 
-一波此类事件于 1998 年发生在美国。对于过去和将来的作品的版权期限都延长了 20 年。我不明白他们怎样才能使得那些活跃于 20 世纪 20 - 30 年代的已经去世或者年迈的作家相信，通过在今天延长他们的作品的版权能够促使他们在当时创作更多的作品。如果他们拥有一台可用于在当时通知他们的时光机器，他们也从未使用过它。我们的历史教材也从未说过在 20 世纪 20 年代曾经发生过文科创作活力的爆发式增长，由于当时所有的艺术家预知他们的作品的版权将会在 1998 年被延长 20 年。
+一波此类事件于 1998 年发生在美国。对于过去和将来的作品的版权期限都延长了 20 年。我不明白他们怎样才能使得那些活跃于 20 世纪 20 至 30 年代的已经去世或者年迈的作家相信，通过在今天延长他们的作品的版权能够促使他们在当时创作更多的作品。如果他们拥有一台可用于在当时通知他们的时光机器，他们也从未使用过它。我们的历史教材也从未说过在 20 世纪 20 年代曾经发生过文科创作活力的爆发式增长，由于当时所有的艺术家预知他们的作品的版权将会在 1998 年被延长 20 年。
 
 It’s theoretically conceivable that 20 years more copyright on future
 works would convince people to make more effort in producing those
@@ -403,7 +403,7 @@ claim otherwise ought to present its projected balance sheets for 75
 years in the future, which of course they can’t do because none of them
 really looks that far ahead.
 
-为未来的作品延长 20 年的版权期限将会说服人们为创作这些作品付出更多努力。这在理论上是可信的，但这不能说服那些有理性的人们，由于在未来 75 年——如果这篇作品是用于出租的——如果该作品拥有一位个人版权持有人，可能还会更长一些，在此基础上额外增加的 20 年版权期限的存在价值将会大打折扣，其存在价值小到不能说服任何有理性的人们为此去做一些不同的事情。任何想要宣称事情并非如此的商业公司应当被要求出示它在未来 75 年中的财务状况表，然而它们当然做不到这一点，由于他们当中没有一家会真正看问题看得那么远。
+为未来的作品延长 20 年的版权期限将会说服人们为创作这些作品付出更多努力。这在理论上是可信的，但这不能说服那些有理性的人们，由于在未来 75 年——如果这篇作品是用于出租的——如果该作品拥有一位个人版权持有人，可能还会更长一些，在此基础上额外增加的 20 年版权期限的存在价值将会大打折扣，其存在价值小到不能说服任何有理性的人们为此去做一些不同的事情。任何想要宣称事情并非如此的商业公司应当被要求出示它在未来 75 年中的财务状况表，然而它们当然做不到这一点，由于它们当中没有一家会真正看问题看得那么远。
 
 The real reason for this law, the desire that prompted various companies
 to purchase this law in the US Congress, which is how laws are decided
@@ -431,7 +431,7 @@ supposedly fall into the public domain. But that date is like tomorrow,
 it never comes. By the time you get there they will have postponed it,
 unless we stop them next time.
 
-电影公司说它们想要永久版权，但是美国宪法不会让它们以官方的方式得到它。于是它们想出了一种方式以便以非官方形式达到同样的结果：“永久版权无限续期方案”。每隔 20 年，它们会将版权期限再次延长 20 年。因此，在任意给定的时间，对于任意给定的作品，都存在这样一个日期，他们应当在此日期进入公有领域。但是，这个日期就如同明日复明日，永远不会到来。当您等到那一天的时候，它们又将其延后了，除非我们能够在下一次阻止它们这样做。
+电影公司说它们想要永久版权，但是美国宪法不会让它们以官方的方式得到它。于是它们想出了一种方式以便以非官方形式达到同样的结果：“永久版权无限续期方案”。每隔 20 年，它们会将版权期限再次延长 20 年。因此，在任意给定的时间，对于任意给定的作品，都存在这样一个日期，它们应当在此日期进入公有领域。但是，这个日期就如同明日复明日，永远不会到来。当您等到那一天的时候，它们又将其延后了，除非我们能够在下一次阻止它们这样做。
 
 That’s one dimension, the dimension of duration. But even more important
 is the dimension of breadth: which uses of the work does copyright
@@ -454,7 +454,7 @@ with DRM (Digital Restrictions Management)—the intentional features of
 software that’s designed to restrict the user. And often the computer
 itself is designed to restrict the user.
 
-现在，出版商有了这样的理念，它们可以使得我们的计算机背叛我们，并且利用它们攫取对于已发布作品的所有使用可能的绝对控制权力。它们想要建立一种按次付费点播的通用规则。它们正在通过数字版权管理（DRM）来实现这一点——软件的功能被故意设计为限制用户。而且计算机本身也通常被设计为限制用户。
+现在，出版商有了这样的理念，它们可以使得我们的计算机背叛我们，并且利用它们攫取对于已发布作品的所有使用可能的绝对控制权力。它们想要建立一种按次付费点播的通用规则。它们正在通过数字限制管理（DRM）来实现这一点——软件的功能被故意设计为限制用户。而且计算机本身也通常被设计为限制用户。
 
 The first way in which the general public saw this was in DVDs. A movie
 on a DVD was usually encrypted, and the format was secret. The DVD
@@ -474,7 +474,7 @@ stop them, we have to make it a crime.” And they started that in the US
 in 1998 with the Digital Millennium Copyright Act, which imposed
 censorship on software capable of doing such jobs.
 
-虽然花费了一些时间，但随后某些人还是破解了这种私密的格式，并且发布了可用于读取并播放 DVD 上的电影的自由软件。然后出版商说：“既然我们不能在事实上阻止他们，我们必须让这件事成为罪行。”它们在 1998 年在美国利用数字千年版权法案（DMCA）开始如此做，这一法案对能实现上述功能的软件强制实施了审查。
+虽然花费了一些时间，但随后某些人还是破解了这种私密的格式，并且发布了可用于读取并播放 DVD 上的电影的自由软件。然后出版商说：“既然我们不能在事实上阻止他们，我们必须让这件事成为罪行。”它们于 1998 年在美国利用数字千年版权法案（DMCA）开始如此做，这一法案对能实现上述功能的软件强制实施了审查。
 
 So that particular piece of free software was the subject of a court
 case. Its distribution in the US is forbidden; the US practices

@@ -176,7 +176,7 @@ responsibility; what we do for them, and what we direct them towards, is
 ours. We must not direct the users towards proprietary software as if it
 were a solution, because proprietary software is the problem.
 
-这里的问题不在于用户是否应该能够或者被允许安装私有软件；一个通用目的的系统应当允许并使用户能够去做他们所想要去做的任何事情。问题在于我们是否应当引导用户投向私有软件。用户独立自主地去做什么事情是他们的责任，而我们为他们做了什么，以及我们引导他们去做什么则是我们的责任我们无论如何不应该将用户导向私有软件，即使它看起来像是一种解决方案。因为私有软件正是问题的根源。
+这里的问题不在于用户是否应该能够或者被允许安装私有软件；一个通用目的的系统应当允许并使用户能够去做他们所想要去做的任何事情。问题在于我们是否应当引导用户投向私有软件。用户独立自主地去做什么事情是他们的责任，而我们为他们做了什么，以及我们引导他们去做什么则是我们的责任。我们无论如何不应该将用户导向私有软件，即使它看起来像是一种解决方案。因为私有软件正是问题的根源。
 
 A ruinous compromise is not just a bad influence on others. It can
 distort your own values, too, through cognitive dissonance. If you have
@@ -201,7 +201,7 @@ publicly uphold citizen values. When people are discussing what is good
 or bad, or what to do, cite the values of freedom and community and
 argue from them.
 
-如果您想要转向自由软件并且为了自由的终极目标而不会做出妥协，您可以查阅自由软件基金会的相关资源，它们位于<http://www.fsf.org/resources>。这里列出了能够与自由软件协同工作的硬件和机器配置列表、可供安装的完全自由的 GNU/Linux 发行版的列表、以及能够在百分之百自由软件环境下工作的数千款自由软件包[(6)](#FOOT6)。如果您想要帮助社区走在通往自由的正确道路上，很重要的一点就是公开支持公民价值。当人们正在讨论什么是好或者坏，或者要做什么事情的时候，您可以援引自由和社区的价值观并与他们争论。
+如果您想要转向自由软件并且是为了自由的终极目标而不会做出妥协，您可以查阅自由软件基金会的相关资源，它们位于<http://www.fsf.org/resources>。这里列出了能够与自由软件协同工作的硬件和机器配置列表、可供安装的完全自由的 GNU/Linux 发行版的列表、以及能够在百分之百自由软件环境下工作的数千款自由软件包[(6)](#FOOT6)。如果您想要帮助社区走在通往自由的正确道路上，很重要的一点就是公开支持公民价值。当人们正在讨论什么是好或者坏，或者要做什么事情的时候，您可以援引自由和社区的价值观并与他们争论。
 
 A road that lets you go faster is not better if it leads to the wrong
 place. Compromise is essential to achieve an ambitious goal, but beware

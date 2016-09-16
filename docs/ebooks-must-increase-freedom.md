@@ -25,7 +25,7 @@ called Digital Restrictions Management (DRM, for short) to restrict
 reading, so it simply won’t work. The e-books are encrypted so that only
 proprietary software with malicious functionality can display them.
 
-我不能对大部分商业版电子书如此做，由于这是“不被允许的”。如果我们试图违反，阅读器中的软件具有一种称为数字版权管理（DRM）的恶意功能，它将会限制用户阅读，因此这简单地不行。由于电子书是加密的，只有具有恶意功能的私有软件才能显示它们。
+我不能对大部分商业电子书如此做，由于这是“不被允许的”。如果我们试图违反，阅读器中的软件具有一种称为数字限制管理（DRM）的恶意功能，它将会限制用户阅读，因此这简单地不行。由于电子书是加密的，只有具有恶意功能的私有软件才能显示它们。
 
 Many other habits that we readers are accustomed to are “not allowed”
 for e-books. With the Amazon “Kindle” (for which “Swindle”[(1)](#FOOT1)

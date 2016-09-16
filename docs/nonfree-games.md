@@ -10,15 +10,15 @@ title: Untitled Document
 1. Nonfree DRM’d Games on GNU/Linux: Good or Bad? {#nonfree-drmd-games-on-gnulinux-good-or-bad .chapter}
 =================================================
 
-GNU/Linux 上的带有数字版权管理的私有游戏：是好是坏？
-====================================================
+GNU/Linux 上的带有数字限制管理（DRM）的私有游戏：是好是坏？
+===========================================================
 
 A well known company, Valve, that distributes nonfree computer games
 with Digital Restrictions Management, recently announced it would
 distribute these games for GNU/Linux. What good and bad effects can this
 have?
 
-Valve，一家发布各种带有数字版权管理（DRM）的私有计算机游戏的知名公司，最近宣称它将会为 GNU/Linux 平台发布这些游戏。这会带来哪些好的或者坏的影响？
+Valve，一家发布各种带有数字限制管理（DRM）的私有计算机游戏的知名公司，最近宣称它将会为 GNU/Linux 平台发布这些游戏。这会带来哪些好的或者坏的影响？
 
 I suppose that availability of popular nonfree programs on GNU/Linux can
 boost adoption of the system. However, the aim of GNU goes beyond

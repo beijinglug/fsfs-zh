@@ -88,7 +88,7 @@ Contrast that with Amazon e-books (fairly typical):
     Management[(1)](#FOOT1) in the player and prohibited by the license,
     which is more restrictive than copyright law.
 
--   在阅读器中复制电子书是不可能的，由于数字版权管理（DRM），这也被霸王条款所禁止，它比版权法更加苛刻。
+-   在阅读器中复制电子书是不可能的，由于数字限制管理（DRM），这也被霸王条款所禁止，它比版权法更加苛刻。
 
 -   Amazon can remotely delete the e-book using a back door. It used
     this back door in 2009 to delete thousands of copies of George

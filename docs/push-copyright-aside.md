@@ -91,7 +91,7 @@ decentralized solution will reduce network bandwidth needs and provide
 faster access, all the while protecting the scholarly record against
 accidental loss.
 
-期刊发行商有时宣称在线访问需要昂贵并且耗能的服务器，于是它们必须收取订阅访问费用以维持其服务器开销。这个“问题”是其自身的“解决方案”所造成的。如果赋予每个人镜像的自由，世界各地的图书馆将会建立其自己的镜像站点以满足此要求。这种去中心化的解决方案将会减少网络带宽开销并且提供更快速的访问，还能防止学术记录意外丢失。
+期刊出版商有时宣称在线访问需要昂贵并且耗能的服务器，于是它们必须收取订阅访问费用以维持其服务器开销。这个“问题”是其自身的“解决方案”所造成的。如果赋予每个人镜像的自由，世界各地的图书馆将会建立其自己的镜像站点以满足此要求。这种去中心化的解决方案将会减少网络带宽开销并且提供更快速的访问，还能防止学术记录意外丢失。
 
 Publishers also argue that paying the editors requires charging for
 access. Let us accept the assumption that editors must be paid; this

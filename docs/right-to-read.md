@@ -13,8 +13,7 @@ title: Untitled Document
 阅读的权利
 ==========
 
-@firstcopyingnotice{{ 著作权所有 (C) 1996, 2002, 2007, 2009, 2010, 2014 Richard Stallman\
- {本文撰写于 1996 年并以标题 “The Right to Read: A Dystopian Short Story”（阅读的权利：一段反乌托邦的短故事）于 1997 年二月发表于 Communications of the ACM, vol. 40, n. 2。此版本是 @fsfsthreecite 的一部分。}
+@firstcopyingnotice{{ 著作权所有 (C) 1996, 2002, 2007, 2009, 2010, 2014 Richard Stallman {本文撰写于 1996 年并以标题 “The Right to Read: A Dystopian Short Story”（阅读的权利：一段反乌托邦的短故事）于 1997 年二月发表于 Communications of the ACM, vol. 40, n. 2。此版本是 @fsfsthreecite 的一部分。}
 
 *From <span class="roman">The Road to Tycho,</span> a collection of articles about the antecedents of the Lunarian Revolution, published in Luna City in 2096.*\
 
@@ -264,7 +263,7 @@ Lissa 没有向 SPA 举报 Dan，而他关于帮助她的决定使得他们终�
     DRM is why we have established the Defective by Design campaign, at
     [DefectiveByDesign.org](DefectiveByDesign.org).
 
-    Vista 同样赋予了微软额外的权力；例如，微软可以强制安装更新，它可以命令所有运行 Vista 的计算机拒绝运行某一特定的设备驱动程序。Vista 所施加的诸多限制的主要目的是强制实施用户所不能克服的数字版权管理（DRM）。DRM 的威胁正是我们发起 Defective by Design 运动的原因，它位于 [DefectiveByDesign.org](DefectiveByDesign.org)。
+    Vista 同样赋予了微软额外的权力；例如，微软可以强制安装更新，它可以命令所有运行 Vista 的计算机拒绝运行某一特定的设备驱动程序。Vista 所施加的诸多限制的主要目的是强制实施用户所不能克服的数字限制管理（DRM）。DRM 的威胁正是我们发起 Defective by Design 运动的原因，它位于 [DefectiveByDesign.org](DefectiveByDesign.org)。
 
     When this story was first written, the SPA was threatening small
     Internet service providers, demanding they permit the SPA to monitor
@@ -324,7 +323,7 @@ include:
     See “The Danger of E-Books” (@pageref{E-Books Danger}) for more
     on this.
 
--   今天的商业电子书剥夺了读者的传统自由。参见(@pageref{E-Books Danger})的“电子书的威胁”一文以获得更多信息；
+-   今天的商业电子书剥夺了读者的传统自由。参见 “The Danger of E-Books” (@pageref{E-Books Danger}) 一文以获得更多信息；
 
 -   The publication of a “biology textbook” web site[(3)](#FOOT3) that
     you can access only by signing a contract not to lend it to anyone
@@ -354,7 +353,7 @@ the FSF, at <http://my.fsf.org/join>, to help fund our work.
 
 -   @raggedright
 
--   美国专利及商标局（USPTO），Intellectual Property \[*sic*\] and the National Information Infrastructure: The Report of the Working Group on Intellectual Property \[*sic*\] Rights, Washington, DC: GPO, 1995. (参见 “Did You Say ‘Intellectual Property’? It’s a Seductive Mirage” (@pageref{Not IPR}) 一文以获知为何“Intellectual Property”这一短语是含混不清的并且永远不应被使用。)
+-   美国专利及商标局（USPTO），Intellectual Property \[*sic*\] and the National Information Infrastructure: The Report of the Working Group on Intellectual Property \[*sic*\] Rights, Washington, DC: GPO, 1995. (参见 “Did You Say ‘Intellectual Property’? It’s a Seductive Mirage” (@pageref{Not IPR}) 一文以获知为何“Intellectual Property”（知识产权）这一短语是含混不清的并且永远不应被使用。)
 
 -   Samuelson, Pamela, “The Copyright Grab,” *Wired,* January 1996, 4.01, <http://wired.com/wired/archive/4.01/white.paper_pr.html>.
 
