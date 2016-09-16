@@ -196,7 +196,7 @@ need to construct a solution that is reliable and convenient, as well as
 sites for sharing changes. The GNU Project would like to recommend sites
 which are dedicated to free changes only.
 
-浏览器用户还需要一款简便的工具以指定用户想要使用的 JavaScript 代码，而非直接使用某一特定网页提供的 JavaScript 代码。（用户所指定的代码可以是基于网页自带的自由 JavaScript 程序的完全替代品或者修改版本。）Greasemonkey 几乎可以实现这一点，但仍稍有欠缺，由于它不能完全保证自己能够在网页中的 JavaScript 程序开始被执行之前完成对其代码的修改。使用本地代理能够解决这个问题，但其便捷成都还远未达到能够使其成为一种真正的解决方案的要求。我们需要构建一种兼具可靠性与便捷性的解决方案，以及能够用于分享这些更改的网站。GNU 计划将会推荐那些专注于自由更改的网站。
+浏览器用户还需要一款简便的工具以指定用户想要使用的 JavaScript 代码，而非直接使用某一特定网页提供的 JavaScript 代码。（用户所指定的代码可以是基于网页自带的自由 JavaScript 程序的完全替代品或者修改版本。）Greasemonkey 几乎可以实现这一点，但仍稍有欠缺，由于它不能完全保证自己能够在网页中的 JavaScript 程序开始被执行之前完成对其代码的修改。使用本地代理能够解决这个问题，但其便捷程度还远未达到能够使其成为一种真正的解决方案的要求。我们需要构建一种兼具可靠性与便捷性的解决方案，以及能够用于分享这些更改的网站。GNU 计划将会推荐那些专注于自由更改的网站。
 
 These features will make it possible for a JavaScript program included
 in a web page to be free in a real and practical sense. JavaScript will
