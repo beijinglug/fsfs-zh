@@ -38,7 +38,7 @@ users control the program, both individually and collectively. So they
 control what their computers do (assuming those computers are loyal and
 do what the users’ programs tell them to do).
 
-同时这款软件还有个共同点：他们都是*恶意软件*。也就是说从功能上都设计用来亏待用户的。专有软件现在往往是恶意软件，因为开发者的权力腐化了他们[^1]。而自由软件，用户控制着程序，既是单独用户控制同时也是群体控制。这样他们就控制着计算机做的事情（假设这些程序都是忠实完成用户的指令）。
+同时这款软件还有个共同点：他们都是*恶意软件*。也就是说从功能上都是设计用来亏待用户的。今天的专有软件往往是恶意软件，因为开发者的权力腐化了他们[^1]。而自由软件，用户控制着程序，既是单独用户控制同时也是群体控制。这样他们就控制着计算机做的事情（假设这些程序都是忠实完成用户的指令）。
 
 With proprietary software, the program controls the users, and some
 other entity (the developer or “owner”) controls the program. So the
@@ -76,7 +76,7 @@ freedoms.[(2)](#FOOT2)
     being to understand, understanding and changing the program in that
     form are forbiddingly hard.
 
-2. 学习软件“源代码”并修改的自由，这样可以让程序执行你想做的事情。程序是由程序员使用编程语言编写的（比如英语结合代数），这种形式称为“源代码”。任何熟悉编程，并能以源代码形式编程的人，都可以读源代码，懂得其逻辑，并可以修改之。而这些使用可执行格式，也就是对计算机来说能理解，但对人类极难读懂并修改的一系列数字，这种形式是极力禁止的。
+2. 学习软件“源代码”并修改的自由，这样可以让程序执行你想做的事情。程序是由程序员使用编程语言编写的（比如结合英语和代数），这种形式称为“源代码”。任何熟悉编程，并能以源代码形式编程的人，都可以读源代码，懂得其逻辑，并可以修改之。当你只能得到可执行格式，也就是对计算机来说能理解，但对人类极难读懂的一系列数字时，读懂并修改该形式的程序难如登天。
 
 3.  The freedom to make and distribute exact copies when you wish. (It
     is not an obligation; doing this is your choice. If the program is
@@ -86,7 +86,7 @@ freedoms.[(2)](#FOOT2)
     however, choosing not to distribute the program—using it
     privately—does not mistreat anyone.)
 
-3. 将当前副本重新分发的自由。不过这不是一种义务，这样做是你的选择。如果是自由的，并不意味别人有义务提供给你一份副本，或者你有义务提供其他人副本。如果没有自由的分发，会亏待用户。然而如果不分发软件（只是私下使用）则不会亏待任何人。
+3. 将当前副本重新分发的自由。不过这不是一种义务，这样做是你的选择。如果程序是自由的，并不意味着别人有义务提供给你一份副本，或者你有义务为其他人提供副本。如果没有自由的分发，会亏待用户。然而如果不分发软件（只是私下使用）则不会亏待任何人。
 
 4.  The freedom to make and distribute copies of your modified versions,
 when you wish.
@@ -144,7 +144,7 @@ Chrome for Windows include a universal back door that allows some
 company to change the program remotely without asking permission. The
 Amazon Kindle has a back door that can erase books.
 
-令人发指的是（这种情况很常见）专有程序设计用来窥视、限制、审查甚至虐待用户[^3]。例如苹果的 iThings 操作系统做了所有这些，同样的基于 ARM 芯片移动设备上的 Windows 系统也是如此。Windows 手机固件以及 Google Chrom Windows 版包含了通用后门，可以让一些公司不经过同意就远程修改程序。亚马逊的 Kindle 则通过后门删除用户的电子书。
+令人发指的是（这种情况很常见）专有程序设计用来窥视、限制、审查甚至虐待用户[^3]。例如苹果的 iThings 操作系统做了所有这些，同样的基于 ARM 芯片移动设备上的 Windows 系统也是如此。Windows 手机固件以及 Google Chrome 的 Windows 版包含了通用后门，可以让一些公司不经过用户同意就远程修改程序。亚马逊的 Kindle 则通过后门删除用户的电子书。
 
 The use of nonfree software in the “internet of things” would turn it
 into the “internet of telemarketers”[(4)](#FOOT4) as well as the
@@ -168,7 +168,7 @@ same as doing wrong.) Thus, when we say all software must be free, we
 mean that every copy must come with the four freedoms, but we don’t mean
 that someone has an obligation to offer you a copy.
 
-分发非自由的程序给用户是残害用户的行为；然而如果不分发程序则不会伤害任何人。如果你写了一个程序并私下使用，不会伤害到任何人。你也许会失去做好事的机会，但这与做错事是不一样的。因此，我们说所有程序都应该是自由，意思是所有副本都应该遵循这四个自由，但并不意味着别人有义务提供给你一份副本。
+分发非自由的程序给用户是残害用户的行为；然而如果不分发程序则不会伤害任何人。如果你写了一个程序并私下使用，不会伤害到任何人。你也许会失去做好事的机会，但这与做错事是不一样的。因此，我们说所有程序都应该自由，意思是所有副本都应该遵循这四个自由，但并不意味着别人有义务提供给你一份副本。
 
 ### Nonfree Software and SaaSS {#nonfree-software-and-saass .subheading}
 
@@ -179,7 +179,7 @@ people’s computing. Nowadays, there is another way, called Service as a
 Software Substitute, or SaaSS. That means letting someone else’s server
 do your own computing tasks.
 
-非自由软件蹭是公司控制人们电脑的首选方案。今天，还有另外一种方式，称为“服务即软件替代”（SaaSS，Service as a Software Substitute）。这意思是让别人的服务器去做你自己电脑的任务。
+非自由软件是公司控制人们电脑的首选方案。今天，还有另外一种方式，称为“替代软件的服务”（SaaSS，Service as a Software Substitute）。这意思是让别人的服务器去做你自己的计算任务。
 
 SaaSS doesn’t mean the programs on the server are nonfree (though they
 often are). Rather, using SaaSS causes the same injustices as using a
@@ -218,7 +218,7 @@ have the same problem.) It is wrong even to suggest using such programs.
 We should refuse to use them even briefly, even on someone else’s
 computer.
 
-有一些非自由的程序会直接给用户施压。Skype 就是一个例子：当用户使用了一个非自由的 Skype 客户端软件，它会要求其他人使用同样的软件——这样两个人都将自由屈服了（Google Hangouts 也有同样的问题）。建议使用这样的软件也是同样的错误。我们必须坚决拒绝他们，即使是使用别人的电脑。
+有一些非自由的程序会直接给用户施压。Skype 就是一个例子：当用户使用了一个非自由的 Skype 客户端软件，它会要求其他人使用同样的软件——这样两个人都将自由放弃了（Google Hangouts 也有同样的问题）。建议使用这样的软件也是同样的错误。我们必须坚决拒绝他们，即使是使用别人的电脑。
 
 Another harm of using nonfree programs and SaaSS is that it rewards the
 perpetrator, encouraging further development of that program or
@@ -243,7 +243,7 @@ for the people. (This constitutes the computational sovereignty of the
 state.) They must never allow control over the state’s computing to fall
 into private hands.
 
-公共机构是为人民服务的，而不是为他们自己。他们做计算机领域也是如此，有义务完全控制计算机以确保恰当的为人民服务（也就是所谓的国家主权计算）。他们决不能让计算机的控制权落入私人之手。
+公共机构是为人民服务的，而不是为他们自己。他们做计算机领域也是如此，有义务完全控制计算机以确保恰当地为人民服务（也就是所谓的国家主权计算）。他们决不能让计算机的控制权落入私人之手。
 
 To maintain control of the people’s computing, public agencies must not
 do it with proprietary software (software under the control of an entity
@@ -251,7 +251,7 @@ other than the state). And they must not entrust it to a service
 programmed and run by an entity other than the state, since this would
 be SaaSS.
 
-为了维护控制人民的计算机，公共机构必须不能使用专有软件（一个由国家之外的实体掌控的软件），同时不能委托国家机构以外的实体编写或运行服务，因为这会是 SaaSS。
+为了维持对为人民服务的计算机的控制，公共机构必须不能使用专有软件（一个由国家之外的实体掌控的软件），同时不能委托国家机构以外的实体编写或运行服务，因为这会是 SaaSS。
 
 Proprietary software has no security at all in one crucial case—against
 its developer. And the developer may help others attack. Microsoft shows
@@ -262,7 +262,7 @@ government of any other country uses such software, it endangers
 national security.[(8)](#FOOT8) Do you want the NSA to break into your
 government’s computers?
 
-专有软件在非常时期是没有安全可言的——除非其开发者。甚至开发者会帮助其他人攻击。微软会在修复 Windows 的 bug 之前将其展示给 NSA[^7]（美国数字间谍机构）。我们不知道苹果是不是也这样做，但他们同样受到与微软一样的政府压力。如果其他国家政府使用这样的软件，会危害国家安全[^8]。你会希望 NSA 攻入你的政府计算机吗？
+专有软件在非常时期是没有安全可言的——因为无力抵抗其开发者。甚至开发者会帮助其他人攻击。微软会在修复 Windows 的 bug 之前将其展示给 NSA[^7]（美国数字间谍机构）。我们不知道苹果是不是也这样做，但他们同样受到与微软一样的政府压力。如果其他国家政府使用这样的软件，会危害国家安全[^8]。你会希望 NSA 攻入你的政府计算机吗？
 
 ### Free Software and Education {#free-software-and-education .subheading}
 
