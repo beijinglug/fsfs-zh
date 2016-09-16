@@ -309,7 +309,7 @@ nonfree, an injustice. Often the JavaScript code spies on the
 user.[(9)](#FOOT9) JavaScript has morphed into a attack on users’
 freedom.
 
-现在的很多网页都包含复杂的 JavaScript 程序并且需要它们才能工作。这是一种有害的实践，由于它阻碍用户对他们自己的计算的控制。更坏的是，这些程序中的大部分是非自由的，这是一种不公。JavaScript 代码通常窥探用户。[(9)](#FOOT9)JavaScript已经变成了一种对用户自由的威胁。
+现在的很多网页都包含复杂的 JavaScript 程序并且需要它们才能工作。这是一种有害的实践，由于它阻碍用户对他们自己的计算的控制。更坏的是，这些程序中的大部分是非自由的，这是一种不公。JavaScript 代码通常窥探用户。[(9)](#FOOT9) JavaScript 已经变成了一种对用户自由的威胁。
 
 To address this problem, we have developed LibreJS, an add-on for
 Firefox that blocks nontrivial nonfree JavaScript code. (There is no

@@ -30,7 +30,7 @@ stated purpose? And how can we bring them back into alignment with that
 purpose? To understand, we should start by looking at the root of United
 States copyright law: the US Constitution.
 
-那么，版权政策是如何一步一步地走到与其宣称的初衷完全背道而驰的地步的呢？而我们又如何才能使其重新回到与其初衷相符的正轨呢？为了理解这些，我们应当首先审视美国版权法的根基：美国宪法。
+那么，版权政策是如何一步一步地走到与其宣称的初衷背道而驰的地步的呢？而我们又如何才能使其重新回到与其初衷相符的正轨呢？为了理解这些，我们应当首先审视美国版权法的根基：美国宪法。
 
 ### Copyright in the US Constitution {#copyright-in-the-us-constitution .subheading}
 
@@ -43,7 +43,7 @@ natural right of authors, but an artificial concession made to them for
 the sake of progress. The Constitution gives permission for a copyright
 system with this clause (Article I, Section 8, Clause 8):
 
-当美国宪法被起草之时，作者们应当被赋予某种版权垄断权这一想法被提出——然后又被拒绝了。我们国家的创始人采纳了另一种假设，即版权并非作者们的一种自然的权利，而是以进步之名人为地为他们做出的一种认可。宪法通过这一条款（第 I 章，第 8 条，第 8 款）许可了这样一种版权体系：
+当美国宪法被起草之时，作者们应当被赋予某种版权垄断权这一想法被提出——然后又被拒绝了。我们国家的创始人采纳了另一种假设，即版权并非作者们的一种自然的权利，而是以进步之名，人为地为他们做出的一种认可。宪法通过这一条款（第 I 章，第 8 条，第 8 款）许可了这样一种版权体系：
 
 > \[Congress shall have the power\] to promote the Progress of Science
 > and the useful Arts, by securing for limited Times to Authors and
@@ -110,7 +110,7 @@ powers. It also refers to the users of copyrighted works as “readers,”
 even though using them does not always mean reading, because “the users”
 is remote and abstract.
 
-宪法批准了将版权权力赋予作者。而实际上，作者们通常将其转让给出版商；因此实际上通常是出版商而非作者在行使这些权力从而得到大部分利益，尽管作者有时也能得到一小部分利益。因此通常只是那些出版商在游说政府以进一步增加版权权力。为了更好地反映关于版权的事实而非那些鬼话，本文将会把出版商而非作者称为版权权力的持有者，并且将版权作品的使用者称为“读者”，即使对这些作品的使用并非只能是阅读，这是由于“用户”一词过于遥远和抽象。
+宪法批准了将版权权力赋予作者。而实际上，作者们通常将其转让给出版商；因此实际上通常是出版商而非作者在行使这些权力从而得到大部分利益，尽管作者有时也能得到一小部分利益。因此通常只是那些出版商在游说政府以进一步增加版权权力。为了更好地反映关于版权的事实而非那些鬼话，本文将会把出版商而非作者称为版权权力的持有者，并且将有版权的作品的使用者称为“读者”，即使对这些作品的使用并非只能是阅读，这是由于“用户”一词过于遥远和抽象。
 
 ### The First Error: “Striking a Balance” {#the-first-error-striking-a-balance .subheading}
 
@@ -201,7 +201,7 @@ between a public goal and market forces. The government tries to obtain
 for the taxpaying motorists the best deal they can get in the context of
 a free society and a free market.
 
-从实践角度讲，这一价格不可能为零，因为承包商不可能叫出那么低的价格。尽管没有获得特别报酬的资格，他们在自由社会中仍然享有通常的公民权利，包括拒绝对其不利的合同的权利；即使最低竞价也足以使某些承包商有利可图。因此，这里确实存在着某种平衡。但这并非由于利益双方各自要求得到特殊报酬而达成的一种蓄意的平衡。这是一种在公众目标和市场力量之间达成的平衡。政府试图为驾车的纳税人获得他们在自由社会和自由市场的大背景下可能得到的最佳交易。
+从实践角度讲，这一价格不可能为零，因为承包商不可能叫出那么低的价格。尽管没有获得特别报酬的资格，它们在自由社会中仍然享有通常的公民权利，包括拒绝对其不利的合同的权利；即使最低竞价也足以使某些承包商有利可图。因此，这里确实存在着某种平衡。但这并非由于利益双方各自要求得到特殊报酬而达成的一种蓄意的平衡。这是一种在公众目标和市场力量之间达成的平衡。政府试图为驾车的纳税人获得他们在自由社会和自由市场的大背景下可能得到的最佳交易。
 
 In the copyright bargain, the government spends our freedom instead of
 our money. Freedom is more precious than money, so government’s
@@ -444,7 +444,7 @@ they can impose any restrictions whatsoever on the use of a work, and
 these restrictions take the force of law provided the work contains some
 sort of encryption or license manager to enforce them.
 
-一条更坏的法律，数字千年版权法案（DMCA），被设计为重新带回一种当时被称为“防复制保护”的东西——现在称之为数字版权管理（DRM）[(8)](#FOOT8)——这是一种已经被用户所唾弃的东西，它使得破解这些限制规则，甚至只是发表关于如何破解它们的信息成为犯罪行为。这条法律应当被称作“媒体公司支配法案”（Domination by Media Corporations Act），由于它事实上赋予了出版商编写自家版权法的权力。它宣称它们可以对作品的使用强行施加任何限制，并且这些限制将具有法律效力，如果该作品包含某种加密或者许可证管理器之类的强制实行措施。
+一条更坏的法律，数字千年版权法案（DMCA），被设计为重新带回一种当时被称为“复制保护”的东西——现在称之为数字限制管理（DRM）[(8)](#FOOT8)——这是一种已经被用户所唾弃的东西，它使得破解这些限制规则，甚至只是发表关于如何破解它们的信息成为犯罪行为。这条法律应当被称作“媒体公司支配法案”（Domination by Media Corporations Act），由于它事实上赋予了出版商编写自家版权法的权力。它宣称它们可以对作品的使用强行施加任何限制，并且这些限制将具有法律效力，如果该作品包含某种加密或者许可证管理器之类的强制实行措施。
 
 One of the arguments offered for this bill was that it would implement a
 recent treaty to increase copyright powers. The treaty was promulgated
@@ -536,7 +536,7 @@ freedom in order to keep it. Meanwhile, e-books are making inroads in
 niches: NYU and other dental schools require students to buy their
 textbooks in the form of restricted e-books.
 
-面向大量最终用户销售的电子书目前看来在商业上并不很成功，但这并非由于读者选择捍卫他们的自由；它们是由于其他原因不受欢迎，例如计算机屏幕并不是一种适合于轻松阅读的平面。我们不可能长期依赖这种好的缺陷来保护我们自己；用于促销电子书的下一步尝试是使用电子纸——一种像书本一样的东西，可向其中下载加密、受限的电子书。如果这种像纸一样的平面能够提供比现在的显示屏更多的吸引力，我们将不得不捍卫我们的自由以便继续拥有它。与此同时，电子书正在利基市场（niche market）中觅得商机：纽约大学（NYU）和其他牙科学校要求其学生以受限的电子书的格式购买它们的教材。
+面向大量最终用户销售的电子书目前看来在商业上并不很成功，但这并非由于读者选择捍卫他们的自由；它们是由于其他原因不受欢迎，例如计算机屏幕并不是一种适合于轻松阅读的平面。我们不可能长期依赖这种好的缺陷来保护我们自己；用于促销电子书的下一步尝试是使用电子纸——一种像书本一样的东西，可以向其中下载加密、受限的电子书。如果这种像纸一样的平面能够提供比现在的显示屏更多的吸引力，我们将不得不捍卫我们的自由以便继续拥有它。与此同时，电子书正在利基市场（niche market）中觅得商机：纽约大学（NYU）和其他牙科学校要求其学生以受限的电子书的格式购买它们的教材。
 
 The media companies are not satisfied yet. In 2001, Disney-funded
 Senator Hollings proposed a bill called the “Security Systems Standards

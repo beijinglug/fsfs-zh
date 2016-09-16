@@ -82,7 +82,7 @@ software and {@parfillskip=0pt@par Service as a Software Substitute
 subjugate their users.[(2)](#FOOT2) We do not think it is good to offer
 users those “alternatives” to free software.
 
-我们坚信以自由软件形式发布是发布软件以供他人使用的唯一符合伦理的当时。而其他方式，不论是私有软件还是“服务作为软件替代品”（SaaSS）都会迫使用户屈从。[(2)](#FOOT2)因此我们认为不向用户提供这些自由软件之外的“可选择物”才是好的。
+我们坚信以自由软件形式发布是发布软件以供他人使用的唯一符合伦理的方式。而其他方式，不论是私有软件还是“服务作为软件替代品”（SaaSS）都会迫使用户屈从。[(2)](#FOOT2)因此我们认为不向用户提供这些自由软件之外的“可选择物”才是好的。
 
 ### “BSD-Style” {#bsd-style .subheading}
 
@@ -112,7 +112,7 @@ would encourage people to lump us in with them.[(5)](#FOOT5) For
 instance, we avoid describing nonfree software as “closed.” We call it
 “nonfree” or “proprietary.”[(6)](#FOOT6)
 
-将私有软件描述为“闭源”很明显是与“开源”概念相对。在自由软件运动中，我们不希望被别人同开源阵营混为一谈，因此我们谨慎地避免使用那种促使人们将我们与他们混在一起的表达方式。[(5)](#FOOT5)例如，我们避免将非自由软件描述为“闭源”，我们称之为非自由或私有。[(6)](#FOOT6)
+将私有软件描述为“闭源”很明显是与“开源”概念相对。在自由软件运动中，我们不希望被别人同开源阵营混为一谈，因此我们谨慎地避免使用那种促使人们将我们与他们混在一起的表达方式。[(5)](#FOOT5)例如，我们避免将非自由软件描述为“闭源”，我们称之为“非自由”或“私有”。[(6)](#FOOT6)
 
 ### “Cloud Computing” {#cloud-computing .subheading}
 
@@ -198,7 +198,7 @@ can be free or nonfree, depending on its manner of distribution. The two
 questions—what sort of entity developed the program and what freedom its
 users have—are independent.
 
-一个程序称为商业软件，如果它是作为一种商业行为而被开发的。一个商业软件可以是自由或非自由的，取决于他的发布方式。类似地，由学校或个人开发的程序也可以是自由或非自由的，取决于它的发布方式。这两个问题——程序由何种实体开发，以及它的用户应当拥有什么自由——是不相关的。
+一个程序称为商业软件，如果它是作为一种商业行为而被开发的。一个商业软件可以是自由或非自由的，取决于它的发布方式。类似地，由学校或个人开发的程序也可以是自由或非自由的，取决于它的发布方式。这两个问题——程序由何种实体开发，以及它的用户应当拥有什么自由——是不相关的。
 
 In the first decade of the free software movement, free software
 packages were almost always noncommercial; the components of the
@@ -226,7 +226,7 @@ authors and (2) whenever we read something, we take on a debt to the
 author which we must then repay. The first assumption is simply
 false,[(11)](#FOOT11) and the second is outrageous.
 
-当与版权联系在一起的时候谈论“补偿作者”将会带来以下两种假设：（1）版权是以作者之名而存在的；以及（2）每当我们阅读任何东西的时候，我们已经欠下了作者一笔债务并且必须补偿这笔债务。第一个假设是错误的[(11)](#FOOT11)，而第二个假设是不可容忍的。
+当与版权联系在一起的时候谈论“补偿作者”将会带来以下两种假设：（1）版权是以作者之名而存在的；以及（2）每当我们阅读任何东西的时候，我们已经欠下了作者一笔债务并且必须补偿。第一个假设是错误的[(11)](#FOOT11)，而第二个假设是不可容忍的。
 
 “Compensating the rights-holders” adds a further swindle: you’re
 supposed to imagine that means paying the authors, and occasionally it
@@ -374,7 +374,7 @@ CC BY-SA and CC0) and the rest are nonfree. Thus, to describe a work as
 suggests that the question is not important. The statement may be
 accurate, but the omission is harmful.
 
-对于一篇作品的许可证，最重要的方面是它是否自由。创作共用发布了七种许可证；其中三种（CC BY、CC BY-SA 和 CC0）是自由的，而其他几种则是非自由的。因此，将一篇作品描述为“创作共用许可的”未能说明它是否是自由的，并且暗示这个问题并不重要。这一论述也许是准确的，但它对于自由的省略是有害的。
+对于一篇作品的许可证，最重要的方面是它是否自由。创作共用（CC）发布了七种许可证；其中三种（CC BY、CC BY-SA 和 CC0）是自由的，而其他几种则是非自由的。因此，将一篇作品描述为“创作共用许可的”未能说明它是否是自由的，并且暗示这个问题并不重要。这一论述也许是准确的，但它对于自由的省略是有害的。
 
 To encourage people to pay attention to the most important distinction,
 always specify *which* Creative Commons license is used, as in “licensed
