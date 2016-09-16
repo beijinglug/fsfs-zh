@@ -44,11 +44,6 @@
 
     同大多数硬件一样，背叛计算硬件也可以被用于非恶意用途，但这些功能也可由不带背叛计算的硬件以其他方式实现。基本的区别在于背叛计算对用户所做的是这样龌龊的事情：让您的计算机以对您不利的方式运行。
 
-    What they say is true, and what I say is true. Put them together and
-    what do you get? Treacherous computing is a plan to take away our
-    freedom, while offering minor benefits to distract us from what we
-    would lose.
-
     他们说的是事实，而我说的也是事实。将二者放在一起考虑将会得出什么结论？背叛计算是一套剥夺我们的自由的阴谋，它提供了一些小恩小惠以吸引我们的注意力，使我们忽视我们将会因此失去的更为重要的东西。
 
 4.  微软将 Palladium 作为一项安全措施推出，并宣称它将提供反病毒保护，但这是确凿的谎言。由微软研究院于 2002 年十月提供的一份演示文稿指出 Palladium 的特性之一现存的操作系统和应用程序仍然能够运行；因此，病毒自然可以继续做它们现在所能做的一切。
