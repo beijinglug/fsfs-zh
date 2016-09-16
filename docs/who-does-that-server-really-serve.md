@@ -42,7 +42,7 @@ features such as spyware, back doors, and Digital Restrictions
 Management (DRM) (referred to as “Digital Rights Management” in their
 propaganda).[(1)](#FOOT1) 
 
-数字技术可以赋予您自由，也可以剥夺您的自由。对于我们掌控我们自己的计算的首要威胁来自私有软件：私有软件是用户所不能控制的，由于它受其拥有者（例如苹果或微软这样的商业公司）控制。其拥有者通常利用这种不公的权力向其中植入恶意功能，诸如间谍软件、后门、数字版权管理（DRM，它们称之为 Digital Rights Management）[(1)](#FOOT1)。
+数字技术可以赋予您自由，也可以剥夺您的自由。对于我们掌控我们自己的计算的首要威胁来自私有软件：私有软件是用户所不能控制的，由于它受其拥有者（例如苹果或微软这样的商业公司）控制。其拥有者通常利用这种不公的权力向其中植入恶意功能，诸如间谍软件、后门、数字限制管理（DRM，它们将其鼓吹为数字版权管理）[(1)](#FOOT1)。
 
 @firstcopyingnotice{{@footnoterule @smallskip 如需获得关于此问题的更多信息，参见“The Bug Nobody Is Allowed to Understand,”一文，它位于 <http://gnu.org/philosophy/bug-nobody-allowed-to-understand.html>。
 
@@ -116,7 +116,7 @@ Media Player reports what each user watches or listens to. The Amazon
 Kindle reports which pages of which books the user looks at, and when.
 Angry Birds reports the user’s geolocation history.
 
-例如，一些私有软件是“间谍软件”：它们将会发送与用户的计算活动相关的数据[(2)](#FOOT2)。微软 Windows 向微软发送用户活动相关信息。微软 Windows 媒体播放器向微软汇报每位用户播放过的内容。亚马逊 Kindle 汇报用户于何时阅读哪本书的第几页。愤怒的小鸟将会汇报用户的地理位置历史记录。
+例如，一些私有软件是“间谍软件”：它们将会发送与用户的计算活动相关的数据[(2)](#FOOT2)。微软 Windows 向微软发送用户活动相关信息。微软 Windows 媒体播放器（Windows Media Player）向微软汇报每位用户播放过的内容。亚马逊 Kindle 汇报用户于何时阅读哪本书的第几页。愤怒的小鸟将会汇报用户的地理位置历史记录。
 
 Unlike proprietary software, SaaSS does not require covert code to
 obtain the user’s data. Instead, users must send their data to the
@@ -230,14 +230,14 @@ free.[(6)](#FOOT6) However, the idea of an “open software”
 service,[(7)](#FOOT7) meaning one whose server software is open source
 and/or free, fails to address the issue of SaaSS.
 
-这个问题解释了“开放”和“自由”之间有着多大程度的区别。“开源”概念中的源代码几乎都是自由的[(6)](#FOOT6)。但是“开源软件”服务[(7)](#FOOT7)的理念并不能解决 SaaSS 的问题，由于它只意味着这种服务所依赖的服务器软件是开源的，并且/或者是自由的。
+这个问题解释了“开源”和“自由”之间有着多大程度的区别。“开源”概念中的源代码几乎都是自由的[(6)](#FOOT6)。但是“开源软件”服务[(7)](#FOOT7)的理念并不能解决 SaaSS 的问题，由于它只意味着这种服务所依赖的服务器软件是开源的，并且/或者是自由的。
 
 Services are fundamentally different from programs, and the ethical
 issues that services raise are fundamentally different from the issues
 that programs raise. To avoid confusion, we avoid describing a service
 as “free” or “proprietary.”[(8)](#FOOT8)
 
-服务与软件有着本质区别，因而由服务引起的伦理问题与那些由软件引起的问题有着本质区别。为了避免这种混淆，我们避免讲一项服务描述为“自由”或“私有”的。
+服务与软件有着本质区别，因而由服务引起的伦理问题与那些由软件引起的问题有着本质区别。为了避免这种混淆，我们避免将一项服务描述为“自由”或“私有”的。
 
 ### Distinguishing SaaSS from Other Network Services {#distinguishing-saass-from-other-network-services .subheading}
 
@@ -252,7 +252,7 @@ translation service substitutes for that program, so it is Service as a
 Software Substitute, or SaaSS. Since it denies you control over your
 computing, it does you wrong.
 
-哪些在线服务是 SaaSS？最清楚的例子是翻译服务，例如将英文文版翻译为西班牙文。为您翻译一段文本是一种完全属于您自己的计算。您可以在您自己的计算机上运行软件进行翻译。（为了符合伦理，这款软件应该是自由的。）翻译服务替代了那款程序，因此它是一种服务作为软件替代品，即 SaaSS。由于它拒绝您对您的计算的控制权，它对您作了恶。
+哪些在线服务是 SaaSS？最清楚的例子是翻译服务，例如将英文文本翻译为西班牙文。为您翻译一段文本是一种完全属于您自己的计算。您可以在您自己的计算机上运行软件进行翻译。（为了符合伦理，这款软件应该是自由的。）翻译服务替代了那款程序，因此它是一种服务作为软件替代品，即 SaaSS。由于它拒绝您对您的计算的控制权，它对您作了恶。
 
 Another clear example is using a service such as Flickr or Instagram to
 modify a photo. Modifying photos is an activity that people have done in
