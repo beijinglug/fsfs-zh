@@ -63,7 +63,7 @@ release it. The C++ front end included many new files, but since they
 were meant to be linked with GCC, the GPL did apply to them. The benefit
 to our community is evident.
 
-就拿 GNU C++ 来说吧。为什么我们会有一个自由的 C++ 编译器呢？仅仅因为 GUN GPL 规定它必须是自由的。GNU C++ 是由起源于 GNU C 编译器的一个工业协会 MCC 开发的。MCC 通常尽可能使它的作品专有化。但是他们让 C++ 自始至终是自由软件，因为 GNU GPL 规定这是发布它的唯一方式。C++ 前端引入了很多新的文件，但是这意为着他们能用 GCC 链接，GPL 是允许这样做的。并且这样做对我们社区的益处是显而易见的。
+就拿 GNU C++ 来说吧。为什么我们会有一个自由的 C++ 编译器呢？仅仅因为 GNU GPL 规定它必须是自由的。GNU C++ 是由起源于 GNU C 编译器的一个工业协会 MCC 开发的。MCC 通常尽可能使它的作品专有化。但是他们让 C++ 自始至终是自由软件，因为 GNU GPL 规定这是发布它的唯一方式。C++ 前端引入了很多新的文件，但是因为它们要链接到 GCC 上，所以 GPL 能约束它们。并且这样做对我们社区的益处是显而易见的。
 
 Consider GNU Objective C. NeXT initially wanted to make this front end
 proprietary; they proposed to release it as ‘`.o`’ files, and let users
@@ -72,12 +72,12 @@ GPL’s requirements. But our lawyer said that this would not evade the
 requirements, that it was not allowed. And so they made the Objective C
 front end free software.
 
-再说说 GNU Object C。NeXT 公司最初想把这个前端变成专有的；他们打算以 `.o` 文件的形式发布，并让用户使用 GCC 的其余部分来链接他们，想这样能绕过 GPL 的要求。但是我们的律师说这不能躲过这些要求，那是被禁止的。所以他们使 Objective C 前端称为自由软件。
+再说说 GNU Object C。NeXT 公司最初想把这个前端变成专有的；他们打算以 `.o` 文件的形式发布，并让用户使用 GCC 的其余部分来链接他们，想这样能绕过 GPL 的要求。但是我们的律师说这不能躲过这些要求，那是被禁止的。所以他们使 Objective C 前端成为自由软件。
 
 Those examples happened years ago, but the GNU GPL continues to bring us
 more free software.
 
-这些例子发生在好多年前，但是 GNU GPL 依旧带给我们更多的自由软件。
+这些例子发生在好多年前，但是 GNU GPL 持续带给我们更多的自由软件。
 
 Many GNU libraries are covered by the GNU Lesser General Public License,
 but not all. One GNU library which is covered by the ordinary GNU GPL is
@@ -87,7 +87,7 @@ developer this was not allowed. He could have taken command-line editing
 out of the program, but what he actually did was rerelease it under the
 GPL. Now it is free software.
 
-许多 GNU 库遵循 GNU 宽通用公共许可证（GNU Lesser General Public License），但不全是，一个普通 GNU GPL 许可证保护的 GNU 库就是实现了命令行编辑的 Readline。我曾经发现一个非自由程序使用 Readline，并告诉程序开发者这是不被允许的。他本可以从程序中移除命令行编辑的功能，但他实际所做的是让这个程序基于 GNU GPL 许可证重新发布。现在这个程序是自由软件了。
+许多 GNU 库遵循 GNU 宽通用公共许可证（GNU Lesser General Public License），但不全是，一个普通 GNU GPL 许可证保护的 GNU 库就是实现了命令行编辑的 Readline。我曾经发现一个非自由程序被设计为使用 Readline，并告诉程序开发者这是不被允许的。他本可以从程序中移除命令行编辑的功能，但他实际所做的是让这个程序基于 GNU GPL 许可证重新发布。现在这个程序是自由软件了。
 
 The programmers who write improvements to GCC (or Emacs, or Bash, or
 Linux, or any GPL-covered program) are often employed by companies or
@@ -105,7 +105,7 @@ the boss realizes that he has only two choices: release the new code as
 free software, or not at all. Almost always he lets the programmer do as
 he intended all along, and the code goes into the next release.
 
-这时候 GNU GPL 就会出来拯救你的成果了。程序员告诉老板这样的专有软件产品是侵权的，从而老板会意识到他只有两种选择：把这些新代码以自由软件来发布，或者什么都不做。老板几乎总是会让程序员按照他一直预料的那样做，把这些代码加到下一个发布版。
+这时候 GNU GPL 就会出来拯救你的成果了。程序员告诉老板这样的专有软件产品是侵犯版权的，从而老板会意识到他只有两种选择：把这些新代码以自由软件来发布，或者什么都不做。老板几乎总是会让程序员按照他一直预料的那样做，把这些代码加到下一个发布版。
 
 The GNU GPL is not Mr. Nice Guy. It says no to some of the things that
 people sometimes want to do. There are users who say that this is a bad
