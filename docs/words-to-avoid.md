@@ -257,7 +257,7 @@ software developers (and other publishers) dearly wish to encourage.
 Their twisted viewpoint comes through clearly in a Business Insider
 article,[(12)](#FOOT12) which also refers to publications as “content.”
 
-“消费”一词是与不可复制的实物产品的经济层面相关联的，而引导人们在毫无察觉的情况下将这一结论套用到可复制的数字作品上——这种错误正是私有软件开发者（以及其他出版商）所热切希望并且积极推动的。它们的这种扭曲的观点在一篇 Business Insider 文章中暴露无遗。[(12)](#FOOT12)这篇文章还将出版的作品称为“内容”。
+“消费”一词是与不可复制的实物产品的经济层面相关联的，而引导人们在毫无察觉的情况下将这一结论套用到可复制的数字作品上——这种错误正是私有软件开发者（以及其他出版商）所热切希望并且积极推动的。他们的这种扭曲的观点在一篇 Business Insider 文章中暴露无遗。[(12)](#FOOT12)这篇文章还将出版的作品称为“内容”。
 
 The narrow thinking associated with the idea that we “consume content”
 paves the way for laws such as the DMCA that forbid users to break the
@@ -967,7 +967,7 @@ its meaning, so we don’t use it in this context.
 A more suitable term for businesses like Uber is the “piecework service
 economy.”
 
-用于描述诸如 Uber 的业务的更好的短语是“计件工作服务经济”（pieceword service economy）。
+用于描述诸如 Uber 的业务的更好的短语是“计件工作服务经济”（piecework service economy）。
 
 ### “Skype” {#skype .subheading}
 
@@ -994,7 +994,7 @@ Software businesses exist, and various businesses develop free and/or
 nonfree software, but those that develop free software are not run like
 factories.
 
-“软件工业”一词鼓励人们想象软件总是由某种工厂开发并且送达“消费者”手中的。自由软件社区已经证实了事情并非如此。软件企业确实才能在，并且不同的企业开发自由和/或私有软件，但那些开发自由软件的企业并不是像工厂那样运营的。
+“软件工业”一词鼓励人们想象软件总是由某种工厂开发并且送达“消费者”手中的。自由软件社区已经证实了事情并非如此。软件企业确实存在，并且不同的企业开发自由和/或私有软件，但那些开发自由软件的企业并不是像工厂那样运营的。
 
 The term “industry” is being used as propaganda by advocates of software
 patents. They call software development “industry” and then try to argue
