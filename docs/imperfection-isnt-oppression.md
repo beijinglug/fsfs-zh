@@ -56,7 +56,7 @@ can undo the injustice as long as the developer continues to do it. We
 can, and do, try to rescue the victims by developing a free replacement,
 but we can’t make the nonfree program free.
 
-使一款软件成为非自由的是由拒绝用户自由的开发者做出的不公行为。这样的开发者应该因此而收到谴责。谴责这样的开发者是重要的，因为没有其他人能够解除这种不公，只要开发者持续如此做。我们可以，并且确实在试图通过开发自由的替代品来挽救私有软件的受害者。但我们不能使那些私有软件变成自由的。
+使一款软件成为非自由的是由拒绝用户自由的开发者做出的不公行为。这样的开发者应该因此而受到谴责。谴责这样的开发者是重要的，因为没有其他人能够解除这种不公，只要开发者持续如此做。我们可以，并且确实在试图通过开发自由的替代品来挽救私有软件的受害者。但我们不能使那些私有软件变成自由的。
 
 Developing a free program without adding a certain important feature is
 not doing wrong to anyone. Rather, it’s doing some good but not all the
