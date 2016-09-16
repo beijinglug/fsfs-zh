@@ -1,261 +1,68 @@
----
-Generator: 'texi2html 1.82'
-description: Untitled Document
-distribution: global
-keywords: Untitled Document
-resource-type: document
-title: Untitled Document
-...
+## 民主可以承受多少监控？
 
-1. How Much Surveillance Can Democracy Withstand? {#how-much-surveillance-can-democracy-withstand .chapter}
-=================================================
+> 著作权所有 (C) 2015 Richard Stallman 本文最初以相同的标题发表于《连线》杂志（Wired, 2013年10月14）<http://www.wired.com/opinion/2013/10/a-necessary-evil-what-it-takes-for-democracy-to-survive-surveillance>
 
-民主可以承受多少监控？
-======================
+多亏了爱德华•斯诺登的揭露，我们才知道当今社会中的普遍监控级别已经与人权不相容。在美国和世界其他地区持续发生的针对持不同政见者、信息来源和新闻工作者的骚扰和指控确认了这一点。我们需要适当降低普遍监控的级别，但是到底应当在多大程度上？我们所必须保证其不被超越的，可接受的*最大监控级别*到底是多少？这种监控级别应当这样定义：一旦超过了这样的级别，监控行为将会干涉民主的运行。此时揭露者（例如斯诺登）很可能因此而被逮捕。
 
-Thanks to Edward Snowden’s disclosures, we know that the current level
-of general surveillance in society is incompatible with human rights.
-The repeated harassment and prosecution of dissidents, sources, and
-journalists in the US and elsewhere provides confirmation. We need to
-reduce the level of general surveillance, but how far? Where exactly is
-the *maximum tolerable level of surveillance,* which we must ensure is
-not exceeded? It is the level beyond which surveillance starts to
-interfere with the functioning of democracy, in that whistleblowers
-(such as Snowden) are likely to be caught.
+面对政府的保密政策，我们作为人民只能依靠揭露者告知国家正在做什么[^1]。然而，当今的监控对潜在的揭露者进行了威迫，也就是说监控程度过高。为了重获我们对于国家民主的控制，我们必须设法降低监控级别使得揭露者能够确信他们是安全的。
 
-多亏了爱德华•斯诺登的揭露，我们才知道当今社会中的普遍监控级别已经与人权不相容。在美国和世界其他地区持续发生的针对持不同政见者、信息来源和新闻工作者的骚扰和指控确认了这一点。我们需要适当降低普遍监控的级别，但是到底应当在多大程度上？我们所必须保证其不被超越的，可接受的最大监控级别到底是多少？这种监控级别应当这样定义：一旦超过了这样的级别，监控行为将会干涉民主的运行。此时揭露者（例如斯诺登）很可能因此而被逮捕。
+如同我们已经倡导了 30 多年的，使用自由软件是掌控我们自己的数字生活的第一步。这也包括了避免被监控。我们不可能信任任何私有软件；由于美国国家安全局（NSA）通过利用[^2]甚至还有制造[^3]私有软件中的安全漏洞来入侵我们自己的计算机和路由器。自由软件赋予了我们控制自己计算机的权利，但仅凭这一点并不足以在我们涉足互联网的时候保护我们的隐私[^4]。
 
-Faced with government secrecy, we the people depend on whistleblowers to
-tell us what the state is doing.[(1)](#FOOT1) However, today’s
-surveillance intimidates potential whistleblowers, which means it is too
-much. To recover our democratic control over the state, we must reduce
-surveillance to the point where whistleblowers know they are safe.
-
-面对政府的保密政策，我们作为人民只能依靠揭露者告知国家正在做什么[(1)](#FOOT1)。然而，当今的监控对潜在的揭露者进行了威迫，也就是说监控程度过高。为了重获我们对于国家的民主控制，我们必须设法降低监控级别使得揭露者能够确信他们是安全的。
-
-Using free/libre software, as I’ve advocated for 30 years, is the first
-step in taking control of our digital lives, and that includes
-preventing surveillance. We can’t trust nonfree software; the NSA
-uses[(2)](#FOOT2) and even creates[(3)](#FOOT3) security weaknesses in
-nonfree software to invade our own computers and routers. Free software
-gives us control of our own computers, but that won’t protect our
-privacy once we set foot on the internet.[(4)](#FOOT4)
-
-如同我们所倡导了 30 多年的，使用自由软件是掌控我们自己的数字生活的第一步。这也包括了避免被监控。我们不可能信任任何私有软件；由于美国国家安全局（NSA）通过利用[(2)](#FOOT2)甚至还有制造[(3)](#FOOT3)私有软件中的安全漏洞用于入侵我们自己的计算机和路由器。自由软件赋予了我们控制自己的计算机的权利，但仅凭这一点并不足以在我们涉足互联网的时候保护我们的隐私[(4)](#FOOT4)。
-
-@firstcopyingnotice{{@footnoterule @smallskip 著作权所有 (C) 2015 Richard Stallman {本文的一个版本最初以相同的标题发表于 [Wired](Wired) (Wired, 14 October 2013, <http://www.wired.com/opinion/2013/10/a-necessary-evil-what-it-takes-for-democracy-to-survive-surveillance>)。此版本是 @fsfsthreecite 的一部分。}
-
-Bipartisan legislation to “curtail the domestic surveillance
-powers”[(5)](#FOOT5) in the US is being drawn up, but it relies on
-limiting the government’s use of our virtual dossiers. That won’t
-suffice to protect whistleblowers if “catching the whistleblower” is
-grounds for access sufficient to identify him or her. We need to go
-further.
-
-美国国内“限制国内监控权力”[(5)](#FOOT5)的两党立法已经被提出，但它依赖于限制政府对我们的虚拟档案的使用。这不足以保护揭露者，如果“逮捕揭露者”是获取足够信息以确认此人身份的基础。
-
-### The Upper Limit on Surveillance in a Democracy {#the-upper-limit-on-surveillance-in-a-democracy .subheading}
+美国国内“限制国内监控权力”[^5]的两党立法已经被提出，但它依赖于限制政府对我们的虚拟档案的使用。如果能通过“逮捕揭露者”来获取足够信息以确认此人身份，这样是不会保护揭露者的。我们需要做的更多。
 
 ### 民主社会中的监控程度上限
 
-If whistleblowers don’t dare reveal crimes and lies, we lose the last
-shred of effective control over our government and institutions. That’s
-why surveillance that enables the state to find out who has talked with
-a reporter is too much surveillance—too much for democracy to endure.
+如果揭露者不敢揭发罪行和谎言，我们将会失去对政府和制度仅存的有效控制。这可以解释为何那种使得国家可以知道是谁同记者进行交谈的监控行为是过分的——超出了民主所能承受的范围。
 
-如果揭露者不敢揭发罪行和谎言，我们将会失去对我们的政府和制度的仅存的有效控制。这可以解释为何那种使得国家可以知道谁同记者进行交谈的监控行为是过分的——超出了民主所能承受的范围。
+在 2011 年，一位匿名的美国政府官员不怀好意地告诉新闻工作者：美国政府并不会因为“我们知道你同谁交谈”为理由，而不传唤记者[^6]。有时，记者的通话记录将会被传唤以获知这个问题的答案[^7]。但是，斯诺登已经向我们展示了，它们实际上将会在任何时刻传唤美国境内的任何人的所有通话记录，通过 Verizon [^8]或其他通讯公司[^9]。
 
-An unnamed US government official ominously told journalists in 2011
-that the US would not subpoena reporters because “We know who you’re
-talking to.”[(6)](#FOOT6) Sometimes journalists’ phone call records are
-subpoenaed[(7)](#FOOT7) to find this out, but Snowden has shown us that
-in effect they subpoena all the phone call records of everyone in the
-US, all the time, from Verizon[(8)](#FOOT8) and from other companies
-too.[(9)](#FOOT9)\
-
-在 2011 年，一位匿名的美国政府官员不怀好意地告诉新闻工作者：美国政府在传唤记者时，并不会以“我们知道你同谁交谈”作为理由[(6)](#FOOT6)。有时，记者的通话记录将会被传唤以获知这个问题的答案[(7)](#FOOT7)。但是，斯诺登已经向我们展示，它们实际上将会在任何时刻传唤美国境内的任何人的所有通话记录，通过 Verizon [(8)](#FOOT8)或其他通讯公司[(9)](#FOOT9)。
-
-Opposition and dissident activities need to keep secrets from states
-that are willing to play dirty tricks on them. The ACLU has demonstrated
-the US government’s systematic practice of infiltrating peaceful
-dissident groups[(10)](#FOOT10) on the pretext that there might be
-terrorists among them. The point at which surveillance is too much is
-the point at which the state can find who spoke to a known journalist or
-a known dissident.
-
-反对者和持不同政见者的活动需要对国家保密，由于国家将会主动对他们施展阴谋诡计。美国公民自由联盟（ACLU）已经指出美国政府对和平的持不同政见者和组织所进行的系统性渗透行为，理由是他们当中可能潜伏着恐怖分子[(10)](#FOOT10)。
-
-### Information, Once Collected, Will Be Misused {#information-once-collected-will-be-misused .subheading}
+反对者和持不同政见者的活动需要对国家保密，由于国家将会主动对他们施展阴谋诡计。美国公民自由联盟（ACLU）已经指出美国政府对和平的持不同政见者和组织所进行的系统性渗透行为，理由是他们当中可能潜伏着恐怖分子[^10]。
 
 ### 信息，一旦被采集，将会被滥用
 
-When people recognize that the level of general surveillance is too
-high, the first response is to propose limits on access to the
-accumulated data. That sounds nice, but it won’t fix the problem, not
-even slightly, even supposing that the government obeys the rules. (The
-NSA has misled the FISA court, which said it was unable to effectively
-hold the NSA accountable.)[(11)](#FOOT11) Suspicion of a crime will be
-grounds for access, so once a whistleblower is accused of “espionage,”
-finding the “spy” will provide an excuse to access the accumulated
-material.
+当人们认识到普遍监控的级别过高的时候，他们的第一反应可能会是提议限制对采集到的数据的访问。这听起来很好，但这甚至丝毫不能解决问题，即使假定政府遵守这条规则。（美国国家安全局（NSA）曾经欺骗美国外国情报监控法庭（FISA），后者声称它不能有效地证实 NSA 有义务对其监控行为作出说明[^11]。犯罪的嫌疑将成为访问这些数据的理由，于是，一旦揭露者被指控从事间谍活动，试图找到这个间谍将会为访问所采集到的数据提供理由。
 
-当人们认识到普遍监控的级别过高的时候，他们的第一反应可能会是提议限制对所采集到的数据的访问。这听起来很好，但这甚至丝毫不能解决问题，即使假定政府遵守这条规则。（美国国家安全局（NSA）曾经欺骗美国外国情报监控法庭（FISA），后者声称它不能有效地证实 NSA 对其监控行为有说明的义务。[(11)](#FOOT11)）犯罪的嫌疑将成为访问这些数据的理由，于是，一旦揭露者被指控从事间谍活动，试图找到这个间谍将会为访问所采集到的数据提供理由。
+此外，国家监控系统的工作人员会出于个人原因滥用数据。一些 NSA 特工使用美国国家监控系统来跟踪他们的情人——不论是过去的、现在的还是正在追求的——并将这种做法称为 LOVEINT[^12]。NSA 宣称它已经发现了几次这样的行为并对其进行了处罚；但是我们不知道还有多少次这样的行为没有抓到。然而，这些事件并不会让我们感到惊讶，由于警方已经长期利用他们可访问的驾照记录以跟踪那些迷倒了他们的对象。这种行为称之为“查询车牌获得约会”[^13]（running a plate for a date）。
 
-In addition, the state’s surveillance staff will misuse the data for
-personal reasons. Some NSA agents used US surveillance systems to track
-their lovers—past, present, or wished-for—in a practice called
-“LOVEINT.”[(12)](#FOOT12) The NSA says it has caught and punished this a
-few times; we don’t know how many other times it wasn’t caught. But
-these events shouldn’t surprise us, because police have long used their
-access to driver’s license records to track down someone attractive, a
-practice known as “running a plate for a date.”[(13)](#FOOT13)
+监控数据总会被用于其他目的，即使这是被禁止的。只要数据被采集，国家就有可能访问它们。国家可以用极坏的方式滥用这些数据，发生在欧洲[^14]和美国[^15]的一些例子证实了这一点。
 
-此外，国家监控系统的工作人员将会出于个人原因滥用数据。一些 NSA 间谍使用美国国家监控系统来跟踪他们的情人——不论是过去的、现在的还是正在追求的——并称此行为为 LOVEINT [(12)](#FOOT12)。NSA 宣称它已经发现了几次这样的行为并对其进行了处罚；但是我们不知道还有多少次这样的行为未被抓到。然而，这些事件并不会让我们感到惊讶，由于警方已经长期利用他们可访问的驾照记录以跟踪那些迷倒了他们的对象。这种行为称之为“查询车牌获得约会”[(13)](#FOOT13)。
+国家所采集的个人信息同样可能由于服务器的安全措施被攻陷而被境外破解者获得，甚至是被那些效力于敌对国家的破解者获得[^16]。
 
-Surveillance data will always be used for other purposes, even if this
-is prohibited. Once the data has been accumulated and the state has the
-possibility of access to it, it can misuse that data in dreadful ways,
-as shown by examples from Europe[(14)](#FOOT14) and the
-US.[(15)](#FOOT15)
-
-监控数据总是会被用于其他目的，即使这是被禁止的。只要数据被采集，国家就有可能访问它们。国家可以以极坏的方式滥用这些数据，发生在欧洲[(14)](#FOOT14)和美国[(15)](#FOOT15)的一些例子证实了这一点。
-
-Personal data collected by the state is also likely to be obtained by
-outside crackers that break the security of the servers, even by
-crackers working for hostile states.[(16)](#FOOT16)
-
-国家所采集的个人信息同样可能由于服务器的安全措施被攻陷而被境外破解者获得，甚至是被那些效力于敌对国家的破解者获得[(16)](#FOOT16)。
-
-Governments can easily use massive surveillance capability to subvert
-democracy directly.[(17)](#FOOT17)
-
-政府可以轻松地利用大规模监控能力直接颠覆民主[(17)](#FOOT17)。
-
-Total surveillance accessible to the state enables the state to launch a
-massive fishing expedition against any person. To make journalism and
-democracy safe, we must limit the accumulation of data that is easily
-accessible to the state.
+政府可以轻松地利用大规模监控能力直接颠覆民主制度[^17]。
 
 国家对监控数据的完全访问权力使得国家可能对任何人发动大规模的彻底搜查。为了保护新闻业和民主的安全，我们必须限制对信息的采集，而这些信息是国家可以轻松访问的。
 
-### Robust Protection for Privacy Must Be Technical {#robust-protection-for-privacy-must-be-technical .subheading}
-
 ### 对隐私的有效保护必须是技术层面的
 
-The Electronic Frontier Foundation and other organizations propose a set
-of legal principles designed to prevent the abuses of massive
-surveillance.[(18)](#FOOT18) These principles include, crucially,
-explicit legal protection for whistleblowers; as a consequence, they
-would be adequate for protecting democratic freedoms—if adopted
-completely and enforced without exception forever.
+电子前哨基金会（EFF）和一些其他组织提出了一系列法律准则以期阻止滥用大规模监控[^18]。这些关键性准则包括了对揭露者明确的法律保护。其结果是这些准则将足以保护民主自由——如果它们能够永久地得到完全采纳，并且被没有例外地严格强制执行。
 
-电子前哨基金会（EFF）和一些其他组织提出了一系列法律准则以期阻止大规模的监控滥用[(18)](#FOOT18)。这些准则关键性地包括了对揭露者的明确的法律保护。其结果是这些准则将足以保护民主自由——如果它们能够永久地得到完全采纳，并且被没有例外地严格强制执行。
-
-However, such legal protections are precarious: as recent history shows,
-they can be repealed (as in the FISA Amendments Act), suspended, or
-ignored.[(19)](#FOOT19)
-
-然而，这样的法律保护是不牢靠的：如同最近多年的历史事实所展示的，它们可以被废除（如同在美国外国情报监控法案（FISA）修正案中）、被架空或者被无视[(19)](#FOOT19)。
-
-Meanwhile, demagogues will cite the usual excuses as grounds for total
-surveillance; any terrorist attack, even one that kills just a handful
-of people, can be hyped to provide an opportunity.
+然而，这样的法律保护是不牢靠的：如同最近多年的历史事实所展示的，它们可以被废除（如同在美国外国情报监控法案 FISA 修正案中）、被架空或者被无视[^19]。
 
 同时，一些蛊惑民心的政客将会援引常见的理由作为支持完全监控的基础；任何恐怖袭击，即使只是造成了极少的人员伤亡，也可以被夸大作为证据以支持上述理由。
 
-If limits on access to the data are set aside, it will be as if they had
-never existed: years’ worth of dossiers would suddenly become available
-for misuse by the state and its agents and, if collected by companies,
-for their private misuse as well. If, however, we stop the collection of
-dossiers on everyone, those dossiers won’t exist, and there will be no
-way to compile them retroactively. A new illiberal regime would have to
-implement surveillance afresh, and it would only collect data starting
-at that date. As for suspending or momentarily ignoring this law, the
-idea would hardly make sense.
-
-如果对数据访问的限制被搁置一旁，它就如同从未存在过一般：多年来的有价值的档案将会立即可被国家和它的间谍所滥用。如果这些档案被商业公司获得，也会被这些商业公司出于其私有目的而被滥用。然而，如果我们能够阻止对每个人的档案的采集，这些档案将不复存在，并且国家不能反动地对它们进行编译。一种新的不允许言论或行动自由的政体将会不得不从头实施监控，并且它自成立之初只会采集新的数据。至于架空或者立即无视这条法律，这种想法几乎没有任何意义。
-
-### First, Don’t Be Foolish {#first-dont-be-foolish .subheading}
+如果对数据访问的限制被搁置一旁，就如同这些限制从未存在过一般：多年来的有价值的档案将会立即可被国家和它的特工所滥用。如果这些档案被商业公司获得，也会被这些商业公司出于其私有目的而被滥用。然而，如果我们能够阻止对个人档案的采集，这些档案将不复存在，并且国家不能回溯性的编译这些档案。新的反自由的政体将会不得不从头实施监控，并且它自成立之初只会采集新的数据。即便架空或者立即无视这条法律，那么这样也几乎没有任何意义。
 
 ### 最重要的是，不要犯傻
 
-To have privacy, you must not throw it away: the first one who has to
-protect your privacy is you. Avoid identifying yourself to web sites,
-contact them with Tor, and use browsers that block the schemes they use
-to track visitors. Use the GNU Privacy Guard to encrypt the contents of
-your email. Pay for things with cash.
-
-如果您想要拥有隐私，您一定不要主动将其放弃：有义务保护您的隐私的最重要的人就是您自己！您必须避免向网站暴露自己的身份，您可以使用 Tor 同它们联络，或者使用那些能够阻止网站用于跟踪访问者的阴谋诡计的浏览器。您可以使用 GNU 隐私卫士（GNU PG）加密您的邮件内容。您可以使用现金支付任何费用。
-
-Keep your own data; don’t store your data in a company’s “convenient”
-server. It’s safe, however, to entrust a data backup to a commercial
-service, provided you put the files in an archive and encrypt the whole
-archive, including the names of the files, with free software on your
-own computer before uploading it.
+如果您想要拥有隐私，您一定不要主动将其放弃：有义务保护您的隐私的最重要的人就是您自己！您必须避免向网站暴露自己的身份，您可以使用 Tor 同它们联络，或者使用那些能够阻止网站用于跟踪访问者的阴谋诡计的浏览器。您可以使用 GNU 隐私卫士（GnuPG）加密您的邮件内容。您可以使用现金支付任何费用。
 
 保护您自己的数据；不要将您的数据储存在某家商业公司的“简便易用”的服务器上。然而，在下面这种情况下，将数据存储在商业服务之上是安全的：只要您将文件置于归档文件中，并且加密整个归档文件，包括文件名。务必使用自由软件在您自己的计算机上进行操作，然后再上传。
 
-For privacy’s sake, you must avoid nonfree software since, as a
-consequence of giving others control of your computing, it is likely to
-spy on you.[(20)](#FOOT20) Avoid service as a software
-substitute;[(21)](#FOOT21) as well as giving others control of your
-computing, it requires you to hand over all the pertinent data to the
-server.
+出于隐私考虑，您必须避免使用私有软件，这是由于私有软件赋予他人控制您计算机使用的权力，它们很可能在监控您[^20]。您还应该拒绝使用“服务作为软件替代品”（SaaSS）[^21]，同样由于这赋予了他人控制您的计算机使用的权力，它要求您将全部相关数据提交到它们的服务器。
 
-出于隐私考虑，您必须避免使用私有软件，这是由于私有软件赋予他人控制您的计算机使用的权力，它们很可能在监控您[(20)](#FOOT20)。您还应该拒绝使用“软件即服务”（SaaSS）[(21)](#FOOT21)，同样由于这赋予了他人控制您的计算机使用的权力，它要求您将全部相关数据提交到它们的服务器。
+您也需要保护您的朋友或熟人的隐私。除了联系方式以外，不要泄露他们的任何个人信息[^22]。并且不要向任何网站泄露您邮件的列表或者电话联系人。不要将您朋友的任何信息告诉诸如 Facebook 这样的公司，因为您的朋友也许并不想在报纸上公布他们的名字。如果可能，根本不要被 Facebook 所利用。拒绝使用任何要求用户提供真实姓名的通讯系统，即使您愿意供出您的名字，由于这些通讯系统会向他人施压以迫使他们交出隐私。
 
-Protect your friends’ and acquaintances’ privacy, too. Don’t give out
-their personal information[(22)](#FOOT22) except how to contact them,
-and never give any web site your list of email or phone contacts. Don’t
-tell a company such as Facebook anything about your friends that they
-might not wish to publish in a newspaper. Better yet, don’t be used by
-Facebook at all. Reject communication systems that require users to give
-their real names, even if you are going to give yours, since they
-pressure other people to surrender their privacy.
+自我保护是至关重要的，但即使是最严密的自我保护也不足以保护您的隐私免于被不属于您的系统所泄露。当我们与他人通讯或者在城市内出行的时候，我们的隐私取决于社会的实践。我们可以避开一些但不是全部的可以监控我们的通讯或行踪的系统。显然，更佳的解决方案是让所有这些系统停止监控，而非使嫌疑对象合法。
 
-您也需要保护您的朋友或熟人的隐私。除了联系方式以外，不要泄露他们的任何个人信息[(22)](#FOOT22)。并且不要向任何网站泄露您的邮件列表或者电话联系人。不要将您的朋友的任何信息告诉诸如 Facebook 这样的公司，因为您的朋友也许并不想在报纸上公布他们的名字。如果可能，根本不要被 Facebook 所利用。拒绝使用任何要求用户提供真实姓名的通讯系统，即使您愿意供出您的名字，由于这些通讯系统向他人施压以迫使他们交出隐私。
+### 我们需要基于隐私原因设计每一个系统
 
-Self-protection is essential, but even the most rigorous self-protection
-is insufficient to protect your privacy on or from systems that don’t
-belong to you. When we communicate with others or move around the city,
-our privacy depends on the practices of society. We can avoid some of
-the systems that surveil our communications and movements, but not all
-of them. Clearly, the better solution is to make all these systems stop
-surveilling people other than legitimate suspects.
+如果我们不想要一个全面监控的社会，我们必须将监控视为一种社会污染，并且限制监控对每一个新系统的影响，如同我们要限制工程建设对环境的影响。
 
-自我保护是至关重要的，但即使是最严密的自我保护也不足以保护您的隐私免于被不属于您的系统所泄露。当我们与他人通讯或者在城市内出行的时候，我们的隐私取决于社会的实践。我们可以避开一些但不是全部的可以监控我们的通讯或行踪的系统。显然，更佳的解决方案是使得所有这些系统停止监控人们，而非使嫌疑对象合法。
-
-### We Must Design Every System for Privacy {#we-must-design-every-system-for-privacy .subheading}
-
-### 我们必须为了隐私而去设计各种系统
-
-If we don’t want a total surveillance society, we must consider
-surveillance a kind of social pollution, and limit the surveillance
-impact of each new digital system just as we limit the environmental
-impact of physical construction.
-
-如果我们不想要一个全面监控的社会，我们必须将监控视为一种社会污染，并且限制每一个新的数字系统的监控影响，如同我们限制实体建设的环境影响。
-
-For example: “smart” meters for electricity are touted for sending the
-power company moment-by-moment data about each customer’s electric
-usage, including how usage compares with users in general. This is
-implemented based on general surveillance, but does not require any
-surveillance. It would be easy for the power company to calculate the
-average usage in a residential neighborhood by dividing the total usage
-by the number of subscribers, and send that to the meters. Each
-customer’s meter could compare her usage, over any desired period of
-time, with the average usage pattern for that period. The same benefit,
-with no surveillance!
-
-例如，智能电表宣称它能够向电力公司持续发送每位用户的电力消耗，包括与普通用户相比较的情况。这种统计是基于普遍监控而实现的，但实际上却又不需要任何监控行为。电力公司可以容易地计算出某一居住区的平均电力消耗，通过将总消耗除以购电者的数量，并且将这个平均值发送至电表。每个用户的电表可以将本人的电力使用情况同任何时期的平均电力使用相比较，这样就可以不用监控而实现所有好处。
-
-We need to design such privacy into all our digital systems.
+例如，“智能”电表宣称它能够向电力公司持续发送每位用户的电力消耗，包括与普通用户相比较的情况。这种统计是基于普遍监控而实现的，但实际上却又不需要任何监控行为。电力公司可以容易地计算出某一居住区的平均电力消耗，通过将总消耗除以购电者的数量，并且将这个平均值发送至电表。每个用户的电表可以将本人的电力使用情况同任何时期的平均电力使用相比较，这样就可以不用监控而实现所有好处！
 
 我们需要将这样的隐私设计融入我们所有的数字系统。
 
-### Remedy for Collecting Data: Leaving It Dispersed {#remedy-for-collecting-data-leaving-it-dispersed .subheading}
-
-### 针对数据采集的补救：让数据分散开来
+### 对数据采集的补救：让数据分散化
 
 One way to make monitoring safe for privacy is to keep the data
 dispersed and inconvenient to access. Old-fashioned security cameras
