@@ -33,7 +33,7 @@ program, we call it a “nonfree” or “proprietary” program. The nonfree
 program controls the users, and the developer controls the program; this
 makes the program an instrument of unjust power.[(1)](#FOOT1)
 
-我们争取这些自由，盖因为每个人都应该关注这些。有了这些自由，用户（包括个体和自由）就可以控制程序为己所用。当用户无法控制程序时，我们称之为“非自由”（Nonfree）或“专有”程序。非自由的程序控制了用户，而开发者控制着程序：这就让程序成为了非正义权力的帮凶[^1]。
+我们争取这些自由，盖因为每个人都应该拥有这些。有了这些自由，用户（包括个体和团体）就可以控制程序为己所用。当用户无法控制程序时，我们称之为“非自由”（Nonfree）或“专有”程序。非自由的程序控制了用户，而开发者控制着程序：这就让程序成为了非正义权力的帮凶[^1]。
 
 >>> Copyright © 1996–2002,
 2004–2007, 2009–2015 Free Software Foundation, Inc.
@@ -73,7 +73,7 @@ freedoms. Otherwise, it is nonfree. While we can distinguish various
 nonfree distribution schemes in terms of how far they fall short of
 being free, we consider them all equally unethical.
 
-一个自由软件可以充分授予用户所有这些自由，否则就是非自由软件。即使我们可以分清不同非自由发行方式与自由的差异，我们依然认为这些非自由软件是不道德的。
+如果一个软件可以充分授予用户所有这些自由，它就是自由软件，否则就是非自由软件。即使我们可以分清不同非自由发行方式和它们与自由有多大的差异，我们依然认为这些非自由软件是不道德的。
 
 In any given scenario, these freedoms must apply to whatever code we
 plan to make use of, or lead others to make use of. For instance,
@@ -83,7 +83,7 @@ will need B, so we need to judge whether both A and B are free. However,
 if we plan to modify A so that it doesn’t use B, only A needs to be
 free; we can ignore B.
 
-任何情况下，这些自由都必须符合我们计划使用的任何代码，或引导其他人使用之。例如，程序 A 会自动启动程序 B 来处理一些事情，如果我们独立发布 A 也意味着用户还需要 B，因此我们则需要判断 A 和 B 是否都是自由的。如果我们修改了 A 使得它不再需要 B，那么只需要 A 是自由的，可以忽略 B。
+任何情况下，这些自由都必须应用于我们计划使用的任何代码，或引导其他人使用之。例如，程序 A 会自动启动程序 B 来处理一些事情，如果我们独立发布 A 也意味着用户还需要 B，因此我们需要判断 A 和 B 是否都是自由的。如果我们修改了 A 使得它不再需要 B，那么只需要 A 是自由的，可以忽略 B。
 
 The rest of this page clarifies certain points about what makes specific
 freedoms adequate or not.
@@ -96,7 +96,7 @@ or charging a fee for distribution, to anyone anywhere. Being free to do
 these things means (among other things) that you do not have to ask or
 pay for permission to do so.
 
-再发行软件的自由（自由之二和自由之三）表示你可以在任何地方发布软件的副本给任何人，无论是否有过修改，无论是免费或收取发行费用。自由的再发行（排除其他因素）你不需要强制索要再发行许可或为此付费。
+再发行软件的自由（自由之二和自由之三）表示你可以在任何地方发布软件的副本给任何人，无论是否有过修改，无论是免费或收取发行费用。自由的再发行意味着（排除其他因素）你不需要强制索要再发行许可或为此付费。
 
 You should also have the freedom to make modifications and use them
 privately in your own work or play, without even mentioning that they
@@ -114,7 +114,7 @@ as a user are free to run the program for your purposes, and if you
 distribute it to someone else, she is then free to run it for her
 purposes, but you are not entitled to impose your purposes on her.
 
-运行软件的自由，赋予任何个人或组织在任何计算机系统上，基于任何工作方式或任何目的运行软件的自由，不能被要求与任何开发者或特定实体沟通。在这个自由中，只与*用户的*目的有关，而无关*开发者的*的目的；作为用户你有基于任何目的运行软件的自由，如果你将软件发布给了其他人，则她也有按自己目的运行软件的自由，而你不能将自己的目的强加给她。
+运行软件的自由，赋予任何个人或组织在任何计算机系统上，基于任何工作方式或任何目的运行软件的自由，而无需与任何开发者或特定实体沟通。在这个自由中，重要的只是*用户的*目的，而非*开发者的*的目的；作为用户你有基于任何目的运行软件的自由，如果你将软件发布给了其他人，则她也有按自己目的运行软件的自由，而你不能将自己的目的强加给她。
 
 The freedom to run the program as you wish means that you are not
 forbidden or stopped from doing so. It has nothing to do with what
@@ -150,7 +150,7 @@ terminology) as “secure boot”—freedom 1 becomes an empty pretense rather
 than a practical reality. These binaries are not free software even if
 the source code they are compiled from is free.
 
-自由之一包括了用你修改的版本来替代原始的。如果一个程序从产品设计的角度发布只能用其他人修过的版本而不能用你的修改版——例如所谓的“tivoization”或“锁定”，或者（用行业内的话来说）就是“安全启动”（Secure Boot）——这样自由之一就被架空而无法实现，即便这些软件的二进制是从自由的源代码吧编译而来，也不能算是自由软件。
+自由之一包括了用你修改的版本来替代原始的。如果一个程序从产品设计的角度发布只能用其他人修过的版本而不能用你的修改版——例如所谓的“tivo化”或“锁定”，或者（用行业内的话来说）就是“安全启动”（Secure Boot）——这样自由之一就被架空而无法实现，即便这些软件的二进制是从自由的源代码编译而来，也不能算是自由软件。
 
 One important way to modify a program is by merging in available free
 subroutines and modules. If the program’s license says that you cannot
@@ -158,7 +158,7 @@ merge in a suitably licensed existing module—for instance, if it
 requires you to be the copyright holder of any code you add—then the
 license is too restrictive to qualify as free.
 
-修改软件的一个重要方法是个合并可用的自由子程序或模块。如果一个程序的许可证让你不能适用合并现有许可证保护的模块。例如要求你成为你修改过代码的版权所有者，因此该许可证对自由来说过于严苛。
+修改软件的一个重要方法是合并可用的自由子程序或模块。如果一个程序的许可证让你不能将一个按适当的许可证发布的现有模块融合进来——例如要求你成为你修改过代码的版权所有者，因此该许可证过于严苛以致不能分类为自由的。
 
 Freedom 3 includes the freedom to release your modified versions as free
 software. A free license may also permit other ways of releasing them;
@@ -166,7 +166,7 @@ in other words, it does not have to be a copyleft license. However, a
 license that requires modified versions to be nonfree does not qualify
 as a free license.
 
-自由之三包括你可以子自由软件的方式发布修改版。一个自由许可证允许以其他形式发布；也就是说，这不一定是 copyleft 许可证。不过如果一个许可证要求以非自由的方式发布修改版，则是非自由的。
+自由之三包括你可以自由软件的方式发布修改版。一个自由许可证可能允许以其他形式发布；也就是说，这不一定是 copyleft 许可证。不过如果一个许可证要求以非自由的方式发布修改版，则是非自由的。
 
 In order for these freedoms to be real, they must be permanent and
 irrevocable as long as you do nothing wrong; if the developer of the
@@ -209,7 +209,7 @@ Whether a change constitutes an improvement is a subjective matter. If
 your right to modify a program is limited, in substance, to changes that
 someone else considers an improvement, that program is not free.
 
-对程序的改动是否有益只是一个主观判断。如果你对软件的修改权是受限的，实际上，任何修改都可以看成是一种提高，该程序并不自由。
+对程序的改动是不是改进只是一个主观判断。如果你对软件的修改权实际上仅限于作出被他人认作改进的修改，该程序并不自由。
 
 However, rules about how to package a modified version are acceptable,
 if they don’t substantively limit your freedom to release modified
@@ -232,7 +232,7 @@ you the choice of whether to distribute your version at all.) Rules that
 require release of source code to the users for versions that you put
 into public use are also acceptable.
 
-如果有“你的版本可以这样，也必须可以另一种方式”这样的条款也是可以接受的。同样的，比如有规则要求如果你发布了修改版，也必须给前一个开发者发送一份，也是可以接受的。（注意这样的条款仍然让你有自由选择是否发布的权力）。要求你为用户发布公开发布版的源代码，也是可以接受的。
+如果有“你的版本可以这样，也必须能以另一种方式”这样的条款也是可以接受的。同样的，比如有规则要求如果你发布了修改版，也必须给前一个开发者发送一份，也是可以接受的。（注意这样的条款仍然让你有自由选择是否发布的权力）。要求你为用户发布公开发布版的源代码，也是可以接受的。
 
 A special issue arises when a license requires changing the name by
 which the program will be invoked from other programs. That effectively
@@ -242,7 +242,7 @@ requirement is acceptable only if there’s a suitable aliasing facility
 that allows you to specify the original program’s name as an alias for
 the modified version.
 
-有个特殊问题是一个程序要求其他程序从已经撤销的名字改名。这样实际上是阻碍了发布你的修改版，以便通过修改名字来取代原始版。这种情况也是允许的，前提是通过一种别名机制来标示原始程序名是修改版的别名。
+有个特殊问题是一个许可要求改变一个程序用来被其他程序调用的名字。这样实际上是阻碍了你的修改版的发布，以便通过修改名字来取代原始版。这种情况仅当通过一种别名机制来标示原始程序名是修改版的别名时可被接受。
 
 Sometimes government export control regulations and trade sanctions can
 constrain your freedom to distribute copies of programs internationally.
@@ -254,7 +254,7 @@ governments. Thus, free software licenses must not require obedience to
 any nontrivial export regulations as a condition of exercising any of
 the essential freedoms.
 
-有时政府的出口管制或者贸易制裁会压抑你软件国际化分布的自由。软件的开发者没有权力消除或覆盖这些限制，但他们可以做的是拒绝强制要求使用程序时接受这些条件。这样，这些限制就不会影响到政府管辖以外的国家和人民的活动。因此自由软件许可证为了行使这些必要的自由，不能要求服从任何这些出口限制条款。
+有时政府的出口管制或者贸易制裁会压抑你国际性地分发软件的自由。软件的开发者没有权力消除或覆盖这些限制，但他们可以做的是拒绝强制要求使用程序时接受这些条件。这样，这些限制就不会影响到政府管辖以外的国家和人民的活动。因此自由软件许可证为了行使这些必要的自由，不能要求服从任何这些出口限制条款。
 
 Merely mentioning the existence of export regulations, without making
 them a condition of the license itself, is acceptable since it does not
@@ -272,12 +272,12 @@ the licenses of “all the programs you use,” in the case of a user that
 runs nonfree programs this would require compliance with the licenses of
 those nonfree programs; that makes the license nonfree.
 
-自由的许可证可以不要求遵守非自由程序的许可证。所以，比如，如果一个许可证要求你必须遵守“所有你运行的程序”的许可证，运行非自由程序的用户在这种情况下会需要尊重非自由程序的许可证，那么这将使得该许可证变成非自由的。
+自由的许可证不能要求遵守非自由程序的许可证。所以，比如，如果一个许可证要求你必须遵守“你使用的所有程序”的许可证，运行非自由程序的用户在这种情况下会需要遵守非自由程序的许可证，那么这将使得该许可证变成非自由的。
 
 It is acceptable for a free license to specify which jurisdiction’s law
 applies, or where litigation must be done, or both.
 
-自由的许可证里是可以制定适用的法律范围或诉讼时必须做的事情，亦可兼而有之。
+自由的许可证里可以指定适用的法律范围或诉讼时必须做的事情，亦可兼而有之。
 
 Most free software licenses are based on copyright, and there are limits
 on what kinds of requirements can be imposed through copyright. If a
@@ -288,7 +288,7 @@ licenses are based on contracts, and contracts can impose a much larger
 range of possible restrictions. That means there are many possible ways
 such a license could be unacceptably restrictive and nonfree.
 
-大多数自由软件许可证是基于版权的，还有通过版权来限制的要求。如果一个基于版权的许可证尊重如上文所说的自由，那么也就不会发生我们意料之外的问题（尽管这也许会发生）。然而很多自由软件许可证是基于合同的，而合同可以增加更大范围的限制。这样就有更大可能性使得该许可证出现无法接受的限制性或非自由。
+大多数自由软件许可证是基于版权的，而何种要求能通过版权施加是有限制的。如果一个基于版权的许可证尊重如上文所说的自由，那么也就不会发生我们意料之外的问题（尽管这也许会发生）。然而有些自由软件许可证是基于合同的，而合同可以增加更大范围的限制。这样就有更大可能性使得该许可证出现无法接受的限制或非自由。
 
 We can’t possibly list all the ways that might happen. If a
 contract-based license restricts the user in an unusual way that
@@ -321,7 +321,7 @@ lawyer, before we can decide if the requirement is acceptable. When we
 reach a conclusion about a new issue, we often update these criteria to
 make it easier to see why certain licenses do or don’t qualify.
 
-最后，这些有关自由软件的标准需要谨慎的解读。判断一个软件许可证是否是自由软件，标准就是看它是否符合自由软件精神以及精准的用语。如果一个许可证包含了不合理的限制，我们会拒绝它，即便是此文中我们没有预料的问题。有些时候一个许可证会带来新的问题和思考，这需要我们与律师咨询以后，共同判断和思考。当我们最终得出结论，会更新这份标准以使其能更容易体现特定的许可证是否符合标准。
+最后，这些有关自由软件的标准需要谨慎的解读。判断一个软件许可证是否是自由软件，标准就是看它是否符合自由软件精神以及用语是否精确。如果一个许可证包含了不合理的限制，我们会拒绝它，即便是此文中我们没有预料的问题。有些时候一个许可证会带来新的问题和思考，这需要我们与律师咨询以后，共同判断和思考。当我们最终得出结论，会更新这份标准以使其能更容易体现特定的许可证是否符合标准。
 
 If you are interested in whether a specific license qualifies as a free
 software license, see our list of licenses, at
@@ -337,7 +337,7 @@ of different free software licenses means increased work for users in
 understanding the licenses; we may be able to help you find an existing
 free software license that meets your needs.
 
-如果你打算写一个新的许可证，请首先向通过上面这个邮件联系自由软件基金会。不同的自由软件许可证意味着用户需要花费更多经历来理解；我们也许可以帮你从现有的自由软件许可证里找到符合你需要的。
+如果你打算写一个新的许可证，请首先向通过上面这个邮件联系自由软件基金会。不同的自由软件许可证意味着用户需要花费更多精力来理解；我们也许可以帮你从现有的自由软件许可证里找到符合你需要的。
 
 If that isn’t possible, if you really need a new license, with our help
 you can ensure that the license really is a free software license and
@@ -360,7 +360,7 @@ use—that is to say, works that embody useful knowledge, such as
 educational works and reference works. Wikipedia is the best-known
 example.
 
-同理可证其他领域也应该如此——也就是说，任何体现知识可用性的，比如教育资源和参考资料。维基百科（Wikepedia）就是最著名的例子。
+同理可证其他领域——也就是说，任何体现知识可用性的——也应该如此，比如教育资源和参考资料。维基百科（Wikipedia）就是最著名的例子。
 
 Any kind of work *can* be free, and the definition of free software has
 been extended to a definition of free cultural works[(3)](#FOOT3)
