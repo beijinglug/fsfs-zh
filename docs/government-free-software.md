@@ -39,13 +39,13 @@ on computing, and its control over those activities depends on its
 control over that computing. Losing this control in an agency whose
 mission is critical undermines national security.
 
-从国家计算机主权角度来说，国家需要坚持自由软件的主张（国家控制计算机）。所有用户鼓励控制自己的计算机，但国家有责任对人民表示计算机的控制。现在大多数政府活动都依赖计算机，而控制这些活动则依赖于对计算机的控制。而若机构失去对计算机的控制将会极大危害国家安全。
+从国家计算机主权角度来说，国家需要坚持自由软件的主张（国家控制计算机）。所有用户理所应当控制自己的计算过程，但国家对人民有代表人民对计算过程维持控制的责任。现在大多数政府活动都依赖计算过程，而对这些活动的控制则依赖于对计算过程的控制。而在任务很关键的机构里失去这种控制将会极大危害国家安全。
 
 Moving state agencies to free software can also provide secondary
 benefits, such as saving money and encouraging local software-support
 businesses.
 
-将国家机构转向自由软件同时也会提供额外的好处，比如节省经费和鼓励本地软件支持商业等等。
+将国家机构转向自由软件同时也会提供额外的好处，比如节省经费和鼓励本地的软件支持行业等等。
 
 In this text, “state entities” refers to all levels of government, and
 means public agencies including schools, public-private partnerships,
@@ -53,7 +53,7 @@ largely state-funded activities such as charter schools, and “private”
 corporations controlled by the state or established with special
 privileges or functions by the state.
 
-本文中，“国家实体”指代各级政府，以及普通的公共机构包括学校，公共-私立伙伴关系，大型国有活动比如特许公立学校，以及由国家控制或由国家特许经营或注资的“私营”企业。
+本文中，“国家实体”指代各级政府，以及公共机构包括学校，公共-私立伙伴关系，大型国有活动比如特许公立学校，以及由国家控制或由国家特许经营或注资的“私营”企业。
 
 ### Education {#education .subheading}
 
@@ -73,7 +73,7 @@ future of the country:
 
 - **只能教授自由软件**
 
-  教育活动或者至少这些国立教育实体，必须只教授自由软件（因此，他们决不能引导学生使用非自由程序），并教育学生坚持使用自由软件背后公民原因。教授非自由程序就是在教授依赖性，这与学校的使命是相悖的。
+  教育活动或者至少这些国立教育实体，必须只教授自由软件（因此，他们决不能引导学生使用非自由程序），并教育学生坚持使用自由软件背后的公民原因。教授非自由程序就是在教授依赖性，这与学校的使命是相悖的。
 
 ### The State and the Public {#the-state-and-the-public .subheading}
 
@@ -93,7 +93,7 @@ and organizations use:
 
 - **永远不要求非自由程序**
 
-  法律和公共部门实践活动必须改革永远不能要求或施压给个人组织使用非自由程序。他们还必须不能在沟通或出版行业引入类似的规定（包括数字版权管理 Digital Restrictions Management[^2]）。
+  法律和公共部门实践活动必须改革永远不能要求或施压给个人或组织使用非自由程序。他们还必须不能在通信或出版行业引入类似的规定（包括数字限制管理 Digital Restrictions Management[^2]）。
 
 -   **Distribute only free software**\
      Whenever a state entity distributes software to the public,
@@ -103,7 +103,7 @@ and organizations use:
 
 - **只散播自由软件**
 
-  国家实体无论在什么时候将软件公开散播，包括程序附带或网页，必须散播自由软件，且必须与只运行自由软件的环境兼容。
+  国家实体无论在什么时候将软件公开散播，包括网页中包含或附带的程序，必须作为自由软件散播，且必须与只运行自由软件的平台兼容。
 
 -   **State web sites**\
      State entity web sites and network services must be designed so
@@ -112,7 +112,7 @@ and organizations use:
 
 - **政府网站**
 
-  政府实体的网站和网络服务必须设计给用户能够使用的，不能有缺陷，只能是普遍自由软件的方式。
+  政府实体的网站和网络服务必须设计成用户能够只用自由软件使用，（相对专有软件——译者注）没有劣势。
 
 -   **Free formats and protocols**\
      State entities must use only file formats and communication
@@ -126,7 +126,7 @@ and organizations use:
 
 - **自由的格式和协议**
 
-  国家实体必须只使用自由软件广泛支持的文件格式和通信协议，特别是已经公开的规格（我们并不说“标准”，因为它应该适用于标准和非标准的接口）。例如，他们必须不能散播使用 Flash 或者非自由解码器播放的音频或视频文件，对外公布的库必须不能包含数字版权管理 Digital Restrictions Management。
+  国家实体必须只使用自由软件广泛支持的文件格式和通信协议，特别是已经公开的规格（我们并不说“标准”，因为它应该适用于标准和非标准的接口）。例如，他们必须不能散播使用 Flash 或者非自由解码器播放的音频或视频文件，对外公布的库必须不能包含数字限制管理。
 
 -   **Untie computers from licenses**\
      Sale of computers must not require purchase of a proprietary
@@ -142,7 +142,7 @@ and organizations use:
 
 - **解除对计算机的限制性许可证**
 
-  销售计算机必须不能要求购买一份专有软件许可证。必须通过法律来约束销售方提供给消费者购买计算机时不需要专有软件以及不需要为此付费的选项。强制付费是另一个错误，不能让我们从专有软件的不公中分散注意力，应更关注失去自由而导致的损失。虽然如此，强迫用户为其付费等于是给了特定专有软件开发者一个额外的不平等优势，让他们来决定用户的自由。国家应该防止这种情况发生。
+  销售计算机必须不能要求购买一份专有软件许可证。必须通过法律来约束销售方提供给消费者购买计算机时不需要专有软件以及不需要为此付费的选项。强制付费是另一个错误，不能让我们从专有软件的不公中分散注意力，应更关注失去自由而导致的损失。虽然如此，强迫用户为其付费等于是给了特定专有软件开发者一个额外的不平等优势——让他们来决定用户的自由。国家应该防止这种情况发生。
 
 ### Computational Sovereignty {#computational-sovereignty .subheading}
 
@@ -153,7 +153,7 @@ State entities must maintain control over their computing, not cede
 control to private hands. These points apply to all computers, including
 smartphones.
 
-很多政策会影响到国家计算主权。国家实体必须维护控制它们的计算资源，而不是放弃控制到私人之手。这一点适用于所有计算机，包括智能手机。
+很多政策会影响到国家计算主权。国家实体必须维持对它们的计算资源的控制，而不是放弃控制而委之于私人之手。这一点适用于所有计算机，包括智能手机。
 
 -   **Migrate to free software**\
      State entities must migrate to free software, and must not install,
@@ -165,7 +165,7 @@ smartphones.
 
 - **迁移到自由软件**
 
-  国家实体必须迁移到自由软件，并且不能安装和继续使用非自由软件，除非临时例外。只有一个机构可以有权获得这些临时例外，且需要拿出令人信服的理由。这个机构的目标必须是将这些例外减少到零。
+  国家实体必须迁移到自由软件，并且不能安装和继续使用非自由软件，除非临时例外。只有一个机构可以有权授予这些临时例外，且需要令人信服的理由。这个机构的目标必须是将这些例外减少到零。
 
 -   **Develop free IT solutions**\
      When a state entity pays for development of a computing solution,
@@ -177,7 +177,7 @@ smartphones.
 
 - **开发自由的 IT 解决方案**
 
-  当政府实体需要为开发计算机解决方案付费时，合同必须包括以自由软件形式交付，并且方案必须设计为可以在百分之百自由软件环境中运行和开发。所有合同都需要这条，这样如果开发商一旦不符合需求，这样就不能付款。
+  当政府实体需要为开发计算机解决方案付费时，合同必须要求以自由软件形式交付，并且方案必须设计为可以在百分之百自由软件环境中运行和开发。所有合同都需要这条，这样如果开发商一旦不符合需求，作品就不给报酬。
 
 -   **Choose computers for free software**\
      When a state entity buys or leases computers, it must choose among
@@ -189,7 +189,7 @@ smartphones.
 
 - **为自由软件选配计算机**
 
-  当政府实体购买或租借计算机时，必须选择最接近同类产品，同等级，并适用于没有专有软件的型号。政府需要维护每个等级的计算机，相应的选配型号也应符合这个标准。对于公开型号和政府型号，应该选择只对政府开放的型号。
+  当政府实体购买或租借计算机时，必须在其等级中选择几乎无需专有软件即可运行的型号。政府需要为每个等级的计算机维护一个按此标准认证过的型号的列表。对于公开型号和政府型号，应该选择只对政府开放的型号。
 
 -   **Negotiate with manufacturers**\
      The state should negotiate actively with manufacturers to bring
@@ -199,7 +199,7 @@ smartphones.
 
 - **与厂商协商**
 
-  国家必须经常与厂商协商市场（对外销售或和政府）上适合的硬件产品，在所有专利产品领域，都不能需要专有软件。
+  国家必须经常与厂商协商市场（对外销售或和政府）上适合的硬件产品，在所有相关产品领域，都不能需要专有软件。
 
 -   **Unite with other states**\
      The state should invite other states to negotiate collectively with
@@ -208,7 +208,7 @@ smartphones.
 
 - **与其他国家联合**
 
-  本国需邀请其他国家来协商厂商的硬件产品。联合它们获得更多影响力。
+  本国需邀请其他国家来和厂商一同协商适合的硬件产品。联合它们获得更多影响力。
 
 ### Computational Sovereignty II {#computational-sovereignty-ii .subheading}
 
@@ -221,7 +221,7 @@ service is run by a state agency under the same branch of government, as
 well as other practices that diminish the state control over its
 computing. Therefore,
 
-国家计算主权（和安全）包括控制计算机做国家的事情。这需要避免“服务即软件替换”（Service as a Software Substitute）[^3]，除非这类服务是运行在国家机关的同一分支，并降低对计算资源的控制，除非：
+国家计算主权（和安全）包括控制计算机做国家的事情。这需要避免“替代软件的服务”（Service as a Software Substitute）[^3]——除非这类服务是运行在国家机关的同一分支机构，以及其他降低国家对计算资源控制的实用形式。因此：
 
 -   **State must control its computers**\
      Every computer that the state uses must belong to or be leased by
@@ -234,7 +234,7 @@ computing. Therefore,
 
 - **国家必须控制其计算机**
 
-  每一台国家使用的计算机必须从属于或租借自政府的同一个分支，而这个政府分支必须不能把谁有权物理访问计算机，谁能维护（软件和硬件），或者能够安装什么软件的权力放弃给外人。如果计算机不可移动，那么计算机所在的物理空间必须是国家所有（无论是所有者或者承租人）。
+  每一台国家使用的计算机必须从属于或租借自政府的同一个分支机构，而这个政府分支机构必须不能把谁有权物理访问计算机，谁能维护（软件和硬件），或者能够安装什么软件的权力放弃给外人。如果计算机不可移动，那么计算机所在的物理空间必须是国家所有（无论是所有者或者承租人）。
 
 ### Influence Development {#influence-development .subheading}
 
@@ -290,9 +290,9 @@ Freedom should not imply e-waste:
 
 - **可替代性软件**
 
-  很多现在计算机设计为不可将自由软件替代其预装的软件。因此唯一解放它们的方式就是丢掉，而这对社会不利。
+  很多现在计算机设计为无法用自由软件替代其预装的软件。因此唯一解放它们的方式就是丢掉，而这对社会不利。
 
-  因此，这样做是非法的，或者至少通过给新计算机（不是二手）的销售者、进口商或发布商增加税收份额，或者它们的计算机相关产品的硬件接口保密或者潜在限制用户禁止用户开发、安装或者使用替代只有厂商可以升级的预装软件。这同样适用于任何需要“越狱”的设备以便安装不同的操作系统，或者类似的接口和外设是秘密的。
+  因此，大量销售、进口或分发硬件接口保密或有意设限，因而阻碍用户开发、安装或使用任何其内可由制造方升级的预装软件的替代品的新（即，非二手）计算机或基于计算机的产品应该是非法的，或者至少课以重税来劝退。这特别适用于任何需要“越狱”方可在其上安装不同操作系统的设备，或包含接口保密的外设的设备。
 
 ### Technological Neutrality {#technological-neutrality .subheading}
 
