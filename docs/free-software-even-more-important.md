@@ -251,7 +251,7 @@ other than the state). And they must not entrust it to a service
 programmed and run by an entity other than the state, since this would
 be SaaSS.
 
-为了维持对为人民服务的计算机的控制，公共机构必须不能使用专有软件（一个由国家之外的实体掌控的软件），同时不能委托国家机构以外的实体编写或运行服务，因为这会是 SaaSS。
+为了维持对为人民服务的计算过程的控制，公共机构必须不能使用专有软件（一个由国家之外的实体掌控的软件），同时不能委托国家机构以外的实体编写或运行服务，因为这会是 SaaSS。
 
 Proprietary software has no security at all in one crucial case—against
 its developer. And the developer may help others attack. Microsoft shows
@@ -286,7 +286,7 @@ rest of the class—including the program’s source code, in case someone
 else wants to learn. Therefore, bringing proprietary software to class
 is not permitted except to reverse engineer it.”
 
-他们同时也教育了学生协作的习惯，帮助其他人。没个班级都要有这样的规则：“对学生而言，这个班级是分享知识的地方，如果你将一个软件带来，不仅仅是你自己用，同时你必须将副本分享给班里其他人——包括源代码，万一某个人想要学习。因此，不允许将专有软件带到课堂，除非学习逆向工程。”
+他们同时也教育了学生协作的习惯，帮助其他人。没个班级都要有这样的规则：“对学生而言，这个班级是分享知识的地方，如果你将一个软件带来，不仅仅是你自己用，同时你必须将副本分享给班里其他人——包括源代码——当某个人想要学习时。因此，不允许将专有软件带到课堂，除非学习逆向工程。”
 
 Proprietary developers would have us punish students who are good enough
 at heart to share software and thwart those curious enough to want to
@@ -316,7 +316,7 @@ of organized cooperation. If your friend comes to visit and sees you use
 a program, she might ask for a copy. A program which stops you from
 redistributing it, or says you’re “not supposed to,” is antisocial.
 
-自由包括与其他人协作的自由。拒绝人们的这项自由意味着让人孤立，会成为对人压迫的开始。在自由软件社群，我们深刻的意识到与他人协作的重要性因为我们的工作正是有组织的协作。如果一个朋友看到你在用一个程序，她也许会要一份副本。而程序禁止人们再分发，或者说你“不应该”这么做，这是一种反社会行为。
+自由包括与其他人协作的自由。拒绝人们的这项自由意味着让人孤立，会成为对人压迫的开始。在自由软件社群，我们深刻的意识到与他人协作的重要性因为我们的工作正是有组织的协作。如果一个朋友看到你在用一个程序，她也许会要一份副本。而禁止人们再分发，或者说你“不应该”这么做的程序，是反社会的。
 
 In computing, cooperation includes redistributing exact copies of a
 program to other users. It also includes distributing your changed
@@ -348,7 +348,7 @@ have the free GNU/Linux operating system that anyone—programmer or
 not—can use. Join our cause, as a programmer or an activist. Let’s make
 all computer users free.
 
-我们以及上千用户从1984年开始就这么做，这样才有了现在我们使用的自由的 GNU/Linux 操作系统，服务给所有人——无论是否是程序员。加入我们的事业，以一个程序员或活动者的身份。让我们一起解放所有计算机用户吧。
+我们以及上千用户从1984年开始就这么做，这样才有了现在我们使用的自由的 GNU/Linux 操作系统，所有人——无论是否是程序员——都可以使用。加入我们的事业，以一个程序员或活动家的身份。让我们一起解放所有计算机用户吧。
 
 ### [(1)](#DOCF1)
 

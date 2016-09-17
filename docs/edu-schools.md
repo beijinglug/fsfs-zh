@@ -20,7 +20,7 @@ to schools as they do to everyone. However, the purpose of this article
 is to present the additional reasons that apply specifically to
 education.
 
-所有计算机用户都应该坚持使用自由软件：你会获得控制你计算机的权利。而专有软件，更愿意做自身或者开发者想要做的事情，而不是用户想让他们做的事情。自由软件还会赋予用户自由协作的权利，这将会引领一种积极向上的生活方式。这些理由适用于学校，而且也适用于每个人。但是，本文的目的不仅限于此，还会讲到专门适用于教育的特殊原因。
+所有计算机用户都应该坚持使用自由软件：你会获得控制你计算机的权利。而专有软件，更愿意做其拥有者或开发者想要做的事情，而不是用户想让它们做的事情。自由软件还会赋予用户自由协作的权利，这将会引领一种积极向上的生活方式。这些理由适用于学校，而且也适用于每个人。但是，本文的目的不仅限于此，还会讲到专门适用于教育的特殊原因。
 
 Free software can save schools money, but this is a secondary benefit.
 Savings are possible because free software gives schools, like other
@@ -36,7 +36,7 @@ Moving schools to free software is more than a way to make education a
 little “better”: it is a matter of doing good education instead of bad
 education. So let’s consider the deeper issues.
 
-尽管这项好处很有用，但最初我们总是不情愿这样做，因为这样做的风险和道义层面的重要性问题相比，似乎显得微不足道。推动学校使用自由软件，不只是让教育变得稍微“好一点”的一个方法，也是一件关乎“好教育”还是“坏教育”的大事。所以，我们来探讨一下这个深层次的问题。
+尽管这项好处很有用，但我们坚定地拒绝将其置于首位，因为这样做的风险和道义层面的重要性问题相比，似乎显得微不足道。推动学校使用自由软件，不只是让教育变得稍微“好一点”的一个方法，也是一件关乎“好教育”还是“坏教育”的大事。所以，我们来探讨一下这个更深层次的问题。
 
 Schools have a social mission: to teach students to be citizens of a
 strong, capable, independent, cooperating and free society. They should
@@ -45,7 +45,7 @@ voting. By teaching students free software, they can graduate citizens
 ready to live in a free digital society. This will help society as a
 whole escape from being dominated by megacorporations.
 
-学校有一项社会使命：教育学生成为一名坚强、有才能，独立、相互协作并且自由的社会公民。学校应该像推广保育和选举一样促进自由软件的使用。通过教授自由软件，学生能成为自由的数字化时代的合格公民。这项工作能帮助社会从整体上脱离大公司大集团的统治。
+学校有一项社会使命：教育学生成为一个坚强、有才能，独立、相互协作并且自由的社会中的一名公民。学校应该像推广保育和选举一样推广自由软件的使用。通过教授自由软件，学生能成为自由的数字化时代的合格公民。这项工作能帮助社会从整体上脱离大集团公司的统治。
 
 In contrast, to teach a nonfree program is implanting dependence, which
 goes counter to the schools’ social mission. Schools should never do

@@ -168,7 +168,7 @@ a copy of free software. You can charge nothing, a penny, a dollar, or a
 billion dollars. It’s up to you, and the marketplace, so don’t complain
 to us if nobody wants to pay a billion dollars for a copy.
 
-除非一种特殊情况，GN U通用公共许可证（GNU GPL）对于你发布自由软件时收取多少费用并没有要求。你可以免费，一美分，一美元，或者十亿美元。这完全取决于你和市场，所以如果没有人愿意花十亿美元买你的软件请不要向我们抱怨。
+除非一种特殊情况，GNU 通用公共许可证（GNU GPL）对于你发布自由软件时收取多少费用并没有要求。你可以免费，一美分，一美元，或者十亿美元。这完全取决于你和市场，所以如果没有人愿意花十亿美元买你的软件请不要向我们抱怨。
 
 The one exception is in the case where binaries are distributed without
 the corresponding complete source code. Those who do this are required

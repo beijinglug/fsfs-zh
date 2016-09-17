@@ -125,7 +125,7 @@ that they use the internet for something beyond transmitting files.
 Thus, the term spreads confusion. If you base your thinking on it, your
 thinking will be confused.
 
-“云计算”这一短语（或者在表示计算的上下文中进一步简称为“云”）是一种含混不清的市场化流行语，它没有任何合乎逻辑的涵义。它被用于指代一系列不同的活动，其唯一的共同点是它们都使用万维网进行文件传输以外的事情。因此，这一短语是在散布混淆。如果您基于它进行思考，您的思考将会是混乱的。
+“云计算”这一短语（或者在表示计算的上下文中进一步简称为“云”）是一种含混不清的市场化流行语，它没有任何合乎逻辑的涵义。它被用于指代一系列不同的活动，其唯一的共同点是它们都使用互联网进行文件传输以外的事情。因此，这一短语是在散布混淆。如果您基于它进行思考，您的思考将会是混乱的。
 
 When thinking about or responding to a statement someone else has made
 using this term, the first step is to clarify the topic. What scenario
@@ -257,7 +257,7 @@ software developers (and other publishers) dearly wish to encourage.
 Their twisted viewpoint comes through clearly in a Business Insider
 article,[(12)](#FOOT12) which also refers to publications as “content.”
 
-“消费”一词是与不可复制的实物产品的经济层面相关联的，而引导人们在毫无察觉的情况下将这一结论套用到可复制的数字作品上——这种错误正是私有软件开发者（以及其他出版商）所热切希望并且积极推动的。它们的这种扭曲的观点在一篇 Business Insider 文章中暴露无遗。[(12)](#FOOT12)这篇文章还将出版的作品称为“内容”。
+“消费”一词是与不可复制的实物产品的经济层面相关联的，而引导人们在毫无察觉的情况下将这一结论套用到可复制的数字作品上——这种错误正是私有软件开发者（以及其他出版商）所热切希望并且积极推动的。他们的这种扭曲的观点在一篇 Business Insider 文章中暴露无遗。[(12)](#FOOT12)这篇文章还将出版的作品称为“内容”。
 
 The narrow thinking associated with the idea that we “consume content”
 paves the way for laws such as the DMCA that forbid users to break the
@@ -288,7 +288,7 @@ spread that attitude, you would do well to reject using the term
 artistic work or a work stating a point of view, and that someone “uses”
 a practical work.
 
-说“消费”音乐、小说或是任何其他艺术作品就是将它们视为产品而非艺术。如果您不想散播这种态度，您应当努力拒绝对它们使用“消费”这一概念。我们建议您说某人“体验”一件艺术作品或者一件表达一种观点的作品，以及某人“使用”一件实物作品。
+说“消费”音乐、小说或是任何其他艺术作品就是将它们视为产品而非艺术。如果您不想散播这种态度，您应当努力拒绝对它们使用“消费”这一概念。我们建议您说某人“体验”一件艺术作品或者一件表达一种观点的作品，以及某人“使用”一件实用作品。
 
 ### “Consumer” {#consumer .subheading}
 
@@ -967,7 +967,7 @@ its meaning, so we don’t use it in this context.
 A more suitable term for businesses like Uber is the “piecework service
 economy.”
 
-用于描述诸如 Uber 的业务的更好的短语是“计件工作服务经济”（pieceword service economy）。
+用于描述诸如 Uber 的业务的更好的短语是“计件工作服务经济”（piecework service economy）。
 
 ### “Skype” {#skype .subheading}
 
@@ -994,7 +994,7 @@ Software businesses exist, and various businesses develop free and/or
 nonfree software, but those that develop free software are not run like
 factories.
 
-“软件工业”一词鼓励人们想象软件总是由某种工厂开发并且送达“消费者”手中的。自由软件社区已经证实了事情并非如此。软件企业确实才能在，并且不同的企业开发自由和/或私有软件，但那些开发自由软件的企业并不是像工厂那样运营的。
+“软件工业”一词鼓励人们想象软件总是由某种工厂开发并且送达“消费者”手中的。自由软件社区已经证实了事情并非如此。软件企业确实存在，并且不同的企业开发自由和/或私有软件，但那些开发自由软件的企业并不是像工厂那样运营的。
 
 The term “industry” is being used as propaganda by advocates of software
 patents. They call software development “industry” and then try to argue

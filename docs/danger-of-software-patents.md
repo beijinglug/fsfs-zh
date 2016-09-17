@@ -147,7 +147,7 @@ could sue you easily also, because he could take your drawing and turn
 it by 45 degrees. And now your square is like this, and it has a bottom
 corner.
 
-例如，假设有一些关于图形创意的专利，并且您想要绘制一个正方形。当然，您可能会意识到如果有一项关于底边的专利，它将阻止您绘制正方形。您可以将“底边”置于您的绘画中所实现的所有想法的黑名单中。但是，您也许不会预料到，如果某人持有一项“底角”专利，他仍然可以轻松地起诉您，由于他可以拿到您的绘画并且将其旋转 45 度。此时您的正方形看起来就有了底角。
+例如，假设有一些关于图形创意的专利，并且您想要绘制一个正方形。当然，您可能会意识到如果有一项关于“底边”的专利，它将阻止您绘制正方形。您可以将“底边”置于您的绘画中所不能实现的所有想法的黑名单中。但是，您也许不会预料到，如果某人持有一项“底角”专利，他仍然可以轻松地起诉您，由于他可以拿到您的绘画并且将其旋转 45 度。此时您的正方形看起来就有了底角。
 
 So you couldn’t make a list of all the ideas which, if patented, could
 prohibit your program.
@@ -1095,7 +1095,7 @@ and list them and say, “Hey, how do you like this combination?” You
 can’t hear that \[list\]. You have to write notes which implement all
 these ideas together.
 
-一段程序或者一段交响乐都将集合诸多灵感创意。所不同的是，交响乐所汇集的是众多音乐灵感。但是，您不能只是简单地拎起一串灵感并且说：“这是我的灵感集合，你喜欢吗？”由于为了使它们有意义，您必须去实现这些灵感。您不能只是挑选若干灵感，列出清单并且说：“嗨，你到底有多么喜欢这种灵感组合？”您不能将那份灵感清单当成音乐来听。您必须写出音符来将这些灵感一起实现、
+一段程序或者一段交响乐都将集合诸多灵感创意。所不同的是，交响乐所汇集的是众多音乐灵感。但是，您不能只是简单地拎起一串灵感并且说：“这是我的灵感集合，你喜欢吗？”由于为了使它们有意义，您必须去实现这些灵感。您不能只是挑选若干灵感，列出清单并且说：“嗨，你到底有多么喜欢这种灵感组合？”您不能将那份灵感清单当成音乐来听。您必须写出音符来将这些灵感一起实现。
 
 The hard task, the thing most of us wouldn’t be any good at, is writing
 all these notes to make the whole thing sound good. Sure, lots of us
