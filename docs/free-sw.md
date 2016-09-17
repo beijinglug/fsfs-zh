@@ -1,75 +1,29 @@
-1. What Is Free Software? {#what-is-free-software .chapter}
-=========================
-1. 什么是自由软件？
-=========================
-
-### The Free Software Definition {#the-free-software-definition .subheading}
+## 什么是自由软件？
 
 ### 自由软件的定义
 
-> The free software definition presents the criteria for whether a
-> particular software program qualifies as free software. From time to
-> time we revise this definition, to clarify it or to resolve questions
-> about subtle issues. For a list of the changes we’ve made to the
-> definition of free software, please see the “History” section,
-> following the definition, at <http://gnu.org/philosophy/free-sw.html>.
+> 自由软件的定义给出了一个标准，即一个特定的软件是否有资格被称为自由软件。我们时不时修改这一定义，以的澄清和解决与之相关的各种细微问题。对于我们自由软件的定义所作的更改列表，请参阅“历史”部分，在http://gnu.org/philosophy/free-sw.html。
 
-> 自由软件的定义是一系列特定标准的软件。通过不断的修改这一定义，可以让我们更好的澄清和解决与之相关的各种问题。有关自由软件的变化，可以参考<http://gnu.org/philosophy/free-sw.html>中定义下面的“历史”一节。
+“自由软件”（Free Software）表示的是那些尊重用户和社群自由的软件。粗略的说，它表示**用户有运行、拷贝、再发行、学习、修改并改进软件的自由**。因此，“自由软件”是有关用户的自由权益（liberty），而不是指免费（free）的价格。为了理解这个概念，你需要将“free”一词理解成“言论自由”中的“自由”，而不是“免费啤酒”里的“免费”。有时我们会称之为“Libre Software”，以避免表示免费的意思。
 
-“Free software” means software that respects users’ freedom and
-community. Roughly, it means that **the users have the freedom to run,
-copy, distribute, study, change and improve the software.** Thus, “free
-software” is a matter of liberty, not price. To understand the concept,
-you should think of “free” as in “free speech,” not as in “free beer.”
-We sometimes call it “libre software” to show we do not mean it is
-gratis.
-
-“自由软件”（Free Software）表示的是那些尊重用户和社群自由的软件。粗略的说，它表示**用户有运行、拷贝、再发行、学习、修改并改进软件的自由**。因此，“自由软件”是有关用户自由权益（liberty），而不是指免费（free）的价格。为了理解这个概念，你需要将“free”一词理解成“言论自由”中的“自由”，而不是“免费啤酒”里的“免费”。有时我们会称之为“Libre Software”，以避免表示免费的意思。
-
-We campaign for these freedoms because everyone deserves them. With
-these freedoms, the users (both individually and collectively) control
-the program and what it does for them. When users don’t control the
-program, we call it a “nonfree” or “proprietary” program. The nonfree
-program controls the users, and the developer controls the program; this
-makes the program an instrument of unjust power.[(1)](#FOOT1)
-
-我们争取这些自由，盖因为每个人都应该拥有这些。有了这些自由，用户（包括个体和团体）就可以控制程序为己所用。当用户无法控制程序时，我们称之为“非自由”（Nonfree）或“专有”程序。非自由的程序控制了用户，而开发者控制着程序：这就让程序成为了非正义权力的帮凶[^1]。
+我们争取这些自由，是因为每个人都应该拥有它。有了这些自由，用户（包括个体和团体）就可以控制程序为己所用。当用户无法控制程序时，我们称之为“非自由”（Nonfree）或“专有”程序。非自由的程序控制了用户，而开发者控制着程序：这就让程序成为了非正义权力的帮凶[^1]。
 
 >>> Copyright © 1996–2002,
 2004–2007, 2009–2015 Free Software Foundation, Inc.
  {The free software definition was first published in 1996, on
  <http://gnu.org>. This version is part of @fsfsthreecite}
 
-A program is free software if the program’s users have the four
-essential freedoms:
-
-自由软件表示用户拥有四个必不可少的自由：
-
--   The freedom to run the program as you wish, for any
-purpose (freedom 0).
+如果一个软件的用户拥有以下四种基本的自由，那么它可以被称为自由软件：
 
 -   基于任何目的，按你的意愿运行软件的自由（自由之零）。
 
--   The freedom to study how the program works, and change it so it does
-    your computing as you wish (freedom 1). Access to the source code is
-    a precondition for this.
-
--   学习软件如何工作的自由，按你的意愿修改软件以符合你的计算机的自由（自由之一）。可访问源代码是先决条件。
-
--   The freedom to redistribute copies so you can help your
-neighbor (freedom 2).
+-   学习软件如何工作的自由，按你的意愿修改软件以符合你的计算机的自由（自由之一）。可访问源代码是此项的先决条件。
 
 -   再发行软件副本的自由，因此你可以帮助你的邻居（自由之二）。
 
--   The freedom to distribute copies of your modified versions to
-    others (freedom 3). By doing this you can give the whole community a
-    chance to benefit from your changes. Access to the source code is a
-    precondition for this.
+-   将你修改过的软件版本再发行给其他人的自由（自由之三）。这样可以让整个社群有机会共享你对软件的改动。可访问源代码是此项的先决条件。
 
--   将你修改过的软件版本再发行给其他人的自由（自由之三）。这样可以让整个社群有机会享受到你对软件的改动。可以访问源代码是先决条件。
-
-A program is free software if it gives users adequately all of these
-freedoms. Otherwise, it is nonfree. While we can distinguish various
+While we can distinguish various
 nonfree distribution schemes in terms of how far they fall short of
 being free, we consider them all equally unethical.
 
@@ -90,7 +44,7 @@ freedoms adequate or not.
 
 本页余下的内容，则会澄清特定自由是否适用的关键点。
 
-Freedom to distribute (freedoms 2 and 3) means you are free to
+Freedom to distribute (freedoms 2 and 3) means you are free to
 redistribute copies, either with or without modifications, either gratis
 or charging a fee for distribution, to anyone anywhere. Being free to do
 these things means (among other things) that you do not have to ask or
@@ -134,7 +88,7 @@ way to make them.
 
 重新发布软件副本的自由必须包括该程序的二进制可执行格式，以及源代码，包括已修改和未修改版。（以可运行格式发布程序可以方便在自由的操作系统上安装）。对特定程序也可以不发布和产生二进制可执行格式（因为一些编程语言不支持这个特性），但你也有发布这些格式的自由，或开发一种方法来产生这些格式文件。
 
-In order for freedoms 1 and 3 (the freedom to make changes and the
+In order for freedoms 1 and 3 (the freedom to make changes and the
 freedom to publish the changed versions) to be meaningful, you must have
 access to the source code of the program. Therefore, accessibility of
 source code is a necessary condition for free software. Obfuscated
@@ -142,11 +96,11 @@ source code is a necessary condition for free software. Obfuscated
 
 为了实现自由之一和自由之三（修改软件并发布修改版的自由），你必须能够访问程序的源代码，因此能访问程序的源代码对自由软件来说是一个必要条件。混淆的“源代码”不能算真正的源代码。
 
-Freedom 1 includes the freedom to use your changed version in place of
+Freedom 1 includes the freedom to use your changed version in place of
 the original. If the program is delivered in a product designed to run
 someone else’s modified versions but refuse to run yours—a practice
 known as “tivoization” or “lockdown,” or (in its practitioners’ perverse
-terminology) as “secure boot”—freedom 1 becomes an empty pretense rather
+terminology) as “secure boot”—freedom 1 becomes an empty pretense rather
 than a practical reality. These binaries are not free software even if
 the source code they are compiled from is free.
 
@@ -160,7 +114,7 @@ license is too restrictive to qualify as free.
 
 修改软件的一个重要方法是合并可用的自由子程序或模块。如果一个程序的许可证让你不能将一个按适当的许可证发布的现有模块融合进来——例如要求你成为你修改过代码的版权所有者，因此该许可证过于严苛以致不能分类为自由的。
 
-Freedom 3 includes the freedom to release your modified versions as free
+Freedom 3 includes the freedom to release your modified versions as free
 software. A free license may also permit other ways of releasing them;
 in other words, it does not have to be a copyleft license. However, a
 license that requires modified versions to be nonfree does not qualify
