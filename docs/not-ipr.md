@@ -55,7 +55,7 @@ Government-Originated Legally Enforced Monopolies. Some speak of
 “exclusive rights regimes,” but referring to restrictions as “rights” is
 doublethink too.
 
-这种偏见已经足以成为拒绝这一概念的理由，并且人们经常建议我为这一整体类别起个别的名字——也有人提出了他们自己起的名字（通常是幽默的）。这些名字包括“小恶魔”（IMPs，意为 Imposed Monopoly Privileges，即“强制垄断特权”）以及“魔像”（GLOEMs，意为 Government-Originated Legally Enforced Monopolies，即“政府主导的合法强制垄断”），还有人说“专属权利王国”（exclusive rights regime，ERR），但将“限制”（restriction）指代为“权利”也是一种双关。
+这种偏见已经足以成为拒绝这一概念的理由，并且人们经常建议我为这一整体类别起个别的名字——也有人提出了他们自己起的名字（通常是幽默的）。这些名字包括“小恶魔”（IMPs，意为 Imposed Monopoly Privileges，即“强制垄断特权”）以及“魔像”（GOLEMs，意为 Government-Originated Legally Enforced Monopolies，即“政府主导的合法强制垄断”），还有人说“专属权利王国”（exclusive rights regime，ERR），但将“限制”（restriction）指代为“权利”也是一种双关。
 
 Some of these alternative names would be an improvement, but it is a
 mistake to replace “intellectual property” with any other term. A

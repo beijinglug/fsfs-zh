@@ -125,7 +125,7 @@ that they use the internet for something beyond transmitting files.
 Thus, the term spreads confusion. If you base your thinking on it, your
 thinking will be confused.
 
-“云计算”这一短语（或者在表示计算的上下文中进一步简称为“云”）是一种含混不清的市场化流行语，它没有任何合乎逻辑的涵义。它被用于指代一系列不同的活动，其唯一的共同点是它们都使用万维网进行文件传输以外的事情。因此，这一短语是在散布混淆。如果您基于它进行思考，您的思考将会是混乱的。
+“云计算”这一短语（或者在表示计算的上下文中进一步简称为“云”）是一种含混不清的市场化流行语，它没有任何合乎逻辑的涵义。它被用于指代一系列不同的活动，其唯一的共同点是它们都使用互联网进行文件传输以外的事情。因此，这一短语是在散布混淆。如果您基于它进行思考，您的思考将会是混乱的。
 
 When thinking about or responding to a statement someone else has made
 using this term, the first step is to clarify the topic. What scenario
@@ -288,7 +288,7 @@ spread that attitude, you would do well to reject using the term
 artistic work or a work stating a point of view, and that someone “uses”
 a practical work.
 
-说“消费”音乐、小说或是任何其他艺术作品就是将它们视为产品而非艺术。如果您不想散播这种态度，您应当努力拒绝对它们使用“消费”这一概念。我们建议您说某人“体验”一件艺术作品或者一件表达一种观点的作品，以及某人“使用”一件实物作品。
+说“消费”音乐、小说或是任何其他艺术作品就是将它们视为产品而非艺术。如果您不想散播这种态度，您应当努力拒绝对它们使用“消费”这一概念。我们建议您说某人“体验”一件艺术作品或者一件表达一种观点的作品，以及某人“使用”一件实用作品。
 
 ### “Consumer” {#consumer .subheading}
 
