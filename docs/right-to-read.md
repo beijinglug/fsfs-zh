@@ -301,7 +301,7 @@ Lissa 没有向 SPA 举报 Dan，而他关于帮助她的决定使得他们终�
     > monitoring to University authorities and/or law
     > enforcement officials.
 
-    > 本系统仅供授权用户使用。对于任何未经授权或者超出其授权范围使用本系统的个人，其在本系统上进行的所有活动将被监控并且记录。在对任何人不当使用本系统进行监控或者系统维护期间，授权用户的行为也可能被监控。任何使用本系统的个人必须明确同意接受这种监控，并且此监控一旦发现可能指证非法行为或者侵犯大学规定的行为的证据，本系统可能将通过此监控发现的证据移交至大学权利结构和/或官方执法机构。
+    > 本系统仅供授权用户使用。对于任何未经授权或者超出其授权范围使用本系统的个人，其在本系统上进行的所有活动将被监控并且记录。在对任何人不当使用本系统进行监控或者系统维护期间，授权用户的行为也可能被监控。任何使用本系统的个人必须明确同意接受这种监控，并且此监控一旦发现可能指证非法行为或者侵犯大学规定的行为的证据，本系统可能将通过此监控发现的证据移交至大学权利机构和/或官方执法机构。
 
     This is an interesting approach to the Fourth Amendment: pressure
     most everyone to agree, in advance, to waive their rights under it.
@@ -359,7 +359,7 @@ the FSF, at <http://my.fsf.org/join>, to help fund our work.
 
 -   Boyle, James, “Sold Out,” *New York Times,* 31 March 1996, sec. 4, p. 15; 也可以在这里找到：<https://law.duke.edu/boylesite/sold_out.htm>.
 
--   社论, *Washington Post,* “Public Data or Private Data,” 3 November 1996, sec. C, p. 6, [http://web.archive.org/web/20130508120533/http://www.interesting-people.org/archives/interesting-people/199611/msg00012.html](http://web.archive.org/web/%3Cbr%3E20130508120533/http://www.interesting-people.org/archives/interesting-people/199611/msg00012.html).
+-   社论, *Washington Post,* “Public Data or Private Data,” 3 November 1996, sec. C, p. 6, [http://web.archive.org/web/20130508120533/http://www.interesting-people.org/archives/interesting-people/199611/msg00012.html](http://web.archive.org/web/20130508120533/http://www.interesting-people.org/archives/interesting-people/199611/msg00012.html).
 
 -   公有领域联盟（Union for the Public Domain）——一个致力于抵抗并且逆转版权和专利的权力过度扩张的组织。 @end raggedright
 
@@ -387,7 +387,7 @@ the FSF, at <http://my.fsf.org/join>, to help fund our work.
 
 ### [(5)](#DOCF5)
 
-@raggedright 参见 Don Clark 的文章 “Seybold Opens Chapter on Digital Books” (31 August 1999, [http://www.zdnet.com/article/seybold-opens-chapter-on-digital-books/](http://www.zdnet.com/article/seybold-opens-chapter-on-%3Cbr%3Edigital-books/))以获知有关以电子形式发布图书以及影响到阅读其副本的权利的版权问题的信息。 @end raggedright
+@raggedright 参见 Don Clark 的文章 “Seybold Opens Chapter on Digital Books” (31 August 1999, [http://www.zdnet.com/article/seybold-opens-chapter-on-digital-books/](http://www.zdnet.com/article/seybold-opens-chapter-on-digital-books/))以获知有关以电子形式发布图书以及影响到阅读其副本的权利的版权问题的信息。 @end raggedright
 
 ### [(6)](#DOCF6)
 
