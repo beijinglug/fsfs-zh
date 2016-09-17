@@ -21,7 +21,7 @@ even more important as our culture and life activities are increasingly
 digitized. In a world of digital sounds, images, and words, free
 software becomes increasingly essential for freedom in general.
 
-这些自由极其重要，而且必要的，不仅是因为它们满足用户的个体利益，更是因为它们促进社会的团结——也就是分享与协作。由于我们的文化和生活变得越来越数字化，因此这些自由就变得越来越重要了。在一个由数字化的声音、图像和文字组成的世界里，自由软件正在逐渐地趋近于通常意义上的自由。
+这些自由极其重要。它们是必要的，不仅是因为它们满足用户的个体利益，更是因为它们促进社会的团结——也就是分享与协作。由于我们的文化和生活变得越来越数字化，因此这些自由就变得越来越重要了。在一个由数字化的声音、图像和文字组成的世界里，自由软件正在逐渐地趋近于通常意义上的自由。
 
 Tens of millions of people around the world now use free software; the
 public schools of some regions of India and Spain now teach all students
@@ -52,7 +52,7 @@ misunderstanding of the term “free software,” but it soon became
 associated with philosophical views quite different from those of the
 free software movement.
 
-并不是所有的自由软件用户和开发人员都认同自由软件运动的目标。1998年，一部分人从自由软件社区中分裂出去，并且开始了以“开源”为旗号的运动。提出“开源”这个说法原本是为了避免“自由软件”可能产生的一些误解，但却很快就与自由软件运动哲学观点分道扬镳了。
+并不是所有的自由软件用户和开发人员都认同自由软件运动的目标。1998年，一部分人从自由软件社区中分裂出去，并且开始了以“开源”为旗号的运动。提出“开源”这个说法原本是为了避免“free software”可能产生的一些误解，但却很快就与自由软件运动哲学观点分道扬镳了。
 
 Some of the supporters of open source considered the term a “marketing
 campaign for free software,” which would appeal to business executives
@@ -79,7 +79,7 @@ inferior solution to the practical problem at hand. Most discussion of
 “open source” pays no attention to right and wrong, only to popularity
 and success. [(3)](#FOOT3)
 
-这两个说法其实说的几乎都是同一类软件，但是它们所秉持的价值观是根本不同的。开源是一种开发方法论，自由软件是一唱社会运动。对自由软件运动而言，自由软件是一种道义责任，尊重用户最根本的自由。而另一方面，开源的哲学更关注如何让软件“更好”——只关心实践意义。开源认为，非自由软件只是手边问题的欠妥解答，“开源”的大多数讨论不关注对与错，只有知名度和成功[^3]。
+这两个说法其实说的几乎都是同一类软件，但是它们所秉持的价值观是根本不同的。开源是一种开发方法论，自由软件是一场社会运动。对自由软件运动而言，自由软件是一种道义责任，尊重用户最根本的自由。而另一方面，开源的哲学更关注如何让软件“更好”——只关心实践意义。开源认为，非自由软件只是手边问题的欠妥解答，“开源”的大多数讨论不关注对与错，只有知名度和成功[^3]。
 
 For the free software movement, however, nonfree software is a social
 problem, and the solution is to stop using it and move to free software.
@@ -127,7 +127,7 @@ called “tivoization” after the product (Tivo) where we first saw it.
 Even if the executable is made from free source code, the users cannot
 run modified versions of it, so the executable is nonfree.
 
-其次，实践中更重要的一点是，很多产品包含了计算机可以检查可执行程序签名的方法，以便封锁用户安装其他版本的可执行程序。只有这个有特权的公司可以允许所有设备运行，或允许访问其全部兼容设备。这种设备我们称之为“暴君”（Tyrants），而这种行为称之为“tivoization”，而其产品则称为“Tivo”。即使可执行文件是从自由的源代码构建，用户无法运行修改版，所以可执行文件也是非自由的。
+其次，实践中更重要的一点是，很多产品包含了计算机可以检查可执行程序签名的方法，以便封锁用户安装其他版本的可执行程序。只有这个有特权的公司可以允许所有设备运行，或允许访问其全部兼容设备。这种设备我们称之为“暴君”（Tyrants），而这种行为称之为“tivo化（tivoization）”，以我们第一次看见这样做的产品（Tivo）得名。即使可执行文件是从自由的源代码构建出来，用户却无法运行修改版，所以这可执行文件也是非自由的。
 
 The criteria for open source do not recognize this issue; they are
 concerned solely with the licensing of the source code. Thus, these
@@ -135,7 +135,7 @@ unmodifiable executables, when made from source code such as Linux that
 is open source and free, are open source but not free. Many Android
 products contain nonfree tivoized executables of Linux.
 
-开源标准并没有认识到这个问题。它只关注源代码的许可证问题。因此，当从比如像 Linux 这种开源且自由的源代码构建的不可修改的可执行文件，其源代码依旧不是自由的。很多 Android 产品包含了这种基于 Linux 的非自由“暴君”可执行文件。
+开源标准并没有认识到这个问题。它只关注源代码的许可证问题。因此，从比如像 Linux 这种开源且自由的源代码构建的不可修改的可执行文件是开源但不自由的。很多 Android 产品包含了这种基于 Linux 的非自由的tivo化可执行文件。
 
 ### Common Misunderstandings of “Free Software” and “Open Source” {#common-misunderstandings-of-free-software-and-open-source .subheading}
 
@@ -150,7 +150,7 @@ is not a perfect solution; it cannot completely eliminate the problem.
 An unambiguous and correct term would be better, if it didn’t present
 other problems.
 
-对“自由软件”有一个错误的判断：一个下意识的理解，“你可以零价格得到的软件”，而“给予用户真正自由的软件”更适合这个说法，和真正的意义。我们通过广为散播自由软件的定义和强调“理解 free 为'自由的言论'，而并非'免费啤酒'”，来解决这个问题。这不是一个完美的解决方法；它不能完全排除这个问题。也许一个没有歧义且正确的说法能更好一些，如果它没有其它问题。
+术语“free software”容易被误解：一个下意识的理解，“你可以零价格得到的软件”，与其真正含义“给予用户真正自由的软件”同样与其名称相符。我们通过广为散播自由软件的定义和强调“理解 free 为'自由的言论'，而并非'免费啤酒'”，来解决这个问题。这不是一个完美的解决方法；它不能完全排除这个问题。也许一个没有歧义且正确的说法能更好一些，如果它没有其它问题。
 
 Unfortunately, all the alternatives in English have problems of their
 own. We’ve looked at many that people have suggested, but none is so
@@ -168,7 +168,7 @@ was derived indirectly from our criteria for free software. It is not
 the same; it is a little looser in some respects. Nonetheless, their
 definition agrees with our definition in most cases.
 
-“开放源代码软件”的官方定义（由开源创始者公布，这里引用太长了[^5]）是间接引述自我们的“自由软件”的标准。与自由软件是不同的；在一些方面稍微有点宽松限制，所以开源支持者们采纳了一些我们无法接受的对用户的限制。尽管如此，他们的定义大多数情况还是非常接近我们的定义的。
+“开放源代码软件”的官方定义（由开放源代码促进会公布，这里引用太长了[^5]）是间接引述自我们的“自由软件”的标准。与自由软件不同；在一些方面稍微有点宽松。尽管如此，他们的定义大多数情况还是非常接近我们的定义的。
 
 However, the obvious meaning for the expression “open source
 software”—and the one most people seem to think it means—is “You can
@@ -217,7 +217,7 @@ different from the meaning its supporters intend. So there is no
 succinct way to explain and justify its official definition. That makes
 for worse confusion.
 
-开源的支持者们试图通过指出他们的官方定义来应对这个问题，但收效甚微，甚至还不如直接用“自由软件”。“自由软件”这个说法天生就只有两种含义，其中一个是我们设想的含义，所以领会了“言论自由，而并非免费的啤酒”的人就不会曲解它。但是“开源”只有一个天然的含义，但是这个含义却和它的支持者们预想的不同。所以不存在一个一劳永逸的方法来解释和证明其官方定义。这就产生了更大的歧义。
+开源的支持者们试图通过指出他们的官方定义来应对这个问题，但收效甚微，甚至还不如直接用“自由软件”。“free software”这个说法天生就只有两种含义，其中一个是我们设想的含义，所以领会了“言论自由，而并非免费的啤酒”的人就不会曲解它。但是“开源”只有一个天然的含义，但是这个含义却和它的支持者们预想的不同。所以不存在一个一劳永逸的方法来解释和证明其官方定义。这就产生了更大的歧义。
 
 Another misunderstanding of “open source” is the idea that it means “not
 using the GNU GPL.” This tends to accompany another misunderstanding
@@ -237,7 +237,7 @@ stretch the term so far that it only means “participatory” or
 “transparent”, or less than that. At worst, it has become a vacuous
 buzzword.[(11)](#FOOT11)
 
-“开放源代码”更已经被引申和应用到了其他活动中，比如政府、教育和科学，那些没有源代码的，与软件的标准并不相关的领域。这些活动有唯一的共同点是他们只是以某种方式邀请人们参加。而目前为止这个概念只是被引申成了“参与”或“透明”而以，甚至更浅。最坏的情况，它已成为一个空洞的流行语[^11]。
+“开放源代码”更已经被引申和应用到了其他活动中，比如政府、教育和科学，那些没有源代码的，与软件的标准并不相关的领域。这些活动有唯一的共同点是他们只是以某种方式邀请人们参加。而目前为止这个概念只是被引申成了“参与”或“透明”而已，甚至更浅。最坏的情况，它已成为一个空洞的流行语[^11]。
 
 ### Different Values Can Lead to Similar Conclusions…but Not Always {#different-values-can-lead-to-similar-conclusionsbut-notalways .subheading}
 
@@ -249,7 +249,7 @@ the two daughter groups treated each other as enemies despite having
 similar basic goals and values. The right wing made much of this and
 used it to criticize the entire left.
 
-二十世纪六十年代，激进组织因为派别纷争而获得一些声誉：一些组织因为对策略上细节的分歧而导致分裂。尽管依然有着相似的基本目标和价值观，但是分裂出来的两个组织往往把对方当作敌人。右翼组织做过很多类似行为，并以此来批评左派。
+二十世纪六十年代，激进组织因为派别纷争而获得一些声誉：一些组织因为对策略上细节的分歧而导致分裂。尽管依然有着相似的基本目标和价值观，但是分裂出来的两个组织往往把对方当作敌人。右翼利用了这一点，来抨击整个左派。
 
 Some try to disparage the free software movement by comparing our
 disagreement with open source to the disagreements of those radical
@@ -276,7 +276,7 @@ powerful and reliable, even though it does not respect the users’
 freedom. Free software activists and open source enthusiasts will react
 very differently to that.
 
-开源的思想是允许用户修改和重新发布软件以使它更强大、更可靠。但是这些并不能得到保证。专有软件的开发者们并非必然就不称职。有时他们开发的程序是强大而且可靠的，尽管它并没有尊重用户的自由。自由软件积极分子和开源爱好者对此的反应是非常不同的。
+开源的思想是允许用户修改和重新发布软件以使它更强大、更可靠。但是这些并不能得到保证。专有软件的开发者们并不一定就不称职。有时他们开发的程序是强大而且可靠的，尽管它并没有尊重用户的自由。自由软件积极分子和开源爱好者对此的反应是非常不同的。
 
 A pure open source enthusiast, one that is not at all influenced by the
 ideals of free software, will say, “I am surprised you were able to make
@@ -292,7 +292,7 @@ work done some other way, and support a project to develop a free
 replacement.” If we value our freedom, we can act to maintain and defend
 it.
 
-自由软件积极拥护者会说：“虽然你的程序很吸引人，但不能和我的自由相提并论。所以我不得不放弃它。相反，我会支持开发自由替代品的项目”。如果我们重视自由，那么就会用行动来维护和捍卫。
+自由软件积极拥护者会说：“你的程序很吸引人，但我更珍视我的自由。所以我抵制你的程序。我会以其他方式努力，支持一个开发自由替代品的项目。”如果我们珍视我们的自由，我们能行动起来保卫它。
 
 ### Powerful, Reliable Software Can Be Bad {#powerful-reliable-software-can-be-bad .subheading}
 
@@ -302,7 +302,7 @@ The idea that we want software to be powerful and reliable comes from
 the supposition that the software is designed to serve its users. If it
 is powerful and reliable, that means it serves them better.
 
-我们想让软件变得强大、可靠的想法，来自软件被设计用于服务它的用户的假设。如果软件强大、可靠，这意味着它将很好地服务于用户。
+我们想让软件变得强大、可靠的想法，来自软件被设计用于服务它的用户的假设。如果软件强大、可靠，这意味着它将更好地服务于用户。
 
 But software can be said to serve its users only if it respects their
 freedom. What if the software is designed to put chains on its users?
@@ -312,7 +312,7 @@ spying on the users, restricting the users, back doors, and imposed
 upgrades are common in proprietary software, and some open source
 supporters want to implement them in open source programs.
 
-然而只有在软件尊重了用户的自由时，才能说它服务于用户。如果软件被设计的目的是使用户枷锁加身会怎样呢？那样的话，强大仅仅意味着枷锁套得更紧，而可靠则使枷锁更难去除。恶意的功能，比如针对用户的间谍行为、限制用户、后门和在专有软件里很常见的强制性升级，甚至有些开源的支持者也想实现这些。
+然而只有在软件尊重了用户的自由时，才能说它服务于用户。如果软件被设计的目的是使用户枷锁缠身会怎样呢？那样的话，强大仅仅意味着枷锁套得更紧，而可靠则使枷锁更难去除。恶意的功能，比如针对用户的间谍行为、限制用户、后门和在专有软件里很常见的强制性升级，甚至有些开源的支持者也想实现这些。
 
 Under pressure from the movie and record companies, software for
 individuals to use is increasingly designed specifically to restrict
@@ -333,7 +333,7 @@ others to change it, they will produce more powerful and reliable
 software for restricting users like you. The software would then be
 delivered to you in devices that do not allow you to change it.
 
-然而，一些开源支持者提出了所谓“开源 DRM”软件。他们的想法是，通过公开并允许人们修改那些被设计成用来限制你访问加密媒体的程序的源代码，来为像你这样的受限用户生产更加强大、可靠的软件。然后，再将这些程序放到那些不允许你修改的设备中发布。
+然而，一些开源支持者提出了所谓“开源 DRM”软件。他们的想法是，通过公开并允许人们修改那些被设计成用来限制你访问加密媒体的程序的源代码，生产更加强大、可靠的软件来限制像你这样的用户。然后，再将这些程序放到那些不允许你修改的设备中发布。
 
 This software might be open source and use the open source development
 model, but it won’t be free software since it won’t respect the freedom
@@ -389,7 +389,7 @@ quiet” approach to business can be useful for the community, but it is
 dangerous if it becomes so common that the love of freedom comes to seem
 like an eccentricity.
 
-迟早这些会因为一些实际利益而转向专有软件。无数的公司试图提供这种诱惑，有些甚至提供免费副本。为什么用户会减少？只有他们领悟了自由软件所赋予用户的自由，去珍惜自由的价值，而不只关心特定自由软件在技术上和实用性上的方便性价值，他们就会明白了。为了传播这种思想，我们必须谈论自由。对商业采取一定的沉默方式对于社区来说是有益的，但是，如果大家普遍地把对自由的向往看作是一种怪癖，那将是很危险的。
+迟早这些用户会因为一些实际利益而转向专有软件。无数的公司试图提供这种诱惑，有些甚至提供免费副本。为什么用户会减少？只有他们领悟了自由软件所赋予用户的自由，去珍惜自由的价值，而不只关心特定自由软件在技术上和实用性上的方便性价值，他们就会明白了。为了传播这种思想，我们必须谈论自由。对商业采取一定的沉默方式对于社区来说是有益的，但是，如果大家普遍地把对自由的向往看作是一种怪癖，那将是很危险的。
 
 That dangerous situation is exactly what we have. Most people involved
 with free software, especially its distributors, say little about
@@ -438,7 +438,7 @@ they recognize that we stand for something *else.* Any activity that
 promotes the word “open” tends to extend the curtain that hides the
 ideas of the free software movement.
 
-“自由”和“开放”是一对传播上对立概念。“自由软件”和“开源”虽然是不同的思想，大多数认为i这两个在概念上是相同的。当人们变得习惯于说和思考“开源”，这对他们获取自由软件运动的理念和思考是一个障碍。如果他们已经将“开放”和我们联系起来，在他们认识到我们代表*其他事情*之前，也许需要冲击他们的理性。任何推广“开放”的活动实际上都会更深的让自由软件运动隐藏在幕后。
+“自由”和“开放”是一对传播上对立概念。“自由软件”和“开源”虽然是不同的思想，大多数人认为这两个在概念上是相同的。当人们变得习惯于说和思考“开源”，这对他们获取自由软件运动的理念和思考是一个障碍。如果他们已经将“开放”和我们联系起来，在他们认识到我们代表*其他事情*之前，也许需要冲击他们的理性。任何推广“开放”的活动实际上都会更深的让自由软件运动隐藏在幕后。
 
 Thus, free software activists are well advised to decline to work on an
 activity that calls itself “open.” Even if the activity is good in and

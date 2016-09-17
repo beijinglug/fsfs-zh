@@ -25,7 +25,7 @@ O’Reilly Associates, which published them with restrictive terms—no
 copying, no modification, source files not available—which exclude them
 from the free software community.
 
-为什么会如此？作者为 O'Reilly 协会编写了优秀的手册，而又附加了限制条款出版这些手册——不能复制、不能修改、不能获得源文件——这使得它们被排除在自由软件社区之外。
+为什么会如此？作者为 O'Reilly 协会编写了优秀的手册，而 O'Reilly 附加了限制条款出版这些手册——不能复制、不能修改、不能获得源文件——这使得它们被排除在自由软件社区之外。
 
 That wasn’t the first time this sort of thing has happened, and (to our
 community’s great loss) it was far from the last. Proprietary manual
@@ -52,7 +52,7 @@ while these manuals are available only on paper. GNU manuals come with
 permission to copy and modify; the Perl manuals do not. These
 restrictions are the problems.
 
-和自由软件一样，自由文档是一个关乎自由的问题，并非价格。这些手册相关的问题不是因为 O'Reilly 对印本收取了费用，而是它本身就是一种限制。（自由软件基金会也销售自由的 GUN 手册印本[^1]）但当这些手册只能以纸张的形式获得时，GNU 手册还可以获取其源代码。GUN 手册允许复制和修改；Perl 的手册则不可以，这些限制就是问题所在。
+和自由软件一样，自由文档是一个关乎自由的问题，并非价格。这些手册相关的问题不是因为 O'Reilly 对印本收取了费用——这本身不是问题。（自由软件基金会也销售自由的 GNU 手册印本[^1]）但 GNU 手册能以源代码形式获得，而这些手册只能以纸张的形式获得。GNU 手册允许复制和修改；Perl 的手册则不可以，这些限制就是问题所在。
 
 @firstcopyingnotice{{@footnoterule @smallskip Copyright © 1996–2007,
 2009 Free Software Foundation, Inc.\
@@ -84,7 +84,7 @@ which forbids programmers from being conscientious and finishing the
 job, or more precisely requires them to write a new manual from scratch
 if they change the program, does not fill our community’s needs.
 
-不过，自由软件文档的修改对自由是很重要，这里有个特殊的原因。当人们行使他们修改软件权力的时候，添加或是修改软件功能时，若有责任心的人，他们也会同时修改软件的手册——以便为修改后的软件提供准确可用的文档。一个不允许编程人员有责任心的完成他的工作，或更确切地要求程序员修改程序之后重新写一份手册，是满足不了我们社区需求的。
+不过，自由软件文档的修改对自由很重要，这里有个特殊的原因。当人们行使他们修改软件权力的时候，添加或是修改软件功能时，若有责任心的人，他们也会同时修改软件的手册——以便为修改后的软件提供准确可用的文档。一个不允许编程人员有责任心地完成他的工作，或更确切地要求程序员修改程序之后重新写一份手册，是满足不了我们社区需求的。
 
 While a blanket prohibition on modification is unacceptable, some kinds
 of limits on the method of modification pose no problem. For example,
@@ -95,21 +95,21 @@ modified, even to have entire sections that may not be deleted or
 changed, as long as these sections deal with nontechnical topics. (Some
 GNU manuals have them.)
 
-尽管全面禁止修改是不可接受的，但一些受限的修改方法还是可以接受的。例如，要求保留原作者的版权声明，发布条款或是作者名单，上述这些都是可以的。要告知版本已经被修改，甚至不许删除或修改整个章节，只要对这些章节做一些非技术性话题处理，像这些要求都没问题（一些 GNU 手册就是如此）。
+尽管全面禁止修改是不可接受的，但一些受限的修改方法还是可以接受的。例如，要求保留原作者的版权声明，发布条款或是作者名单，上述这些都是可以的。要告知版本已经被修改，甚至不许删除或修改整个章节，只要这些章节处理的是一些非技术性话题，像这些要求都没问题（一些 GNU 手册就是如此）。
 
 These kinds of restrictions are not a problem because, as a practical
 matter, they don’t stop the conscientious programmer from adapting the
 manual to fit the modified program. In other words, they don’t block the
 free software community from making full use of the manual.
 
-这些限制不是问题所在，因为作为一个实际问题，他们没有阻挡有责任心的程序员去修改手册以适应修改过的程序。换句话说，他们没有阻止自由软件社区充分利用该手册。
+这类限制不是问题所在，因为作为一个实际问题，他们没有阻挡有责任心的程序员去修改手册以适应修改过的程序。换句话说，他们没有阻止自由软件社区充分利用该手册。
 
 However, it must be possible to modify all the *technical* content of
 the manual, and then distribute the result through all the usual media,
 through all the usual channels; otherwise, the restrictions do block the
 community, the manual is not free, and so we need another manual.
 
-然而，它必须能修改手册所有的*技术*内容，且随后通过所有常规渠道，在所有常规媒体中发布结果。否则，这些限制一定会阻碍社区，因为手册不是自由的，所以我们需要另一本手册。
+然而，它必须能修改手册所有的*技术*内容，且随后通过所有常规渠道，在所有常规媒体中发布结果。否则，这些限制一定会阻碍社区，而手册变得不自由，而因此我们需要另一本手册。
 
 Unfortunately, it is often hard to find someone to write another manual
 when a proprietary manual exists. The obstacle is that many users think
@@ -132,7 +132,7 @@ are entitled to their opinions, but since those opinions spring from
 values which do not include freedom, they are no guide for those of us
 who do value freedom.
 
-其他用户认为，专有手册可以被接受和许多人认为专有软件可以被接受有着同样的原因：他们纯粹是以实际需求来评判，而不将自由作为一项判断依据。这些人有权表达观点，但由于这些观点滋生于不自由的价值观，所以无法指导我们这些评判自由的人。
+其他用户认为，专有手册可以被接受和许多人认为专有软件可以被接受有着同样的原因：他们纯粹是以实际需求来评判，而不将自由作为一项判断依据。这些人有权表达观点，但由于这些观点滋生于不自由的价值观，所以无法指导我们这些切实重视自由的人。
 
 Please spread the word about this issue. We continue to lose manuals to
 proprietary publishing. If we spread the word that proprietary manuals
@@ -140,14 +140,14 @@ are not sufficient, perhaps the next person who wants to help GNU by
 writing documentation will realize, before it is too late, that he must
 above all make it free.
 
-请将这个问题公之于众。我们仍然认为需要减少专有手册的出版量。如果我们推广专有手册不够好，也许下一个愿意帮助 GNU 写文档的人将在为时太晚之前认识到，他必须首先使它自由。
+请将这个问题公之于众。我们仍然认为需要减少专有手册的出版量。如果我们传播专有手册不够好的言论，也许下一个愿意帮助 GNU 写文档的人将在为时太晚之前认识到，他必须首先使它自由。
 
 We can also encourage commercial publishers to sell free, copylefted
 manuals instead of proprietary ones.[(2)](#FOOT2) One way you can help
 this is to check the distribution terms of a manual before you buy it,
 and prefer copylefted manuals to noncopylefted ones.
 
-我们也可以鼓励商业出版商销售自由、Copyleft 的手册以代替专有手册[^2]。而帮助这项事业的方法是购买之前检查手册的分发条款，尽量购买 copyleft 的手册，而不是非 copyleft 的手册。
+我们也可以鼓励商业出版商销售自由、Copyleft 的手册以代替专有手册[^2]。而帮助这项事业的方法是在购买之前检查手册的分发条款，尽量购买 copyleft 的手册，而不是非 copyleft 的手册。
 
 ### [(1)](#DOCF1)
 
