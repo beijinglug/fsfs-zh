@@ -83,10 +83,6 @@
 
 如果你打算写一个新的许可证，请首先向通过上面这个邮件联系自由软件基金会。不同的自由软件许可证意味着用户需要花费更多精力来理解；我们也许可以帮你从现有的自由软件许可证里找到符合你需要的。
 
-If that isn’t possible, if you really need a new license, with our help
-you can ensure that the license really is a free software license and
-avoid various practical problems.
-
 如果这样依然不行，如果真的需要一张新的许可证，有了我们的帮助也可以确保许可证符合自由软件标准并避免一些现实问题。
 
 ### 软件之外
