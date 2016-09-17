@@ -110,7 +110,7 @@ suggests use of nonfree add-ons, while LibreOffice shuns them. We
 developed IceCat[(6)](#FOOT6) initially to avoid proposing the nonfree
 add-ons suggested by Firefox.
 
-然而，在自由操作系统上运行的非自由软件是一个完全不同的问题，由于这是在诱导用户在自由之路上倒退。在某些情况下我们完全禁止这样做：例如 GCC 禁止任何非自由插件。[(5)](#FOOT5)当一个程序允许非自由扩展的时候，它至少不应该引导用户使用它们。例如，我们更倾向于选择 LibreOffice 而非 OpenOffice，由于后者提示用户使用非自由扩展，而 LibreOffice 则拒绝它们。我们开发冰猫（IceCat）[(6)](#FOOT6)起初也是为了避免向用户推广由火狐（FireFox）建议使用的非自由扩展。
+然而，在自由程序上运行的非自由程序是一个完全不同的问题，由于这是在诱导用户在自由之路上倒退。在某些情况下我们完全禁止这样做：例如 GCC 禁止任何非自由插件。[(5)](#FOOT5)当一个程序允许非自由扩展的时候，它至少不应该引导用户使用它们。例如，我们更倾向于选择 LibreOffice 而非 OpenOffice，由于后者提示用户使用非自由扩展，而 LibreOffice 则拒绝它们。我们开发冰猫（IceCat）[(6)](#FOOT6)起初也是为了避免向用户推广由火狐（FireFox）建议使用的非自由扩展。
 
 In practice, if the IceCat package explains how to run IceCat on MacOS,
 that will not lead people to run MacOS. But if it talked about some
@@ -128,7 +128,7 @@ not hint that it exists. Sometimes we support interoperation with the
 nonfree program if that is installed, but avoid telling users about the
 possibility of doing so.
 
-有时一个自由软件和一个非自由软件协同工作，但其中任何一方都不是基于另一方的。我们针对这种情况的规则是，如果该非自由软件非常有名，我们应当告知人们如何使用我们的自由软件与之工作；但如果该非自由软件鲜为人知，我们不应该暗示其存在。有时我们会在该非自由软件存在的情况下提供互操作支持，但避免告知用户如此做的可能性。
+有时一个自由软件和一个非自由软件协同工作，但其中任何一方都不是基于另一方的。我们针对这种情况的规则是，如果该非自由软件非常有名，我们应当告知人们如何使用我们的自由软件与之工作；但如果该专有软件鲜为人知，我们不应该暗示其存在。有时我们会在该非自由软件存在的情况下提供互操作支持，但避免告知用户如此做的可能性。
 
 We reject “enhancements” that would work only on a nonfree system. Those
 would encourage people to use the nonfree system instead of GNU, scoring

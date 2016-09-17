@@ -31,7 +31,7 @@ operating system: the whole system is basically GNU with Linux added, or
 GNU/Linux. All the so-called “Linux” distributions are really
 distributions of GNU/Linux.
 
-Linux 也确实存在的，并且那些用户确实也是在使用它，不过它仅仅是这些用户所使用的操作系统的
+Linux 也确实存在，并且那些用户确实也是在使用它，不过它仅仅是这些用户所使用的操作系统的
 一部分。Linux 仅仅只是一个内核: 它就是分配你硬件设备上的资源给其他你所使用的程序的一个
 特殊程序。内核是操作系统中不可或缺的一部分，但是只有内核是远远不够的。内核仅能在完整操作系统
 的环境下才能正常工作。一般来讲，Linux 会与 GNU 操作系统合起来使用: 整个系统就是添加了
