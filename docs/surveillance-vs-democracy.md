@@ -62,7 +62,7 @@
 
 我们需要将这样的隐私设计融入我们所有的数字系统。
 
-### 对数据采集的补救：让数据分散化
+### 对数据采集的补救：分布式数据
 
 One way to make monitoring safe for privacy is to keep the data
 dispersed and inconvenient to access. Old-fashioned security cameras
@@ -73,7 +73,7 @@ massively; they were accessed only in the places where someone reported
 a crime. It would not be feasible to physically collect millions of
 tapes every day and watch them or copy them.
 
-使监控行为不危害隐私的一种方式是保持数据处于分散状态从而难于访问。老式的安全摄像机对于隐私很少构成威胁[(23)](#FOOT23)，由于录像数据存储在安装这些设备的营业场所内，并且至多被保存几周。由于访问这些数据相对困难，这种数据采集行动从未被大规模部署；只有当某人报导一起犯罪行为时，这些影响数据才会被访问。每天对数以百万计的数据卡带进行人工采集再进行观看或复制可能是不现实的。
+使监控行为不危害隐私的一种方式是保持分布式（dispersed）数据从而难于访问。老式的保安摄像头对于隐私很少构成威胁[(23)](#FOOT23)，由于录像数据存储在安装这些设备的营业场所内，并且至多被保存几周。由于访问这些数据相对困难，这种数据采集行动从未被大规模部署；只有当某人报导一起犯罪行为时，这些影响数据才会被访问。每天对数以百万计的数据卡带进行人工采集再进行观看或复制可能是不现实的。
 
 Nowadays, security cameras have become surveillance cameras: they are
 connected to the internet so recordings can be collected in a data
