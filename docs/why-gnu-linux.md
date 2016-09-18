@@ -1,5 +1,4 @@
-名字的含义？
-========
+## 名字的含义？
 
 > 关于此主题了解更多，你也可以阅读我们的 GNU/Linux FAQ <http://gnu.org/gnu/gnu-linux-faq.html> 的文章 *Linux和GNU系统*，它讲了 GNU/Linux 系统的历史，它和这命名的问题有关，以及文章 *从未听过GNU的GNU用户* <http://gnu.org/gnu/gnu-users-never-heard-of-gnu.html>。Copyright © 2000, 2006, 2007 Richard Stallman
 > 原中译 monnand，此处略有修改
