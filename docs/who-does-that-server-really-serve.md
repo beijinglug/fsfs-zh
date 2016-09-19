@@ -44,8 +44,6 @@ SaaSS 指的是使用某种由其他人实现的服务来替代您所运行的�
 
 然后，我们开始意识到，短语 SaaS 有时用于通讯服务——而这一名称并不适用于这些活动。此外，短语“软件即服务”并不能解释为何这是一种坏的实践，于是我们打造了这一短语“服务作为软件替代品”，这一称谓对这种坏的实践给出了更为清晰的定义，并且解释了它*为什么*是坏的。
 
-### Untangling the SaaSS Issue from the Proprietary Software Issue {#untangling-the-saass-issue-from-the-proprietary-software-issue .subheading}
-
 ### 理清 SaaSS 带来的问题和私有软件带来的问题
 
 SaaSS 和私有软件将会带来相似的后果，但二者的作用机制并不相同。对于私有软件，其机制是您拥有一份副本，但对其进行修改是困难或者非法的。而对于 SaaSS，其机制是您不能拥有一份您所用于计算的软件副本。
