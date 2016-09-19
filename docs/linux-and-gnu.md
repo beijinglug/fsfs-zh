@@ -148,5 +148,4 @@ historical/kernel/old-versions/RELNOTES-0.01](http://ftp.funet.fi/pub/linux/%3Cb
 
 [^15]: 从另一个方面来讲，在此文撰写的这几年间，GNU C 运行库已经被移植到了
 很多版本的 BSD 内核上，这为集成 GNU 操作系统到该内核上带来了方便。就像 GNU/Linux
-那样，GNU 还有好多个变种，比如 GNU/kFreeBSD 和 GNU/kNetBSD。普通桌面用户可能
-不好区分 GNU/Linux 和 GNU/*BSD。 
+那样，GNU 还有好多个变种，比如 GNU/kFreeBSD 和 GNU/kNetBSD。普通桌面用户可能不好区分 GNU/Linux 和 GNU/*BSD。 
