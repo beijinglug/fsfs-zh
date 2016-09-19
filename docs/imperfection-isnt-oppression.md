@@ -1,90 +1,20 @@
----
-Generator: 'texi2html 1.82'
-description: Untitled Document
-distribution: global
-keywords: Untitled Document
-resource-type: document
-title: Untitled Document
-...
+## 缺陷并不等同于压迫
 
-1. Imperfection Is Not the Same as Oppression {#imperfection-is-not-the-same-as-oppression .chapter}
-=============================================
+> Copyright (C) 2014 自由软件基金会
 
-缺陷并不等同于压迫
-==================
-
-@firstcopyingnotice{{ 著作权所有 (C) 2014 自由软件基金会 {此版本是 @fsfsthreecite 的一部分}
-
-When a free program lacks capabilities that users want, that is
-unfortunate; we urge people to add what is missing. Some would go
-further and claim that a program is not even free software if it lacks
-certain functionality—that it denies freedom 0 (the freedom to run the
-program as you wish) to users or uses that it does not support. This
-argument is misguided because it is based on identifying capacity with
-freedom, and imperfection with oppression.
-
-如果一款自由软件缺少用户想要的某些功能，这将是一件不幸的事；我们敦促人们添加所缺失的功能。某些人可能会更进一步，并且宣称一款软件甚至不能称之为自由软件，如果它缺少某些功能——由于它拒绝了其所不能支持的用户或应用场景的自由之零（以任何方式运行软件的自由）。这一论述是理解错误的，由于它将功能判定为自由，而将缺陷等同于压迫。
-
-Each program inevitably has certain functionalities and lacks others
-that might be desirable. There are some jobs it can do, and others it
-can’t do without further work. This is the nature of software.
+如果一款自由软件缺少用户想要的某些功能，这将是一件不幸的事；我们敦促人们添加所缺失的功能。某些人可能会更进一步，并且宣称一款软件甚至不能称之为自由软件，如果它缺少某些功能——由于它拒绝了其所不能支持的用户或应用场景的自由之零（以任何方式运行软件的自由）。这一论述是理解错误的，因为它将功能判定为自由，而将缺陷等同于压迫。
 
 任何软件在拥有特定功能的同时，不可避免地缺少某些可能是值得期待的其他功能。它可被用于执行某些任务，而它需要今后的进一步开发完善才能执行其他一些任务，这正是软件的本质。
 
-The absence of key functionality can mean certain users find the program
-totally unusable. For instance, if you only understand graphical
-interfaces, a command line program may be impossible for you to use. If
-you can’t see the screen, a program without a screen reader may be
-impossible for you to use. If you speak only Greek, a program with menus
-and messages in English may be impossible for you to use. If your
-programs are written in Ada, a C compiler is impossible for you to use.
-To overcome these barriers yourself is unreasonable to demand of you.
-Free software really ought to provide the functionality you need.
-
 缺少某些关键的功能可能意味着特定用户将会认为该软件完全不可用。例如，如果您只懂得使用图形界面，一款命令行界面的软件可能对您而言完全不可用；如果您不能看清屏幕，一款不带屏幕读取器的软件可能对您而言完全不可用；如果您只会讲希腊语，一款带有英语菜单和提示信息的软件可能对您完全不可用；如果您的源程序是使用 Ada 语言编写的，一款 C 语言编译器可能对您完全不可用。要求您自己克服这样的障碍是不合理的。自由软件确实应该提供您所需要的功能。
-
-Free software really ought to provide it, but the lack of that feature
-does not make the program nonfree, because it is an imperfection, not
-oppression.
 
 自由软件确实应该提供这些功能，然而缺少这些功能并不会使得这款软件成为非自由的，因为这只是一种缺陷而非一种压迫。
 
-Making a program nonfree is an injustice committed by the developer that
-denies freedom to whoever uses it. The developer deserves condemnation
-for this. It is crucial to condemn that developer, because nobody else
-can undo the injustice as long as the developer continues to do it. We
-can, and do, try to rescue the victims by developing a free replacement,
-but we can’t make the nonfree program free.
-
-使一款软件成为非自由的是由拒绝用户自由的开发者做出的不公行为。这样的开发者应该因此而受到谴责。谴责这样的开发者是重要的，因为没有其他人能够解除这种不公，只要开发者持续如此做。我们可以，并且确实在试图通过开发自由的替代品来挽救私有软件的受害者。但我们不能使那些私有软件变成自由的。
-
-Developing a free program without adding a certain important feature is
-not doing wrong to anyone. Rather, it’s doing some good but not all the
-good that people need. Nobody in particular deserves condemnation for
-not developing the missing feature, since any capable person could do
-it. It would be ungrateful, as well as self-defeating, to single out the
-free program’s authors for blame for not having done some additional
-work.
+使一款软件成为非自由的是由拒绝用户自由的开发者做出的不公行为。这样的开发者应该因此而受到谴责。谴责这样的开发者是重要的，因为开发者一直这么做这样其他人就不能够解除这种不公。我们可以，并且确实在试图通过开发自由的替代品来挽救私有软件的受害者。但我们不能使那些私有软件变成自由的。
 
 开发一款自由软件而没有添加某些重要功能并不是对任何人作恶。与之相反，这在某种程度上是在做好事，只是尚未实现人们所需要的全部好处。并没有某些特定的人应该因为未能开发出某些缺失的功能而受到谴责，因为任何有能力进行弥补的人都可以做。单独拿出自由软件的作者并且指责他们未能完成某些额外的工作是不通情理的，并且这样做只会自讨苦吃。
 
-What we can do is state that completing the job calls for doing some
-additional work. That is constructive because it helps us convince
-someone to do that work.
+我们所能做的是指出完成这项任务尚需进行哪些额外的开发工作。这将是建设性的，因为这有助于我们说服某些有能力的人去从事那些开发工作。
 
-我们所能做的是指出完成这项任务尚需进行哪些额外的开发工作。这将是建设性的，由于这有助于我们说服某些有能力的人去从事那些开发工作。
+如果您认为某个自由软件中的某个特定扩展程序十分重要，请以一种尊重我们贡献的方式提出。不要批判那些已经为我们贡献了有用代码的人。与之相反，您应该试着找到一种方式以完成任务。您可以敦促该程序的开发者在他们有时间进行更多工作的时候关注所缺失的功能；您还可以为他们提供帮助；您也可以通过招募人员或者筹集资金的方式支持这项工作。
 
-If you think a certain extension in a free program is important, please
-push for it in the way that respects our contributors. Don’t criticize
-the people who contributed the useful code we have. Rather, look for a
-way to complete the job. You can urge the program’s developers to turn
-their attention to the missing feature when they have time for more
-work. You can offer to help them. You can recruit people or raise funds
-to support the work.
-
-如果您认为某个自由软件中的某个特定扩展程序十分重要，请以一种尊重我们的贡献的方式提出。不要批判那些已经为我们贡献了有用代码的人。与之相反，应该试着找到一种方式以完成任务。您可以敦促该程序的开发者在他们有时间进行更多工作的时候关注所缺失的功能；您还可以为他们提供帮助；您也可以通过招募人员或者筹集资金的方式支持这项工作。
-
-------------------------------------------------------------------------
-
-This document was generated by *tonghuix* on *March 25, 2016* using
-[*texi2html 1.82*](http://www.nongnu.org/texi2html/).\
