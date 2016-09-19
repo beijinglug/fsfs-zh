@@ -1,119 +1,28 @@
----
-Generator: 'texi2html 1.82'
-description: Untitled Document
-distribution: global
-keywords: Untitled Document
-resource-type: document
-title: Untitled Document
-...
-
-1. The Danger of Software Patents {#the-danger-of-software-patents .chapter}
-=================================
-
-软件专利的威胁
-==============
-
-> This is an unedited transcript of the talk presented by Richard
-> Stallman on 8 October 2009 at Victoria University of Wellington, in
-> Wellington, New Zealand.
+## 软件专利的威胁
 
 > 本文是 Richard Stallman 于 2009 年十月 8 日在位于新西兰惠灵顿的惠灵顿维多利亚大学所做的演讲的未编辑抄本。
 
-@firstcopyingnotice{{著作权所有 (C) 2009, 2010, 2014 Richard Stallman {此抄本最初于 2009 年发表于 <http://gnu.org>。此版本是 @fsfsthreecite 的一部分。} 
-
-I’m most known for starting the
-free software movement and leading development of the GNU operating
-system—although most of the people who use the system mistakenly believe
-it’s Linux and think it was started by somebody else a decade later. But
-I’m not going to be speaking about any of that today. I’m here to talk
-about a legal danger to all software developers, distributors, and
-users: the danger of patents—on computational ideas, computational
-techniques, an idea for something you can do on a computer.
+著作权所有 (C) 2009, 2010, 2014 Richard Stallman 此抄本最初于 2009 年发表于 <http://gnu.org>。
 
 我所做的最出名的事情是发起自由软件运动以及领导开发 GNU 操作系统——尽管大部分使用它的人们错误地认为它是 Linux，并且认为它是由其他人在十年之后发起的。但是我今天并不打算谈论与之相关的任何话题。我在此是想讲述一种对所有的软件开发者、发布者和用户的合法威胁：专利的威胁——不论是对于计算思想、计算技术还是对于您所能在计算机上进行的任何事情的想法。
 
-Now, to understand this issue, the first thing you need to realize is
-that patent law has nothing to do with copyright law—they’re totally
-different. Whatever you learn about one of them, you can be sure it
-doesn’t apply to the other.
-
 现在，为了认识这个问题，您需要认识到的最重要的事情是，专利法与版权法没有任何关系——它们是完全不同的。对于您所了解的关于它们之一的任何东西，您都可以确认它们并不适用于另一方。
-
-So, for example, any time a person makes a statement about “intellectual
-property,” that’s spreading confusion, because it’s lumping together not
-only these two laws but also at least a dozen others. They’re all
-different, and the result is any statement which purports to be about
-“intellectual property” is pure confusion—either the person making the
-statement is confused, or the person is trying to confuse others. But
-either way, whether it’s accidental or malicious, it’s confusion.
 
 于是，举个例子，只要某人做出关于“知识产权”的论述，这就是在散播一种混淆。由于它不仅仅将专利法与版权法混为一谈，并且还混入了至少数十种其他东西。它们都是不同的，其结果是，任何大意是关于“知识产权”的论述都是一种混淆——要么做出这种论述的人本身处于混乱不清的状态，要么此人正在试图使其他人混乱不清。但不论何种情况，不论是无意的还是恶意的，这都是一种混淆。
 
-Protect yourself from this confusion by rejecting any statement which
-makes use of that term. The only way to make thoughtful comments and
-think clear thoughts about any one of these laws is to distinguish it
-first from all the others, and talk or think about one particular law,
-so that we can understand what it actually does and then form
-conclusions about it. So I’ll be talking about patent law, and what
-happens in those countries which have allowed patent law to restrict
-software.
-
 您必须拒绝接受任何使用那个短语的论述，才能使自己不被混淆。要想对于这些法律中的任何一个做出深刻的评价，并且进行清晰的思考，首先只有将其同其他东西区分开来，并且专注于讨论或思考某一特别的法律。这样，我们才能了解它真正在做什么，并且对其得出结论。因此，我在此将会讨论专利法，以及在那些允许专利法对软件进行限制的国家发生了什么。
-
-So, what does a patent do? A patent is an explicit, government-issued
-monopoly on using a certain idea. In the patent there’s a part called
-the claims, which describe exactly what you’re not allowed to do
-(although they’re written in a way you probably can’t understand). It’s
-a struggle to figure out what those prohibitions actually mean, and they
-may go on for many pages of fine print.
 
 那么，专利到底在做什么？一项专利是一种具体的、由政府批准的对于某一种想法的使用权的垄断。在专利中有一部分称为权利要求，它精确地描述了您所不被允许做的事情（尽管它们被书写为一种您很可能不能理解的形式）。要想获知那些禁令的真实涵义是一种费力的抗争，它们可能拥有很多页小字印刷的繁琐细则。
 
-So the patent typically lasts for 20 years, which is a fairly long time
-in our field. Twenty years ago there was no World Wide Web—a tremendous
-amount of the use of computers goes on in an area which wasn’t even
-possible to propose 20 years ago. So of course everything that people do
-on it is something that’s new since 20 years ago—at least in some aspect
-it is new. So if patents had been applied for we’d be prohibited from
-doing all of it, and we may be prohibited from doing all of it in
-countries that have been foolish enough to have such a policy.
-
-专利的有效期一般会持续 20 年，这对于我们的领域是一段相当长的时间。20 年前还没有万维网——海量的计算机应用进入了一个在 20 年前甚至不可能被提出的领域。当然，人们在其上做的每一件事对于 20 年前都是新奇的——至少在某些方面是新奇的。因此，如果专利被用于禁止我们去做某些事情，那么我们可能会被禁止做某些事情，在那些蠢到拥有这样的政策的国家。
-
-Most of the time, when people describe the function of the patent
-system, they have a vested interest in the system. They may be patent
-lawyers, or they may work in the Patent Office, or they may be in the
-patent office of a megacorporation, so they want you to like the system.
+专利的有效期一般会持续 20 年，这对于我们的领域是一段相当长的时间。20 年前还没有万维网——海量的计算机应用进入了一个在 20 年前甚至不可能被提出的领域。当然，人们在其上做的每一件事对于 20 年前都是新奇的——至少在某些方面是新奇的。因此，如果专利被申请了，我们会被禁止做所有这些事情，并且在那些蠢到拥有这样的政策的国家，我们会被禁止做所有这些事情。
 
 在大多数时间，当人们描述专利体系的功能时，他们会表现出对该体系的既定的兴趣。他们可能是专利律师，或者他们在专利局工作，或者他们在某家行业大鳄的专利部门工作。总之，他们想让您喜欢这种专利体系。
 
-The Economist once referred to the patent system as “a time-consuming
-lottery.” If you’ve ever seen publicity for a lottery, you understand
-how it works: they dwell on the very unlikely probability of winning,
-and they don’t talk about the overwhelming likelihood of losing. In this
-way, they intentionally and systematically present a biased picture of
-what’s likely to happen to you, without actually lying about any
-particular fact.
-
 《经济学人》杂志曾将专利系统称为“一种耗时的撞大运的事”。如果您曾经见过关于彩票的宣传，您将理解它如何运作：它们反复强调微不足道的获胜几率，并且从不提及压倒性的失败几率。通过如此做，它们有意地、系统性地展示了关于什么事情将会发生在您身上的带有偏向性的场景，而它们事实上却又并没有针对任何特定的事实撒谎。
-
-It’s the same way for the publicity for the patent system: they talk
-about what it’s like to walk down the street with a patent in your
-pocket—or first of all, what it’s like to get a patent, then what it’s
-like to have a patent in your pocket, and every so often you can pull it
-out and point it at somebody and say, “Give me your money.”
 
 对于专利系统的宣传与之类似：他们描述的是您走在街上，口袋里装着一纸专利证书的时候如何如何——或者先说获得一项专利将会如何如何，然后您在口袋里装有一纸专利证书的时候如何如何，通常您可以从口袋里拿出那张专利证书，用它指着别人说：“把你的钱给我。”
 
-To compensate for their bias, I’m going to describe it from the other
-side, the victim side—what it’s like for people who want to develop or
-distribute or run software. You have to worry that any day someone might
-walk up to you and point a patent at you and say, “Give me your money.”
-
 为了补偿它们的偏见，我将会从另一方面进行描述——即受害者的角度——那些想要开发、发布或者运行软件的人们将会如何如何。您不得不担心有朝一日，某人可能会向您走来，拿出一张专利证书指着您，说道：“把你的钱给我。”
-
-If you want to develop software in a country that allows software
-patents, and you want to work with patent law, what will you have to do?
 
 如果您想要在一个允许软件专利的国家开发软件，并且您想要配合专利法，您将必须去做哪些事呢？
 
@@ -125,18 +34,7 @@ list.
 
 您可以尝试列出一项关于您想要编写的程序中可能找到的各种想法和创意的清单。除此之外，您还需要面对这样的现实：您不知道您何时才能开始编写这个程序。但是，即使您已经完成编写该程序，您也不可能列出这样一份清单。
 
-The reason is…in the process you conceived of it in one particular
-way—you’ve got a mental structure to apply to your design. And because
-of that, it will block you from seeing other structures that somebody
-might use to understand the same program—because you’re not coming to it
-fresh; you already designed it with one structure in mind. Someone else
-who sees it for the first time might see a different structure, which
-involves different ideas, and it would be hard for you to see what those
-other ideas are. But nonetheless they’re implemented in your program,
-and those patents could prohibit your program, if those ideas are
-patented.
-
-造成这种情况的原因是……在您以某种特定的方式想出一种计划的过程中，您已经有了一种应用于您的设计的思想上的架构。正因为如此，它将阻止您去认识那些其他人可能用于理解同一程序的其他架构——因为您并不是首次想到它的；您已经在脑海中使用某种架构设计出了它。其他人在首次见到它的时候可能看到的是另一种架构，它涉及不同的想法和创意。但是尽管如此，它们在您的程序中实现了，因此相关的专利将会禁止您的程序，如果那些想法是受专利保护的。
+造成这种情况的原因是……在您以某种特定的方式想出一种计划的过程中，您已经有了一种应用于您的设计的思想上的架构。正因为如此，它将阻止您去认识那些其他人可能用于理解同一程序的其他架构——因为您并不是首次想到它的；您已经在脑海中使用某种架构设计出了它。其他人在首次见到它的时候可能看到的是另一种架构，它涉及不同的想法和创意，并且对你来说看到那些其他的想法和创意是什么是困难的。但是尽管如此，它们在您的程序中实现了，因此相关的专利将会禁止您的程序，如果那些想法是受专利保护的。
 
 For instance, suppose there were graphical-idea patents and you wanted
 to draw a square. Well, you would realize that if there was a patent on
@@ -149,71 +47,19 @@ corner.
 
 例如，假设有一些关于图形创意的专利，并且您想要绘制一个正方形。当然，您可能会意识到如果有一项关于“底边”的专利，它将阻止您绘制正方形。您可以将“底边”置于您的绘画中所不能实现的所有想法的黑名单中。但是，您也许不会预料到，如果某人持有一项“底角”专利，他仍然可以轻松地起诉您，由于他可以拿到您的绘画并且将其旋转 45 度。此时您的正方形看起来就有了底角。
 
-So you couldn’t make a list of all the ideas which, if patented, could
-prohibit your program.
-
 因此，您不可能列出一项想法的清单，其中这些想法一旦受到专利保护就将禁止您的程序。
-
-What you might try to do is find out all the ideas that are patented
-that might be in your program. Now you can’t do that actually, because
-patent applications are kept secret for at least 18 months; and the
-result is the Patent Office could be considering now whether to issue a
-patent, and they won’t tell you. And this is not just an academic,
-theoretical possibility.
 
 您可能会尝试去做的是试图找出所有可能在您的程序中使用的受专利保护的思想。然而，事实上您不可能做到这一点，由于专利申请在至少 18 个月内保密；其结果是专利局可以在这段时间内考虑是否批准一项专利，并且它们不会告知您。这不仅仅是学术上、理论上的可能性。
 
-For instance, in 1984 the Compress program was written, a program for
-compressing files using the data compression algorithm, and at that time
-there was no patent on that algorithm for compressing files. The author
-got the algorithm from an article in a journal. That was when we thought
-that the purpose of computer science journals was to publish algorithms
-so people could use them.
-
 例如，一款名为 Compress 的程序于 1984 年被编写出来，这是一款使用数据压缩算法来压缩文件的软件，而当时并没有关于那种文件压缩算法的专利。该软件的作者通过某家期刊上的一篇文章学到了该算法。当时，我们认为计算机科学期刊的目的应该是发布算法以供人们使用。
-
-He wrote this program, he released it, and in 1985 a patent was issued
-on that algorithm. But the patent holder was cunning and didn’t
-immediately go around telling people to stop using it. The patent holder
-figured, “Let’s let everybody dig their grave deeper.” A few years later
-they started threatening people; it became clear we couldn’t use
-Compress, so I asked for people to suggest other algorithms we could use
-for compressing files.
 
 此人编写并且发布了该软件，并且该算法于 1985 年获得专利。但是该专利拥有者非常精明，并不急于通告人们立即停止使用它。其专利拥有者看到了这一点：让每个人将自己的坟墓挖得更深一些。几年之后，该专利拥有者开始威胁人们，很显然，我们不能再使用 Compress，于是我请求人们推荐我们可用于压缩文件的其他算法。
 
-And somebody wrote and said, “I developed another data compression
-algorithm that works better, I’ve written a program, I’d like to give it
-to you.” So we got ready to release it, and a week before it was ready
-to be released, I read in The New York Times’ weekly patent column,
-which I rarely saw—it’s a couple of times a year I might see it—but just
-by luck I saw that someone had gotten a patent for “inventing a new
-method of compressing data.” And so I said we had better look at this,
-and sure enough it covered the program we were about to release. But it
-could have been worse: the patent could have been issued a year later,
-or two years later, or three years later, or five years later.
-
 而后，有人在来信中说到：“我开发出了另一种效果更佳的数据压缩算法，并且写出了一段程序，我愿意把它送给您。”于是，我们做好了发布它的准备，就在它将要被发布的一周之前，我特意阅读了《纽约时报》周刊的专利专栏，我很少去阅读它——可能每年只看几次——但幸运的是，我看到了某人已经得到了一项关于“发明一种用于数据压缩的新方法”的专利。于是我说我们最好看看这项专利。确实，它覆盖了我们马上就要发布的软件。但是事情还有可能变得更坏：这项专利可以再晚一年被批准，也许是两年、三年，或者五年。
-
-Anyway, someone else came up with another, even better compression
-algorithm, which was used in the program gzip, and just about everybody
-who wanted to compress files switched to gzip, so it sounds like a happy
-ending. But you’ll hear more later. It’s not entirely so happy.
 
 尽管如此，还是有其他人带来了又一种更好的压缩算法，这种压缩算法被用于 gzip 软件中，而几乎每一个想要压缩文件的用户都转向了 gzip，这看起来像是一个完美的结局。但是，您随后将会知道，并非整个过程都是这样美好。
 
-So, you can’t find out about the patents that are being considered even
-though they may prohibit your work once they come out, but you can find
-out about the already issued patents. They’re all published by the
-Patent Office. The problem is you can’t read them all, because there are
-too many of them.
-
 因此，您不能获知有关正在被评估的专利的任何信息，即使当它们粉墨登场的时候可能会禁止您的工作，但您可以获知已被批准的专利的信息。它们会由专利局公布，问题是您不可能全部阅读它们，由于它们实在是太多了。
-
-In the US I believe there are hundreds of thousands of software patents;
-keeping track of them would be a tremendous job. So you’re going to have
-to search for relevant patents. And you’ll find a lot of relevant
-patents, but you won’t necessarily find them all.
 
 在美国，我相信总共有数十万的软件专利；对它们保持跟踪是一项庞杂的工作。因此您将不得不随时查询相关专利。您将会找到大量相关专利，但您必然不可能找到它们的全部。
 
@@ -234,133 +80,33 @@ think of. But I don’t think it used the term “topological sort.”
 
 例如，在 20 世纪 80 到 90 年代，有一项关于在电子表格“重新计算自然级数”的专利。曾经有人向我索取一份它的副本，于是我在自己的列出了专利号的计算机文件中进行查询，并且复印了一份发送给对方。对方收到后说：“我想您发给我的不是我想要的专利。这项专利是关于编译器的。”于是我想可能是我们的文件中记录了错误的专利号。我再次查询它，并且确信它所描述的是“一种将公式编译到对象代码中的方法”。然后我开始仔细阅读它，以便确认它是否真的并非我们想找的专利。我读到了它的权利要求，发现它确实是关于重新计算自然级数的专利，但它并未使用这些短语。它没有使用“电子表格”这一短语。事实上，该专利禁止了数十种用于实现拓扑排序的方法——他们所能想到的所有方法。但是我并不认为它用到了“拓扑排序”这一短语。
 
-So if you were writing a spreadsheet and you tried to find relevant
-patents by searching, you might have found a lot of patents. But you
-wouldn’t have found this one until you told somebody, “Oh, I’m working
-on a spreadsheet,” and he said, “Oh, did you know those other companies
-that are making spreadsheets are getting sued?” Then you would have
-found out.
-
 因此，如果您正在编写一份电子表格并且试图通过搜索查询相关专利，您可能会找到大量相关专利。但是，您并不会发现这样一条专利，直到某一天您对某人说：“哦，我正在设计一份电子表格。”而对方说：“哦，你知道其他那些正在使电子表格软件受到起诉的公司吗？”然后您才会知道这一点。
-
-Well, you can’t find all the patents by searching, but you can find a
-lot of them. And then you’ve got to figure out what they mean, which is
-hard, because patents are written in tortuous legal language which is
-very hard to understand the real meaning of. So you’re going to have to
-spend a lot of time talking with an expensive lawyer explaining what you
-want to do in order to find out from the lawyer whether you’re allowed
-to do it.
 
 您不能通过搜索找出全部相关专利，但可以找到它们中的许多。然后您必须获知它们是什么意思，这是很困难的，由于专利是用冗长并且含混不清的法律语言书写的，很难理解其真正涵义。因此您将不得不花费大量时间和钱财向律师解释您想要做什么，以便从律师那里获知您是否被允许如此做。
 
-Even the patent holders often can’t recognize just what their patents
-mean. For instance, there’s somebody named Paul Heckel who released a
-program for displaying a lot of data on a small screen, and based on a
-couple of the ideas in that program he got a couple of patents.
-
 即使是那些专利持有人，通常也不能完全认出他们的专利到底是什么意思。例如，Paul Heckel 曾经发布了一个用于在小屏幕上显示大量数据的程序，基于此程序中的一些思想，此人获得了两项专利。
-
-I once tried to find a simple way to describe what claim 1 of one of
-those patents covered. I found that I couldn’t find any simpler way of
-saying it than what was in the patent itself; and that sentence, I
-couldn’t manage to keep it all in my mind at once, no matter how hard I
-tried.
 
 我曾经试图找出一种简单的方式以描述其中一项专利的要求 1 所覆盖的内容。然而，我发现我未能找到一种比其专利原文更简单的解释方式；而对于那条陈述，我不能试图一次性将其全部装入我的脑中，不论我多么努力地进行尝试。
 
-And Heckel couldn’t follow it either, because when he saw HyperCard, all
-he noticed was it was nothing like his program. It didn’t occur to him
-that the way his patent was written it might prohibit HyperCard; but his
-lawyer had that idea, so he threatened Apple. And then he threatened
-Apple’s customers, and eventually Apple made a settlement with him which
-is secret, so we don’t know who really won. And this is just an
-illustration of how hard it is for anybody to understand what a patent
-does or doesn’t prohibit.
-
 然而，Heckel 也未能抓住其本质，由于当他看到 HyperCard 这一概念时，他所能发现的是这与他的程序全然不似。他并没有想到他的专利书写方式将会禁止 HyperCard；但是他的律师却有这种想法，于是他威胁苹果。然后他威胁了苹果的用户，最终，苹果与此人达成了一项不为外人所知的和解方案，因此我们不知谁是真正赢家。因此，这一例子足以说明任何人想要获知某项专利是否禁止某一事情到底有多么困难。
-
-In fact, I once gave this speech and Heckel was in the audience. And at
-this point he jumped up and said, “That’s not true, I just didn’t know
-the scope of my protection.” And I said, “Yeah, that’s what I said,” at
-which point he sat down and that was the end of my experience being
-heckled by Heckel. If I had said no, he probably would have found a way
-to argue with me.
 
 事实上，我之前曾进行过这篇演讲，并且 Heckel 也是听众之一。当演讲进行到这个节点之时，他跳了起来，说道：“这不是真的，我只是不知道我自己的专利所保护的范围。”我于是说道：“这正是我所讲的。”此时他坐下了，而这正是我被 Heckel 所诘问的经历的结束。如果我当时说“不”，他很可能找到某种方式与我辩论。
 
-Anyway, after a long, expensive conversation with a lawyer, the lawyer
-will give you an answer like this:
-
 尽管如此，在与律师进行过一段冗长并且昂贵的交谈之后，律师很可能会给您这样的解答：
-
-> If you do something in this area, you’re almost certain to lose a
-> lawsuit; if you do something in this area, there’s a considerable
-> chance of losing a lawsuit; and if you really want to be safe you’ve
-> got to stay out of this area. But there’s a sizeable element of chance
-> in the outcome of any lawsuit.
 
 > 如果您做了这个领域中的一些事情，您几乎肯定会输掉一场诉讼；如果您做了这个领域中的一些事情，您有相当大的几率输掉一场诉讼；如果您真的想要确保安全，您必须避免涉足这个领域。但是，任何诉讼的结果都存在相当大的变数。
 
-So now that you have clear, predictable rules for doing business, what
-are you actually going to do? Well, there are three things that you
-could do to deal with the issue of any particular patent. One is to
-avoid it, another is to get a license for it, and the third is to
-invalidate it. So I’ll talk about these one by one.
-
 现在，您已经了解从事商业活动的清晰、可预测的规则。接下来，您实际上将会如何做？为了应对任何专利可能带来的问题，您有三件事可以做。其一是回避专利；其二是获得它的使用许可；其三是使其作废。接下来，我将会逐条讨论。
-
-First, there’s the possibility of avoiding the patent, which means,
-don’t implement what it prohibits. Of course, if it’s hard to tell what
-it prohibits, it might be hard to tell what would suffice to avoid it.
 
 其一，回避该项专利是有可能的，也就是说，不要实施那些被它禁止了的东西。当然，如果很难区分什么才是它所禁止的，可能也很难说出哪些方式足以回避它。
 
-A couple of years ago Kodak sued Sun \[for\] using a patent for
-something having to do with object-oriented programming, and Sun didn’t
-think it was infringing that patent. But the court decided it was; and
-when other people look at that patent they haven’t the faintest idea
-whether that decision was right or not. No one can tell what that patent
-does or doesn’t cover, but Sun had to pay hundreds of millions of
-dollars because of violating a completely incomprehensible law.
-
 两年以前，柯达起诉 Sun，由于对方使用了一项与面向对象程序设计有关的专利，而 Sun 认为这并未侵犯该项专利。但最终法庭判决这构成专利侵犯；然而，其他人在看到那项专利之后，都难以得出有关该判决公正与否的哪怕是最微弱的想法。没有人能够区分什么才是那项专利所覆盖或者没有覆盖的，但是 Sun 不得不支付数亿美元的赔款，由于它侵犯了一条完全不可理解的法律。
-
-Sometimes you can tell what you need to avoid, and sometimes what you
-need to avoid is an algorithm.
 
 有时，您能够区分什么才是您需要回避的；有时您需要回避的是一种算法。
 
-For instance, I saw a patent for something like the fast Fourier
-transform, but it ran twice as fast. Well, if the ordinary FFT is fast
-enough for your application then that’s an easy way to avoid this other
-one. And most of the time that would work. Once in a while you might be
-trying to do something where it runs doing FFT all the time, and it’s
-just barely fast enough using the faster algorithm. And then you can’t
-avoid it, although maybe you could wait a couple of years for a faster
-computer. But that’s going to be rare. Most of the time that patent will
-to be easy to avoid.
+例如，我曾经见过某项专利是关于快速傅里叶变换（FFT）相关的东西，但它的运行速度快两倍。当然，如果普通的 FFT 对于您的应用足够快，那么这将成为回避这项专利的简单方式。并且这将适用于大多数情况。而您一旦试图做一些一直需要运行 FFT 的事情，并且那种快速算法勉强足够快，那么您将不能回避它，尽管您可以等上几年以得到一台更快的计算机。不过这毕竟是较为罕见的情形。对于大多数情形，那项专利还是容易回避的。
 
-例如，我曾经见过某项专利是关于快速傅里叶变换（FFT）相关的东西，但它的运行速度快两倍。当然，如果普通的 FFT 对于您的应用足够快，那么这将成为回避这项专利的简单方式。并且这将适用于大多数情况。而您一旦试图做一些一直需要运行 FFT 的事情，并且那种快速算法刚好足够快，那么您将不能回避它，尽管您可以等上几年以得到一台更快的计算机。不过这毕竟是较为罕见的情形。对于大多数情形，那项专利还是容易回避的。
-
-On the other hand, a patent on an algorithm may be impossible to avoid.
-Consider the LZW data compression algorithm. Well, as I explained, we
-found a better data compression algorithm, and everybody who wanted to
-compress files switched to the program gzip which used the better
-algorithm. And the reason is, if you just want to compress the file and
-uncompress it later, you can tell people to use this program to
-uncompress it; then you can use any program with any algorithm, and you
-only care how well it works.
-
-另一方面，一项关于某种算法的专利也许是不可能回避的。考虑诸如 LZW 数据压缩算法。如我之前所述，我们发现了一种更好的数据压缩算法，并且每个需要压缩文件的用户都转向了 gzip 程序。其原因是，如果您只是需要压缩某些文件并且在以后进行解压，您可以告知人们使用该程序进行解压；然后您可以使用基于任何算法的任何程序，并且您只需关心该程序工作得如何。
-
-But LZW is used for other things, too; for instance the PostScript
-language specifies operators for LZW compression and LZW uncompression.
-It’s no use having another, better algorithm because it makes a
-different format of data. They’re not interoperable. If you compress it
-with the gzip algorithm, you won’t be able to uncompress it using LZW.
-So no matter how good your other algorithm is, and no matter what it is,
-it just doesn’t enable you to implement PostScript according to the
-specs.
+另一方面，一项关于某种算法的专利也许是不可能回避的。考虑诸如 LZW 数据压缩算法。如我之前所述，我们发现了一种更好的数据压缩算法，并且每个需要压缩文件的用户都转向了用到更好算法的 gzip 程序。其原因是，如果您只是需要压缩某些文件并且在以后进行解压，您可以告知人们使用该程序进行解压；然后您可以使用基于任何算法的任何程序，并且您只需关心该程序工作得如何。
 
 但是 LZW 也被应用于其他事情；例如 PostScript 语言指定了用于 LZW 压缩和 LZW 解压的操作符。拥有其他更好的算法并没有意义，由于这只会产生一种新的数据格式，而它们将是不可互操作的。如果您使用 gzip 算法对其进行压缩，您将不能使用 LZW 对其解压。因此不论您的其他算法多么好，不论它是什么，它都不能允许您根据该算法的规范实施 PostScript。
 
@@ -1189,8 +935,3 @@ monopolies. To restrict everyone in the country so that one company will
 make more money is the absolute opposite of statesmanship.
 
 现在我听说新西兰正在考虑软件专利的原因是一家行业大鳄想要藉此被赋予某种垄断地位。以限制国家里的每一个人的自由的方式来让一家商业公司大发横财，这是完全违背治国理念的。
-
-------------------------------------------------------------------------
-
-This document was generated by *tonghuix* on *March 25, 2016* using
-[*texi2html 1.82*](http://www.nongnu.org/texi2html/).\
