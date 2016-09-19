@@ -10,13 +10,13 @@
 
 - [Foreword to the Third Edition](foreword-v3.md)
 - [Foreword to the First Edition](foreword-v1.md)
-- [Preface](preface.md)
+- [Preface](preface-v3.md)
 - Part One
   - [What Is Free Software?](free-sw.md)
-  - [The GNU Project](the-gnu-project.md)
+  - [The GNU Project](thegnuproject.md)
   - [The Initial Announcement of the GNU Operating System](initial-announcement.md)
   - [Free Software Is Even More Important Now](free-software-even-more-important.md)
-  - [Why Schools Should Exclusively Use Free Software](edu-school.md)
+  - [Why Schools Should Exclusively Use Free Software](edu-schools.md)
   - [Measures Governments Can Use to Promote Free Software](government-free-software.md)
   - [Why Free Software Needs Free Documentation](free-doc.md)
   - [Selling Free Software](selling.md)
@@ -65,8 +65,8 @@
   - [Freedom or Power?](freedom-or-power.md)
   - [Imperfection Is Not the Same as Oppression](imperfection-isnt-oppression.md)
   - [How Much Surveillance Can Democracy Withstand?](surveillance-vs-democracy.md)
-- [**A:** Note on Software](appendix-A)
-- [**B:** Translations of “Free Software” and “Gratis Software”](appendix-B)
+- [**A:** Note on Software](appendix-a)
+- [**B:** Translations of “Free Software” and “Gratis Software”](appendix-b)
 - [**C:** The Free Software Song](appendix-c.md)
 
 > Verbatim copying and distribution of this entire book are permitted 
