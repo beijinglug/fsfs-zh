@@ -1,152 +1,56 @@
----
-Generator: 'texi2html 1.82'
-description: Untitled Document
-distribution: global
-keywords: Untitled Document
-resource-type: document
-title: Untitled Document
-...
+## 电子书的威胁
 
-1. The Danger of E-Books {#the-danger-of-e-books .chapter}
-========================
+> Copyright (C) 2011, 2014 Richard Stallman
 
-电子书的威胁
-============
-
-In an age where business dominates our governments and writes our laws,
-every technological advance offers business an opportunity to impose new
-restrictions on the public. Technologies that could have empowered us
-are used to chain us instead.
-
-在这样一个由企业支配我们的政府并且制定我们的法律的时代，任何技术上的进展都会为企业提供对公众施加新的限制条件的机会。本应赋予我们权利的技术现在被用于束缚我们。
-
-With printed books,
+在这样一个由企业支配我们的政府并且制定法律的时代，任何技术上的进展都会为企业提供对公众施加新的限制条件的机会。本应赋予我们权利的技术现在被用于束缚我们。
 
 对于纸版书：
 
--   You can buy one with cash, anonymously.
-
 -   您可以用现金匿名购买；
-
--   Then you own it.
 
 -   然后您拥有它；
 
--   You are not required to sign a license that restricts your use
-    of it.
-
 -   您不需要签订限制您使用它的霸王条款；
-
--   The format is known, and no proprietary technology is needed to read
-    the book.
 
 -   它的格式是已知的，不需要借助私有技术就能阅读；
 
--   You can give, lend or sell the book to another.
-
 -   您可以赠送、借阅或转卖给其他人；
-
--   You can, physically, scan and copy the book, and it’s sometimes
-    lawful under copyright.
 
 -   您可以物理地扫描或者复制整本书，有时这也是符合版权法的；
 
--   Nobody has the power to destroy your book.
-
 -   任何其他人无权销毁您的书。
 
-Contrast that with Amazon e-books (fairly typical):
 
 与之相反，对于亚马逊电子书（比较普遍）：
 
--   Amazon requires users to identify themselves to get an e-book.
-
 -   亚马逊要求用户提供身份信息才能购书；
-
--   In some countries, including the US, Amazon says the user cannot own
-    the e-book.
 
 -   在某些国家，包括美国，亚马逊宣称用户不能拥有其发行的电子书；
 
--   Amazon requires the user to accept a restrictive license on use of
-    the e-book.
-
--   亚马逊要求用户接受限制其对电子书的使用的霸王条款；
-
--   The format is secret, and only proprietary user-restricting software
-    can read it at all.
+-   亚马逊要求用户接受限制其对电子书使用的霸王条款；
 
 -   电子书的格式是私密的，必须借助限制用户自由的私有软件才能阅读；
 
--   An ersatz “lending” is allowed for some books, for a limited time,
-    but only by specifying by name another user of the same system. No
-    giving or selling.
-
 -   在一段限定时间内，代用词“借阅”被允许用于某些电子书，但仅限使用相同系统的实名用户。禁止赠与或转卖。
 
--   To copy the e-book is impossible due to Digital Restrictions
-    Management[(1)](#FOOT1) in the player and prohibited by the license,
-    which is more restrictive than copyright law.
-
--   在阅读器中复制电子书是不可能的，由于数字限制管理（DRM），这也被霸王条款所禁止，它比版权法更加苛刻。
-
--   Amazon can remotely delete the e-book using a back door. It used
-    this back door in 2009 to delete thousands of copies of George
-    Orwell’s 1984.
+-   在阅读器中复制电子书是不可能的，由于数字限制管理（DRM[^1]），这也被霸王条款所禁止，它比版权法更加苛刻。
 
 -   亚马逊可以利用后门远程删除电子书，例如它曾于 2009 年利用此后门远程删除了数千份 George Orwell 所著的《1984》。
 
-@firstcopyingnotice{{@footnoterule @smallskip 著作权所有 (C) 2011, 2014 Richard Stallman {此版本是 @fsfsthreecite 的一部分。}
-
-Even one of these infringements makes e-books a step backward from
-printed books. We must reject e-books until they respect our freedom.
-
 这些侵害行为只需其一便可使得电子书相对于纸版书成为一种倒退。我们必须拒绝电子书，直到他们尊重我们的自由。
 
-The e-book companies say denying our traditional freedoms is necessary
-to continue to pay authors. The current copyright system supports those
-companies handsomely and most authors badly. We can support authors
-better in other ways that don’t require curtailing our freedom, and even
-legalize sharing. Two methods I’ve suggested are:
+电子书公司宣称它们拒绝我们的传统阅读自由是必需的，唯有如此它们才能继续向作者支付稿酬。现行的版权系统对这些公司给予了慷慨的支持，但却未能给予大多数作者起码应有的支持。我们可以用其他方式对作者提供更好的支持，而无需牺牲自己的自由，甚至使分享合法化。我在此建议两种方式：
 
-电子书公司宣称它们拒绝我们的传统阅读自由是必需的，唯有如此它们才能继续向作者支付稿酬。现行的版权系统对这些公司给予了慷慨的支持，但却未能给予大多数作者起码应有的支持。我们可以以其他方式对作者提供更好的支持，而无需牺牲自己的自由，甚至使分享合法化。我在此建议两种方式：
-
--   To distribute tax funds to authors based on the cube root of each
-    author’s popularity.[(2)](#FOOT2)
-
--   根据每位作者受欢迎程度的立方根[(2)](#FOOT2)将税金分发给作者；
-
--   To design players so users can send authors anonymous
-    voluntary payments.
+-   根据每位作者受欢迎程度的立方根[^2]将税金分发给作者；
 
 -   开发出这样的阅读器，使得用户可以向作者匿名捐款。
 
-E-books need not attack our freedom (Project Gutenberg’s e-books don’t),
-but they will if companies get to decide. It’s up to us to stop them.
-
 电子书不应该侵害我们的自由（古腾堡计划的电子书不会这样），但是，一旦商业公司决定如此做，它们就会侵害我们的自由。我们有责任阻止这种行为。
-
-Join the fight: sign up at <http://DefectiveByDesign.org/ebooks.html>.
 
 加入这场斗争，在这里签名：<http://DefectiveByDesign.org/ebooks.html>。
 
-<div class="footnote">
 
-------------------------------------------------------------------------
+[^1]: 参见《阅读的权利》一文以获得更多信息。
 
-### Footnotes
+[^2]: 参见《版权与社区》一文和我在 2012 年致巴西参议院主席 Senator José Sarney 的公开信，位于 <https://stallman.org/articles/internet-sharing-license.en.html>，以获得更多信息。
 
-### [(1)](#DOCF1)
-
-@raggedright 参见 “The Right to Read” (@pageref{Right to Read}) 以获得更多信息。 @end raggedright
-
-### [(2)](#DOCF2)
-
-@raggedright 参见 “Copyright vs. Community in the Age of Computer Networks” (@pageref{Copyright vs. Community}) 和我在 2012 年致巴西参议院主席 Senator José Sarney 的公开信，位于 <https://stallman.org/articles/internet-sharing-license.en.html>，以获得更多信息。 @end raggedright
-
-</div>
-
-------------------------------------------------------------------------
-
-This document was generated by *tonghuix* on *March 25, 2016* using
-[*texi2html 1.82*](http://www.nongnu.org/texi2html/).\
