@@ -199,7 +199,7 @@ Lissa 没有向 SPA 举报 Dan，而他关于帮助她的决定使得他们终�
     unpronounceable CBDTPA, which was glossed as the “Consume But Don’t
     Try Programming Act.”
 
-    在 2001 年，由迪士尼赞助的参议员 Hollings 提出了一项称为“安全系统与标准认证法案”（SSSCA）的法律，其要求每台新计算机带有强制性的限制复制设备并且禁止用户绕过它。继 Clipper 芯片及类似的美国政府关于密钥保管的提案之后，这显示了一种长期趋势：计算机系统越来越倾向于赋予不在场者对该计算机系统的实际使用者进行有效控制的权力。SSSCA 随后更名为“消费者宽带和数字电视促进法案”（CBDTPA）这一不可拼读的名称，它被评注为“消灭但不要尝试编程法案”（Consume But Don't Try Programming Act）。
+    在 2001 年，由迪士尼赞助的参议员 Hollings 提出了一项称为“安全系统与标准认证法案”（SSSCA）的法律，其要求每台新计算机带有强制性的限制复制设备并且禁止用户绕过它。继 Clipper 芯片及类似的美国政府关于密钥保管的提案之后，这显示了一种长期趋势：计算机系统越来越倾向于赋予不在场者对该计算机系统的实际使用者进行有效控制的权力。SSSCA 随后更名为“消费者宽带和数字电视促进法案”（CBDTPA）这一不可拼读的名称，它被评注为“消费但不要尝试编程法案”（Consume But Don't Try Programming Act）。
 
     The Republicans took control of the US Senate shortly thereafter.
     They are less tied to Hollywood than the Democrats, so they did not
@@ -217,7 +217,7 @@ Lissa 没有向 SPA 举报 Dan，而他关于帮助她的决定使得他们终�
     killed by Lula, President of Brazil, who rejected the DMCA
     requirement and others.
 
-    在 2001 年，美国开始试图利用它所倡议的美洲“自由贸易”区（FTAA）条约来向整个西半球强制施加相同规则。FTAA 是一种所谓的“自由贸易”条约，它们实际上是被设计用于赋予商业企业更多凌驾于民主政府之上的权力；强制推行诸如 DMCA 的法律正是这种精神的典型体现。而 FTAA 事实上由时任巴西总统卢拉否决，此人拒绝接受 DMCA 及其他类似法规的条件。
+    在 2001 年，美国开始试图利用它所倡议的美洲“自由贸易”区（FTAA）条约来向整个西半球强制施加相同的规则。FTAA 是一种所谓的“自由贸易”条约，它们实际上是被设计用于赋予商业企业更多凌驾于民主政府之上的权力；强制推行诸如 DMCA 的法律正是这种精神的典型体现。而 FTAA 事实上由时任巴西总统卢拉否决，此人拒绝接受 DMCA 及其他类似法规的条件。
 
     Since then, the US has imposed similar requirements on countries
     such as Australia and Mexico through bilateral “free trade”
@@ -280,7 +280,7 @@ Lissa 没有向 SPA 举报 Dan，而他关于帮助她的决定使得他们终�
     campaign in Argentina in 2001 made slightly veiled threats that
     people sharing software would be raped.
 
-    当这段故事初次编写之时，SPA 威胁小型互联网服务供应商（ISP），要求它们允许 SPA 监控所有用户。大多数 ISP 在受到威胁的时候都妥协了，由于它们打不起官司。一家位于加利福尼亚州奥克兰的 ISP，Community ConneXion 拒绝了这一要求，并且确实被起诉了。SPA 随后撤诉，但它得到了 DMCA 的支持，这赋予了它们一直渴求的权力。SPA，实际上是软件发行商协会之意，由商业软件联盟（BSA）取代了其类似于警察的职责。在今天，BSA 不是一支官方警察力量，但它却在以非官方的方式行使这种权力。通过使用使我们想起前苏联的手段，它邀请人们举报其同事和朋友。于 2001 年在阿根廷发生的一起 BSA 恐怖行动几乎毫无遮掩地威胁人们：分享软件将被处以酷刑。
+    当这段故事初次编写之时，SPA 威胁小型互联网服务供应商（ISP），要求它们允许 SPA 监控所有用户。大多数 ISP 在受到威胁的时候都妥协了，由于它们打不起官司。一家位于加利福尼亚州奥克兰的 ISP，Community ConneXion 拒绝了这一要求，并且确实被起诉了。SPA 随后撤诉，但它得到了 DMCA 的支持，这赋予了它们一直渴求的权力。SPA，实际上是软件发行商协会之意，由商业软件联盟（BSA）取代了其类似于警察的职责。在今天，BSA 不是一支官方警察力量，但它却在以非官方的方式行使这种权力。通过使用让我们想起前苏联的手段，它邀请人们举报其同事和朋友。于 2001 年在阿根廷发生的一起 BSA 恐怖行动几乎毫无遮掩地威胁人们：分享软件将被处以酷刑。
 
     The university security policies described above are not imaginary.
     For example, a computer at one Chicago-area university displayed
