@@ -171,71 +171,25 @@ AACS 阴谋集团为所有播放器制定了细致的规则。例如在 2011 年
 
 第二步是说服人们从纸版书转向电子书；这项进展并不十分顺利。
 
-2001 年，一家出版商想出了一种方法，如果它能够以我的传记开头，它的系列电子书将会变得非常流行。于是它们找到一位作者，后者询问我是否愿意合作，我说：“除非该电子书以未加密并且无 DRM 的形式发布。”出版商不愿意接受这一条，而我则强烈要求这样——我最终拒绝了。最后我们找到了另一家出版商，它愿意如此——事实上是希望使用自由许可证发布该书以赋予您四项基本自由——于是该书最终出版，并且售出了很多份纸版副本。
-
-But in any case, e-books failed at the beginning of this decade. People
-just didn’t want to read them very much. And I said, “They will try
-again.” We saw an amazing number of news articles about electronic ink
-(or is it electronic paper, I can never remember which), and it occurred
-to me probably the reason there’s so many is the publishers want us to
-think about this. They want us to be eager for the next generation of
-e-book readers.
+2001 年，一家出版商想出了一种方法，如果它能够以我的传记开头，它的系列电子书将会变得非常流行。于是它们找到一位作者，后者询问我是否愿意合作，我说：“除非该电子书以未加密并且无 DRM 的形式发布。”出版商不愿意接受这一条，而我则强烈要求这样——我最终拒绝了。最后我们找到了另一家出版商，它愿意如此——事实上是希望使用自由许可证发布该书以赋予您四项基本自由——于是该书最终出版，并且售出了很多份纸版副本（译者注：此书即《Free as in Freedom》。中文译名《若为自由故：自由软件之父理查德·斯托曼传》，邓楠、李凡希翻译，人民邮电出版社2015年出版）。
 
 但不管怎么说，电子书在这十年之初并未取得预期成果。人们并不十分愿意阅读它们。我曾说过：“它们将会卷土重来。”我们见到了数量可观的关于类似电子墨水的新闻文章（或者称为电子纸，我记不清是哪个了），我认为之所以会有那么多文章，很可能是由于出版商想让我们考虑这种载体。它们希望我们迫切地想要成为下一代电子书的读者。
 
-Now they’re upon us. Things like the Sony Shreader (its official name is
-the Sony Reader, but if you put on ‘sh’ it explains what it’s designed
-to do to your books), and the Amazon Swindle, designed to swindle you
-out of your traditional freedoms without your noticing. Of course, they
-call it the Kindle which is what it’s going to do to your books.
-
-现在，它们终于来了。诸如索尼碎纸机（Shreader，它的官方名字是 reader，但是如果您加上 sh 两个字母，这就能很好地解释它是被设计用于对您的书做什么的了）和亚马逊诈骗（Swindle）这样的设备是被设计为用于在您毫无戒备的情况下骗走您的传统阅读自由的。当然，亚马逊将其称为 Kindle（焚烧）恰如其分地解释了它将会对您的书做些什么。
-
-The Kindle is an extremely malicious product, almost as malicious as
-Microsoft Windows. They both have spy features, they both have Digital
-Restrictions Management, and they both have back doors.
+现在，它们终于来了。诸如索尼“碎纸机”（Shreader，它的官方名字是 reader，但是如果您加上 sh 两个字母，这就能很好地解释它是被设计用于对您的书做什么的了）和亚马逊“诈骗”（Swindle）这样的设备是被设计为用于在您毫无戒备的情况下骗走您传统阅读自由的。当然，亚马逊将其称为 Kindle（焚烧）恰如其分地解释了它将会对您的书做些什么。
 
 亚马逊焚书机（Kindle）是一款极端恶意的设备，几乎和微软 Windows 操作系统一样坏。它们都拥有间谍功能，都拥有 DRM，都拥有后门。
 
-In the case of the Kindle, the only way you can buy a book is to buy it
-from Amazon, and Amazon requires you to identify yourself, so they know
-everything that you’ve bought.
-
-对于 Kindle 焚书机，您唯一可能的购书方式就是从亚马逊购买，它要求您提供所有个人信息，于是它们知道关于您所购买的东西的所有信息。
-
-Then there is Digital Restrictions Management, so you can’t lend the
-book or sell it to a used bookstore, and the library can’t lend it
-either.
+对于 Kindle，您唯一可能的购书方式就是从亚马逊购买，它要求您提供所有个人信息，于是它们知道关于您所购买的东西的所有信息。
 
 由于存在 DRM，您不能将书借出或是卖给旧书商店，图书馆也不能将书借出。
 
-And then there’s the back door, which we found out about about three
-months ago, because Amazon used it. Amazon sent a command to all the
-Kindles to erase a particular book, namely 1984, by George Orwell. Yes,
-they couldn’t have picked a more ironic book to erase. So that’s how we
-know that Amazon has a back door with which it can erase books remotely.
-
 由于存在后门，我们是在大约 3 个月前知道的它的存在，由于亚马逊使用了它。亚马逊向所有 Kindle 发送了一条指令以删除一本特定的书，即 George Orwell 的《1984》。是的，它们找不出一本更具讽刺意味的书来删除了。这就是我们如何知道亚马逊拥有某种后门并且通过它远程删除电子书的。
-
-What else it can do, who knows? Maybe it’s like Microsoft Windows. Maybe
-Amazon can remotely upgrade the software, which means that whatever
-malicious things are not in it now, they could put them in it tomorrow.
 
 它还能做出什么事情来呢？谁知道。也许它就像微软 Windows。也许亚马逊可以远程升级它的软件，这意味着所有那些今天还没有的恶意功能，它们都可能在明天被带来。
 
-This is intolerable—any one of these restrictions is intolerable. They
-want to create a world where nobody lends books to anybody anymore.
-
 这是不可容忍的——这其中的任何一条限制都是不可容忍的。它们想要创造这样一个世界，再也无人能够将书籍借给他人。
 
-Imagine that you visit a friend and there are no books on the shelf.
-It’s not that your friend doesn’t read, but his books are all inside a
-device, and of course he can’t lend you those books. The only way he
-could lend you any one of those books is to lend you his whole library,
-which is obviously a ridiculous thing to ask anybody to do. So there
-goes friendship for people who love books.
-
-假设您前去拜访一位朋友，他的书架上并没有一本书，这并不是由于您的朋友从来不读书，而是由于他的所有书都保存在某一台设备中，他当然不能将那些书借给您。他所能够借给您任意一本书的唯一方式是借给您他的整个图书馆。请求他人如此做显然是荒唐的。因此，热爱读书的人们之间的友谊将不复存在。
+假设您前去拜访一位朋友，他的书架上并没有一本书，这并不是由于您的朋友从来不读书，而是由于他的所有书都保存在某一台设备中，他当然不能将那些书借给您。他所能够借给您任意一本书的唯一方式是借给您他的整个图书馆。请求他人如此显然是荒唐的。因此，热爱读书的人们之间，友谊将不复存在。
 
 Make sure that you inform people what this device implies. It means
 other readers will no longer be your friends, because you will be acting
