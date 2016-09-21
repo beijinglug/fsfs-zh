@@ -1,6 +1,6 @@
 ## GNU 自由文档许可证
 
-> 本版本由 Leo-Hong (leohca (at) yahoo.com) 翻译整理. 源网页：<http://www.thebigfly.com/gnu/FDLv1.3/>
+> 本版本由 Leo-Hong (leohca (at) yahoo.com) 翻译整理。 源网页：<http://www.thebigfly.com/gnu/FDLv1.3/>。
 
 这是一份 GNU 自由文档许可证非正式的中文翻译。它并非由自由软件基金会所发表，亦非使用 GNU 自由文档许可证的文件的法定发布条款─只有 [GNU 自由文档许可证英文原文](http://www.gnu.org/licenses/fdl.html)的版本始具有此等效力。然而，我们希望这份翻译能帮助中文的使用者更了解 GNU 自由文档许可证。 
 
@@ -184,7 +184,7 @@ with the Invariant Sections being LIST THEIR TITLES, with the Front-Cover Texts 
 
 ### GNU Free Documentation License {#gnu-free-documentation-license .chapter}
 
-Version 1.3, 3 November 2008
+Version 1.3, 3 November 2008
 
 > Copyright © 2000, 2001, 2002, 2007, 2008 Free Software Foundation, Inc. http://fsf.org/
 > Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
