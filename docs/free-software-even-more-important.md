@@ -88,46 +88,24 @@ SaaSS 并不意味着运行在服务器上的程序是非自由的（虽然大�
 
 我们以及上千用户从1984年开始就这么做，这样才有了现在我们使用的自由的 GNU/Linux 操作系统，所有人——无论是否是程序员——都可以使用。加入我们的事业，以一个程序员或活动家的身份。让我们一起解放所有计算机用户吧。
 
-### [(1)](#DOCF1)
-
 [^1]: 参见<http://gnu.org/proprietary/proprietary.html>可知这些不断增加的威胁。
-
-### [(2)](#DOCF2)
 
 [^2]: 自由软件的完整定义可参见《自由软件的定义》一文。
 
-### [(3)](#DOCF3)
-
 [^3]: 参见《专有软件》一文的脚注1
-
-### [(4)](#DOCF4)
 
 [^4]: 参见 Marcelo Rinesi 于2015年8月6日发表的文章"The Telemarketer Singularity"<http://ieet.org/index.php/IEET/more/rinesi20150806>
 
-### [(5)](#DOCF5)
-
 [^5]: 关于 GNU 操作系统的历史可参见《GNU 工程》一文，以及“GNU/Linux FAQ”<http://gnu.org/gnu/gnu-linux-faq.html>。
-
-### [(6)](#DOCF6)
 
 [^6]: 参见《服务器》一文的相关章节“服务器真正为谁服务？”
 
-### [(7)](#DOCF7)
-
 [^7]: 参见 Sean Gallagher 于2013年6月14日发表的文章“NSA Gets Early Access to Zero-Day Data from Microsoft, Others”<http://arstechnica.com/security/2013/06/nsa-gets-%3Cbr%3Eearly-access-to-zero-day-data-from-microsoft-others/>
-
-### [(8)](#DOCF8)
 
 [^8]: 关于我们建议的政策可参见《政府推动自由软件的措施》一文
 
-### [(9)](#DOCF9)
-
 [^9]: 有关自由软件在学校的讨论可参见 <http://gnu.org/education>
 
-### [(10)](#DOCF10)
-
 [^10]: 关于许可证的建议可参见《推荐许可证》一文中的“如何为你自己的作品选择许可证”
-
-### [(11)](#DOCF11)
 
 [^11]: 各种帮助的方式可参见 <http://gnu.org/help>
