@@ -1027,7 +1027,7 @@ That’s what I propose, and in particular, this means that sharing copies
 on the internet must be legal. Sharing is good. Sharing builds the bonds
 of society. To attack sharing is to attack society.
 
-这就是我所提议的，特别要指出的是，这意味着在万维网上分享副本必须是合法的。分享是美好的。分享构建了社会的契约。反对分享就是反对社会。
+这就是我所提议的，特别要指出的是，这意味着在互联网上分享副本必须是合法的。分享是美好的。分享构建了社会的契约。反对分享就是反对社会。
 
 So any time the government proposes some new means to attack people who
 share, to stop them from sharing, we have to recognize that this is
@@ -1058,7 +1058,7 @@ bureaucrats to have the discretion to decide which artists to support
 and which to ignore, but based on popularity does not imply linear
 proportion.
 
-其一是（通过）征税（来实现）——直接将税金分发给作者。这可以是一种特殊税收，可以是对于万维网连接服务的税收，也可以来自一般性的收入，由于它的总量不会非常大，如果它是通过某种有效的方式进行分发的。以促进艺术发展为目的对其进行有效分发意味着不是按照作品流行度的线性比例进行分发。它应当基于流行度，由于我们不希望由官僚主义者独断决定哪些作者应该得到支持而哪些作者将会被无视。但是，基于流行度并不必然意味着按照线性比例进行分发。
+其一是（通过）征税（来实现）——直接将税金分发给作者。这可以是一种特殊税收，可以是对于互联网连接服务的税收，也可以来自一般性的收入，由于它的总量不会非常大，如果它是通过某种有效的方式进行分发的。以促进艺术发展为目的对其进行有效分发意味着不是按照作品流行度的线性比例进行分发。它应当基于流行度，由于我们不希望由官僚主义者独断决定哪些作者应该得到支持而哪些作者将会被无视。但是，基于流行度并不必然意味着按照线性比例进行分发。
 
 What I propose is measure the popularity of the various artists, which
 you could do through polling (samples) in which nobody is required to
@@ -1211,7 +1211,7 @@ us.
 
 ### [(4)](#DOCF4)
 
-@raggedright 新西兰实施了一种未经审判的刑罚系统，对于被指控进行复制的万维网用户；然后，迫于大众的抗议，政府并未立即实施，而是宣布了一项计划以实施一种修订过的但仍然不公平的刑罚系统。本文此处的观点是，它们不应实施一种替代方案——与之相反，它们不应拥有这类系统。然而，我的用词未能清楚地表达这一点。
+@raggedright 新西兰实施了一种未经审判的刑罚系统，对于被指控进行复制的互联网用户；然后，迫于大众的抗议，政府并未立即实施，而是宣布了一项计划以实施一种修订过的但仍然不公平的刑罚系统。本文此处的观点是，它们不应实施一种替代方案——与之相反，它们不应拥有这类系统。然而，我的用词未能清楚地表达这一点。
 
 @hglue@defaultparindent 新西兰政府随后实施了一种与原本计划的或多或少相同的刑罚方案。@end raggedright
 
