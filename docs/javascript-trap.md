@@ -58,30 +58,25 @@ Java 小程序也是在浏览器中运行的，它们也会带来类似的问题
 
 如需引用相关程序的源代码，我们建议采用这种格式：
 
-+--------------------------------------+--------------------------------------+
-|                                      | ``` {.smallexample}                  |
-|                                      |     // @source:                      |
-|                                      | ```                                  |
-+--------------------------------------+--------------------------------------+
-
+``` {.smallexample}                  
+     
+     // @source:                      
+```                                  
 （保持原样不翻，译者注。）
 
 后面跟着 URL。这种风格满足 GNU 通用公共许可证（GNU GPL）用于发布源代码的要求。如果源代码位于另一站点，您必须妥善处理这种情形。要想使软件成为自由的，源代码是必须提供的。
 
 如需指出嵌入本页面的 JavaScript 代码所使用的许可证类型，我们建议将许可证文本置于如下所示的两段文字之间：
 
-+--------------------------------------+--------------------------------------+
-|                                      | ``` {.smallexample}                  |
-|                                      |     @licstart  The following is the  |
-|                                      | entire license notice for the        |
-|                                      |     JavaScript code in this page.    |
-|                                      |     ...                              |
-|                                      |     @licend  The above is the entire |
-|                                      |  license notice                      |
-|                                      |     for the JavaScript code in this  |
-|                                      | page.                                |
-|                                      | ```                                  |
-+--------------------------------------+--------------------------------------+
+``` {.smallexample}
+
+The following is the entire license notice for
+the JavaScript code in this page.    
+...                              
+The above is the entire license notice for the 
+JavaScript code in this page.                         
+```                                 
+
 
 （许可证内容应保持英文原版，译者注。）
 
@@ -89,37 +84,27 @@ Java 小程序也是在浏览器中运行的，它们也会带来类似的问题
 
 同许多其他自由软件许可证一样，GNU GPL 要求连同程序的源代码和二进制形式一起发布一份许可证的副本。然而，由于 GNU GPL 过于冗长，将其同 JavaScript 程序一起包含在页面中可能会带来某种不便。对于您所拥有著作权的代码，您可以移除这条要求，代之以类似下面这样的许可证声明：
 
-+--------------------------------------+--------------------------------------+
-|                                      | ``` {.smallexample}                  |
-|                                      |     Copyright (C) YYYY  Developer    |
-|                                      |                                      |
-|                                      |     The JavaScript code in this page |
-|                                      |  is free software: you can           |
-|                                      |     redistribute it and/or modify it |
-|                                      |  under the terms of the GNU          |
-|                                      |     General Public License (GNU GPL) |
-|                                      |  as published by the Free Software   |
-|                                      |     Foundation, either version 3 of  |
-|                                      | the License, or (at your option)     |
-|                                      |     any later version.  The code is  |
-|                                      | distributed WITHOUT ANY WARRANTY;    |
-|                                      |     without even the implied warrant |
-|                                      | y of MERCHANTABILITY or FITNESS      |
-|                                      |     FOR A PARTICULAR PURPOSE.  See t |
-|                                      | he GNU GPL for more details.         |
-|                                      |                                      |
-|                                      |     As additional permission under G |
-|                                      | NU GPL version 3 section 7, you      |
-|                                      |     may distribute non-source (e.g., |
-|                                      |  minimized or compacted) forms of    |
-|                                      |     that code without the copy of th |
-|                                      | e GNU GPL normally required by       |
-|                                      |     section 4, provided you include  |
-|                                      | this license notice and a URL        |
-|                                      |     through which recipients can acc |
-|                                      | ess the Corresponding Source.        |
-|                                      | ```                                  |
-+--------------------------------------+--------------------------------------+
+``` {.smallexample}
+          
+          Copyright (C) YYYY  Developer
+                                     
+The JavaScript code in this page is free software: 
+you can redistribute it and/or modify it under the 
+terms of the GNU General Public License (GNU GPL) 
+as published by the Free Software Foundation, either 
+version 3 of the License, or (at your option) any 
+later version. The code is distributed WITHOUT ANY 
+WARRANTY; without even the implied warranty of MERC-
+HANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See 
+the GNU GPL for more details.  
+
+As additional permission under GNU GPL version 3 sec-
+tion 7, you may distribute non-source (e.g.,minimized 
+or compacted) forms of that code without the copy of 
+the GNU GPL normally required by section 4, provided 
+you include this license notice and a URL through which 
+recipients can acc ess the Corresponding Source.
+```
 
 （许可证内容应保持英文原版，译者注。）
 
