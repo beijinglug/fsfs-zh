@@ -62,7 +62,6 @@ Java 小程序也是在浏览器中运行的，它们也会带来类似的问题
      
      // @source:                      
 ```                                  
-（保持原样不翻，译者注。）
 
 后面跟着 URL。这种风格满足 GNU 通用公共许可证（GNU GPL）用于发布源代码的要求。如果源代码位于另一站点，您必须妥善处理这种情形。要想使软件成为自由的，源代码是必须提供的。
 
@@ -76,9 +75,6 @@ the JavaScript code in this page.
 The above is the entire license notice for the 
 JavaScript code in this page.                         
 ```                                 
-
-
-（许可证内容应保持英文原版，译者注。）
 
 当然，所有这些内容应当位于多行注释之间。
 
@@ -105,8 +101,6 @@ the GNU GPL normally required by section 4, provided
 you include this license notice and a URL through which 
 recipients can acc ess the Corresponding Source.
 ```
-
-（许可证内容应保持英文原版，译者注。）
 
 感谢 Jaffar Rumith 提醒我关注这一问题。
 
