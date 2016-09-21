@@ -1,6 +1,6 @@
 ## 为什么使用 Copyleft
 
-> Copyright © 2003, 2007, 2008, 2013 Free Software Foundation, Inc. 此文原载于 <http://gnu.org>
+> Copyright © 2003, 2007, 2008, 2013 自由软件基金会。 此文原载于 <http://gnu.org>
 
 > 当涉及到为别人保护自由的时候，躺下什么都不做是一种软弱的表现，而不是谦卑。
 

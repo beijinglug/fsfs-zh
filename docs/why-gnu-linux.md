@@ -1,7 +1,8 @@
 ## 名字的含义？
 
-> 关于此主题了解更多，你也可以阅读我们的 GNU/Linux FAQ <http://gnu.org/gnu/gnu-linux-faq.html> 的文章 *Linux和GNU系统*，它讲了 GNU/Linux 系统的历史，它和这命名的问题有关，以及文章 *从未听过GNU的GNU用户* <http://gnu.org/gnu/gnu-users-never-heard-of-gnu.html>。Copyright © 2000, 2006, 2007 Richard Stallman
-> 原中译 monnand，此处略有修改
+> Copyright © 2000, 2006, 2007 Richard Stallman。此文原中译 monnand，此处略有修改
+
+>关于此主题了解更多，你也可以阅读我们的 GNU/Linux FAQ <http://gnu.org/gnu/gnu-linux-faq.html> 的文章 *Linux和GNU系统*，它讲了 GNU/Linux 系统的历史，它和这命名的问题有关，以及文章 *从未听过GNU的GNU用户* <http://gnu.org/gnu/gnu-users-never-heard-of-gnu.html>。
 
 顾名则思义；我们所选的名字代表了我们所要传达的思想。一个不恰当的名字会向人们传递错误的思想。玫瑰不管叫什么闻起来总是甜的——但是如果你把它叫作笔，当人们用它写字时将会很失望。同样地，如果你把笔叫作“玫瑰”，人们可能就不知道它们能做什么了。如果你把我们的操作系统称为“Linux”，则会传达一些关于系统起源、历史和目的的错误概念。如果你称之为GNU/Linux，这将传达（虽然不详细）一个准确的概念。
 
@@ -17,7 +18,7 @@
 
 对自由软件来说，未来的一大挑战是来自于那些“Linux”发行版公司，为提高易用性和增强功能，将非自由的软件添加到 GNU/Linux 中。所有主要的商业发行版都这样做；没有一个让自己限于自由软件的。他们中的大多数都在其发行版中没有区分非自由软件包。很多甚至开发非自由软件并加入到其系统发行中。还有些甚至蛮横的地宣布那些“Linux“系统是“席位许可”的，也就是可以给用户和 Microsoft Windows 一样的“自由”。
 
-人们用“普及 Linux ”的名义替这种加入非自由软件的行为辩护—事实是，更重视普及度而不是自由。有时这是被公开承认的。例如，《连线》杂志（Wired）对 Linux Magazine 期刊的编辑 Robert McMillan 说，“感觉推动开源软件应该用技术，而不是政治决策”。并且 Caldera 的 CEO 公开劝说用户放弃自由的目标，并转而为“普及 Linux”而工作[^1]。
+人们用“普及 Linux ”的名义替这种加入非自由软件的行为辩护——事实是，更重视普及度而不是自由。有时这是被公开承认的。例如，《连线》杂志（Wired）对 Linux Magazine 期刊的编辑 Robert McMillan 说，“感觉推动开源软件应该用技术，而不是政治决策”。并且 Caldera 的 CEO 公开劝说用户放弃自由的目标，并转而为“普及 Linux”而工作[^1]。
 
 如果普及率指使用混合非自由软件的 GNU/Linux 的用户数量，添加非自由软件到 GNU/Linux 系统或许会增加普及率。但同时，它含蓄地鼓励社区将非自由软件当好东西接受，而忘记自由的目标。如果你的方向不对，那车开得再快也没用。
 

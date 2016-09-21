@@ -1,6 +1,6 @@
 ## 第三版序言
 
->Copyright © 2015 Free Software Foundation, Inc.\
+>Copyright © 2015 自由软件基金会。
 
 给理查德·斯托曼的情书，作者雅各·阿贝尔鲍姆（Jacob Appelbaum）
 
