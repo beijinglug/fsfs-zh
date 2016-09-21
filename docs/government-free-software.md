@@ -103,18 +103,10 @@
 
 技术中立是指国家不应该在技术选型时强加干涉。无论这是不是有效的原则或是争议，这仅仅只涉及到技术问题。而这里提出来的措施解决的是道义、社会和政治问题，因此超出了*技术*中立的范畴[^4]。除非他们觉得其政府需要在主权和公民自由上保持“中立”。
 
-### [(1)](#DOCF1)
-
-[^1]: 参见《自由软件定义》一文了解自由软件的定义
-
-### [(2)](#DOCF2)
+[^1]: 参见《什么是自由软件？》一文了解自由软件的定义
 
 [^2]: 参见反 DRM 活动网站[http://defectivebydesign.org/what\_is\_drm](http://defectivebydesign.org/%3Cbr%3Ewhat_is_drm)以及《DRM》一文了解相关问题。
 
-### [(3)](#DOCF3)
-
-[^3]: 参见《服务器》一文的“服务器真正为谁服务？”相关章节，了解 SaaSS。
-
-### [(4)](#DOCF4)
+[^3]: 参见《服务器真正为谁服务》一文的相关章节，了解 SaaSS。
 
 [^4]: 参见我的文章“Technological Neutrality and Free Software” [http://www.gnu.org/philosophy/technological-neutrality.html](http://www.%3Cbr%3Egnu.org/philosophy/technological-neutrality.html)
