@@ -26,24 +26,9 @@
 
 如果您想要在一个允许软件专利的国家开发软件，并且您想要配合专利法，您将必须去做哪些事呢？
 
-You could try to make a list of all the ideas that one might be able to
-find in the program that you’re about to write, aside from the fact that
-you don’t know that when you start writing the program. \[But\] even
-after you finish writing the program you wouldn’t be able to make such a
-list.
-
-您可以尝试列出一项关于您想要编写的程序中可能找到的各种想法和创意的清单。除此之外，您还需要面对这样的现实：您不知道您何时才能开始编写这个程序。但是，即使您已经完成编写该程序，您也不可能列出这样一份清单。
+您可以尝试列出一项关于您想要编写的程序中可能找到的各种想法和创意的清单。除此之外，您还需要面对这样的现实：在你开始开始编写这个程序，你还不知道那个清单。但是，即使您已经完成编写该程序，您也不可能列出这样一份清单。
 
 造成这种情况的原因是……在您以某种特定的方式想出一种计划的过程中，您已经有了一种应用于您的设计的思想上的架构。正因为如此，它将阻止您去认识那些其他人可能用于理解同一程序的其他架构——因为您并不是首次想到它的；您已经在脑海中使用某种架构设计出了它。其他人在首次见到它的时候可能看到的是另一种架构，它涉及不同的想法和创意，并且对你来说看到那些其他的想法和创意是什么是困难的。但是尽管如此，它们在您的程序中实现了，因此相关的专利将会禁止您的程序，如果那些想法是受专利保护的。
-
-For instance, suppose there were graphical-idea patents and you wanted
-to draw a square. Well, you would realize that if there was a patent on
-a bottom edge, it would prohibit your square. You could put “bottom
-edge” on the list of all ideas implemented in your drawing. But you
-might not realize that somebody else with a patent on bottom corners
-could sue you easily also, because he could take your drawing and turn
-it by 45 degrees. And now your square is like this, and it has a bottom
-corner.
 
 例如，假设有一些关于图形创意的专利，并且您想要绘制一个正方形。当然，您可能会意识到如果有一项关于“底边”的专利，它将阻止您绘制正方形。您可以将“底边”置于您的绘画中所不能实现的所有想法的黑名单中。但是，您也许不会预料到，如果某人持有一项“底角”专利，他仍然可以轻松地起诉您，由于他可以拿到您的绘画并且将其旋转 45 度。此时您的正方形看起来就有了底角。
 
@@ -63,22 +48,7 @@ corner.
 
 在美国，我相信总共有数十万的软件专利；对它们保持跟踪是一项庞杂的工作。因此您将不得不随时查询相关专利。您将会找到大量相关专利，但您必然不可能找到它们的全部。
 
-For instance, in the 80s and 90s, there was a patent on “natural order
-recalculation” in spreadsheets. Somebody once asked me for a copy of it,
-so I looked in our computer file which lists the patent numbers. And
-then I pulled out the drawer to get the paper copy of this patent and
-xeroxed it and sent it to him. And when he got it, he said, “I think you
-sent me the wrong patent. This is something about compilers.” So I
-thought maybe our file has the wrong number in it. I looked in it again,
-and sure enough it said, “A method for compiling formulas into object
-code.” So I started to read it to see if it was indeed the wrong patent.
-I read the claims, and sure enough it was the natural order
-recalculation patent, but it didn’t use those terms. It didn’t use the
-term “spreadsheet.” In fact, what the patent prohibited was dozens of
-different ways of implementing topological sort—all the ways they could
-think of. But I don’t think it used the term “topological sort.”
-
-例如，在 20 世纪 80 到 90 年代，有一项关于在电子表格“重新计算自然级数”的专利。曾经有人向我索取一份它的副本，于是我在自己的列出了专利号的计算机文件中进行查询，并且复印了一份发送给对方。对方收到后说：“我想您发给我的不是我想要的专利。这项专利是关于编译器的。”于是我想可能是我们的文件中记录了错误的专利号。我再次查询它，并且确信它所描述的是“一种将公式编译到对象代码中的方法”。然后我开始仔细阅读它，以便确认它是否真的并非我们想找的专利。我读到了它的权利要求，发现它确实是关于重新计算自然级数的专利，但它并未使用这些短语。它没有使用“电子表格”这一短语。事实上，该专利禁止了数十种用于实现拓扑排序的方法——他们所能想到的所有方法。但是我并不认为它用到了“拓扑排序”这一短语。
+例如，在 20 世纪 80 到 90 年代，有一项关于在电子表格“重新计算自然顺序”的专利。曾经有人向我索取一份它的副本，于是我在自己的列出了专利号的计算机文件中进行查询，并且复印了一份发送给对方。对方收到后说：“我想您发给我的不是我想要的专利。这项专利是关于编译器的。”于是我想可能是我们的文件中记录了错误的专利号。我再次查询它，并且确信它所描述的是“一种将公式编译到对象代码中的方法”。然后我开始仔细阅读它，以便确认它是否真的并非我们想找的专利。我读到了它的权利要求，发现它确实是关于重新计算自然顺序的专利，但它并未使用这些短语。它没有使用“电子表格”这一短语。事实上，该专利禁止了数十种用于实现拓扑排序的方法——他们所能想到的所有方法。但是我并不认为它用到了“拓扑排序”这一短语。
 
 因此，如果您正在编写一份电子表格并且试图通过搜索查询相关专利，您可能会找到大量相关专利。但是，您并不会发现这样一条专利，直到某一天您对某人说：“哦，我正在设计一份电子表格。”而对方说：“哦，你知道其他那些正在使电子表格软件受到起诉的公司吗？”然后您才会知道这一点。
 
@@ -220,20 +190,7 @@ IBM 将会说：“哦，真不错，你拥有一项专利。可是我们拥有�
 
 当然，对于每次单一的设计决定，您可能不会触碰专利，也许您不会遇到任何麻烦。但是，您需要迈出那么多步才能走出雷区，以至于您想要毫发无伤全身而退是非常不现实的。另外显而易见的是，那些专利持有人不会一下子全都现身，于是您不可能知道到底将会遇到多少专利持有人。
 
-The patent holder of the natural order recalculation patent was
-demanding 5 percent of the gross sales of every spreadsheet. You could
-imagine paying for a few such licenses, but what happens when patent
-holder number 20 comes along, and wants you to pay out the last
-remaining 5 percent? And then what happens when patent holder number 21
-comes along?
-
-电子表格中的自然级数重新计算方法专利的持有人要求按照每份电子表格销售总额的 5% 支付费用。您可以想象为少数几项类似的专利使用授权许可付费，但是，当第 20 位专利持有人前来拜访，要求您将最后剩下的 5% 的钱用于支付专利使用授权许可费用的时候又当如何呢？而第 21 位专利持有人前来拜访的时候又当如何呢？
-
-People in business say that this scenario is amusing but absurd, because
-your business would fail long before you got there. They told me that
-two or three such licenses would make your business fail. So you’d never
-get to 20. They show up one by one, so you never know how many more
-there are going to be.
+电子表格中的自然顺序重新计算方法专利的持有人要求按照每份电子表格销售总额的 5% 支付费用。您可以想象为少数几项类似的专利使用授权许可付费，但是，当第 20 位专利持有人前来拜访，要求您将最后剩下的 5% 的钱用于支付专利使用授权许可费用的时候又当如何呢？而第 21 位专利持有人前来拜访的时候又当如何呢？
 
 商务人士可能会说这种场景虽然有趣但却是荒唐的，由于在您走到那种境地之前，您的企业早就破产了。他们告诉我，只要两三项类似的专利使用授权许可费用就足以让您的企业破产，于是您不会等到第 20 位专利持有人。由于他们一个接一个地现身，您不可能知道还会来多少位。
 
@@ -249,290 +206,70 @@ there are going to be.
 
 在这里，这个问题当中包含了一种荒唐的假设，这就如同说：“其他人都患了癌症，为什么你就应该幸免？”我认为无论如何，人们不患癌症才是好的，不管其他人如何。这种问题之所以荒唐，是由于它预设了这样的观点：无论如何我们都必须有义务去忍受专利对我们造成的伤害。
 
-But there is a sensible question buried inside it, and that sensible
-question is “What differences are there between various fields that
-might affect what is good or bad patent policy in those fields?”
-
 但是，这其中又蕴含着一个合理的问题，这个合理的问题是：“在不同的领域之间，究竟存在着什么方面的不同，以致于这种不同将会影响到专利政策在这些领域中是好是坏？”
-
-There is an important basic difference between fields in regard to how
-many patents are likely to prohibit or cover parts of any one product.
 
 在不同领域之间，确实存在着某种基本的重要差别，即任何一款产品的组成部分当中有可能被多少项专利禁止或覆盖。
 
-Now we have a naive idea in our minds which I’m trying to get rid of,
-because it’s not true. And it’s that on any one product there is one
-patent, and that patent covers the overall design of that product. So if
-you design a new product, it can’t be patented already, and you will
-have an opportunity to get “the patent” on that product.
-
 现在，我们的脑海中可能有这样一种天真的想法，这是我正在尽力克服的，由于它不是真实的。这种想法是在任何一款产品的背后都只有一项专利，而这项专利覆盖了这款产品的全部设计理念。因此如果您设计一款新产品，它不能是已获专利的，并且您将有机会获得关于该产品的“那项专利”。
-
-That’s not how things work. In the 1800s, maybe they did, but not now.
-In fact, fields fall on a spectrum of how many patents \[there are\] per
-product. The beginning of the spectrum is one, but no field is like that
-today; fields are at various places on this spectrum.
 
 事情并不是这样的。也许早在 19 世纪确实是这样，但现在则不是。事实上，领域之间可以像光谱那样按照每个产品对应多少项专利来划分。这种光谱的起始点是 1，但如今已经没有那样的领域；当今的领域分布在光谱上的不同位置。
 
-The field that’s closest to that is pharmaceuticals. A few decades ago,
-there really was one patent per pharmaceutical, at least at any time,
-because the patent covered the entire chemical formula of that one
-particular substance. Back then, if you developed a new drug, you could
-be sure it wasn’t already patented by somebody else and you could get
-the one patent on that drug.
-
 最接近这种情况的领域是制药。几十年前，确实每种药物只有一项专利，在任何时候都如此，由于该专利覆盖了一种特定物质的全部化学分子式。在当时，如果您开发了一种新药，您可以确认它没有被任何其他人申请专利，并且您可以获得该药物的唯一专利。
-
-But that’s not how it works now. Now there are broader patents, so now
-you could develop a new drug, and you’re not allowed to make it because
-somebody has a broader patent which covers it already.
 
 但是现在的情况与之不同。现在有了更宽泛的专利，于是现在您可能开发一种新药，但是您不被允许生产它，由于某人已经拥有一项覆盖了它的宽泛的专利。
 
-And there might even be a few such patents covering your new drug
-simultaneously, but there won’t be hundreds. The reason is, our ability
-to do biochemical engineering is so limited that nobody knows how to
-combine so many ideas to make something that’s useful in medicine. If
-you can combine a couple of them you’re doing pretty well at our level
-of knowledge. But other fields involve combining more ideas to make one
-thing.
-
 也许甚至会有几项专利同时覆盖了您的新药，但不会是多达数百项。其原因是，我们进行生物工程研究的能力还相对有限，没有人知道如何将这么多的思想组合在一起以生产出在医学方面有用的物质。如果您能够组合其中的两种，您的成就对于我们的知识水平已经非常了不起。但是，其他领域将会涉及将众多想法组合起来以做成一件事。
-
-At the other end of the spectrum is software, where we can combine more
-ideas into one usable design than anybody else, because our field is
-basically easier than all other fields. I’m presuming that the
-intelligence of people in our field is the same as that of people in
-physical engineering. It’s not that we’re fundamentally better than they
-are; it’s that our field is fundamentally easier, because we’re working
-with mathematics.
 
 这幅光谱的另一端是软件领域。在这里，我们比任何其他人都能将更多的想法融入一项有用的设计，由于我们的领域从根本上比任何其他领域都更简单。我假设我们的领域中的人们的智力与物理工程领域的人们的智力相当。这不是说我们从根本上比他们更有能力；这只是在说我们的领域从根本上说更加简单，因为我们是用数学来工作。
 
-A program is made out of mathematical components, which have a
-definition, whereas physical objects don’t have a definition. The matter
-does what it does, so through the perversity of matter, your design may
-not work the way it “should” have worked. And that’s just tough. You
-can’t say that the matter has a bug in it, and the physical universe
-should get fixed. \[Whereas\] we \[programmers\] can make a castle that
-rests on a mathematically thin line, and it stays up because nothing
-weighs anything.
-
-程序是由众多数学的成分构成的，这些数学成分拥有某种定义，而物理对象是没有定义的。物质会按其规律发生作用，这是由于物质的本性。而您的设计不一定会按照它们“应当”采取的作用方式发生作用，这只是一种困难。您不能说物质有错误，而物理宇宙应当修复它们。而我们程序员可以在一条数学中的没有粗细的线上建起一座城堡，它能够屹立不倒，因为它里面的任何东西都没有重量。
-
-There’re so many complications you have to cope with in physical
-engineering that we don’t have to worry about.
+程序是由众多数学的成分构成的，这些数学成分拥有某种定义，而物理对象是没有定义的。物质会按其规律发生作用，这是由于物质的本性，而您的设计不一定会按照它们“应当”采取的作用方式发生作用。这只是一种困难。您不能说物质有错误，而物理宇宙应当受到修复。而我们程序员可以在一条数学中的没有粗细的线上建起一座城堡，它能够屹立不倒，因为它里面的任何东西都没有重量。
 
 在物理工程中，您必须解决众多复杂性，而我们无需为之担心。
 
-For instance, when I put an `if`-statement inside of a `while`-loop,
+例如，当我将一个 `if` 语句置于一个 `while` 循环中时：
 
-例如，当我将一个 if 语句置于一个 while 循环中时：
-
--   I don’t have to worry that if this `while`-loop repeats at the wrong
-    rate, the `if`-statement might start to vibrate and it might
-    resonate and crack;
-
--   我无需担心如果 while 循环以错误的频率重复，其中的 if 语句可能将会开始振动，它也许将会由于发生共振而断裂；
-
--   I don’t have to worry that if it resonates much faster—you know,
-    millions of times per second—that it might generate radio frequency
-    signals that might induce wrong values in other parts of the
-    program;
+-   我无需担心如果 `while` 循环以错误的频率重复，其中的 `if` 语句可能将会开始振动，它也许将会由于发生共振而断裂；
 
 -   我无需担心如果它们的共振频率过快——您知道，大约每秒数百万次——以至于它将会生成无线电频率信号并由此导致程序中的其他部分产生错误的值；
 
--   I don’t have to worry that corrosive fluids from the environment
-    might seep in between the `if`-statement and the `while`-statement
-    and start eating away at them until the signals don’t pass anymore;
+-   我无需担心环境中的腐蚀性液体可能会渗入 `if` 语句和 `while` 语句之间的缝隙并且开始侵蚀它们直到信号再也不能被传递；
 
--   我无需担心环境中的腐蚀性液体可能会渗入 if 语句和 while 语句之间的缝隙并且开始侵蚀它们以致于信号再也不能被传递；
+-   我无需担心 `if` 语句产生的热如何才能传导至 `while` 语句以外，以保证这不会使得 `if` 语句过热烧毁；并且
 
--   I don’t have to worry about how the heat generated by my
-    `if`-statement is going to get out through the `while`-statement so
-    that it doesn’t make the `if`-statement burn out; and
+-   我无需担心我应当以何种方式移除受损的 `if` 语句，如果它的确断裂、烧毁或者被腐蚀了，并且将其更换为另一个完好的 `if` 语句以使得程序再次能够运行。
 
--   我无需担心 if 语句产生的热如何才能传导至 while 语句以外，以保证这不会使得 if 语句过热烧毁；
-
--   I don’t have to worry about how I would take out the broken
-    `if`-statement if it does crack, burn, or corrode, and replace it
-    with another `if`-statement to make the program run again.
-
--   我无需担心我应当以何种方式移除受损的 if 语句，不论它到底是断裂、烧毁还是被腐蚀，并且将其更换为另一个完好的 if 语句以使得程序再次能够运行。
-
-For that matter, I don’t have to worry about how I’m going to insert the
-`if`-statement inside the `while`-statement every time I produce a copy
-of the program. I don’t have to design a factory to make copies of my
-program, because there are various general commands that will make
-copies of anything.
-
-基于此原因，我无需担心在我每次为程序复制一份副本的时候应当以何种方式将 if 语句插入到 while 语句中。我无需设计一座工厂来复制我的程序，由于几个通用的命令就能用于复制任何东西。
-
-If I want to make copies on CD, I just have to write a master; and
-there’s one program I can \[use to\] make a master out of anything,
-write any data I want. I can make a master CD and write it and send it
-off to a factory, and they’ll duplicate whatever I send them. I don’t
-have to design a different factory for each thing I want to duplicate.
+基于此原因，我无需担心在我每次为程序复制一份副本的时候应当以何种方式将 `if` 语句插入到 `while` 语句中。我无需设计一座工厂来复制我的程序，由于几个通用的命令就能用于复制任何东西。
 
 如果我想要在光盘（CD）上制作副本，我只需刻录一片母盘；有一种程序使得我可以将其用于为任何东西制作母盘或者烧录任何我需要写入的数据。我可以制作一片母盘，刻录之后将其送至一座工厂，他们将会复制我所发送的任何东西。我无需为我想要复制的每件不同的东西设计一座不同的工厂。
 
-Very often with physical engineering you have to do that; you have to
-design products for manufacturability. Designing the factory may even be
-a bigger job than designing the product, and then you may have to spend
-millions of dollars to build the factory. So with all of this trouble,
-you’re not going to be able to put together so many different ideas in
-one product and have it work.
-
 而对于物理工程，您通常不得不去做这些事情：您必须基于可制造性来设计产品。设计工厂也许甚至比设计产品的任务更为艰巨，并且而后您可能还必须花费数百万美元建厂。由于以上这些困难，您将不能将如此之多的想法融入一款产品并且使之可用。
 
-A physical design with a million nonrepeating different design elements
-is a gigantic project. A program with a million different design
-elements, that’s nothing. It’s a few hundred thousand lines of code, and
-a few people will write that in a few years, so it’s not a big deal. So
-the result is that the patent system weighs proportionately heavier on
-us than it does on people in any other field who are being held back by
-the perversity of matter.
-
-一项拥有一百万项不重复的设计元素的物理设计是浩大的，而一个拥有一百万项设计元素的程序则再普通不过。它只是数十万行代码，几个人可以在几年之内完成，因此它不是什么大事。其结果是，专利体系对我们造成的压力相比之下更重，相对于那些在其他领域工作的人们，他们只是会被物质的本性所阻挡。
-
-A lawyer did a study of one particular large program, namely the kernel
-Linux, which is used together with the GNU operating system that I
-launched. This was five years ago now; he found 283 different US
-patents, each of which appeared to prohibit some computation done
-somewhere in the code of Linux. At the time I saw an article saying that
-Linux was 0.25 percent of the whole system. So by multiplying 300 by 400
-we can estimate the number of patents that would prohibit something in
-the whole system as being around 100,000. This is a very rough estimate
-only, and no more accurate information is available, since trying to
-figure it out would be a gigantic task.
+一项拥有一百万项不重复的设计元素的物理设计是浩大的，而一个拥有一百万项设计元素的程序则再普通不过。它只是数十万行代码，几个人可以在几年之内完成，因此它不是什么大事。其结果是，专利体系对我们造成的压力相比之下更重，相对于那些在其他领域工作，被物质的本性所阻挡的人们。
 
 一位律师曾经研究过一个特定的大型程序，也就是 Linux 内核。它与我所发起的 GNU 操作系统配合使用。这是在 5 年之前的事情；他发现共有 283 项不同的美国专利，其中每一项看起来都会禁止在 Linux 代码中的某处进行某种计算。与此同时，我看到的一篇文章称 Linux 约占整个 GNU 操作系统的 0.25%。因此，将 300 乘以 400，我们便可预计出可能禁止了整个系统中的某些东西的专利数量约为 10 万。这是一个非常粗略的估计，没有更加精确的信息了，由于试图弄清这个问题将会是一项过于庞杂的任务。
 
-Now this lawyer did not publish the list of patents, because that would
-have endangered the developers of Linux the kernel, putting them in a
-position where the penalties if they were sued would be greater. He
-didn’t want to hurt them; he wanted to demonstrate how bad this problem
-is, of patent gridlock.
-
-现在，这位律师并未公布相关专利的清单，由于这将威胁 Linux 内核开发者，将其置于一种一旦被起诉将面临更高罚金的境地。他并不想伤害他们；他只是想展示问题究竟有多么严重，关于专利困局。
-
-Programmers can understand this immediately, but politicians usually
-don’t know much about programming; they usually imagine that patents are
-basically much like copyrights, only somehow stronger. They imagine that
-since software developers are not endangered by the copyrights on their
-work, that they won’t be endangered by the patents on their work either.
-They imagine that, since when you write a program you have the
-copyright, \[therefore likewise\] if you write a program you have the
-patents also. This is false—so how do we give them a clue what patents
-would really do? What they really do in countries like the US?
+现在，这位律师并未公布相关专利的清单，由于这将威胁 Linux 内核开发者，将其置于一种一旦被起诉将面临更高罚金的境地。他并不想伤害他们；他只是想展示，关于专利困局，问题究竟有多么严重。
 
 程序员可以立即理解这些，但是政治家通常对编程知之甚少；他们通常想象专利大体上就像版权，只是略强一些。他们想象既然软件开发者没有受到关于他们的工作的版权的威胁，于是他们也不会受到关于他们的工作的专利的威胁。他们想象既然当您编写一个程序的时候您可以获得它的版权，与之相似地，当您编写一个程序的时候也将获得它的专利。这是不正确的——那么我们怎样才能给他们一条线索，使他们明白专利真正将会造成什么后果呢？它们在像美国这样允许软件专利的国家里究竟造成了什么后果呢？
 
-I find it’s useful to make an analogy between software and symphonies.
-Here’s why it’s a good analogy.
-
 我发现将软件和交响乐进行类比是有用的。以下是为什么这是一种好的类比的理由：
-
-A program or symphony combines many ideas. A symphony combines many
-musical ideas. But you can’t just pick a bunch of ideas and say “Here’s
-my combination of ideas, do you like it?” Because in order to make them
-work you have to implement them all. You can’t just pick musical ideas
-and list them and say, “Hey, how do you like this combination?” You
-can’t hear that \[list\]. You have to write notes which implement all
-these ideas together.
 
 一段程序或者一段交响乐都将集合诸多灵感创意。所不同的是，交响乐所汇集的是众多音乐灵感。但是，您不能只是简单地拎起一串灵感并且说：“这是我的灵感集合，你喜欢吗？”由于为了使它们有意义，您必须去实现这些灵感。您不能只是挑选若干灵感，列出清单并且说：“嗨，你到底有多么喜欢这种灵感组合？”您不能将那份灵感清单当成音乐来听。您必须写出音符来将这些灵感一起实现。
 
-The hard task, the thing most of us wouldn’t be any good at, is writing
-all these notes to make the whole thing sound good. Sure, lots of us
-could pick musical ideas out of a list, but we wouldn’t know how to
-write a good-sounding symphony to implement those ideas. Only some of us
-have that talent. That’s the thing that limits you. I could probably
-invent a few musical ideas, but I wouldn’t know how to use them to any
-effect.
-
-而这项我们当中的大部分人可能完全不擅长的艰巨任务是写出全部所需的音符以使得所有这一切悦耳动听。当然，我们中的很多人都能从音乐灵感清单中挑选一些，但我们并不知道如何实现这些灵感以创作出动听的交响乐。我们当中只有一些人拥有这样的天赋。正是这件事限制了您。我也许可能发明少数音乐创意，但我不知道怎样使用它们以产生任何效果。
-
-So imagine that it’s the 1700s, and the governments of Europe decide
-that they want to promote the progress of symphonic music by
-establishing a system of musical idea patents, so that any musical idea
-described in words could be patented.
+而这项我们当中的大部分人可能完全不擅长的艰巨任务，是写出全部所需的音符以使得所有这一切悦耳动听。当然，我们中的很多人都能从音乐灵感清单中挑选一些，但我们并不知道如何创作出动听的交响乐来实现这些灵感。我们当中只有一些人拥有这样的天赋。正是这件事限制了您。我也许可能发明少数音乐创意，但我不知道怎样使用它们以产生任何效果。
 
 假设现在是 18 世纪，欧洲各国政府决定它们想要通过创立一种音乐灵感专利体系来促进交响乐的发展，于是任何以文字形式描述的音乐灵感都可以被专利保护。
 
-For instance, using a particular sequence of notes as a motif could be
-patented, or a chord progression could be patented, or a rhythmic
-pattern could be patented, or using certain instruments by themselves
-could be patented, or a format of repetitions in a movement could be
-patented. Any sort of musical idea that could be described in words
-would have been patentable.
-
-例如，将某一特定序列的音符用于修饰音可以被专利保护；或者某种和弦进程可以被专利保护；或者某种旋律结构可以被专利保护；或者由其本人使用某些特定乐器可以被专利保护；或者音乐行进过程中的某种重复格式可以被专利保护。总之，任何类型的音乐灵感只要能被文字描述皆可获得专利。
-
-Now imagine that it’s 1800 and you’re Beethoven, and you want to write a
-symphony. You’re going to find it’s much harder to write a symphony you
-don’t get sued for than to write one that sounds good, because you have
-to thread your way around all the patents that exist. If you complained
-about this, the patent holders would say, “Oh, Beethoven, you’re just
-jealous because we had these ideas first. Why don’t you go and think of
-some ideas of your own?”
+例如，将某一特定序列的音符用于主题可以被专利保护；或者某种和弦进程可以被专利保护；或者某种旋律结构可以被专利保护；或者由其本人使用某些特定乐器可以被专利保护；或者音乐行进过程中的某种重复格式可以被专利保护。总之，任何类型的音乐灵感只要能被文字描述皆可获得专利。
 
 假设现在是在 19 世纪，您是贝多芬，并且您想要创作一首交响乐。您将会发现想要创作出一首使您不会受到专利起诉的交响乐远比创作出一首动听的交响乐更加困难。由于您必须绕过所有已存在的专利。如果您对此不满，专利持有者将会说：“哦，贝多芬，您看起来只是对我们先于您拥有这些灵感而感到嫉妒，您为何不走开，并且回去想出一些属于您自己的灵感呢？”
 
-Now Beethoven had ideas of his own. The reason he’s considered a great
-composer is because of all of the new ideas that he had, and he actually
-used. And he knew how to use them in such a way that they would work,
-which was to combine them with lots of well-known ideas. He could put a
-few new ideas into a composition together with a lot of old and
-uncontroversial ideas. And the result was a piece that was
-controversial, but not so much so that people couldn’t get used to it.
-
 现在，贝多芬有了自己的灵感。他被称为一位伟大的作曲家是由于他所拥有并且实际使用的所有灵感。并且他还知道如何使用这些灵感，使得它们能够发挥作用，即将他们与众多为人们所熟知的灵感相结合。他可以将少数创新的灵感与众多古老的并且不会引起争论的灵感一同融入创作。其创作结果是一段可能引起争议的乐章，但还没有达到足以使得人们难以适应的程度。
 
-To us, Beethoven’s music doesn’t sound controversial; I’m told it was,
-when it was new. But because he combined his new ideas with a lot of
-known ideas, he was able to give people a chance to stretch a certain
-amount. And they could, which is why to us those ideas sound just fine.
-But nobody, not even a Beethoven, is such a genius that he could
-reinvent music from zero, not using any of the well-known ideas, and
-make something that people would want to listen to. And nobody is such a
-genius he could reinvent computing from zero, not using any of the
-well-known ideas, and make something that people want to use.
-
-对于我们来说，贝多芬的音乐听起来并不那么容易引起争议；我曾听说他的作品是这样的，由于它们是新颖的。但由于他将其创新的灵感与众多已知的灵感相结合，他才给人们以延伸其境界的机会，他们也能够这样做，这正是为什么对我们来说那些灵感其实很好的原因。但是，没有人能够，即使是贝多芬也不能，成为这样的天才，其天赋足以使他能够从零开始重新发明音乐，而完全不去使用任何已经为人们所熟知的灵感，并且创造出人们想要欣赏的东西。
-
-When the technological context changes so frequently, you end up with a
-situation where what was done 20 years ago is totally inadequate. Twenty
-years ago there was no World Wide Web. So, sure, people did a lot of
-things with computers back then, but what they want to do today are
-things that work with the World Wide Web. And you can’t do that using
-only the ideas that were known 20 years ago. And I presume that the
-technological context will continue to change, creating fresh
-opportunities for somebody to get patents that give the shaft to the
-whole field.
+对于我们来说，贝多芬的音乐听起来并不那么容易引起争议；我听说他的作品曾经是引起争议的，在它还新颖的时候。但由于他将其创新的灵感与众多已知的灵感相结合，他才给人们以延伸其境界的机会，他们也能够这样做，这正是为什么对我们来说那些灵感其实很好的原因。但是，没有人能够，即使是贝多芬也不能，成为这样的天才，其天赋足以使他能够从零开始重新发明音乐，而完全不去使用任何已经为人们所熟知的灵感，并且创造出人们想要欣赏的东西。而且也没有人能够成为这样的天才，其天赋足以使他能够从零开始重新发明计算机，而完全不用任何已经为人们所熟知的灵感，并且创造出人们想要使用的东西。
 
 在这个技术环境变化如此频繁的时代，您终将达到这样一种境地，20 年之前所实现的东西现在完全不足以胜任需求。20 年前根本没有万维网。当然，人们在那之前也曾用计算机做过很多事情，但他们今天想要做的事情是那些能够与万维网协同工作的事情。并且您不可能只用 20 年前为人们所知的想法去做这些事情。并且我假设技术环境将会持续发生变化，从而创造出崭新的机会使得某些人可以得到那些欺骗了整个领域的专利。
 
-Big companies can even do this themselves. For instance, a few years ago
-Microsoft decided to make a phony open standard for documents and to get
-it approved as a standard by corrupting the International Standards
-Organization, which they did. But they designed it using something that
-Microsoft had patented. Microsoft is big enough that it can start with a
-patent, design a format or protocol to use that patented idea (whether
-it’s helpful or not), in such a way that there’s no way to be compatible
-unless you use that same idea too. And then Microsoft can make that a de
-facto standard with or without help from corrupted standards bodies.
-Just by its weight it can push people into using that format, and that
-basically means that they get a stranglehold over the whole world. So we
-need to show the politicians what’s really going on here. We need to
-show them why this is bad.
-
-行业大鳄甚至可以自己来做这件事情。例如几年之前，微软决定设计一种用于文档的伪开放标准并且通过贿赂腐化国际标准化组织（ISO）使其被批准为一项标准。但是微软在设计它的过程中使用了一些受微软自家的专利所保护的东西。微软足够强大，使得它可以从一项专利起手，使用这种受专利保护的想法来设计一种格式或协议（不论其是否有益），这样一种设计方式使得没有任何方法可以与其兼容，除非您使用完全相同的设计思想。然后微软可以使其成为事实上的标准，不论能否得到已经腐化堕落的标准化组织的助纣为虐。仅凭其自身的地位，微软就可以迫使用户使用那种格式，这就基本上宣告微软已经扼住了全世界的咽喉。因此，我们需要向政治家说明这将会真正造成什么后果。我们需要向他们证明为什么这绝不是一件好事。
-
-Now I’ve heard it said that the reason New Zealand is considering
-software patents is that one large company wants to be given some
-monopolies. To restrict everyone in the country so that one company will
-make more money is the absolute opposite of statesmanship.
+行业大鳄甚至可以自己来做这件事情。例如几年之前，微软决定设计一种用于文档的伪开放标准并且通过贿赂腐化国际标准化组织（ISO）使其被批准为一项标准，他们的确做到了。但是微软在设计它的过程中使用了一些受微软自家的专利所保护的东西。微软足够强大，使得它可以从一项专利起手，使用这种受专利保护的想法来设计一种格式或协议（不论其是否有益），这样一种设计方式使得没有任何方法可以与其兼容，除非您使用完全相同的设计思想。然后微软可以使其成为事实上的标准，不论能否得到已经腐化堕落的标准化组织的助纣为虐。仅凭其自身的地位，微软就可以迫使用户使用那种格式，这就基本上宣告微软已经扼住了全世界的咽喉。因此，我们需要向政治家说明这将会真正造成什么后果。我们需要向他们证明为什么这绝不是一件好事。
 
 现在我听说新西兰正在考虑软件专利的原因是一家行业大鳄想要藉此被赋予某种垄断地位。以限制国家里的每一个人的自由的方式来让一家商业公司大发横财，这是完全违背治国理念的。
