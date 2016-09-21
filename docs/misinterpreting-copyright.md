@@ -710,7 +710,7 @@ of the author as semidivine creator, often cited by publishers to
 justify increased copyright powers for authors—powers which these
 authors will then sign away to publishers.
 
-我是软件设计者而非法学学者。我之所以对版权问题感到担忧是由于这在计算机网络世界，例如万维网中，是无法回避的。作为计算机和网络的 30 多年的用户，我衡量了我们已经失去的以及将要失去的自由的价值。作为一位作者，我有权拒绝将作者比作半神的创造者这一富有幻想性的神话，而出版商经常援引这一点作为依据以支持增加作者的版权权力——然而作者随后就会把这些权力出让给出版商。
+我是软件设计者而非法学学者。我之所以对版权问题感到担忧是由于这在计算机网络世界，例如互联网中，是无法回避的。作为计算机和网络的 30 多年的用户，我衡量了我们已经失去的以及将要失去的自由的价值。作为一位作者，我有权拒绝将作者比作半神的创造者这一富有幻想性的神话，而出版商经常援引这一点作为依据以支持增加作者的版权权力——然而作者随后就会把这些权力出让给出版商。
 
 Most of this article consists of facts and reasoning that you can check,
 and proposals on which you can form your own opinions. But I ask you to
