@@ -171,7 +171,7 @@ AACS 阴谋集团为所有播放器制定了细致的规则。例如在 2011 年
 
 第二步是说服人们从纸版书转向电子书；这项进展并不十分顺利。
 
-2001 年，一家出版商想出了一种方法，如果它能够以我的传记开头，它的系列电子书将会变得非常流行。于是它们找到一位作者，后者询问我是否愿意合作，我说：“除非该电子书以未加密并且无 DRM 的形式发布。”出版商不愿意接受这一条，而我则强烈要求这样——我最终拒绝了。最后我们找到了另一家出版商，它愿意如此——事实上是希望使用自由许可证发布该书以赋予您四项基本自由——于是该书最终出版，并且售出了很多份纸版副本（译者注：此书即《Free as in Freedom》。中文译名《若为自由故：自由软件之父理查德·斯托曼传》，邓楠、李凡希翻译，人民邮电出版社2015年出版）。
+2001 年，一家出版商想出了一种方法，如果它能够以我的传记开头，它的系列电子书将会变得非常流行。于是它们找到一位作者，后者询问我是否愿意合作，我说：“除非该电子书以未加密并且无 DRM 的形式发布。”出版商不愿意接受这一条，而我则强烈要求这样——我最终拒绝了。最后我们找到了另一家出版商，它愿意如此——事实上是希望使用自由许可证发布该书以赋予您四项基本自由——于是该书最终出版，并且售出了很多份纸版副本[^2]。
 
 但不管怎么说，电子书在这十年之初并未取得预期成果。人们并不十分愿意阅读它们。我曾说过：“它们将会卷土重来。”我们见到了数量可观的关于类似电子墨水的新闻文章（或者称为电子纸，我记不清是哪个了），我认为之所以会有那么多文章，很可能是由于出版商想让我们考虑这种载体。它们希望我们迫切地想要成为下一代电子书的读者。
 
@@ -191,465 +191,125 @@ AACS 阴谋集团为所有播放器制定了细致的规则。例如在 2011 年
 
 假设您前去拜访一位朋友，他的书架上并没有一本书，这并不是由于您的朋友从来不读书，而是由于他的所有书都保存在某一台设备中，他当然不能将那些书借给您。他所能够借给您任意一本书的唯一方式是借给您他的整个图书馆。请求他人如此显然是荒唐的。因此，热爱读书的人们之间，友谊将不复存在。
 
-Make sure that you inform people what this device implies. It means
-other readers will no longer be your friends, because you will be acting
-like a jerk toward them. Spread the word preemptively. This device is
-your enemy. It’s the enemy of everyone who reads. The people who don’t
-recognize that are the people who are thinking so short-term that they
-don’t see it. It’s our job to help them see beyond the momentary
-convenience to the implications of this device.
-
-请您确保告知人们这种设备意味着什么。它意味着其他读者不再是您的朋友，由于您在他们面前表现得像个傻瓜。一定要先发制人地传播这句话。这款设备是您的敌人，它是任何读者的敌人。那些尚未意识到这一点的人们是那些思想短视，未能看穿这一点的人们。我们的任务是帮助他们透过眼前的易用性看穿这款设备的本质。
-
-I have nothing against distributing books in digital form, if they are
-not designed to take away our freedom. Strictly speaking, it is possible
-to have an e-book reader:
+请您确保告诉人们这种设备意味着什么。它意味着其他读者不再是您的朋友，因为您在他们面前表现得像个傻瓜。一定要先发制人地传播这句话。这款设备是您的敌人，它是任何读者的敌人。那些尚未意识到这一点的人们是那些思想短视，未能看穿这一点的人们。我们的任务是帮助他们透过眼前的易用性看穿这款设备的本质。
 
 我绝不反对以数字形式发布书籍，如果它们并非被设计用于剥夺我们的自由。严格地说，要想拥有这样一款电子书阅读器是可能的：
 
--   that is not designed to attack you,
-
 -   不是被设计用于攻击您；
-
--   which runs free software and not proprietary software,
 
 -   运行自由软件而非私有软件；
 
--   which doesn’t have DRM,
-
 -   不带 DRM；
-
--   which doesn’t make people identify yourself to get a book,
 
 -   不要求用户购书时提供身份信息；
 
--   which doesn’t have a back door, \[and\]
-
 -   不带后门；
-
--   which doesn’t restrict what you can do with the files on
-    your machine.
 
 -   不限制您可以用它对您的计算机上的文件做什么事情。
 
-It’s possible, but the big companies really pushing e-books are doing it
-to attack our freedom, and we mustn’t stand for that. This is what
-governments are doing in cahoots with big business to attack our
-freedom, by making copyright harsher and nastier, more restrictive than
-ever before.
+这是可能的，但是，真正推广电子书的大型出版公司不这么做都是侵犯我们的自由，这是我们无论如何不能容忍和支持的。这正是政府和大型出版企业正在合谋所做的事情，通过使得版权变得越来越严酷和龌龊，越来越具有约束性来侵犯我们的自由。
 
-这是可能的，但是，真正推广电子书的大型出版公司如此做的目的都是侵犯我们的自由，这是我们无论如何不能容忍和支持的。这正是政府和大型出版企业正在合谋所做的事情，通过使得版权变得越来越严酷和龌龊，越来越具有约束性来侵犯我们的自由。
-
-But what should they do? Governments should make copyright power less.
-Here are my specific proposals.
 
 但是，它们应该做些什么呢？政府应该减少版权权力。以下是我的一些特别建议。
 
-First of all, there is the dimension of time. I propose copyright should
-last ten years, starting from the date of publication of a work.
-
 首先，是关于版权的时间尺度。我提议版权应该仅仅持续 10 年，从作品发布的日期计算。
-
-Why from the date of publication? Because before that, we don’t have
-copies. It doesn’t matter to us whether we would have been allowed to
-copy our copies that we don’t have, so I figure we might as well let the
-authors have as much time as it takes to arrange publication, and then
-start the clock.
 
 为何从作品发布的日期开始计算？由于在此之前，我们并没有任何副本。我们是否被允许复制那些我们不曾拥有的作品副本并不重要，因此我认为我们同样允许作者拥有足够的时间来安排作品的发行，然后再开始计时。
 
-But why ten years? I don’t know about in this country, but in the US,
-the publication cycle has got shorter and shorter. Nowadays almost all
-books are remaindered within two years and out-of-print within three. So
-ten years is more than three times the usual publication cycle—that
-should be plenty comfortable.
+那么为何是 10 年？我不知道这个国家（新西兰）情况如何，但在美国，出版周期正在变得越来越短。现在几乎所有的书都只在 2 年内被廉价出售，并且会在 3 年内绝版。因此，10 年的期限是通常出版周期的 3 倍有余——这应当足以令人满意。
 
-那么为何是 10 年？我不知道这个国家情况如何，但在美国，出版周期正在变得越来越短。现在几乎所有的书都只在 2 年内被廉价出售，并且会在 3 年内绝版。因此，10 年的期限是通常出版周期的 3 倍有余——这应当足以令人满意。
+但是并非所有人都同意这一点。我曾在一次同科幻作家的研讨会上提出这一观点，而坐在我身边的一位获奖科幻作家说道：“10 年？不可能。超过 5 年的任何东西都是不可容忍的。”您可以看到，他与他的出版商之间进行了合法的争论。他的书将要绝版，但是出版商并不同意。该出版商正在使用此人自己所著的书的版权来禁止此人自行分发其副本，而他则希望通过减少版权时间以使得人们可以阅读此书。
 
-But not everybody agrees. I once proposed this in a panel discussion
-with fiction writers, and the award-winning fantasy writer next to me
-said, “Ten years? No way. Anything more than five years is intolerable.”
-You see, he had a legal dispute with his publisher. His books seemed to
-be out of print, but the publisher wouldn’t admit it. The publisher was
-using the copyright on his own book to stop him from distributing copies
-himself, which he wanted to do so people could read it.
+这正是每位作者正在要求的——他们想要分发自己的作品使其被人们阅读和感激。极少有人能赚得盆满钵满。这很小的一部分大发横财的人正在面临道德败坏的风险，比如 JK Rowling。
 
-但是并非所有人都同意这一点。我曾在一次同科幻作家的研讨会上提出这一观点，而坐在我身边的一位获奖科幻作家说道：“10 年？不可能。超过 5 年的任何东西都是不可容忍的。”您可以看到，他与他的出版商之间进行了合法的争论。他的书将要绝版，但是出版商并不同意。该出版商正在使用此人自己所著的书的版权来禁止此人自行分发其副本，而他则希望如此做以使得人们可以阅读此书。
-
-This is what every artist starts out wanting—wanting to distribute her
-work so it will get read and appreciated. Very few make a lot of money.
-That tiny fraction face the danger of being morally corrupted, like JK
-Rowling.
-
-这正是每位作者正在开始要求的——他们想要分发自己的作品使其被人们阅读和感激。极少有人能赚得盆满钵满。这很小的一部分大发横财的人正在面临道德败坏的风险，比如 JK Rowling。
-
-JK Rowling, in Canada, got an injunction against people who had bought
-her book in a bookstore, ordering them not to read it. So in response I
-call for a boycott of Harry Potter books. But I don’t say you shouldn’t
-read them; I leave that to the author and the publisher. I just say you
-shouldn’t buy them.
-
-在加拿大，JK Rowling 取得了一项针对那些从某家书店购买了她所著的书的人们的禁令，强行要求他们不得阅读该书。作为回应，我号召发动了一场抵制《哈利波特》丛书的运动。但我并未说您不应该阅读它们，我将这种抵制留给作者和出版商。我只是说，您不应该购买它们。
-
-It’s few authors that make enough money that they can be corrupted in
-this way. Most of them don’t get anywhere near that, and continue
-wanting the same thing they wanted at the outset: they want their work
-to be appreciated.
+在加拿大，JK Rowling 取得了一项禁令，针对那些从某家书店购买了她所著的书的读者，强行要求这些读者不得阅读该书。作为回应，我号召发动了一场抵制《哈利波特》丛书的运动。但我并未说您不应该阅读它们，我将这种抵制留给作者和出版商。我只是说，您不应该购买它们。
 
 只有少数作者能够赚到足以使得他们腐化堕落的钱。他们中的大多数远未达到这种境地，并且继续要求那些他们从一开始就在诉求的东西：他们想要自己的作品受到感激。
 
-He wanted to distribute his own book, and copyright was stopping him. He
-realized that more than five years of copyright was unlikely to ever do
-him any good.
-
-他想要分发自己的书，但版权禁止他如此做。他意识到超过 5 年的版权期限不可能为他带来任何好处。
-
-If people would rather have copyright last five years, I won’t be
-against it. I propose ten as a first stab at the problem. Let’s reduce
-it to ten years and then take stock for a while, and we could adjust it
-after that. I don’t say I think ten years is the exact right number—I
-don’t know.
+他想要分发自己的书，但版权禁止他如此。他意识到超过 5 年的版权期限不可能为他带来任何好处。
 
 如果人们更想让版权仅仅持续 5 年，我不会反对。我只是提议将 10 年作为解决问题的第一步。首先让我们将其缩短到 10 年，然后观望一段时间，接下来我们就可以继续调整它。我并没有说我认为 10 年就刚好是恰当的数字——我也不知道到底应该是多少。
 
-What about the dimension of breadth? Which activities should copyright
-cover? I distinguish three broad categories of works.
-
 那么，关于版权的宽度又如何呢？版权应当覆盖哪些活动？我在此区分三大类作品。
-
-First of all, there are the functional works that you use to do a
-practical job in your life. This includes software, recipes, educational
-works, reference works, text fonts, and other things you can think of.
-These works should be free.
 
 首先，有一些功能性的作品是您可以在您的生活中将其用于执行一项实践任务的。这包括软件、菜谱、教材、参考文献、字体、以及您所能想到的其他东西。这些作品应当是自由的。
 
-If you use the work to do a job in your life, then if you can’t change
-the work to suit you, you don’t control your life. Once you have changed
-the work to suit you, then you’ve got to be free to publish it—publish
-your version—because there will be others who will want the changes
-you’ve made.
-
-如果您在生活中使用这样一件作品来完成一项任务，那么如果您不能修改该作品以使其适合您的需求，您就不能控制您的生活。一旦您更改了该作品以适应您的需求，那么您应该拥有发布它的自由——发布您的版本——由于将会有其他人想要得到您所做的修改。
-
-This leads quickly to the conclusion that users have to have the same
-four freedoms \[for all functional works\], not just for software. And
-you’ll notice that for recipes, practically speaking, cooks are always
-sharing and changing recipes just as if the recipes were free. Imagine
-how people would react if the government tried to stamp out so-called
-recipe piracy.
+如果您在生活中使用这样一件作品来完成一项任务，那么如果您不能修改该作品以使其适合您的需求，您就不能控制您的生活。一旦您更改了该作品以适应您的需求，那么您应该拥有发布它的自由——发布您的版本——因为会有其他人想要得到您所做的修改。
 
 这很快就能推出结论，用户必须拥有同样的四项基本自由（对于所有功能性的作品）而非仅限于软件。并且您将会注意到，对于菜谱，或者从实践角度讲，烹饪的行为总是在分享并且改进菜谱，如同菜谱是自由的一般。设想一下，人们将会作何反应，如果政府试图禁止所谓的“菜谱盗版”。
 
-The term “pirate” is pure propaganda. When people ask me what I think of
-music piracy, I say, “As far as I know, when pirates attack they don’t
-do it by playing instruments badly, they do it with arms. So it’s not
-music ‘piracy,’ because piracy is attacking ships, and sharing is as far
-as you get from being the moral equivalent of attacking ships.”
-Attacking ships is bad, sharing with other people is good, so we should
-firmly denounce that propaganda term “piracy” whenever we hear it.
-
 “盗版”一词完全是一种鼓吹的概念。当人们问我关于音乐盗版的看法时，我会说：“就我所知，当海盗们发动攻击时，他们并非采取拙劣地演奏乐器的方式，而是使用武力。因此这不是音乐‘盗版’，由于海盗行为是攻击船只，而分享和攻击船只的行为在道德上相去甚远。”攻击船只是坏事，而与他人分享则是好事，因此我们应当在我们听到“盗版”这一鼓吹的概念的时候给予坚决的揭露。
 
-People might have objected twenty years ago: “If we don’t give up our
-freedom, if we don’t let the publishers of these works control us, the
-works won’t get made and that will be a horrible disaster.” Now, looking
-at the free software community, and all the recipes that circulate, and
-reference works like Wikipedia—we are even starting to see free
-textbooks being published—we know that that fear is misguided.
+早在 20 多年前，人们可能会反对这一点：“如果我们不放弃自己的自由，如果我们不让这些作品的出版商支配我们，这些作品就没有机会创作出来，这是一种恐怖的灾难。”现在，请看自由软件社区，还有那些广为流传的菜谱，还有诸如 Wikipedia 这样的参考文献——我们甚至还见到开始发布自由的教科书——我们就可以知道这种恐惧是被误导的结果。
 
-早在 20 多年前，人们可能会反对这一点：“如果我们不放弃自己的自由，如果我们不让这些作品的出版商支配我们，这些作品就没有机会被创作，这是一种恐怖的灾难。”现在，请看自由软件社区，还有那些广为流传的菜谱，还有诸如 Wikipedia 这样的参考文献——我们甚至还开始见到自由的教科书的发布——我们就可以知道这种恐惧是被误导的结果。
+完全没有必要因为想到若非如此作品就创作不出来而感到绝望并且因此放弃我们的自由。还有很多方式可以鼓励作者来创作这些作品，如果我们想要更多的作品——很多方式都可以维持并且尊重我们的自由。对于这一大类作品，它们都应当是自由的。
 
-There is no need to despair and give up our freedom thinking that
-otherwise the works won’t get made. There are lots of ways to encourage
-them to get made if we want more—lots of ways that are consistent with
-and respect our freedom. In this category, they should all be free.
-
-完全没有必要因为想到若非如此作品就不会被创作而感到绝望并且因此放弃我们的自由。还有很多方式可以鼓励作者来创作这些作品，如果我们想要更多的作品——很多方式都可以维持并且尊重我们的自由。对于这一大类作品，它们都应当是自由的。
-
-But what about the second category, of works that say what certain
-people thought, like memoirs, essays of opinion, scientific
-papers,[(2)](#FOOT2) and various other things? To publish a modified
-version of somebody else’s statement of what he thought is
-misrepresenting \[that\] somebody. That’s not particularly a
-contribution to society.
-
-那么，对于第二大类作品又如何呢？即对于那些包含人们的思想的作品，诸如回忆录、议论文、科研论文[(2)](#FOOT2)以及其他不同形式的作品。发布某些其他人对其自身思想的论述的修改版本将会曲解此人的本意，这绝不是对社会的贡献。
-
-Therefore it is workable and acceptable to have a somewhat reduced
-copyright system where all commercial use is covered by copyright, all
-modification is covered by copyright, but everyone is free to
-non-commercially redistribute exact copies.
+那么，对于第二大类作品又如何呢？即对于那些包含人们的思想的作品，诸如回忆录、议论文、科研论文[^3]以及其他不同形式的作品。其他人发布的修改版可能会曲解原作者论述思想的本意，这绝不是对社会的贡献。
 
 因此，创立这样一种在一定程度上弱化的版权体系是可行并且可接受的，在此体系中，所有商业应用受版权限制，所有对原作的修改受版权限制，但是任何人都拥有对原始版本的副本进行非商业性再分发的自由。
 
-That freedom is the minimum freedom we must establish for all published
-works, because the denial of that freedom is what creates the War on
-Sharing—what creates the vicious propaganda that sharing is theft, that
-sharing is like being a pirate and attacking ships. Absurdities, but
-absurdities backed by a lot of money that has corrupted our governments.
-We need to end the War on Sharing; we need to legalize sharing exact
-copies of any published work.
+这些自由是我们必须建立起来的，针对所有已发布作品的最低限度自由，因为正是对这些自由的否定发动了“消灭分享之战”——它创造鼓吹了恶毒的概念：分享就是盗窃，分享（盗版）行为就像海盗攻击船只的行为。这是荒谬的，但是这种由金钱支撑的荒谬理念腐化了我们的政府。我们需要终结“消灭分享之战”；我们需要使得分享任何已发布作品的原始版本合法化。
 
-这些自由是我们必须建立起来的针对所有已发布作品的最低限度自由，由于正是对这些自由的否定发动了“消灭分享之战”——它创造了恶毒的鼓吹的概念：分享就是盗窃，分享（盗版）行为就像海盗攻击船只的行为。这是荒谬的，但是这种由金钱支撑的荒谬理念腐化了我们的政府。我们需要终结“消灭分享之战”；我们需要使得分享任何已发布作品的原始版本合法化。
-
-In the second category of works, that’s all we need; we don’t need to
-make them free. Therefore I think it’s OK to have a reduced copyright
-system which covers commercial use and all modifications. And this will
-provide a revenue stream to the authors in more or less the same
-(usually inadequate) way as the present system. You’ve got to keep in
-mind \[that\] the present system, except for superstars, is usually
-totally inadequate.
-
-对于这第二大类作品，以上这些就是我们所需要的；我们不必使其成为自由的。因此我认为拥有一种覆盖了商业应用以及任何修改的减弱的版权体系是可以接受的。这可以为作者提供一种收入来源（通常是不足以体现其应得收入的），以某种与现有体系或多或少地相同的方式。您应当留意在现有体系中，除了少数明星大腕，绝大多数作者完全没有得到应得的收入。
-
-What about works of art and entertainment? Here it took me a while to
-decide what to think about modifications.
+对于这第二大类作品，以上这些就是我们所需要的；我们不必使其成为自由的。因此我认为拥有一种覆盖了商业应用以及任何修改的弱化版权体系是可以接受的。这可以为作者提供一种收入来源（通常是不足以体现其应得收入的），以某种与现有体系或多或少地相同的方式。您应当留意在现有体系中，除了少数明星大腕，绝大多数作者完全没有得到应得的收入。
 
 那么对于艺术娱乐作品又如何呢？在此，我花费了一些时间来决定如何看待对作品的修改。
 
-You see, on one hand, a work of art can have an artistic integrity and
-modifying it could destroy that. Of course, copyright doesn’t
-necessarily stop works from being butchered that way. Hollywood does it
-all the time. On the other hand, modifying the work can be a
-contribution to art. It makes possible the folk process which leads to
-things which are beautiful and rich.
-
 您可以看到，一方面，一幅艺术作品可能具有某种艺术上的完整性，对其进行修改可能会破坏这种完整性。当然，版权并不会必然地阻止作品以这种方式被糟蹋。好莱坞就一直在这样干。另一方面，修改一幅作品也可能成为对艺术的一种贡献，它使得民间传承的素材也能变得富有美感和意蕴。
 
-Even if we look at named authors only: consider Shakespeare, who
-borrowed stories from other works only a few decades old, and did them
-in different ways, and made important works of literature. If today’s
-copyright law had existed then, that would have been forbidden and those
-plays wouldn’t have been written.
-
-即使我们仅仅着眼于著名的作家：考虑莎士比亚，他从几十年前发布的作品中借鉴故事情节并且以其他方式进行呈现，最终创作出了文学史上的巨著。如果今天的版权法在当时也存在，这种创作方式将被禁止，那些剧本也不可能被创作出来。
-
-But eventually I realized that modifying a work of art can be a
-contribution to art, but it’s not desperately urgent in most cases. If
-you had to wait ten years for the copyright to expire, you could wait
-that long. Not like the present-day copyright that makes you wait maybe
-75 years, or 95 years. In Mexico you might have to wait almost 200 years
-in some cases, because copyright in Mexico expires a hundred years after
-the author dies. This is insane, but ten years, as I’ve proposed
-copyright should last, that people can wait.
+即使我们仅仅着眼于著名的作家：比如莎士比亚，他从几十年前发布的作品中借鉴故事情节并且以其他方式进行呈现，最终创作出了文学史上的巨著。如果今天的版权法在当时也存在，这种创作方式将被禁止，那些剧本也不可能被创作出来。
 
 但是，我最终意识到修改一幅艺术作品可能成为对艺术的贡献，然而这在大多数情况下并非急迫需求。如果您必须等上 10 年使得版权过期，您是可以等上那么长时间的。不像现在的版权法迫使您等上 75 年或是 95 年。在墨西哥，有时您可能不得不等上将近 200 年，由于墨西哥的版权将会在作者去世 100 年后过期。这是极其不理智的，但是如我所提议的 10 年，作为版权应该持续的时间，是人们可以在有生之年等到的。
 
-So I propose the same partly reduced copyright that covers commercial
-use and modification, but everyone’s got to be free to non-commercially
-redistribute exact copies. After ten years it goes into the public
-domain, and people can contribute to art by publishing their modified
-versions.
-
 因此我提议相同的弱化版权覆盖商业应用和作品修改，但每个人都应当拥有对其原始版本进行非商业性再分发的自由。10 年之后，它将进入公有领域，人们可以通过发布他们的修改版本来继续为艺术发展做出贡献。
-
-One other thing: if you’re going to take little pieces out of a bunch of
-works and rearrange them into something totally different, that should
-just be legal, because the purpose of copyright is to promote art, not
-to obstruct art. It’s stupid to apply copyright to using snippets like
-that—it’s self-defeating. It’s a kind of distortion that you’d only get
-when the government is under the control of the publishers of the
-existing successful works, and has totally lost sight of its intended
-purpose.
 
 还有一件事情，如果您想要从一系列作品中挑选一些片断并且将其整合为某种全新的作品，这应当是合法的，由于版权的初衷是促进艺术发展，而非阻碍艺术发展。使用版权来禁止这种使用作品片断的创作方式是愚蠢的——它是自相矛盾的。这是一种扭曲，只有当政府被那些现存成功作品的出版商所支配的时候才会发生这种事情，并且这已经完全迷失了其初衷。
 
-That’s what I propose, and in particular, this means that sharing copies
-on the internet must be legal. Sharing is good. Sharing builds the bonds
-of society. To attack sharing is to attack society.
-
 这就是我所提议的，特别要指出的是，这意味着在互联网上分享副本必须是合法的。分享是美好的。分享构建了社会的契约。反对分享就是反对社会。
-
-So any time the government proposes some new means to attack people who
-share, to stop them from sharing, we have to recognize that this is
-evil, not just because the means proposed almost invariably offend basic
-ideas of justice. But that’s not a coincidence; the reason is because
-the purpose is evil. Sharing is good and the government should encourage
-sharing.
 
 因此，每当政府提议新的措施以制裁分享作品的人们并且强行禁止他们分享时，我们必须认识到这是一种罪恶。不仅仅是因为这些被提议的制裁措施无一例外地侵害了公平这一基本理念。但这并非巧合；其原因是这种提议的目的是罪恶的。分享是美好的，政府应当鼓励分享。
 
-But copyright did after all have a useful purpose. Copyright as a means
-to carry out that purpose has a problem now, because it doesn’t fit in
-with the technology we use. It interferes with all the vital freedoms
-for all the readers, listeners, viewers, and whatever, but the goal of
-promoting the arts is still desirable. So in addition to the partly
-reduced copyright system, which would continue to be a copyright system,
-I propose two other methods.
-
-但不管怎么说，版权确实有其有用的目的。只是版权作为实现该目的的手段在现在遇到了问题，由于它不能适应当今我们所使用的技术。它干涉了读者、听众、观众及其他人的所有基本自由，但它促进艺术发展的目标仍然是美好的。因此，版权系统将继续作为版权系统而存在，除了在一定限度上减少它的权力，我提议两种其他方式。
-
-One \[works via\] taxes—distribute tax money directly to artists. This
-could be a special tax, perhaps on internet connectivity, or it could
-come from general revenue, because it won’t be that much money in total,
-not if it’s distributed in an efficient way. To distribute it
-efficiently to promote the arts means not in linear proportion to
-popularity. It should be based on popularity, because we don’t want
-bureaucrats to have the discretion to decide which artists to support
-and which to ignore, but based on popularity does not imply linear
-proportion.
+但不管怎么说，版权确实有其有用的目的。只是版权作为实现该目的的手段在当下遇到了问题，由于它不能适应当今我们所使用的技术。它干涉了读者、听众、观众及其他人的所有基本自由，但它促进艺术发展的目标仍然是美好的。因此，在一定限度上减少它的权力，版权系统将继续作为版权系统而存在。我提议两种其他方式。
 
 其一是（通过）征税（来实现）——直接将税金分发给作者。这可以是一种特殊税收，可以是对于互联网连接服务的税收，也可以来自一般性的收入，由于它的总量不会非常大，如果它是通过某种有效的方式进行分发的。以促进艺术发展为目的对其进行有效分发意味着不是按照作品流行度的线性比例进行分发。它应当基于流行度，由于我们不希望由官僚主义者独断决定哪些作者应该得到支持而哪些作者将会被无视。但是，基于流行度并不必然意味着按照线性比例进行分发。
 
-What I propose is measure the popularity of the various artists, which
-you could do through polling (samples) in which nobody is required to
-participate, and then take the cube root. The cube root looks like this:
-it means basically that \[the payment\] tapers off after a while.
-
 我所提议的是统计不同作品的流行度，您可以通过投票（样本）做到这一点，并且不是每个人都被强制参与，然后取其立方根。立方根就像这样：它基本意味着（收入）增加值将会逐渐变小。
-
-If superstar A is a thousand times as popular as successful artist B,
-with this system A would get ten times as much money as B, not a
-thousand times.
 
 如果某位明星大腕 A 的流行度是某位成功艺术家 B 的 1000 倍，按照这种体系，A 将得到 10 倍于 B 的收入，而非 1000 倍。
 
-Linearly would give A a thousand times as much as B, which means that if
-we wanted B to get enough to live on we’re going to have to make A
-tremendously rich. This is wasteful use of the tax money—it shouldn’t be
-done.
-
 如果按照线性比例，A 将得到 1000 倍于 B 的收入，这意味着如果我们想让 B 得到足以维持其生计的钱，我们必须使 A 赚得盆满钵满。这是一种对税金的浪费——不应该这样做。
 
-But if we make it taper off, then yes, each superstar will get
-handsomely more than an ordinary successful artist, but the total of all
-the superstars will be a small fraction of the \[total\] money. Most of
-the money will go to support a large number of fairly successful
-artists, fairly appreciated artists, fairly popular artists. Thus the
-system will use money a lot more efficiently than the existing system.
+但如果我们使得收入增量逐渐变小，那么是的，每位明星仍将得到比普通的成功艺术家多得多的收入，但所有这些明星的收入总和将只占税金（总额）的一小部分。大部分税金将会被用于支持一大批相对成功、相对受欢迎、相对流行的艺术家。因此，相对于现有的体系，这一体系将能够更有效地利用这笔税金。
 
-但如果我们使得收入增量逐渐变小，那么是的，每位明星仍将得到比普通的成功艺术家多得多的收入，但所有这些明星的收入总和将只占税金（总额）的一小部分。大部分税金将会被用于支持一大批相对成功、相对受欢迎、相对流行的艺术家。因此，这一体系将能够更有效地利用这笔税金，相对于现有的体系。
-
-The existing system is regressive. It actually gives far, far more per
-record, for instance, to a superstar than to anybody else. The money is
-extremely badly used. The result is we’d actually be paying a lot less
-this way. I hope that’s enough to mollify some of these people who have
-a knee-jerk hostile reaction to taxes—one that I don’t share, because I
-believe in a welfare state.
-
-现有的体系是倒退的。它实际上，例如对每张唱片，给予明星大腕的钱远远超过给予其他任何人的。这种花钱的方式非常不合理。其结果是我们按照这种方式所实际花费的钱要少得多。我希望这足以安慰那些对税收有着如同膝跳反应般的敌意的人们——我并不分享税收，由于信任一个福利国家。
-
-I have another suggestion which is voluntary payments. Suppose every
-player had a button you could push to send a dollar to the artist who
-made the work you’re currently playing or the last one you played. This
-money would be delivered anonymously to those artists. I think a lot of
-people would push that button fairly often.
+现有的体系是倒退的。它实际上，例如对每张唱片，给予明星大腕的钱远远超过给予其他任何人的。这种花钱的方式非常不合理。其结果是我们按照这种方式所实际花费的钱要少得多。我希望这足以安慰那些对税收有着如同膝跳反应般的敌意的人们——我并不分享税收，因为信任一个福利国家。
 
 我还有一个建议是关于志愿者捐助的。假设每台播放器都有这样一个按钮，您可以通过按下它来向您正在播放的作品或者已经播放的上一部作品的作者发送 1 美元。这笔钱将会被匿名地发送给作者。我相信会有很多人比较经常地按下那个按钮。
 
-For instance, all of us could afford to push that button once every day,
-and we wouldn’t miss that much money. It’s not that much money for us,
-I’m pretty sure. Of course, there are poor people who couldn’t afford to
-push it ever, and it’s OK if they don’t. We don’t need to squeeze money
-out of poor people to support the artists. There are enough people who
-are not poor to do the job just fine. I’m sure you’re aware that a lot
-of people really love certain art and are really happy to support the
-artists.
-
 例如，我们当中的所有人应当能够负担得起每天按一次按钮的费用，这不会花费我们那么多钱。这笔钱对于我们是可接受的，我非常确信。当然，也会有贫困的人们不能负担按一下按钮的费用，然而即使他们不去按下按钮也没关系。我们不需要从穷人身上榨取钱财来支持作者。有足够多的经济状况尚可的人们，他们可以很好地完成这件事。我相信您已经注意到，有很多人确实喜爱某种艺术，并且非常乐意支持作者。
 
-An idea just came to me. The player could also give you a certificate of
-having supported so-and-so, and it could even count up how many times
-you had done it and give you a certificate that says, “I sent so much to
-these artists.” There are various ways we could encourage people who
-want to do it.
-
-于是我又有了一个想法。播放器还可以给您一份证书，表示您曾经支持过某位无名作者，它甚至还可以统计您曾经送出多少次支持，并且给您这样一份证书：“我为这些艺术家付出了这么多。”总之，我们可以通过很多方式鼓励那些想要如此做的人们。
-
-For instance, we could have a PR campaign which is friendly and kind:
-“Have you sent a dollar to some artists today? Why not? It’s only a
-dollar—you’ll never miss it and don’t you love what they’re doing? Push
-the button!” It will make people feel good, and they’ll think, “Yeah, I
-love what I just watched. I’ll send a dollar.”
+于是我又有了一个想法。播放器还可以给您一份证书，表示您曾经支持过某位无名作者，它甚至还可以统计您曾经送出多少次支持，并且给您这样一份证书：“我为这些艺术家付出了这么多。”总之，我们可以通过很多方式鼓励那些想要这么做的人们。
 
 例如，我们可以开展一场友善的 PR 活动：“您今天向某位艺术家捐助 1 美元了吗？为什么不呢？这只是 1 美元——您将永远不会失去它，您难道不喜爱他们所创作的作品吗？现在就按下按钮！”这将使人们产生好感，他们将会想：“是的，我喜爱我所观看的作品，我将要捐助 1 美元。”
 
-This is already starting to work to some extent. There’s a Canadian
-singer who used to be called Jane Siberry. She put her music on her web
-site and invited people to download it and pay whatever amount they
-wished. She reported getting an average of more than a dollar per copy,
-which is interesting because the major record companies charge just
-under a dollar per copy. By letting people decide whether and how much
-to pay, she got more—she got even more per visitor who was actually
-downloading something. But this might not even count whether there was
-an effect of bringing more people to come, and \[thus\] increasing the
-total number that this average was against.
-
 这在一定程度上已经开始产生效果。有一位曾经叫做 Jane Siberry 的加拿大歌手。她将自己的音乐放在自己的网站上，邀请人们下载并且捐助他们所愿意支付的任意金额。她曾经报道收到了平均每份副本多于 1 美元的收入，这是有趣的事情，由于大型唱片公司的收费还不到每份副本 1 美元。通过让人们自行决定是否捐助与捐助多少，她实际上得到了更多——如果按照实际下载了某些东西的访问者来统计，她通过每位访问者得到的甚至更多。但这可能还没有考虑是否存在这样一种效应，即吸引更多人访问，从而增大了这一平均值所对应的分母。
-
-So it can work, but it’s a pain in the neck under present circumstances.
-You’ve got to have a credit card to do it, and that means you can’t do
-it anonymously. And you’ve got to go find where you’re going to pay, and
-the payment systems for small amounts, they’re not very efficient, so
-the artists are only getting half of it. If we set up a good system for
-this, it would work far, far better. So these are my two suggestions.
 
 因此，这是可行的，但在当前环境下是一种令人头痛的事。首先您必须拥有一张信用卡，这意味着您不能进行匿名捐助。并且您必须找到去哪里进行支付，而对于小额支付，现有的支付系统并不非常高效，因此艺术家们只是成功了一半。如果我们能够建立一种理想的支付系统，它将能够更好地实现我们的目的。
 
-And in [mecenat-global.org](mecenat-global.org),[(3)](#FOOT3) you can
-find another scheme that combines aspects of the two, which was invented
-by Francis Muguet and designed to fit in with existing legal systems
-better to make it easier to enact.
+在 [mecenat-global.org](mecenat-global.org) 网站[^4]，您可以找到结合了这两条建议思想的另一种方案，它由 Francis Muguet 发明，并且被设计为旨在更好地适应现存法律体系以使其更容易实施。
 
-在 mecenat-global.org 网站[(3)](#FOOT3)，您可以找到结合了这两条建议思想的另一种方案，它由 Francis Muguet 发明，并且被设计为旨在更好地适应现存法律体系以使其更容易实施。
 
-Be careful of proposals to “compensate the rights holders,” because when
-they say “compensate,” they’re trying to presume that if you have
-appreciated a work, you now have a specific debt to somebody, and that
-you have to “compensate” that somebody. When they say “rights holders,”
-it’s supposed to make you think it’s supporting artists while in fact
-it’s going to the publishers—the same publishers who basically exploit
-all the artists (except the few that you’ve all heard of, who are so
-popular that they have clout).
-
-当心这种关于“补偿版权持有人”的鬼话，由于当他们在说“补偿”的时候，他们是在试图假设如果您感激一篇作品，您已经欠下了某人一笔特殊的债务，并且您必须“补偿”此人。当他们说“版权持有人”的时候，它应该是在迫使您认为这是在支持艺术家，而实际上这是在支持出版商——正是那些从根本上剥削了所有艺术家（除了少数各位都听说过的艺术家，由于他们那么出名，以至于他们拥有了某种势力）的出版商。
-
-We don’t owe a debt; we have nobody that we have to “compensate.”
-\[But\] supporting the arts is still a useful thing to do. That was the
-motivation for copyright back when copyright fit in with the technology
-of the day. Today copyright is a bad way to do it, but it’s still good
-to do it other ways that respect our freedom.
+当心这种关于“补偿版权持有人”的鬼话，由于当他们在说“补偿”的时候，他们是在试图假设如果您感激一篇作品，您已经欠下了某人一笔特殊的债务，并且您必须“补偿”此人。当他们说“版权持有人”的时候，它应该是在迫使您认为这是在支持艺术家，而实际上这是在支持出版商——正是那些从根本上剥削了所有艺术家的出版商（除了少数各位都听说过的艺术家，由于他们那么出名，以至于他们拥有了某种势力）。
 
 我们并不欠任何人任何东西；我们没有“补偿”任何人的理由和义务。但是，支持艺术发展仍然是有益的事情。这曾经是版权的动机，彼时的版权仍然是适应那个时代的技术发展水平的。而今天，版权对于支持艺术发展成了一种坏的实施方式。但以尊重我们的自由的方式来实施它，这还是好的。
 
-Demand that they change the two evil parts of the New Zealand Copyright
-Act. They shouldn’t replace the three strikes punishment,[(4)](#FOOT4)
-because sharing is good, and they’ve got to get rid of the censorship
-for the software to break DRM. Beware of ACTA—they’re trying to
-negotiate a treaty between various countries, for all of these countries
-to attack their citizens, and we don’t know how because they won’t tell
-us.
+我们想要利用它们改变新西兰版权法案中的两大邪恶部分，它们不应取代“三振出局法”[^4]，由于分享是美好的，它们应当摆脱针对用于破解 DRM 的软件的审查。当心反假冒贸易协定（ACTA），它们试图在不同国家之间商定一种条约，使这些国家可以攻击它们的国民，我们不知道如何攻击，由于它们不会告诉我们。
 
-我们想要利用它们改变新西兰版权法案中的两大邪恶部分，它们不应取代“三振出局法”[(4)](#FOOT4)，由于分享是美好的，它们应当摆脱针对用于破解 DRM 的软件的审查。当心反假冒贸易协定（ACTA），它们试图在不同国家之间商定一种条约，使这些国家可以攻击它们的国民，我们不知道如何攻击，由于它们不会告诉我们。
+ [^1]: 在 2010 年，关于数字视频输出的加密系统被正式破解(参见 Mark Hachman’s “HDCP Master Key Confirmed; Blu-Ray Content Vulnerable” (September 16 2010)，位于 <http://pcmag.com/article2/0,2817,2369280,00.asp> 以获得更多信息) 。
 
-<div class="footnote">
+ [^2]: 此书即《Free as in Freedom》。中文译名《若为自由故：自由软件之父理查德·斯托曼传》，邓楠、李凡希翻译，人民邮电出版社2015年出版。——译者注。
 
-------------------------------------------------------------------------
+ [^3]:  在 2015 年，我加入了科研论文这一条，由于我认为发布他人的论文的修改版本是有害的；然而，将物理和数学论文以创作共用：署名许可证发布在 arxiv.org 或是众多其他自由期刊上似乎并不会带来什么问题。于是，我随后得出结论，科研论文应当是自由的。
 
-### Footnotes
+ [^4]: 此网页不再可访问，请移步至 [https://stallman.org/mecenat/global-patronage.html](https://stallman.org/mecenat/global-patronage.html) 
 
-### [(1)](#DOCF1)
+ [^5]: 新西兰实施了一种未经审判的刑罚系统，对于被指控进行复制的互联网用户；然后，迫于大众的抗议，政府并未立即实施，而是宣布了一项计划以实施一种修订过的但仍然不公平的刑罚系统。本文此处的观点是，它们不应实施一种替代方案——与之相反，它们不应拥有这类系统。然而，我的用词未能清楚地表达这一点。新西兰政府随后实施了一种与原本计划的或多或少相同的刑罚方案。
 
-@raggedright 在 2010 年，关于数字视频输出的加密系统被正式破解。(参见 Mark Hachman’s “HDCP Master Key Confirmed; Blu-Ray Content Vulnerable” (September 16 2010)，位于 <http://pcmag.com/article2/0,2817,2369280,00.asp> 以获得更多信息。) @end raggedright
-
-### [(2)](#DOCF2)
-
-@raggedright 在 2015 年，我加入了科研论文这一条，由于我认为发布他人的论文的修改版本是有害的；然而，将物理和数学论文以创作共用：署名许可证发布在 arxiv.org 或是众多其他自由期刊上似乎并不会带来什么问题。于是，我随后得出结论，科研论文应当是自由的。@end raggedright
-
-### [(3)](#DOCF3)
-
-@raggedright 此网页不再可访问，请移步至 [https://stallman.org/mecenat/global-patronage.html](https://stallman.org/mecenat/%3Cbr%3Eglobal-patronage.html) @end raggedright
-
-### [(4)](#DOCF4)
-
-@raggedright 新西兰实施了一种未经审判的刑罚系统，对于被指控进行复制的互联网用户；然后，迫于大众的抗议，政府并未立即实施，而是宣布了一项计划以实施一种修订过的但仍然不公平的刑罚系统。本文此处的观点是，它们不应实施一种替代方案——与之相反，它们不应拥有这类系统。然而，我的用词未能清楚地表达这一点。
-
-@hglue@defaultparindent 新西兰政府随后实施了一种与原本计划的或多或少相同的刑罚方案。@end raggedright
-
-</div>
-
-------------------------------------------------------------------------
-
-This document was generated by *tonghuix* on *March 25, 2016* using
-[*texi2html 1.82*](http://www.nongnu.org/texi2html/).\
