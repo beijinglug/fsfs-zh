@@ -1,17 +1,6 @@
----
-Generator: 'texi2html 1.82'
-description: Untitled Document
-distribution: global
-keywords: Untitled Document
-resource-type: document
-title: Untitled Document
-...
+## 为何称之为诈骗（Swindle）？
 
-1. Why Call It the Swindle? {#why-call-it-the-swindle .chapter}
-===========================
-
-为何称之为诈骗（Swindle）？
-===========================
+> Copyright (C) 2013 Richard Stallman 
 
 I go out of my way to call nasty things by names that criticize them. I
 call Apple’s user-subjugating computers the “iThings,” and Amazon’s
@@ -23,8 +12,6 @@ an important purpose. Mocking our enemies recruits the power of humor
 into our cause.
 
 我有意地用具有批判性的名字来称呼龌龊的东西。我将苹果的迫使用户屈从于它们的计算机称为“iThings”，而将亚马逊的虐待读者的电子书阅读器称为“诈骗”（Swindle）。有时我将微软的操作系统称为“Losedows”，而将微软的第一款操作系统称为“MS-Dog”[(1)](#FOOT1)。当然，我如此做是为了表达自己的不满以及作为消遣。然而这种消遣并不是个人层面的，它服务于一项重要目的。通过嘲讽我们的敌人，我们可以将幽默的力量注入我们的事业。
-
-@firstcopyingnotice{{@footnoterule @smallskip 著作权所有 (C) 2013 Richard Stallman {此版本是@fsfsthreecite的一部分。}
 
 Twisting a name is disrespectful. If we respected the makers of these
 products, we would use the names that they chose…and that’s exactly the
