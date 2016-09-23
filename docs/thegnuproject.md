@@ -1,17 +1,6 @@
----
-Generator: 'texi2html 1.82'
-description: Untitled Document
-distribution: global
-keywords: Untitled Document
-resource-type: document
-title: Untitled Document
-...
+## GNU工程
 
-1. The GNU Project {#the-gnu-project .chapter}
-==================
-
-GNU工程
-=========
+> Copyright © 1998, 2001, 2002, 2005–2008, 2010 Richard Stallman。本文最初以标题“GNU 操作系统和自由软件运动”发表于由 Chris DiBona 等人编写的《开放源码：开源革命之声》(Sebastopol: O’Reilly Media, 1999)。尽管我不是 “开放源码”的支持者，我还是贡献了这篇文章， 这样自由软件运动的思想不会在那本书中完全失声。
 
 ### The First Software-Sharing Community {#the-first-software-sharing-community .subheading}
 
@@ -55,8 +44,6 @@ programs composing ITS were obsolete.
 
 当80年代出 Digital 关停了 PDP-10 系列时，形势发生了剧变。PDP-10 在60年代优雅而强大的架构无法自然地扩展到80年代开始可用的更大的地址空间上。这意味着几乎所有组成 ITS 的程序都要作废。
 
-@firstcopyingnotice{{@footnoterule @smallskip Copyright © 1998, 2001,
-2002, 2005–2008, 2010 Richard Stallman\
  {The original version of this essay was published in Open Sources:
 Voices from the Open Source Revolution, by Chris DiBona and others
 (Sebastopol: O’Reilly Media, 1999), under the title “The GNU Operating
@@ -64,7 +51,6 @@ System and the Free Software Movement.” Though I was never a supporter
 of “open source,” I contributed this article anyway, so that the ideas
 of the free software movement would not be entirely absent from that
 book. This version is part of @fsfsthreecite}
- {本文最初以标题“GNU操作系统和自由软件运动”发表于由 Chris DiBona 等人编写的 《开放源码：开源革命之声》(Sebastopol: O’Reilly Media, 1999)。尽管我不是 “开放源码”的支持者，我还是贡献了这篇文章， 这样自由软件运动的思想不会在这本书中完全失声。此版本是 @fsfsthreecite 的一部分。}
 
 The AI Lab hacker community had already collapsed, not long before. In
 1981, the spin-off company Symbolics had hired away nearly all of the
