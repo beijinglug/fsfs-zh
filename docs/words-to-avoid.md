@@ -1,17 +1,6 @@
----
-Generator: 'texi2html 1.82'
-description: Untitled Document
-distribution: global
-keywords: Untitled Document
-resource-type: document
-title: Untitled Document
-...
+## 应避免使用（或慎用）的词语，由于它们是不公正的或者引起混淆的
 
-1. Words to Avoid (or Use with Care) Because They Are Loaded or Confusing {#words-to-avoid-or-use-with-care-becausetheyareloadedorconfusing .chapter}
-=====================================
-
-应避免使用（或慎用）的词语，由于它们是不公正的或者引起混淆的
-============================================================
+> Copyright (C) 1996–1999，2001–2004，2007–2015，自由软件基金会。本列单最初于 1996 年发表于 <http://gnu.org>。
 
 There are a number of words and phrases that we recommend avoiding, or
 avoiding in certain contexts and usages. Some are ambiguous or
@@ -40,7 +29,6 @@ you. But no user is *obligated* to do that for you; you do not have a
 
 自由软件的准则[(1)](#FOOT1)并不是关于谁能够获得某一程序的；四项基本自由所关注的是拥有它的一份副本的用户可以用它做什么。例如，自由之二称该用户拥有为其复制一份副本并且送给或卖给您的自由。但是任何用户都没有为您复制副本的义务；并且您也没有权利强行要求任何用户为您提供副本。
 
-@firstcopyingnotice{{@footnoterule @smallskip 著作权所有 (C) 1996–1999，2001–2004，2007–2015，自由软件基金会。{本列单最初于 1996 年发表于 <http://gnu.org>，此版本是 @fsfsthreecite 的一部分。}
 
 In particular, if you write a program yourself and never offer a copy to
 anyone else, that program is free software (in a trivial way) because
