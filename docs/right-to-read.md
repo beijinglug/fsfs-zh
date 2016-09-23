@@ -8,15 +8,6 @@
 
 这将 Dan 置于两难境地，他有责任帮助她——但如果将自己的计算机借给她，她将有机会阅读他的书籍。抛开如果您允许其他人阅读您的书籍，您将被处以很多年监禁这一事实，这种想法首先使他感到震惊。与其他任何人一样，他从小学开始就被这样教育：分享书本是龌龊并且非法的——只有盗版者才会去做这些坏事。
 
-And there wasn’t much chance that the SPA—the Software Protection
-Authority—would fail to catch him. In his software class, Dan had
-learned that each book had a copyright monitor that reported when and
-where it was read, and by whom, to Central Licensing. (They used this
-information to catch reading pirates, but also to sell personal interest
-profiles to retailers.) The next time his computer was networked,
-Central Licensing would find out. He, as computer owner, would receive
-the harshest punishment—for not taking pains to prevent the crime.
-
 并且，他不被 SPA ——软件保护权力机构——抓住的机会并不大，在他的计算机软件课上，Dan 知道了每本书都带有一个版权监视器，它将会将此书于何时何地被何人阅读的信息上报给中央授权许可机构（该机构对这些信息的利用不仅仅是为了抓住阅读盗版者，也会将个人阅读兴趣偏好出卖给图书零售商）。当他的计算机下一次联网时，中央授权许可机构将会发现这一切。他作为计算机拥有者将会受到最严厉的处罚——由于他未能尽力阻止这种犯罪。
 
 当然，也许 Lissa 本意上并不一定是要阅读他的书籍，她有可能只是想借用计算机来编写她的中期汇报。但是，Dan 知道她来自于中产阶级家庭，并且很难负担得起学费，遑论她的各种阅读费用。阅读他的书籍可能是使她能够顺利毕业的唯一出路。他理解这种情形；他自己也必须借钱以支持其所需的科研论文阅读费用（这些费用的 10% 将会被付给撰写了这些论文的科研人员；由于 Dan 致力于他的学术事业，他可以指望自己的科研论文被频繁引用，这样他就可以赚到足够的钱来支付这笔阅读费用）。
@@ -70,7 +61,7 @@ Lissa 没有向 SPA 举报 Dan，而他关于帮助她的决定使得他们终�
 
     上文描述的大学安全政策并非毫无实据。例如，芝加哥地区的某大学的一台计算机在登录时显示了以下信息：
 
-    > 本系统仅供授权用户使用。对于任何未经授权或者超出其授权范围使用本系统的个人，其在本系统上进行的所有活动将被监控并且记录。在对任何人不当使用本系统进行监控或者系统维护期间，授权用户的行为也可能被监控。任何使用本系统的个人必须明确同意接受这种监控，并且此监控一旦发现可能指证非法行为或者侵犯大学规定的行为的证据，本系统可能将通过此监控发现的证据移交至大学权利机构和/或官方执法机构。
+    > 本系统仅供授权用户使用。对于任何未经授权或者超出其授权范围使用本系统的个人，其在本系统上进行的所有活动将被监控并且记录。在对任何人不当使用本系统进行监控或者系统维护期间，授权用户的行为也可能被监控。任何使用本系统的个人必须明确同意接受这种监控，并且此监控一旦发现可能指证非法行为或者侵犯大学规定的行为的证据，本系统可能将通过此监控发现的证据移交至大学权力机构和/或官方执法机构。
 
     这是一种类似于美国宪法第四修正案的有趣方式：首先施压以迫使几乎所有人放弃他们的权利。
 
