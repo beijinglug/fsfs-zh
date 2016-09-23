@@ -44,10 +44,10 @@ Free Software, Free Society v3 Chinese Translation
 | 贡献者 | 贡献内容 |
 | ------ | -------- |
 | @nadebula | 翻译了第三、四、六和七部分以及其他一些文章 | 
-| @tonghuix | 翻译了一些文章，将某些既有翻译加入进来 |
+| @tonghuix | 翻译了一些文章，将某些既有翻译加入进来，大量校对 |
 | @liushuyu | 翻译了 Linux and GNU 一文 |
-| @persmle | 翻译了 The GNU Project 一文 | 
-| @MandyMY | 稍作校对 |
+| @persmle | 翻译了一些文章，大量校对 | 
+| @MandyMY | 大量校对 |
 | @biergaizi | 少量翻译 |
 | @mytbk | 少量翻译和校对 |
 
