@@ -51,15 +51,6 @@ Lisp 机器的窗口系统。
 其中一家厂商已经提供了我一台机器。但我们可以用更多。如果你能捐助更多机器，那么 GNU
 将会更早地在上面运行。机器最好能够在一个住宅区内进行操作，并且不需要复杂的冷却或供电。
 
-Individual programmers can contribute by writing a compatible duplicate
-of some Unix utility and giving it to me. For most projects, such
-part-time distributed work would be very hard to coordinate; the
-independently-written parts would not work together. But for the
-particular task of replacing Unix, this problem is absent. Most
-interface specifications are fixed by Unix compatibility. If each
-contribution works with the rest of Unix, it will probably work with the
-rest of GNU.
-
 独立程序员可以写一些 Unix 工具的兼容复制品并将其贡献给我。对大多数项目而言，如此大规模的分布式项
 目通过兼职很难协作，独立完成的部分可能很难组合在一起。然而对替换 Unix 的任务而言，
 这个问题并不存在。大多数接口规格已经通过 Unix 兼容固定下来了。如果每个贡献者的作品都可
