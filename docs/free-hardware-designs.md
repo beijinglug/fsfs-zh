@@ -1,17 +1,6 @@
----
-Generator: 'texi2html 1.82'
-description: Untitled Document
-distribution: global
-keywords: Untitled Document
-resource-type: document
-title: Untitled Document
-...
-
-1. Free Hardware and Free Hardware Designs {#free-hardware-and-free-hardware-designs .chapter}
-==========================================
-
-自由硬件和自由硬件设计
-=========
+## 自由硬件和自由硬件设计
+ 
+> Copyright © 2015 Richard Stallman。本文分成两部分发表于以标题“为什么我们需要自由的电子硬件设计” (Wired, 11 March 2015, <http://wired.com/2015/03/need-free-digital-hardware-designs>) 和“硬件设计必须自由，如何行动见此” (Wired, 18 March 2015, <http://wired.com/2015/03/richard-stallman-how-to-make-hardware-designs-free>)，发表于《连线》杂志网站。2015年本文发布于 <http://gnu.org> 。
 
 > To what extent do the ideas of free software extend to hardware? Is it
 > a moral obligation to make our hardware designs free, just as it is to
@@ -64,20 +53,6 @@ Flash Player and Angry Birds are gratis although they are not free.)
 Saying “libre” along with “free” helps clarify the point.[(2)](#FOOT2)
 
 首次接触自由软件思想的人们经常认为其含义是你可以免费获得一份副本。很多自由程序可以不要钱地获取，因为下载你自己的副本无需代价，但那不是“free”在此处的含义（事实上，有些间谍软件程序——例如Flash播放器和《愤怒的小鸟》——是免费的，尽管它们不自由）。将“libre”一词和“free”一起使用有助于澄清观点。
-
-@firstcopyingnotice{{@footnoterule @smallskip Copyright © 2015 Richard
-Stallman\
- {Most of this article was published in two parts on the [Wired](Wired)
-web site, as “Why We Need Free Digital Hardware Designs” (Wired,
-11 March 2015,
-<http://wired.com/2015/03/need-free-digital-hardware-designs>) and
-“Hardware Designs Should Be Free. Here’s How to Do It.” (Wired,
-18 March 2015,
-<http://wired.com/2015/03/richard-stallman-how-to-make-hardware-designs-free>).\
- It was published on <http://gnu.org> in 2015. This version is part of
-@fsfsthreecite}
-
- {本文的大部分分成两块发表于[Wired](Wired)网站，以标题“为什么我们需要自由的电子硬件设计” (Wired, 11 March 2015, <http://wired.com/2015/03/need-free-digital-hardware-designs>) 和“硬件设计必须自由，如何行动见此” (Wired, 18 March 2015, <http://wired.com/2015/03/richard-stallman-how-to-make-hardware-designs-free>)。在2015年本文发布于 <http://gnu.org> 。此版本是@fsfsthreecite的一部分}
 
 For hardware, this confusion tends to go in the other direction;
 hardware costs money to produce, so commercially made hardware won’t be
