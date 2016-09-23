@@ -8,7 +8,7 @@
 目  录
 -----
 
-- [译者序](foreward-trans.md)
+- [译者序](foreword-trans.md)
 - [第三版序言](foreword-v3.md)
 - [第一版序言](foreword-v1.md)
 - [前言](preface-v3.md)

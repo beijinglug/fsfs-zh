@@ -1,4 +1,4 @@
-## 什么是 Copyleft? 
+## 什么是 Copyleft？ 
 
 >Copyright © 1996–2009, 2013 自由软件基金会。此文最初于发表1996年发表在<http://gnu.org>。
 
