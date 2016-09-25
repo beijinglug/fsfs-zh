@@ -1,7 +1,7 @@
 Free Software, Free Society v3 Chinese Translation
 =========================
 
-在线阅读（Html）：<https://fsfs-zh.readthedocs.io/zh_CN/latest/>
+在线阅读（Html）：<https://fsfs-zh.readthedocs.io/>
 
 如何参与
 ---------
