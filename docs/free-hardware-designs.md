@@ -14,13 +14,6 @@
 
 这样我们可以将按照自由的设计装配出的硬件说成“自由硬件”，或“设计自由的硬件”以避免可能的误解。
 
-People first encountering the idea of free software often think it means
-you can get a copy gratis. Many free programs are available for zero
-price, since it costs you nothing to download your own copy, but that’s
-not what “free” means here. (In fact, some spyware programs such as
-Flash Player and Angry Birds are gratis although they are not free.)
-Saying “libre” along with “free” helps clarify the point.[^2]
-
 首次接触自由软件思想的人们经常认为其含义是你可以免费获得一份副本。很多自由程序可以不要钱地获取，因为下载你自己的副本无需代价，但那不是“free”在此处的含义（事实上，有些间谍软件程序——例如 Flash 播放器和《愤怒的小鸟》是免费的，尽管它们不自由）。将“libre”一词和“free”一起使用有助于澄清观点[^2]。
 
 对硬件，混淆趋于走向另一方向；硬件要花钱生产，故商业化生产硬件无法免费（除非是赔本赚吆喝或添头），但这并不妨碍其设计方案变得自由。由你的 3D 打印机生产出的东西可以非常便宜，但并非精确地免费因为你需要支付原料成本。在道德方面，自由的问题完全压倒了价格问题，因为对其用户拒绝自由的设备还不如没有。
