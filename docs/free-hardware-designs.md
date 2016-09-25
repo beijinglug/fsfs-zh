@@ -81,76 +81,23 @@ Saying “libre” along with “free” helps clarify the point.[(2)](#FOOT2)
 
 这个未来距今至少有数年之久。在此期间，原则上没有必要抵制设计不自由的硬件。
 
-### 我们需要自由的硬件设计 {#we-need-free-digital-hardware-designs .subheading}
+### 我们需要自由的硬件设计
 
-Although we need not reject digital hardware made from nonfree designs
-in today’s circumstances, we need to develop free designs and should use
-them when feasible. They provide advantages today, and in the future
-they may be the only way to use free software.
+尽管在今天的状况下我们无需抵制按照非自由设计制造出的数字硬件，不过我们仍需要开发自由的设计并在条件允许时使用它们。这些已经在今天提供了优势，而且在未来它们可能是使用自由软件的唯一方法。
 
-尽管在今天的状况下我们无需抵制按照非自由设计制造出的数字硬件，我们仍需要开发自由的设计并在条件允许时使用它们。它们已经在今天提供了优势，而且在未来它们可能是使用自由软件的唯一方法。
+自由的硬件设计提供了实用上的优势。很多公司可以装配，这减少了对单一卖家的依赖。集团可以安排大量装配。拥有电路图或 HDL 代码使得学习设计以寻找错误或恶意功能成为可能（NSA 在一些计算机中促成恶意弱点之事已被人所知）。并且，自由设计可作为设计计算机和其他复杂设备的构造砖块，其规格会被公开，对我们不利的部件也会更少。
 
-Free hardware designs offer practical advantages. Multiple companies can
-fabricate one, which reduces dependence on a single vendor. Groups can
-arrange to fabricate them in quantity. Having circuit diagrams or HDL
-code makes it possible to study the design to look for errors or
-malicious functionalities (it is known that the NSA has procured
-malicious weaknesses in some computing hardware). Furthermore, free
-designs can serve as building blocks to design computers and other
-complex devices, whose specs will be published and which will have fewer
-parts that could be used against us.
+在我们可以这样制造整台计算机之前，自由硬件设计可以用于计算机和网络的某些部件，还有嵌入式系统。
 
-自由的硬件设计提供了实用上的优势。很多公司可以装配，这减少了对单一卖家的依赖。集团可以安排大量装配。拥有电路图或 HDL 代码使得学习设计以寻找错误或恶意功能曾为可能（NSA 在一些计算机中促成恶意弱点之事已被人所知）。并且，自由设计可作为设计计算机和其他复杂设备的构造砖块，它们的规格会被公开，其中含有更少对我们不利的部件。
-
-Free hardware designs may become usable for some parts of our computers
-and networks, and for embedded systems, before we are able to make
-entire computers this way.
-
-自由硬件设计可以用于我们的计算机和网络的某些部件，还有嵌入式系统，在我们可以这样制造整台计算机之前。
-
-Free hardware designs may become essential even before we can fabricate
-the hardware personally, if they become the only way to avoid nonfree
-software. As common commercial hardware is increasingly designed to
-subjugate users, it becomes increasingly incompatible with free
-software, because of secret specifications and requirements for code to
-be signed by someone other than you. Cell phone modem chips and even
-some graphics accelerators already require firmware to be signed by the
-manufacturer. Any program in your computer, that someone else is allowed
-to change but you’re not, is an instrument of unjust power over you;
-hardware that imposes that requirement is malicious hardware. In the
-case of cell phone modem chips, all the models now available are
-malicious.
-
-自由硬件设计甚至可能会在我们能以个人之力装配硬件以前就变得至关重要，如果它成为阻止非自由软件的唯一方法。因为一般的商业硬件正越发设计得使用户屈服，由于秘密的规格，和需要代码被你以外的某人签名，它们越发不兼容于自由软件。蜂窝电话的调制解调器芯片和甚至一些图形加速器已经需要固件被制造者签名。任何在你计算机上许别人改但不许你改的程序，都是强加于你的不义强权的体现；强加了那种要求的硬件是恶意硬件。在蜂窝电话调制解调器芯片的场合，现在可用的所有型号都是恶意的。
-
-Some day, free-design digital hardware may be the only platform that
-permits running a free system at all. Let us aim to have the necessary
-free digital designs before then, and hope that we have the means to
-fabricate them cheaply enough for all users.
+如果它成为阻止非自由软件的唯一方法，自由硬件设计甚至可能会在我们能以个人之力装配硬件以前就变得至关重要。因为一般的商业硬件正越发设计得使用户屈服，由于私密的规格，甚至需要你以外的某人签名代码，它们越发不兼容于自由软件。甚至蜂窝电话的调制解调器芯片和一些图形加速器已经需要制造商为固件签名。任何在你计算机上许别人改但不许你改的程序，都是强加于你不义强权的体现；强加了那种要求的硬件是恶意硬件。所以蜂窝电话调制解调器芯片，现在可用的所有型号都是恶意的。
 
 某一天，自由设计的数字硬件可能是唯一可以让自由系统运行的平台。让我们专注于在那一天之前拥有必要的自由硬件设计，并希望我们有方法为所有用户将它们足够便宜地装配出来。
 
-If you design hardware, please make your designs free. If you use
-hardware, please join in urging and pressuring companies to make
-hardware designs free.
-
 如果你设计硬件，请让你的设计变得自由。如果你使用硬件，请催促公司们并向其施压，让他们使硬件设计变得自由。
 
-### Levels of Design {#levels-of-design .subheading}
+### 设计的层次
 
-### 设计的层次 {#levels-of-design .subheading}
-
-Software has levels of implementation; a package might include
-libraries, commands and scripts, for instance. But these levels don’t
-make a significant difference for software freedom because it is
-feasible to make all the levels free. Designing components of a program
-is the same sort of work as designing the code that combines them;
-likewise, building the components from source is the same sort of
-operation as building the combined program from source. To make the
-whole thing free simply requires continuing the work until we have done
-the whole job.
-
-软件有实现的层次；例如，一个软件包可能包括库、命令和脚本。但这些层次对软件的自由没有明显的贡献，因为可以把所有这些层次都变得自由。设计程序的组件和设计把组件组合在一起的代码是同类的工作；与其类似，从源代码编译程序的组件和从源代码编译组合在一起的程序是同类的工作。使整个东西自由只需继续工作直到完成整件任务。
+软件有实现的层次；例如，一个软件包可能包括库、命令和脚本。但这些层次对软件的自由没有明显的贡献，因为可以把所有这些层次都变得自由。设计程序的组件和设计把组件组合在一起的代码是同类的工作；与其类似，从源代码编译程序的组件和将这些从源代码编译出来的组件组合在一起的程序是同类的工作。使整个系统自由只需继续工作直到完成整件任务。
 
 Therefore, we insist that a program be free at all levels. For a program
 to qualify as free, every line of the source code that composes it must
