@@ -1,47 +1,16 @@
 ## 自由硬件和自由硬件设计
  
-> Copyright © 2015 Richard Stallman。本文分成两部分发表于以标题“为什么我们需要自由的电子硬件设计” (Wired, 11 March 2015, <http://wired.com/2015/03/need-free-digital-hardware-designs>) 和“硬件设计必须自由，如何行动见此” (Wired, 18 March 2015, <http://wired.com/2015/03/richard-stallman-how-to-make-hardware-designs-free>)，发表于《连线》杂志网站。2015年本文发布于 <http://gnu.org> 。
+> Copyright © 2015 Richard Stallman。本文分成两部分，分别以标题“为什么我们需要自由的电子硬件设计” (Wired, 11 March 2015, <http://wired.com/2015/03/need-free-digital-hardware-designs>) 和“硬件设计必须自由，如何行动见此” (Wired, 18 March 2015, <http://wired.com/2015/03/richard-stallman-how-to-make-hardware-designs-free>)，发表于《连线》杂志网站。2015年本文发布于 <http://gnu.org> 。
 
-> To what extent do the ideas of free software extend to hardware? Is it
-> a moral obligation to make our hardware designs free, just as it is to
-> make our software free? Does maintaining our freedom require rejecting
-> hardware made from nonfree designs?
+> 自由软件的思想向硬件延伸到什么范围？让我们的硬件设计自由是不是个道德义务，正如使我们的软件自由那样？维持我们的自由是否需要抵制出自非自由设计的硬件？
 
-> 自由软件的思想向硬件延伸到什么范围？使我们的硬件设计自由是不是个道德义务，正如使我们的软件自由那样？维持我们的自由是否需要抵制出自非自由设计的硬件？
+### 定义
 
-### Definitions {#definitions .subheading}
+*自由软件*事关自由，而非价格；宽泛地讲，这意味着用户有使用软件的自由和复制并再分发软件的自由，免费或收费。更精确地，其定义可用这四项基本自由[(1)](#FOOT1)公式化的来考察。为强调“free”一词指的是自由而非价格，我们经常把法语和西班牙语中的“libre”一词和“free”一起使用。
 
-### 定义 {#definitions .subheading}
-
-*Free software* is a matter of freedom, not price; broadly speaking, it
-means that users are free to use the software and to copy and
-redistribute the software, with or without changes. More precisely, the
-definition is formulated in terms of the four essential
-freedoms.[(1)](#FOOT1) To emphasize that “free” refers to freedom, not
-price, we often use the French or Spanish word “libre” along with
-“free.”
-
-*自由软件*事关自由，而非价格；宽泛地讲，这意味着用户有使用软件的自由和复制并再分发软件的自由，免费或收费。更精确地，其定义由四项基本自由[(1)](#FOOT1)公式化。为强调“free”一词指的是自由而非价格，我们经常把法语和西班牙语中的“libre”一词和“free”一起使用。
-
-Applying the same concept directly to hardware, *free hardware* means
-hardware that users are free to use and to copy and redistribute with or
-without changes. However, there are no copiers for hardware, aside from
-keys, DNA, and plastic objects’ exterior shapes. Most hardware is made
-by fabrication from some sort of design. The design comes before the
-hardware.
-
-将同样的概念直接应用于硬件，*自由硬件*意为用户有使用、复制和免费或收费地再分发的自由的硬件。然而，除了钥匙、DNA、和塑料制品的外观之外，没有用于硬件的复制器。大多数硬件是按照一定的设计装配出来。设计先于硬件存在。
-
-Thus, the concept we really need is that of a *free hardware design.*
-That’s simple: it means a design that permits users to use the design
-(i.e., fabricate hardware from it) and to copy and redistribute it, with
-or without changes. The design must provide the same four freedoms that
-define free software.
+将同样的概念直接应用于硬件，*自由硬件*意为用户有使用、复制和免费或收费地再分发硬件的自由。然而，除了钥匙、DNA、和塑料制品的外观之外，没有用于硬件的复制机制。大多数硬件是按照一定的设计装配出来。设计先于硬件存在。
 
 因此，我们实际需要的概念是类似*自由硬件设计*的东西。很简单：其意指一种允许用户使用（即，在其指导下装配硬件）和复制并免费或收费地再分发的设计方案。这种设计方案必须提供和自由软件一致的四项基本自由。
-
-Then we can refer to hardware made from a free design as “free
-hardware,” or “free-design hardware” to avoid possible misunderstanding.
 
 这样我们可以将按照自由的设计装配出的硬件说成“自由硬件”，或“设计自由的硬件”以避免可能的误解。
 
@@ -52,230 +21,65 @@ not what “free” means here. (In fact, some spyware programs such as
 Flash Player and Angry Birds are gratis although they are not free.)
 Saying “libre” along with “free” helps clarify the point.[(2)](#FOOT2)
 
-首次接触自由软件思想的人们经常认为其含义是你可以免费获得一份副本。很多自由程序可以不要钱地获取，因为下载你自己的副本无需代价，但那不是“free”在此处的含义（事实上，有些间谍软件程序——例如Flash播放器和《愤怒的小鸟》——是免费的，尽管它们不自由）。将“libre”一词和“free”一起使用有助于澄清观点。
+首次接触自由软件思想的人们经常认为其含义是你可以免费获得一份副本。很多自由程序可以不要钱地获取，因为下载你自己的副本无需代价，但那不是“free”在此处的含义（事实上，有些间谍软件程序——例如 Flash 播放器和《愤怒的小鸟》是免费的，尽管它们不自由）。将“libre”一词和“free”一起使用有助于澄清观点[^2]。
 
-For hardware, this confusion tends to go in the other direction;
-hardware costs money to produce, so commercially made hardware won’t be
-gratis (unless it is a loss-leader or a tie-in), but that does not
-prevent its design from being free/libre. Things you make in your own 3D
-printer can be quite cheap, but not exactly gratis since you will have
-to pay for the raw materials. In ethical terms, the freedom issue trumps
-the price issue totally, since a device that denies freedom to its users
-is worth less than nothing.
+对硬件，混淆趋于走向另一方向；硬件要花钱生产，故商业化生产硬件无法免费（除非是赔本赚吆喝或添头），但这并不妨碍其设计方案变得自由。由你的 3D 打印机生产出的东西可以非常便宜，但并非精确地免费因为你需要支付原料成本。在道德方面，自由的问题完全压倒了价格问题，因为对其用户拒绝自由的设备还不如没有。
 
-对硬件，混淆趋于走向另一方向；硬件要花钱生产，故商业化生产硬件无法免费（除非是赔本赚吆喝或添头），但这并不妨碍其设计方案变得自由。由你的三维打印机生产出的东西可以非常便宜，但并非精确地免费因为你需要为原料付款。在道德方面，自由的问题完全压倒了价格问题，因为对其用户拒绝自由的设备还不如没有。
+由某些人使用的“开放硬件”和“开放源码硬件”的说法具有和“自由硬件”相同的具体含义，但这些说法降低了对自由议题的重视。它们由“开放源码软件”的说法派生而来，其多少指的是自由软件，但缺少了对自由的讨论或将自由的议题展示为关乎对错的事[(3)](#FOOT3)。为着重强调自由的重要性，一旦关乎自由我们就要注意谈到自由；因为“开放”做不到这一点，让我们不要用它来取代“自由”一词。
 
-The terms “open hardware” and “open source hardware” are used by some
-with the same concrete meaning as “free hardware,” but those terms
-downplay freedom as an issue. They were derived from the term “open
-source software,” which refers more or less to free software but without
-talking about freedom or presenting the issue as a matter of right or
-wrong.[(3)](#FOOT3) To underline the importance of freedom, we make a
-point of referring to freedom whenever it is pertinent; since “open”
-fails to do that, let’s not substitute it for “free.”
+### 硬件和软件
 
-由某些人使用的“开放硬件”和“开放源码硬件”的说法具有和“自由硬件”相同的具体含义，但这些说法降低了对自由的议题的重视。它们由“开放源码软件”的说法派生而来，其多少指的是自由软件，但缺少了对自由的讨论或将自由的议题展示为关乎对错的事[(3)](#FOOT3)。为着重自由的重要性，一旦关乎自由我们就要注意谈到自由；因为“开放”做不到这一点，让我们不要用它来取代“自由”一词。
+硬件和软件在根本上不同。一个程序，即使取编译后的可执行形式，也是一组可被计算机解释为指令的数据集合。和任何其他数字作品相同，它可以用计算机来复制和改写。程序的副本没有固有的物理形式或化身。
 
-### Hardware and Software {#hardware-and-software .subheading}
-
-### 硬件和软件 {#hardware-and-software .subheading}
-
-Hardware and software are fundamentally different. A program, even in
-compiled executable form, is a collection of data which can be
-interpreted as instruction for a computer. Like any other digital work,
-it can be copied and changed using a computer. A copy of a program has
-no inherent physical form or embodiment.
-
-硬件和软件在根本上不同。一个程序，即使取编译后的可执行形式，也是一组可被计算机解释为指令的数据的集合。和任何其他数字作品相同，它可以用计算机来复制和改写。程序的副本没有固有的物理形式或化身。
-
-By contrast, hardware is a physical structure and its physicality is
-crucial. While the hardware’s design might be represented as data, in
-some cases even as a program, the design is not the hardware. A design
-for a CPU can’t execute a program. You won’t get very far trying to type
-on a design for a keyboard or display pixels on a design for a screen.
-
-与之相对，硬件是一个物理构造且其物质性是关键。虽然硬件的设计可以表示为数据，甚至在某些场合下表示为程序，设计仍然不是硬件本身。CPU的设计不能执行程序。你基本上不可能试着用键盘的设计打字或在显示屏的设计上显示像素。
-
-Furthermore, while you can use a computer to modify or copy the hardware
-design, a computer can’t convert the design into the physical structure
-it describes. That requires fabrication equipment.
+与之相对，硬件是一个物理构造且其物质性是关键。虽然硬件的设计可以表示为数据，甚至在某些场合下表示为程序，设计仍然不是硬件本身。为 CPU 做的设计不能执行程序。你基本上不可能试着用为键盘做的设计打字或在为显示屏做的设计上显示像素。
 
 更进一步，虽然你可以用计算机来修改或复制一份硬件设计，计算机并不能将这份设计转化为其描述的物理结构。那需要装配设备。
 
-### The Boundary between Hardware and Software {#the-boundary-between-hardware-and-software .subheading}
+### 硬件和软件的边界
 
-### 硬件和软件的边界 {#the-boundary-between-hardware-and-software .subheading}
+在数字设备中，硬件和软件的边界是什么？它遵从其定义。软件是计算机可以操作修改和复制的部分，而硬件则不可以。这是理清其区别的正确方法，因为关乎实际的后果。
 
-What is the boundary, in digital devices, between hardware and software?
-It follows from the definitions. Software is the operational part of a
-device that can be copied and changed in a computer; hardware is the
-operational part that can’t be. This is the right way to make the
-distinction because it relates to the practical consequences.
-
-在数字设备中，硬件和软件的边界是什么？它遵从其定义。软件是设备的可在计算机中修改和复制的运转部件，硬件是不可如此处理的运转部件。这是理清其区别的正确方法，因为关乎实践的后果。
-
-There is a gray area between hardware and software that contains
-firmware that *can* be upgraded or replaced, but is not meant ever to be
-upgraded or replaced once the product is sold. In conceptual terms, the
-gray area is rather narrow. In practice, it is important because many
-products fall in it. We can treat that firmware as hardware with a small
-stretch.
-
-在硬件和软件之间有一个包含*可*被更新或替换，却并未打算在产品售出后更新或替换的固件的灰色地带。从概念上说，这个灰色地带十分狭窄。在实践上，它很重要，因为很多产品落在其中。我们可以把这样的固件看作硬件的小小延伸。
-
-Some have said that preinstalled firmware programs and
-Field-Programmable Gate Array chips (FPGAs) “blur the boundary between
-hardware and software,” but I think that is a misinterpretation of the
-facts. Firmware that is installed during use is software; firmware that
-is delivered inside the device and can’t be changed is software by
-nature, but we can treat it as if it were a circuit. As for FPGAs, the
-FPGA itself is hardware, but the gate pattern that is loaded into the
-FPGA is a kind of firmware.
+在硬件和软件之间有一个包含*可*被更新或替换，却并未打算在产品售出后更新或替换的灰色地带——固件（Firmware）。从概念上说，这个灰色地带十分狭窄。在实践上，它很重要，因为很多产品落在其中。我们可以把这样的固件看作硬件的小小延伸。
 
 有人会说原装的固件程序和场效应可编程逻辑门阵列（FPGA）“模糊了硬件和软件的边界”，但我认为这是对事实的误读。在使用过程中安装的固件是软件；设备自带并不可修改的固件虽天生是软件，但我们可以把它当成一种电路。如对 FPGA，FPGA 本身是硬件，但加载到 FPGA 中的逻辑门模式是一种固件。
 
-Running free gate patterns on FPGAs could potentially be a useful method
-for making digital devices that are free at the circuit level. However,
-to make FPGAs usable in the free world, we need free development tools
-for them. The obstacle is that the format of the gate pattern file that
-gets loaded into the FPGA is secret. For many years there was no model
-of FPGA for which those files could be produced without nonfree
-(proprietary) tools.
+在 FPGA 上运行自由的逻辑门模式可以是一种使得数字设备从电路层变自由的潜在有效方法。然而为了使 FPGA 在自由世界中可用，我们需要为其设计自由的开发工具。其障碍是加载进 FPGA 的逻辑门模式文件的格式是私密的。多年以来，没有一种 FPGA 的型号能够为其生成逻辑门模式文件而不需要不自由（私有）的工具。
 
-在 FPGA 上运行自由的逻辑门模式可以是一种使得数字设备从电路层变得自由的潜在地有效方法。然而为了使 FPGA 在自由世界中可用，我们需要为其设计的自由开发工具。其障碍是加载进 FPGA 的逻辑门模式文件的格式是秘密的。多年以来，没有一种 FPGA 的型号能够为其生成逻辑门模式文件而不需要不自由（私权）的工具。
-
-As of 2015, free software tools are available for programming the
-Lattice iCE40,[(4)](#FOOT4) a common model of FPGA, from input written
-in a hardware description language (HDL). It is also possible to compile
-C programs and run them on the Xilinx Spartan 6 LX9 FPGA with free
-tools,[(5)](#FOOT5) but those do not support HDL input. We recommend
-that you reject other FPGA models until they too are supported by free
-tools.
-
-到了2015年，用来给一种通用的 FPGA 型号—— Lattice iCE40[(4)](#FOOT4)用硬件描述语言（HDL）写成的输入文件编程的自由软件工具出现了。现在也可以用自由工具编译 C 程序并在 Xilinx Spartan 6 LX9 FPGA 运行它们[(5)](#FOOT5)，但这些工具不支持 HDL 输入。我们建议您抵制其他型号的 FPGA 直到它们也能被自由的工具支持。
-
-As for the HDL code itself, it can act as software (when it is run on an
-emulator or loaded into an FPGA) or as a hardware design (when it is
-realized in immutable silicon or a circuit board).
+到了2015年，用来给一种通用的 FPGA 型号—— Lattice iCE40[(4)](#FOOT4)用硬件描述语言（HDL）写成的输入文件编程的自由软件工具出现了。现在也可以用自由工具编译 C 程序并在 Xilinx Spartan 6 LX9 FPGA 上运行它们[(5)](#FOOT5)，但这些工具不支持 HDL 输入。我们建议您抵制其他型号的 FPGA 直到它们也能被自由的工具支持。
 
 对 HDL 代码本身而言，它可以表现为软件（当运行于模拟器上或载入 FPGA 中），也可以表现为硬件设计（当实现为不可变的硅晶或电路板）。
 
-### The Ethical Question for 3D Printers {#the-ethical-question-for-3d-printers .subheading}
-
-### 三维打印机的道德问题 {#the-ethical-question-for-3d-printers .subheading}
-
-Ethically, software must be free;[(6)](#FOOT6) a nonfree program is an
-injustice. Should we take the same view for hardware designs?
+### 3D 打印机的道德问题
 
 道德上，软件必须自由[(6)](#FOOT6)；不自由的程序是不义的。我们是否应当对硬件设计取同样的观点？
 
-We certainly should, in the fields that 3D printing (or, more generally,
-any sort of personal fabrication) can handle. Printer patterns to make a
-useful, practical object (i.e., functional rather than decorative)
-*must* be free because they are works made for practical use. Users
-deserve control over these works, just as they deserve control over the
-software they use. Distributing a nonfree functional object design is as
-wrong as distributing a nonfree program.
+我们肯定应该，在 3D 打印（或者，更普遍地，任何个人装配行为）可处理的领域。用于制造有用的、实用的物品（即，功能性而非装饰性）的打印模式*必须*是自由的，因为它们是为了实用而产生的作品。用户应得到对这些作品的控制，正如他们应得对他们使用的软件的控制。发布一个不自由的功能性物品的设计和发布非自由程序一样有错。
 
-我们肯定应该，在三维打印（或者，更普遍地，任何个人装配行为）可处理的领域。用于制造有用的、实用的物品（即，功能性而非装饰性）的打印模式*必须*是自由的，因为它们是为了实用而产生的作品。用户应得对这些作品的控制，正如他们应得对他们使用的软件的控制。发行一个不自由的功能性物品的设计和发行不自由的程序一样有错。
+请仔细甄别，并选择那些只用自由软件就能驱动的 3D 打印机；自由软件基金会为这样的打印机背书[(7)](#FOOT7)。有的 3D 打印机是按照自由的硬件设计制成的，但 MakerBot 的硬件设计是不自由的[(8)](#FOOT8)。
 
-Be careful to choose 3D printers that work with exclusively free
-software; the Free Software Foundation endorses such
-printers.[(7)](#FOOT7) Some 3D printers are made from free hardware
-designs, but MakerBot’s hardware designs are nonfree.[(8)](#FOOT8)
-
-请谨慎选择那些只用自由软件就能驱动的三维打印机；自由软件基金会为这样的打印机背书[(7)](#FOOT7)。有的三维打印机是按照自由的硬件设计制成的，但MakerBot的硬件设计是不自由的[(8)](#FOOT8)。
-
-### Must We Reject Nonfree Digital Hardware? {#must-we-reject-nonfree-digital-hardware .subheading}
-
-### 我们是否必须抵制不自由的数字硬件？ {#must-we-reject-nonfree-digital-hardware .subheading}
-
-Is a nonfree digital[(9)](#FOOT9) hardware design an injustice? Must we,
-for our freedom’s sake, reject all digital hardware made from nonfree
-designs, as we must reject nonfree software?
+### 我们是否必须抵制不自由的数字硬件？
 
 不自由的数字[(9)](#FOOT9)硬件设计是否不义？我们是否必须为了我们的自由抵制所有按照不自由的设计制造出的数字硬件，如同我们必须抵制非自由软件？
 
-Due to the conceptual parallel between hardware designs and software
-source code, many hardware hackers are quick to condemn nonfree hardware
-designs just like nonfree software. I disagree because the circumstances
-for hardware and software are different.
-
 因为硬件设计和软件源码在概念上是平行的，许多硬件黑客像对非自由软件那样迅速声讨非自由硬件设计。我对此并不同意因为硬件和软件的情况不同。
 
-Present-day chip and board fabrication technology resembles the printing
-press: it lends itself to mass production in a factory. It is more like
-copying books in 1950 than like copying software today.
+今天装配芯片和电路板的技术类似印刷业：它适于工厂中的大规模生产。比起今天的软件复制，它更类似 20 世纪 50 年代的书籍复印。
 
-今天装配芯片和电路板的技术类似印刷业：它适于工厂中的大生产。比起在今天复制软件，它更类似在1950年复制书籍。
+复制和修改软件的自由在道德上是必要的，因为那些活动对使用软件的人们来说是可行的：你能使用软件的设备（计算机）同样适合用来复制和改写它。今天的移动计算机太弱小而难以适用于此，但任何人都能找到足够有力的计算机。
 
-Freedom to copy and change software is an ethical imperative because
-those activities are feasible for those who use software: the equipment
-that enables you to use the software (a computer) is also sufficient to
-copy and change it. Today’s mobile computers are too weak to be good for
-this, but anyone can find a computer that’s powerful enough.
+而且，计算机足以用来下载并运行那些懂得如何修改软件的人修改的版本，即使你不是程序员。当然，非程序员每天都下载并运行软件。这就是为什么自由软件对非程序员有实在的贡献。
 
-复制和修改软件的自由在道德上是必要的，因为那些活动对使用软件的人们来说是可行的：使你能使用软件的装备（计算机）同样适合用来复制和改写它。今天的移动计算机太弱小而难以适用于此，但任何人都能找到足够有力的计算机。
+这些在多大程度上适用于硬件？并非使用数字硬件的每个人都知道如何修改电路设计，或芯片设计，但任何有 PC 的人都有这么做的必要设备。到目前为止，硬件平行于软件，但接下来区别就大了。
 
-Moreover, a computer suffices to download and run a version changed by
-someone else who knows how, even if you are not a programmer. Indeed,
-nonprogrammers download software and run it every day. This is why free
-software makes a real difference to nonprogrammers.
-
-而且，计算机足以用来下载并运行被知道如何改写的别人改写过的软件版本，即使你不是程序员。当然，非程序员每天都下载并运行软件。这就是为什么自由软件对非程序员有实在的贡献。
-
-How much of this applies to hardware? Not everyone who can use digital
-hardware knows how to change a circuit design, or a chip design, but
-anyone who has a PC has the equipment needed to do so. Thus far,
-hardware is parallel to software, but next comes the big difference.
-
-这些在多大程度上适用于硬件？并非使用数字硬件的每个人都知道如何修改电路设计，或芯片设计，但任何有 PC 的人都有这么做的必要装备。到目前为止，硬件平行于软件，但接下来区别就大了。
-
-You can’t build and run a circuit design or a chip design in your
-computer. Constructing a big circuit is a lot of painstaking work, and
-that’s once you have the circuit board. Fabricating a chip is not
-feasible for individuals today; only mass production can make them cheap
-enough. With today’s hardware technology, users can’t download and run
-John H Hacker’s modified version of a digital hardware design, as they
-could run John S Hacker’s modified version of a program. Thus, the four
-freedoms don’t give users today collective control over a hardware
-design as they give users collective control over a program. That’s
-where the reasoning showing that all software must be free fails to
-apply to today’s hardware technology.
-
-你不能在你的计算机上运行电路设计或芯片设计。构造大型电路是一系列艰苦的工作，而直到那时你才能拥有电路板。装配芯片在今天并不适合个人完成；只有大生产才能让它们足够便宜。以今天的硬件技术，用户们无法像运行软件黑客某甲（原文是John S Hacker——译者注）改造过的软件那样，下载并运行硬件黑客某乙（原文是John H Hacker——译者注）改造过的硬件设计。因此，四项基本自由无法像给与用户们对程序的集体控制那样给与对硬件设计的集体控制。这就是一切软件都必须自由的原因无法适用于硬件的地方。
-
-In 1983 there was no free operating system, but it was clear that if we
-had one, we could immediately use it and get software freedom. All that
-was missing was the code for one.
+你不能在你的计算机上运行电路设计或芯片设计。构造大型电路是一系列艰苦的工作，之后你才能得到电路板。装配芯片在今天并不适合个人完成；只有规模化生产才能让它们足够便宜。以今天的硬件技术，用户们无法像运行软件黑客某甲（原文是John S Hacker——译者注）改造过的软件那样，下载并运行硬件黑客某乙（原文是John H Hacker——译者注）改造过的硬件设计。因此，四项基本自由无法像给与用户们对程序的集体控制那样给与对硬件设计的集体控制。这就是一切软件都必须自由的原因无法适用于硬件的地方。
 
 1983年没有自由的操作系统，但显然如果有了，我们可以立刻用上它并拥有软件自由。缺少的只是这样一个操作系统的代码。
 
-In 2014, if we had a free design for a CPU chip suitable for a PC,
-mass-produced chips made from that design would not give us the same
-freedom in the hardware domain. If we’re going to buy a product mass
-produced in a factory, this dependence on the factory causes most of the
-same problems as a nonfree design. For free designs to give us hardware
-freedom, we need future fabrication technology.
+而到了 2014 年，就算我们有了适用于 PC 的 CPU 芯片的自由设计，按此设计大规模生产出来的芯片也不能为我们在硬件界给与我们同样的自由。如果我们要购买从工厂大规模生产出来的产品，对工厂的依赖会引发大多数和非自由设计相同的问题。我们需要未来更好的装配技术，这样才能让我们自由的设计得到硬件的自由。
 
-在2014年，就算我们有了适用于 PC 的 CPU 芯片的自由设计，按此设计大生产出来的芯片也不能为我们在硬件界给与我们同样的自由。如果我们要买从工厂中大生产出来的产品，对工厂的依赖会引发大多数和非自由设计相同的问题。对给我们带来硬件自由的自由设计，我们需要未来的装配技术。
-
-We can envision a future in which our personal fabricators can make
-chips, and our robots can assemble and solder them together with
-transformers, switches, keys, displays, fans and so on. In that future
-we will all make our own computers (and fabricators and robots), and we
-will all be able to take advantage of modified designs made by those who
-know hardware. The arguments for rejecting nonfree software will then
-apply to nonfree hardware designs too.
-
-我们可以展望我们的个人生产者也能制造芯片，而且机器人可以把芯片和变压器、开关、按键、屏幕、风扇等组合焊接在一起的未来。在这样的未来里，我们都可以制造自己的计算机（还有装配机和机器人），而且我们每个人都能从懂硬件的人做出的改造设计中得到好处。那时抵制非自由软件的议题才也能适用于硬件设计。
-
-That future is years away, at least. In the meantime, there is no need
-to reject hardware with nonfree designs on principle.
+可以展望这样的未来，我们的个人生产者能制造芯片，机器人可以把芯片和变压器、开关、按键、屏幕、风扇等组合焊接在一起。在这样的未来里，我们都可以制造自己的计算机（还有装配机和机器人），而且我们每个人都能从懂硬件的人做出的改造设计中得到好处。那时抵制非自由软件的议题才也能适用于硬件设计。
 
 这个未来距今至少有数年之久。在此期间，原则上没有必要抵制设计不自由的硬件。
-
-### We Need Free Digital Hardware Designs {#we-need-free-digital-hardware-designs .subheading}
 
 ### 我们需要自由的硬件设计 {#we-need-free-digital-hardware-designs .subheading}
 
