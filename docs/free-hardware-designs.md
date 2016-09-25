@@ -6,7 +6,7 @@
 
 ### 定义
 
-*自由软件*事关自由，而非价格；宽泛地讲，这意味着用户有使用软件的自由和复制并再分发软件的自由，免费或收费。更精确地，其定义可用这四项基本自由[(1)](#FOOT1)公式化的来考察。为强调“free”一词指的是自由而非价格，我们经常把法语和西班牙语中的“libre”一词和“free”一起使用。
+*自由软件*事关自由，而非价格；宽泛地讲，这意味着用户有使用软件的自由和复制并再分发软件的自由，免费或收费。更精确地，其定义可用这四项基本自由[^1]公式化的来考察。为强调“free”一词指的是自由而非价格，我们经常把法语和西班牙语中的“libre”一词和“free”一起使用。
 
 将同样的概念直接应用于硬件，*自由硬件*意为用户有使用、复制和免费或收费地再分发硬件的自由。然而，除了钥匙、DNA、和塑料制品的外观之外，没有用于硬件的复制机制。大多数硬件是按照一定的设计装配出来。设计先于硬件存在。
 
@@ -19,13 +19,13 @@ you can get a copy gratis. Many free programs are available for zero
 price, since it costs you nothing to download your own copy, but that’s
 not what “free” means here. (In fact, some spyware programs such as
 Flash Player and Angry Birds are gratis although they are not free.)
-Saying “libre” along with “free” helps clarify the point.[(2)](#FOOT2)
+Saying “libre” along with “free” helps clarify the point.[^2]
 
 首次接触自由软件思想的人们经常认为其含义是你可以免费获得一份副本。很多自由程序可以不要钱地获取，因为下载你自己的副本无需代价，但那不是“free”在此处的含义（事实上，有些间谍软件程序——例如 Flash 播放器和《愤怒的小鸟》是免费的，尽管它们不自由）。将“libre”一词和“free”一起使用有助于澄清观点[^2]。
 
 对硬件，混淆趋于走向另一方向；硬件要花钱生产，故商业化生产硬件无法免费（除非是赔本赚吆喝或添头），但这并不妨碍其设计方案变得自由。由你的 3D 打印机生产出的东西可以非常便宜，但并非精确地免费因为你需要支付原料成本。在道德方面，自由的问题完全压倒了价格问题，因为对其用户拒绝自由的设备还不如没有。
 
-由某些人使用的“开放硬件”和“开放源码硬件”的说法具有和“自由硬件”相同的具体含义，但这些说法降低了对自由议题的重视。它们由“开放源码软件”的说法派生而来，其多少指的是自由软件，但缺少了对自由的讨论或将自由的议题展示为关乎对错的事[(3)](#FOOT3)。为着重强调自由的重要性，一旦关乎自由我们就要注意谈到自由；因为“开放”做不到这一点，让我们不要用它来取代“自由”一词。
+由某些人使用的“开放硬件”和“开放源码硬件”的说法具有和“自由硬件”相同的具体含义，但这些说法降低了对自由议题的重视。它们由“开放源码软件”的说法派生而来，其多少指的是自由软件，但缺少了对自由的讨论或将自由的议题展示为关乎对错的事[^3]。为着重强调自由的重要性，一旦关乎自由我们就要注意谈到自由；因为“开放”做不到这一点，让我们不要用它来取代“自由”一词。
 
 ### 硬件和软件
 
@@ -45,21 +45,21 @@ Saying “libre” along with “free” helps clarify the point.[(2)](#FOOT2)
 
 在 FPGA 上运行自由的逻辑门模式可以是一种使得数字设备从电路层变自由的潜在有效方法。然而为了使 FPGA 在自由世界中可用，我们需要为其设计自由的开发工具。其障碍是加载进 FPGA 的逻辑门模式文件的格式是私密的。多年以来，没有一种 FPGA 的型号能够为其生成逻辑门模式文件而不需要不自由（私有）的工具。
 
-到了2015年，用来给一种通用的 FPGA 型号—— Lattice iCE40[(4)](#FOOT4)用硬件描述语言（HDL）写成的输入文件编程的自由软件工具出现了。现在也可以用自由工具编译 C 程序并在 Xilinx Spartan 6 LX9 FPGA 上运行它们[(5)](#FOOT5)，但这些工具不支持 HDL 输入。我们建议您抵制其他型号的 FPGA 直到它们也能被自由的工具支持。
+到了2015年，用来给一种通用的 FPGA 型号—— Lattice iCE40[^4]用硬件描述语言（HDL）写成的输入文件编程的自由软件工具出现了。现在也可以用自由工具编译 C 程序并在 Xilinx Spartan 6 LX9 FPGA 上运行它们[^5]，但这些工具不支持 HDL 输入。我们建议您抵制其他型号的 FPGA 直到它们也能被自由的工具支持。
 
 对 HDL 代码本身而言，它可以表现为软件（当运行于模拟器上或载入 FPGA 中），也可以表现为硬件设计（当实现为不可变的硅晶或电路板）。
 
 ### 3D 打印机的道德问题
 
-道德上，软件必须自由[(6)](#FOOT6)；不自由的程序是不义的。我们是否应当对硬件设计取同样的观点？
+道德上，软件必须自由[^6]；不自由的程序是不义的。我们是否应当对硬件设计取同样的观点？
 
 我们肯定应该，在 3D 打印（或者，更普遍地，任何个人装配行为）可处理的领域。用于制造有用的、实用的物品（即，功能性而非装饰性）的打印模式*必须*是自由的，因为它们是为了实用而产生的作品。用户应得到对这些作品的控制，正如他们应得对他们使用的软件的控制。发布一个不自由的功能性物品的设计和发布非自由程序一样有错。
 
-请仔细甄别，并选择那些只用自由软件就能驱动的 3D 打印机；自由软件基金会为这样的打印机背书[(7)](#FOOT7)。有的 3D 打印机是按照自由的硬件设计制成的，但 MakerBot 的硬件设计是不自由的[(8)](#FOOT8)。
+请仔细甄别，并选择那些只用自由软件就能驱动的 3D 打印机；自由软件基金会为这样的打印机背书[^7]。有的 3D 打印机是按照自由的硬件设计制成的，但 MakerBot 的硬件设计是不自由的[^8]。
 
 ### 我们是否必须抵制不自由的数字硬件？
 
-不自由的数字[(9)](#FOOT9)硬件设计是否不义？我们是否必须为了我们的自由抵制所有按照不自由的设计制造出的数字硬件，如同我们必须抵制非自由软件？
+不自由的数字[^9]硬件设计是否不义？我们是否必须为了我们的自由抵制所有按照不自由的设计制造出的数字硬件，如同我们必须抵制非自由软件？
 
 因为硬件设计和软件源码在概念上是平行的，许多硬件黑客像对非自由软件那样迅速声讨非自由硬件设计。我对此并不同意因为硬件和软件的情况不同。
 
@@ -99,273 +99,75 @@ Saying “libre” along with “free” helps clarify the point.[(2)](#FOOT2)
 
 软件有实现的层次；例如，一个软件包可能包括库、命令和脚本。但这些层次对软件的自由没有明显的贡献，因为可以把所有这些层次都变得自由。设计程序的组件和设计把组件组合在一起的代码是同类的工作；与其类似，从源代码编译程序的组件和将这些从源代码编译出来的组件组合在一起的程序是同类的工作。使整个系统自由只需继续工作直到完成整件任务。
 
-Therefore, we insist that a program be free at all levels. For a program
-to qualify as free, every line of the source code that composes it must
-be free, so that you can rebuild the program out of free source code
-alone.
+因此，我们坚持主张程序要在全部层次上自由。对一个分类为自由软件的程序，组成它的每一行源代码都得是自由的，这样你才能只用自由的代码重建这个程序。
 
-因此，我们坚持主张程序要在全部层次上自由。对一个被分类为自由软件的程序，组成它的每一行源代码都得是自由的，这样你才能只用自由的代码重建这个程序。
-
-Physical objects, by contrast, are often built out of components that
-are designed and build in a different kind of factory. For instance, a
-computer is made from chips, but designing (or fabricating) chips is
-very different from designing (or fabricating) the computer out of
-chips.
-
-与此相反，物理对象经常是由不同类型的工厂所设计制造的组件构造而成的。例如，计算机由芯片构成，但设计（或装配）芯片和从芯片设计（或装配）计算机是非常不同的。
-
-Thus, we need to distinguish *levels* in the design of a digital product
-(and maybe some other kinds of products). The circuit that connects the
-chips is one level; each chip’s design is another level. In an FPGA, the
-interconnection of primitive cells is one level, while the primitive
-cells themselves are another level. In the ideal future we will want the
-design be free at all levels. Under present circumstances, just making
-one level free is a significant advance.
+与此相反，物理对象经常是由不同类型的工厂设计制造的组件所构造而成的。例如，计算机由芯片构成，但设计（或装配）芯片和从芯片设计（或装配）计算机是非常不同的。
 
 因此，我们需要区分数字产品（可能还有其他类型的产品）的设计中的*层次*。连接芯片的电路是一个层次；每个芯片的设计是另一层次。在 FPGA 中，基本单元间的互联是一个层次，而基本单元本身是另一层次。理想的未来中我们会希望设计在所有层次上都是自由的。在当前状况下，仅仅使一个层次变得自由已经是一个明显的进步。
 
-However, if a design at one level combines free and nonfree parts—for
-example, a “free” HDL circuit that incorporates proprietary “soft
-cores”—we must conclude that the design as a whole is nonfree at that
-level. Likewise for nonfree “wizards” or “macros,” if they specify part
-of the interconnections of chips or programmably connected parts of
-chips. The free parts may be a step towards the future goal of a free
-design, but reaching that goal entails replacing the nonfree parts. They
-can never be admissible in the free world.
+然而，如果一个设计在同一层次上组合了自由和非自由的部分——例如，一个结合了私有“软核”的“自由” HDL 电路——我们必须下结论说此设计作为一个整体在那个层次上是不自由的。类似地，对非自由的“向导”或“宏”，如果它们指的是芯片间的互联或芯片内部结构间的可编程互联的一部分。其自由部分可以是通向自由设计未来目标的一个步骤，但到达那一目标需要把不自由的部分替换掉。它们在自由的世界中决不能接受。
 
-然而，如果一个设计在一个层次上组合了自由和非自由的部分——例如，一个结合了私权的“软核”的“自由” HDL 电路——我们必须下结论说此设计作为一个整体在那个层次上是不自由的。类似地，对非自由的“向导”或“宏”，如果它们指的是芯片间的互联或芯片内部结构间的可编程互联的一部分。其自由部分可以是通向自由设计的未来目标的一个步骤，但到达那一目标需要把不自由的部分替换掉。它们在自由的世界中决不是可被接受的。
-
-### Licenses and Copyright for Free Hardware Designs {#licenses-and-copyright-for-free-hardware-designs .subheading}
-
-### 自由硬件设计的许可和版权 {#licenses-and-copyright-for-free-hardware-designs .subheading}
-
-You make a hardware design free by releasing it under a free license. We
-recommend using the GNU General Public License, version 3 or later. We
-designed GPL version 3 with a view to such use.
+### 自由硬件设计的许可和版权 
 
 你通过将一个硬件设计按照自由的许可发行来使其成为自由设计。我们建议您使用第三版或更新的 GNU 通用公共许可证。我们带着这种用途的视点设计了 GPL 第三版。
 
-Copyleft on circuits, and on nondecorative object shapes, doesn’t go as
-far as one might suppose. The copyright on these designs only applies to
-the way the design is drawn or written. Copyleft is a way of using
-copyright law, so its effect carries only as far as copyright law
-carries.
+在电路和非装饰性的物体外观上的左版（Copyleft），不会像想象一般获得成功。这些设计的版权仅适用于这些设计是如何被画出或写下的。左版是一种利用版权法的手段，所以其效果仅限于版权法起效的范围。
 
-在电路和非装饰性的物体外观上的左版，不会像想象一般获得成功。这些设计的版权仅适用于这些设计是如何被画出或写下的。左版是一种利用版权法的手段，所以其效果仅限于版权法起效的范围。
-
-For instance, a circuit, as a topology, cannot be copyrighted (and
-therefore cannot be copylefted). Definitions of circuits written in HDL
-can be copyrighted (and therefore copylefted), but the copyleft covers
-only the details of expression of the HDL code, not the circuit topology
-it generates. Likewise, a drawing or layout of a circuit can be
-copyrighted, so it can be copylefted, but this only covers the drawing
-or layout, not the circuit topology. Anyone can legally draw the same
-circuit topology in a different-looking way, or write a different HDL
-definition that produces the same circuit.
-
-例如，一个电路，作为一种拓扑关系，无法拥有版权（也因此无法被左版）。由 HDL 写成的电路定义可以拥有版权（因此可被左版），但左版只能保护这 HDL 代码的具体表达方式，而非依其生成的电路拓扑。与此类似，电路的图纸或布局可以拥有版权，因此可被左版，但仅仅保护图纸或布局本身，而非电路拓扑。任何人都可以以不同的外观画出同样的电路拓扑，或写出生成相同电路的不同 HDL 定义。
-
-Copyright doesn’t cover physical circuits, so when people build
-instances of the circuit, the design’s license will have no legal effect
-on what they do with the devices they have built.
+例如，一个电路，作为一种拓扑关系，无法拥有版权（也因此无法使用左版）。由 HDL 写成的电路定义可以拥有版权（因此可以使用左版），但左版只能保护这 HDL 代码的具体表达方式，而非依其生成的电路拓扑。与此类似，电路的图纸或布局可以拥有版权，因此可以使用左版，但仅仅保护图纸或布局本身，而非电路拓扑。任何人都可以以不同的外观画出同样的电路拓扑，或写出生成相同电路的不同 HDL 定义。
 
 版权不能保护物理电路，所以当人们构建电路的实例时，设计的许可证对他们能对他们构建出的设备做什么没有法律效力。
 
-For drawings of objects, and 3D printer models, copyright doesn’t cover
-making a different drawing of the same purely functional object shape.
-It also doesn’t cover the functional physical objects made from the
-drawing. As far as copyright is concerned, everyone is free to make them
-and use them (and that’s a freedom we need very much). In the US,
-copyright does not cover the functional aspects that the design
-describes,[(10)](#FOOT10) but does cover decorative aspects. When one
-object has decorative aspects and functional aspects, you get into
-tricky ground.[(11)](#FOOT11) All this may be true in your country as
-well, or it may not. Before producing objects commercially or in
-quantity, you should consult a local lawyer. Copyright is not the only
-issue you need to be concerned with. You might be attacked using
-patents, most likely held by entities that had nothing to do with making
-the design you’re using, and there may be other legal issues as well.
+对物件的图纸而言和 3D 打印模型而言，版权不能阻止以不同的方式绘制同样功能性物体的外观，它也不能保护按照图纸制造功能性物质的实体。只要版权考虑到，每个人都可以自由地制造和使用它们（而这是我们十分需要的自由）。在美国，版权不涉及某个设计描述的功能特性[^10]，但却涉及装饰特性。当一个物体既有装饰特性又有功能特性时，你将进入一个棘手的境地[^11]。这一切也许在你的国家也是如此，也许不是。在商业性或大规模生产之前，你需要咨询当地的律师。你需要考虑的不只是版权。你可能会踩到专利地雷，其大部分被跟你正在使用的设计的诞生毫无关系的实体持有，而还可能有其他的法律问题。
 
-对物件的图纸而言和三维打印模型而言，版权不能阻止以不同的方式绘制同样的功能性物体外观，它也不能保护按照图纸制造的功能性物质实体。只要版权被考虑到，每个人都可以自由地制造和使用它们（而这是我们十分需要的自由）。在美国，版权不涉及某个设计描述的功能特性[(10)](#FOOT10)，但却涉及装饰特性。当一个物体既有装饰特性又有功能特性时，你将进入一个棘手的境地[(11)](#FOOT11)。这一切也许在你的国家也是如此，也许不是。在商业性或大量地生产物品前，你需要咨询当地的律师。你需要考虑的不只是版权。你可能会踩到专利地雷，其大部分被跟你正在使用的设计的诞生毫无关系的实体持有，而还可能有其他的法律问题。
+切记版权法和专利法完全不同。假设他们有任何相同之处都是个错误。这就是“知识产权”的说法是完全的误导而应被彻底抵制的原因[^12]。
 
-Keep in mind that copyright law and patent law are totally different. It
-is a mistake to suppose that they have anything in common. This is why
-the term “intellectual property” is pure confusion and should be totally
-rejected.[(12)](#FOOT12)
+### 通过文件仓库提倡自由硬件
 
-切记版权法和专利法完全不同。假设他们有任何相同之处都是个错误。这就是“知识产权”的说法是完全的误导而应被彻底抵制的原因。
-
-### Promoting Free Hardware through Repositories {#promoting-free-hardware-through-repositories .subheading}
-
-### 通过文件仓库提倡自由硬件 {#promoting-free-hardware-through-repositories .subheading}
-
-The most effective way to push for published hardware designs to be free
-is through rules in the repositories where they are published.
-Repository operators should place the freedom of the people who will use
-the designs above the preferences of people who make the designs. This
-means requiring designs of useful objects to be free, as a condition for
-posting them.
-
-通过人们发表硬件设计的文件仓库的规则来劝说他们把已发表的设计变得自由是最有效的方式。仓库的操作员应当把将要使用设计的人们的自由置于产生设计的人们的偏好之上。这意味着要求有用物品的设计是自由的是在该仓库中发表它们的一个条件。
-
-For decorative objects, that argument does not apply, so we don’t have
-to insist they must be free. However, we should insist that they be
-sharable. Thus, a repository that handles both decorative object models
-and functional ones should have an appropriate license policy for each
-category.
+通过人们发表硬件设计的文件仓库的规则来劝说他们把已发表的设计变得自由是最有效的方式。仓库的操作员应当把将要使用设计的人们的自由置于设计者的偏好之上。这意味着要求有用物品的自由设计是在该仓库中发表它们的一个条件。
 
 对装饰性物品，此论点不适用，所以我们不必须坚持它们必须是自由的。但是，我们必须坚持它们是可分享的。因此，一个既能处理装饰性物品模型也能处理功能性物品模型的仓库必对每一类存档都有合适的许可政策。
 
-For digital designs, I suggest that the repository insist on GNU
-GPL v3-or-later, Apache 2.0, or CC-0. For functional 3D designs, the
-repository should ask the design’s author to choose one of four
-licenses: GNU GPL v3-or-later, Apache 2.0, CC-SA, CC-BY or CC-0. For
-decorative designs, it should GNU GPL v3-or-later, Apache 2.0, CC-0, or
-any of the CC licenses.
+对数字设计，我建议仓库坚持使用“GNU GPL 第三版或更新”，Apache 2.0，或CC-0。对功能性三维设计，仓库要劝用户选择以下四种许可之一：“GNU GPL 第三版或更新”，Apache 2.0，CC-SA，CC-BY或CC-0。对装饰性设计，要选“GNU GPL 第三版或更新”，Apache 2.0，CC-0或任何 CC 族许可。
 
-对数字设计，我建议仓库坚持使用“GNU GPL 第三版或更新”，Apache 2.0，或CC-0。对功能性三维设计，仓库要劝用户选择一下四种许可之一：“GNU GPL 第三版或更新”，Apache 2.0，CC-SA，CC-BY或CC-0。对装饰性设计，要选“GNU GPL 第三版或更新”，Apache 2.0，CC-0或任何 CC 族许可。
-
-The repository should require all designs to be published as source
-code, and source code in secret formats usable only by proprietary
-design programs is not really adequate. For a 3D model, the STL format
-is not the preferred format for changing the design and thus is not
-source code, so the repository should not accept it, except perhaps
-accompanying real source code.
-
-该仓库应当要求所有设计都以源代码形式发表，且只能被私权软件使用的私密格式的源代码并不真正足够。对三维模型而言，STL 格式并不是用来修改设计的最佳格式因此不算源代码，所以仓库不该接受此格式，除非它们可能和真正的源代码一同发表。
-
-There is no reason to choose one single format for the source code of
-hardware designs, but source formats that cannot yet be handled with
-free software should be accepted reluctantly at best.
+该仓库应当要求所有设计都以源代码形式发表，且只能被私有软件使用的私密格式源代码并不真正足够。对三维模型而言，STL 格式并不是用来修改设计的最佳格式因此不算源代码，所以仓库不该接受此格式，除非它们可能和真正的源代码一同发表。
 
 没有理由为硬件设计的源代码只选择单一的格式，但尚未能被自由软件处理的源码格式应该充其量勉强接受。
 
-### Free Hardware and Warranties {#free-hardware-and-warranties .subheading}
-
-### 自由硬件和担保 {#free-hardware-and-warranties .subheading}
-
-In general, the authors of free hardware designs have no moral
-obligation to offer a warranty to those that fabricate the design. This
-is a different issue from the sale of physical hardware, which ought to
-come with a warranty from the seller and/or the manufacturer.
+### 自由硬件和担保
 
 一般说来，自由硬件设计的作者没有对按其设计装配硬件者提供担保的道德义务。这和出于销售硬件实体的问题不同，销售硬件实体必须由其卖家和/或制造者提供担保。
 
-### Conclusion {#conclusion .subheading}
+### 结论
 
-### 结论 {#conclusion .subheading}
+我们已经有了可以让我们的硬件设计自由的合适许可证。我们需要的是作为一个社区将其认作我们所必做之事而在我们自行装配物品时坚持自由的设计。
 
-We already have suitable licenses to make our hardware designs free.
-What we need is to recognize as a community that this is what we should
-do and to insist on free designs when we fabricate objects ourselves.
 
-我们已经有了用于使我们的硬件设计自由的合适的许可。我们需要的是作为一个社区将其认作我们所必做之事而在我们自行装配物品时坚持自由的设计。
 
-<div class="footnote">
+ [^1]: 参见《什么是自由软件？》以查看四项基本自由的列表。
 
-------------------------------------------------------------------------
 
-### Footnotes
+ [^2]: 参见<http://gnu.org/philosophy/proprietary/proprietary-surveillance.html>以查看一个在工业中扩散的监视手段的快速增长的列表。
 
-### [(1)](#DOCF1)
 
-@raggedright See @pageref{Definition} for the list of the four freedoms.
-@end raggedright
+ [^3]: 参见《为什么说开源漏掉了自由软件的要点》一文
 
-@raggedright 参见 @pageref{Definition} 以查看四项基本自由的列表。
-@end raggedright
+ [^4]: 参见 <http://clifford.at/icestorm/>. 
 
-### [(2)](#DOCF2)
+ [^5]: 参见 <https://github.com/Wolfgang-Spraul/fpgatools>
 
-@raggedright For a growing list of the ways in which surveillance has
-spread across industries, see
-<http://gnu.org/philosophy/proprietary/proprietary-surveillance.html>.
-@end raggedright
+ [^6]: 参见《现在自由软件更加重要》一文
 
-@raggedright 参见
-<http://gnu.org/philosophy/proprietary/proprietary-surveillance.html>以查看一个在工业中扩散的监视手段的快速增长的列表。
-@end raggedright
+ [^7]: 参见 <http://fsf.org/resources/hw/endorsement>
 
-### [(3)](#DOCF3)
-
-@raggedright See “Why Open Source Misses the Point of Free Software”
-(@pageref{OS Misses Point}) for more on this issue. @end raggedright
-
-### [(4)](#DOCF4)
-
-@raggedright See <http://clifford.at/icestorm/>. @end raggedright
-
-### [(5)](#DOCF5)
-
-@raggedright See <https://github.com/Wolfgang-Spraul/fpgatools>. @end
-raggedright
-
-### [(6)](#DOCF6)
-
-@raggedright See “Free Software Is Even More Important Now”
-(@pageref{More Important Now}). @end raggedright
-
-@raggedright 参见 “现在自由软件更加重要”
-(@pageref{More Important Now}). @end raggedright
-
-### [(7)](#DOCF7)
-
-@raggedright See <http://fsf.org/resources/hw/endorsement>. @end
-raggedright
-
-@raggedright 参见 <http://fsf.org/resources/hw/endorsement>. @end
-raggedright
-
-### [(8)](#DOCF8)
-
-@raggedright Rich Brown, “Pulling Back from Open Source Hardware,
-MakerBot Angers Some Adherents,” 27 September 2012,
-[http://cnet.com/news/pulling-back-from-\
+ [^8]: Rich Brown, “Pulling Back from Open Source Hardware, MakerBot Angers Some Adherents,” 27 September 2012, [http://cnet.com/news/pulling-back-from-\
 open-source-hardware-makerbot-angers-some-adherents/](http://cnet.com/news/pulling-back-from-%3Cbr%3Eopen-source-hardware-makerbot-angers-some-adherents/).
-@end raggedright
 
-### [(9)](#DOCF9)
+ [^9]: 如本文中的用法，“数字硬件”包括在数字部分之外还有模拟部分的硬件。 
 
-@raggedright As used here, “digital hardware” includes hardware with
-some analog circuits and components in addition to digital ones. @end
-raggedright
+ [^10]: 参见美国版权局定义的“useful article”，于 <http://copyright.gov/register/va-useful.html>. 
 
-@raggedright 如本文中的用法，“数字硬件”包括在数字部分之外还有模拟部分的硬件。 @end
-raggedright
+ [^11]: 一篇由 Public Knowledge 所写的文章 (“为你的 3D 打印产物赋予许可的三个步骤” 6 March 2015,[https://publicknowledge.org/assets/uploads/documents/\
+3\_Steps\_for\_Licensing\_Your\_3D\_Printed\_Stuff.pdf](https://publicknowledge.org/assets/uploads/documents/%3Cbr%3E3_Steps_for_Licensing_Your_3D_Printed_Stuff.pdf)) 对其在美国的复杂性给出了很有用的信息，尽管该文落入了使用伪概念“知识产权”，和不应该和版权联用的宣传用语“保护”的常见谬误。若问为何，《应避免使用（或慎用）的词语，由于它们是不公正的或者引起混淆的》一文。 
 
-### [(10)](#DOCF10)
+ [^12]: 参见《您说过“知识产权”吗？这是一种迷惑性的幻景》一文。 
 
-@raggedright See the US Copyright Office definition of “useful article,”
-at <http://copyright.gov/register/va-useful.html>. @end raggedright
-
-@raggedright 参见美国版权局定义的“useful article”，于 <http://copyright.gov/register/va-useful.html>. @end raggedright
-
-### [(11)](#DOCF11)
-
-@raggedright An article by Public Knowledge (“3 Steps for Licensing Your
-3D Printed Stuff,” 6 March 2015,
-[https://publicknowledge.org/assets/uploads/documents/\
-3\_Steps\_for\_Licensing\_Your\_3D\_Printed\_Stuff.pdf](https://publicknowledge.org/assets/uploads/documents/%3Cbr%3E3_Steps_for_Licensing_Your_3D_Printed_Stuff.pdf))
-gives useful information about this complexity, for the US, though it
-falls into the common mistake of using the bogus concept of
-“intellectual property” and the propaganda term “protection,” which
-should not be used in connection with copyright. See
-@pageref{Protection} for the reason why. @end raggedright
-
-@raggedright 一篇由 Public Knowledge 所写的文章 (“为你的三维打印产物赋予许可的三个步骤” 6 March 2015,
-[https://publicknowledge.org/assets/uploads/documents/\
-3\_Steps\_for\_Licensing\_Your\_3D\_Printed\_Stuff.pdf](https://publicknowledge.org/assets/uploads/documents/%3Cbr%3E3_Steps_for_Licensing_Your_3D_Printed_Stuff.pdf)) 对其在美国的复杂性给出了很有用的信息，尽管该文落入了使用伪概念“知识产权”，和不应该和版权联用的宣传用语“保护”的常见谬误。若问为何，参见@pageref{Protection}. @end raggedright
-
-### [(12)](#DOCF12)
-
-@raggedright See “Did You Say ‘Intellectual Property’? It’s a Seductive
-Mirage” (@pageref{Not IPR}). @end raggedright
-
-@raggedright 参见“你是否在说‘知识产权’？ 它是个诱人的幻觉。” (@pageref{Not IPR}). @end raggedright
-
-</div>
-
-------------------------------------------------------------------------
-
-This document was generated by *tonghuix* on *March 25, 2016* using
-[*texi2html 1.82*](http://www.nongnu.org/texi2html/).\
