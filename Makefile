@@ -1,0 +1,90 @@
+BUILD = build
+BOOKNAME = fsfs-zh
+TITLE = ebook/title.txt
+METADATA = ebook/metadata.xml
+TOC = --toc --toc-depth=2 --epub-chapter-level=2 
+CHAPTERS =  docs/foreword-trans.md \
+			docs/foreword-v3.md  \
+			docs/foreword-v1.md  \
+			docs/preface-v3.md  \
+			docs/free-sw.md \
+			docs/thegnuproject.md  \
+			docs/initial-announcement.md \
+			docs/free-software-even-more-important.md  \
+			docs/edu-schools.md  \
+			docs/government-free-software.md  \
+			docs/free-doc.md  \
+			docs/selling.md  \
+			docs/free-hardware-designs.md  \
+			docs/applying-free-sw-criteria.md  \
+			docs/why-gnu-linux.md  \
+			docs/linux-and-gnu.md  \
+			docs/categories.md  \
+			docs/open-source-misses-the-point.md  \
+			docs/not-ipr.md  \
+			docs/why-call-it-the-swindle.md  \
+			docs/words-to-avoid.md  \
+			docs/right-to-read.md  \
+			docs/misinterpreting-copyright.md  \
+			docs/push-copyright-aside.md  \
+			docs/copyright-vs-community.md  \
+			docs/software-literary-patents.md  \
+			docs/danger-of-software-patents.md  \
+			docs/limit-patent-effect.md  \
+			docs/licenses-introduction.md  \
+			docs/license-recommendations.md  \
+			docs/x.md  \
+			docs/programs-must-not-limit-freedom-to-run.md  \
+			docs/copyleft.md  \
+			docs/why-copyleft.md  \
+			docs/pragmatic.md  \
+			docs/gpl.md  \
+			docs/rms-why-gplv3.md  \
+			docs/lgpl.md  \
+			docs/fdl.md  \
+			docs/selling-exceptions.md  \
+			docs/can-you-trust.md  \
+			docs/javascript-trap.md  \
+			docs/university.md  \
+			docs/nonfree-games.md  \
+			docs/the-danger-of-ebooks.md  \
+			docs/ebooks-must-increase-freedom.md  \
+			docs/who-does-that-server-really-serve.md  \
+			docs/compromise.md  \
+			docs/social-inertia.md  \
+			docs/freedom-or-power.md  \
+			docs/imperfection-isnt-oppression.md  \
+			docs/surveillance-vs-democracy.md  \
+			docs/appendix-a.md \
+			docs/appendix-b.md \
+			docs/appendix-c.md  \
+
+all: book
+
+book: epub html 
+
+clean:
+		rm -r site
+		rm $(BOOKNAME).* 
+
+epub: $(BOOKNAME).epub
+
+html: $(BOOKNAME).html
+
+#pdf: $(BUILD)/$(BOOKNAME).pdf
+
+$(BOOKNAME).epub: $(TITLE) $(CHAPTERS)
+	cp -r docs/fs-translations/ .
+	cp docs/*.png .
+	pandoc $(TOC) -S --epub-metadata=$(METADATA) -o $@ $^
+	rm -fr fs-translations
+	rm *.png
+
+$(BOOKNAME).html: $(CHAPTERS)
+			pandoc $(TOC) --standalone --to=html5 -o $@ $^
+			mkdocs --clean
+
+#$(BUILD)/$(BOOKNAME).pdf: $(TITLE) $(CHAPTERS)
+#			pandoc $(TOC) --latex-engine=xelatex -V documentclass=$(LATEX_CLASS) -o $@ $^
+
+.PHONY: all book clean epub html 

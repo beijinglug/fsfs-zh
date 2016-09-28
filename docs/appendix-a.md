@@ -1,4 +1,4 @@
-##关于软件的基础知识
+## 附录A：关于软件的基础知识
 
 > Copyright © 2002 Richard E.Buckman and Joshua Gay. 此文最早发布于 2002 年。
 
