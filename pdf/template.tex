@@ -1,0 +1,423 @@
+\documentclass[a4paper]{book}
+\usepackage[absolute,overlay,showboxes]{textpos}
+% \usepackage[lining]{ebgaramond}
+\usepackage[CJKspace]{xeCJK}
+\usepackage{tocbibind} % for toc show inside pdf
+\usepackage[
+	%urlbordercolor = {1 1 1},
+	%linkbordercolor = {1 1 1},
+	%citebordercolor = {1 1 1},
+	bookmarksnumbered, % add bookmark number in pdf output
+	urlcolor = blue,
+	colorlinks = true,
+	citecolor = black,
+	linkcolor = black]{hyperref}
+\usepackage{graphicx}
+\usepackage{xltxtra}
+\usepackage{fancyhdr}
+\usepackage{booktabs}
+\usepackage{indentfirst}
+\usepackage{framed,color}
+\usepackage{footnpag}
+\usepackage{listings}
+\usepackage{array}
+\usepackage[font=small,format=plain,labelfont=bf,up,textfont=it,up]{caption}
+
+\usepackage{titlesec} % texlive-latex-extra package
+\usepackage[titletoc]{appendix} % this is used for \appendices
+\usepackage{xltxtra} 
+\usepackage{upquote}
+\usepackage{changepage}
+
+\usepackage{pdfpages}
+
+% To support tables so required tabulary package
+\usepackage{tabulary}
+
+\definecolor{colorchapter}{RGB}{0,0,0}     % All black 
+\definecolor{colorsection}{RGB}{0,0,0}     
+\definecolor{colorsubsection}{RGB}{0,0,0} 
+\definecolor{colorheader}{RGB}{0,0,0,} 
+
+\definecolor{lightgray}{rgb}{.9,.9,.9}
+\definecolor{darkgray}{rgb}{.3,.3,.3}
+\definecolor{purple}{rgb}{0.65, 0.12, 0.82}
+
+\definecolor{editorGray}{rgb}{0.95, 0.95, 0.95}
+\definecolor{editorOcher}{rgb}{1, 0.5, 0} % #FF7F00 -> rgb(239, 169, 0)
+\definecolor{editorGreen}{rgb}{0, 0.4, 0.1} % #007C00 -> rgb(0, 150, 25)
+
+
+\lstdefinelanguage{JavaScript}{
+  keywords={typeof, new, true, false, catch, function, return, null, catch, switch, var, if, in, while, do, else, case, break},
+  keywordstyle=\color{blue}\bfseries,
+  ndkeywords={class, export, boolean, throw, implements, import, this, public, static, int, char, string, ref, float, double},
+  ndkeywordstyle=\color{editorGreen}\bfseries,
+  identifierstyle=\color{black},
+  sensitive=false,
+  comment=[l]{//},
+  morecomment=[s]{/*}{*/},
+  commentstyle=\color{purple}\ttfamily,
+  stringstyle=\color{red}\ttfamily,
+  morestring=[b]',
+  morestring=[b]"
+}
+
+\lstset{
+   language=JavaScript,
+   backgroundcolor=\color{lightgray},
+   extendedchars=true,
+   basicstyle=\footnotesize\ttfamily,
+   showstringspaces=false,
+   showspaces=false,
+   numbers=left,
+   numberstyle=\footnotesize,
+   numbersep=5pt,
+   tabsize=2,
+   breaklines=true,
+   showtabs=false,
+   captionpos=b,
+xleftmargin=20pt,
+frame=tb,
+framexleftmargin=20pt
+}
+
+\lstdefinelanguage{JS}{
+  morekeywords={typeof, new, true, false, catch, function, return, null, catch, switch, var, if, in, while, do, else, case, break},
+  morecomment=[s]{/*}{*/},
+  morecomment=[l]//,
+  morestring=[b]",
+  morestring=[b]'
+}
+
+\lstdefinelanguage{HTML5}{
+        language=html,
+        sensitive=true, 
+        alsoletter={<>=-},
+        otherkeywords={
+        % HTML tags
+        <html>, <head>, <title>, </title>, <meta, />, </head>, <body>,
+        <canvas, \/canvas>, <script>, </script>, </body>, </html>, <!, html>, <style>, </style>, ><
+        },  
+        ndkeywords={
+        % General
+        =,
+        % HTML attributes
+        charset=, id=, width=, height=,
+        % CSS properties
+        border:, transform:, -moz-transform:, transition-duration:, transition-property:, transition-timing-function:
+        },  
+        morecomment=[s]{<!--}{-->},
+        tag=[s]
+}
+
+\lstset{%
+    % Basic design
+    backgroundcolor=\color{editorGray},
+    basicstyle={\small\ttfamily},   
+    frame=l,
+    % Line numbers
+    xleftmargin={0.75cm},
+    numbers=left,
+    stepnumber=1,
+    firstnumber=1,
+    numberfirstline=true,
+    % Code design   
+    keywordstyle=\color{blue}\bfseries,
+    commentstyle=\color{darkgray}\ttfamily,
+    ndkeywordstyle=\color{editorGreen}\bfseries,
+    stringstyle=\color{editorOcher},
+    % Code
+    language=HTML5,
+    alsolanguage=JavaScript,
+    alsodigit={.:;},
+    tabsize=2,
+    showtabs=false,
+    showspaces=false,
+    showstringspaces=false,
+    extendedchars=true,
+    breaklines=true,        
+    % Support for German umlauts
+    literate=%
+    {Ö}{{\"O}}1
+    {Ä}{{\"A}}1
+    {Ü}{{\"U}}1
+    {ß}{{\ss}}1
+    {ü}{{\"u}}1
+    {ä}{{\"a}}1
+    {ö}{{\"o}}1
+}
+
+
+\lstset{
+%language=C++,
+basicstyle=\small\ttfamily,
+numbers=left,
+numbersep=5pt,
+xleftmargin=20pt,
+frame=tb,
+framexleftmargin=20pt
+}
+
+\titleformat{\section}
+{\color{colorsection}\normalfont\Large\bfseries}
+{\color{colorsection}\thesection}{1em}{}
+\titleformat{\subsection}
+{\color{colorsubsection}\normalfont\large\bfseries}
+{\color{colorsubsection}\thesubsection}{1em}{}
+
+\definecolor{shadecolor}{gray}{0.90}
+
+% 修改字体，粗体为文泉驿微米黑，普通文字为方正宋体（非开源，包含在WPS包内）
+%    字体选择： AR PL UMing 文鼎PL细上海宋 - 会出现问号在中间的错误
+%               AR PL SungtiL GB 文鼎PL简报宋 - 英文字体不好看
+%               Adobe Song Std L Adobe宋体 - item的·号无法显示 
+%               Hiragino Sans - 字体很完美，但item的·不能显示！
+%               WenQuanYi Micro Hei 文泉驿微米黑 - 没有对应的粗体字体
+%               Source Sans Han S (Noto Sans CJK)  思源黑体 - 不能用有错误
+%                jjgod 给 xdvipdfmx 写了补丁，会被包含在 TeX Live 2015。
+%                 讨论：http://tug.org/pipermail/xetex/2014-July/025385.html 起
+%                 补丁：https://gist.github.com/jjgod/c1194a9b371848aaa746
+%                       https://gist.github.com/jjgod/cf39032b839bb3542107
+
+% 设置英文字体
+\setmainfont
+    [ Numbers        = {Proportional,Lining},
+      UprightFont    = *-Regular,
+      ItalicFont     = *-Italic,
+      BoldFont       = *-Bold,
+      BoldItalicFont = *-Italic,
+    ]
+    {Liberation Serif}
+%    {Bitstream Charter}  % uncomment for release build
+
+% 设置中文字体
+\setCJKmainfont
+    [
+      BoldFont   = WenQuanYi Micro Hei,
+      % BoldFont = Noto Sans CJK SC, % uncomment for release build
+      ItalicFont = AR PL KaitiM GB,
+    ]
+    {AR PL SungtiL GB}
+%\setCJKsansfont{Noto Sans CJK SC} % uncomment for release build
+\setCJKsansfont{WenQuanYi Micro Hei}
+\setCJKmonofont{WenQuanYi Micro Hei Mono}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% 使用 DejaVu Sans 显示 ⚠ ☢ ☠ ✔ 这四个 dingbats 字符
+% http://tex.stackexchange.com/questions/23049/font-substitution-with-xelatex
+\newfontfamily{\DingbatSubstFont}{DejaVu Sans}
+\XeTeXinterchartokenstate=1
+\newXeTeXintercharclass\DingbatSubst
+\XeTeXcharclass"26A0=\DingbatSubst	% ⚠
+\XeTeXcharclass"2622=\DingbatSubst	% ☢
+\XeTeXcharclass"2620=\DingbatSubst	% ☠
+\XeTeXcharclass"2714=\DingbatSubst	% ✔
+\XeTeXinterchartoks 0 \DingbatSubst = {\begingroup\DingbatSubstFont}
+\XeTeXinterchartoks 255 \DingbatSubst = {\begingroup\DingbatSubstFont}
+\XeTeXinterchartoks \DingbatSubst 0 = {\endgroup}
+\XeTeXinterchartoks \DingbatSubst 255 = {\endgroup}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\XeTeXlinebreaklocale{zh}
+\XeTeXlinebreakskip=0em plus 0.1em minus 0.01em
+\XeTeXlinebreakpenalty=0
+
+\settowidth{\parindent}{文字}
+\setcounter{footnote}{1}
+
+\title{{自由软件，自由社会（第三版）}}
+\author{理查德·斯托曼著，北京 GNU/Linux 用户组协力翻译}
+
+\makeatletter
+\let\savedauthor=\@author
+\let\savedtitle=\@title
+\def\imgwidth{.6\linewidth}
+\def\maxwidth{\ifdim\Gin@nat@width>\imgwidth\imgwidth
+\else\Gin@nat@width\fi}
+\makeatother
+
+\title{\huge{\savedtitle}}
+
+\author{\textbf{\savedauthor}\thanks{本书基于 GNU 自由文档协议 1.3 版 (GNU Free Documentation License 1.3) 授权发布，可自由复制和分发，和/或基于 GNU 自由文档协议 1.3 版或自由软件基金会发布的更高版本，做出修改。本书使用 Markdown 书写，源码地址：\url{https://github.com/beijinglug/fsfs-zh/}。}}
+
+\def\w3cdtfymd{\the\year-\ifnum\month<10 0\fi\the\month-\ifnum\day<10 0\fi\the\day}
+\date{\w3cdtfymd}
+
+\newcommand{\PreserveBackslash}[1]{\let\temp=\\#1\let\\=\temp}
+\let\PBS=\PreserveBackslash
+\makeatletter
+  \setlength\headheight{12\p@}
+  \setlength\headsep   {.25in}
+  \setlength\topskip   {10\p@}
+  \setlength\footskip{.35in}
+  \setlength\textwidth{400\p@}
+  
+  \setlength\@tempdima{\paperheight}
+  \addtolength\@tempdima{-2in}
+  \divide\@tempdima\baselineskip
+  \@tempcnta=\@tempdima
+  \setlength\textheight{\@tempcnta\baselineskip}
+  \addtolength\textheight{\topskip}
+  
+  \setlength\@tempdima        {\paperwidth}
+  \addtolength\@tempdima      {-\textwidth}
+  \setlength\oddsidemargin    {\paperwidth}
+  \addtolength\oddsidemargin  {-2.35in}
+  \addtolength\oddsidemargin  {-\textwidth}
+  \setlength\marginparwidth   {0pt}
+  \@settopoint\oddsidemargin
+  \@settopoint\marginparwidth
+  \setlength\evensidemargin  {\paperwidth}
+  \addtolength\evensidemargin{-2.35in}
+  \addtolength\evensidemargin{-\textwidth}
+  \@settopoint\evensidemargin
+  
+  \setlength\topmargin{\paperheight}
+  \addtolength\topmargin{-2in}
+  \addtolength\topmargin{-\headheight}
+  \addtolength\topmargin{-\headsep}
+  \addtolength\topmargin{-\textheight}
+  \addtolength\topmargin{-\footskip}     % this might be wrong!
+  \addtolength\topmargin{-.5\topmargin}
+  \@settopoint\topmargin
+  %\@addtoreset{footnote}{page}  
+\makeatother
+
+\fancypagestyle{plain}{\fancyhf{}\fancyfoot{}} % make sure no page number in page of first chapter
+
+\pagestyle{plain}
+
+
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\newcounter{img}[chapter]
+\renewcommand{\theimg}{\thechapter.\arabic{img}}
+\newcommand{\img}[1]{\begin{figure}[h!]
+	\refstepcounter{img}
+	\label{img:\theimg}
+	\centering\includegraphics[width=\maxwidth]{figures/\theimg.png}
+	\caption{#1}
+\end{figure}}
+
+% below for code syntax highlight
+\usepackage{fancyvrb}
+%\DefineShortVerb[commandchars=\\\{\}]{\|}
+\DefineVerbatimEnvironment{Highlighting}{Verbatim}{commandchars=\\\{\},frame=leftline,fontsize=\small}
+% Add ',fontsize=\small' for more characters per line
+\newenvironment{Shaded}{}{}
+\newcommand{\KeywordTok}[1]{\textcolor[rgb]{0.00,0.44,0.13}{\textbf{{#1}}}}
+\newcommand{\DataTypeTok}[1]{\textcolor[rgb]{0.56,0.13,0.00}{{#1}}}
+\newcommand{\DecValTok}[1]{\textcolor[rgb]{0.25,0.63,0.44}{{#1}}}
+\newcommand{\BaseNTok}[1]{\textcolor[rgb]{0.25,0.63,0.44}{{#1}}}
+\newcommand{\FloatTok}[1]{\textcolor[rgb]{0.25,0.63,0.44}{{#1}}}
+\newcommand{\CharTok}[1]{\textcolor[rgb]{0.25,0.44,0.63}{{#1}}}
+\newcommand{\StringTok}[1]{\textcolor[rgb]{0.25,0.44,0.63}{{#1}}}
+\newcommand{\CommentTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textit{{#1}}}}
+\newcommand{\OtherTok}[1]{\textcolor[rgb]{0.00,0.44,0.13}{{#1}}}
+\newcommand{\AlertTok}[1]{\textcolor[rgb]{1.00,0.00,0.00}{\textbf{{#1}}}}
+\newcommand{\FunctionTok}[1]{\textcolor[rgb]{0.02,0.16,0.49}{{#1}}}
+\newcommand{\RegionMarkerTok}[1]{{#1}}
+\newcommand{\ErrorTok}[1]{\textcolor[rgb]{1.00,0.00,0.00}{\textbf{{#1}}}}
+\newcommand{\NormalTok}[1]{{#1}}
+% end of code syntax highlight
+
+\newcounter{tab}[chapter]
+\renewcommand{\thetab}{\thechapter.\arabic{tab}}
+
+\newcommand{\prechap}{第}
+\newcommand{\postchap}{章}
+\newcommand{\presect}{}
+\newcommand{\postsect}{节}
+\renewcommand{\chaptermark}[1]{\markboth{\textbf{\prechap \thechapter \postchap}\hspace*{1ex}#1}{}}
+\renewcommand{\sectionmark}[1]{\markright{\textbf{\presect \thesection \postsect}\hspace*{1ex}#1}}
+\newcommand{\chap}[1]{\newpage\thispagestyle{empty}\chapter{#1}\label{chap:\thechapter}}
+\newcommand{\chapref}[1]{\hyperref[chap:#1]{\prechap #1\postchap}}
+\newcommand{\imgref}[1]{\hyperref[img:#1]{图 #1}}
+\newcommand{\tabref}[1]{\hyperref[tab:#1]{表 #1}}
+\newcommand{\e}[1]{$ \times 10^{#1}$}
+\renewcommand{\contentsname}{目录}
+\renewcommand{\figurename}{图 }
+\renewcommand{\tablename}{表 }
+\renewcommand{\appendixname}{附录 }
+
+% chapter 
+\makeatletter
+\def\@makechapterhead#1{%
+  \vspace*{50\p@}%
+  {\parindent \z@ \raggedright \normalfont
+    \ifnum \c@secnumdepth >\m@ne
+      \if@mainmatter
+        \color{colorchapter}\normalfont\huge\bfseries\prechap{ }\thechapter{ }\postchap
+        \par\nobreak
+        \vskip 20\p@
+      \fi
+    \fi
+    \interlinepenalty\@M
+    \color{colorchapter}\normalfont\Huge\bfseries #1\par\nobreak
+    \vskip 40\p@
+  }}  
+ 
+% this is for non-normal chapter like Acknownledgement, Preface, Contents  
+\def\@makeschapterhead#1{%
+  \vspace*{50\p@}%
+  {\parindent \z@ \raggedright \normalfont
+    \ifnum \c@secnumdepth >\m@ne
+      \if@mainmatter
+        \color{colorchapter}\normalfont\huge\bfseries \thechapter{ }
+        \par\nobreak
+        \vskip 20\p@
+      \fi
+    \fi
+    \interlinepenalty\@M
+    \color{colorchapter}\normalfont\Huge\bfseries #1\par\nobreak
+    \vskip 40\p@
+  }}  
+\makeatother
+
+\linespread{1.3}
+
+\begin{document}
+%\includepdf[noautoscale]{img/cover}
+\maketitle
+
+\begin{quote}
+\noindent
+Copyright \copyright{} 2016 Beijing GNU/Linux User Group <https://beijinglug.club>.
+
+\noindent
+Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.3 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+
+\noindent
+A copy of the license is included in the section entitled ``GNU Free Documentation License''.
+\end{quote}
+
+\thispagestyle{empty}
+\setcounter{tocdepth}{2}
+
+\frontmatter
+% preface
+\input{preface}
+\tableofcontents\newpage\thispagestyle{empty}
+
+% customize header & footer
+
+\fancyhf{}
+\fancyhead[LE]{\color{colorheader}\quad\small\textbf\thepage\quad\quad\small\leftmark}
+\fancyhead[RO]{\color{colorheader}\small\rightmark\quad\quad\small\textbf\thepage\quad}
+\fancyfoot[LE,RO]{\small\textbf\thepage} % page number
+
+\renewcommand{\headrulewidth}{0.4pt}  % add one line
+\pagestyle{fancy}
+
+\mainmatter
+%chapters
+\input{chapters}
+\appendices
+\renewcommand{\prechap}{\appendixname}
+\renewcommand{\postchap}{}
+%appendix
+\input{appendix}
+\end{document}
