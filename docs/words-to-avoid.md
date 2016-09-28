@@ -8,7 +8,7 @@
 
 有一种普遍的误解认为，自由软件意味着公众必须可以获得某一程序。这并非自由软件的本意。
 
-自由软件的准则[^1]并不是关于谁能够获得某一程序的；四项基本自由所关注的是拥有它的一份副本的用户可以用它做什么。例如，自由之二称该用户拥有为其复制一份副本并且送给或卖给您的自由。但是任何用户都没有为您复制副本的*义务*；并且您也没有*权利*强行要求任何用户为您提供副本。
+自由软件的准则[^wordtoavoid-1]并不是关于谁能够获得某一程序的；四项基本自由所关注的是拥有它的一份副本的用户可以用它做什么。例如，自由之二称该用户拥有为其复制一份副本并且送给或卖给您的自由。但是任何用户都没有为您复制副本的*义务*；并且您也没有*权利*强行要求任何用户为您提供副本。
 
 
 特别地，如果您为您自己编写了一个程序并且完全不向任何人提供副本，该程序也是自由软件（尽管是在一种平凡的意义上），由于您（作为拥有它的唯一用户）拥有四项基本自由。
@@ -22,17 +22,17 @@
 
 我们从不将自由软件描述为私有软件之外的选择，由于这一单词假设所有“选择”都是合法的，并且每增加一种“选择”都对用户有利。事实上，这一单词假设自由软件应该和那些不尊重用户自由的软件共存。
 
-我们坚信以自由软件形式发布是发布软件以供他人使用的唯一符合伦理的方式。而其他方式，不论是私有软件还是“服务作为软件替代品”（SaaSS）都会迫使用户屈从[^2]。因此我们认为不向用户提供这些自由软件之外的“选择”才是好的。
+我们坚信以自由软件形式发布是发布软件以供他人使用的唯一符合伦理的方式。而其他方式，不论是私有软件还是“服务作为软件替代品”（SaaSS）都会迫使用户屈从[^wordtoavoid-2]。因此我们认为不向用户提供这些自由软件之外的“选择”才是好的。
 
 ### BSD 风格（BSD-Style）
 
-“BSD 风格许可证”这一表述将会引起混淆，由于它将具有显著不同的许可证混为一谈[^3]。例如，最初的 BSD 许可证由于带有广告条款从而与 GNU GPL 不兼容，但是改进过的 BSD 许可证与 GPL 兼容。
+“BSD 风格许可证”这一表述将会引起混淆，由于它将具有显著不同的许可证混为一谈[^wordtoavoid-3]。例如，最初的 BSD 许可证由于带有广告条款从而与 GNU GPL 不兼容，但是改进过的 BSD 许可证与 GPL 兼容。
 
-为了避免混淆，最好在谈论中明确给出许可证的名字[^4]并且避免使用含混不清的短语“BSD 风格”。
+为了避免混淆，最好在谈论中明确给出许可证的名字[^wordtoavoid-4]并且避免使用含混不清的短语“BSD 风格”。
 
 ### 闭源（Closed）
 
-将私有软件描述为“闭源”很明显是与“开源”概念相对。在自由软件运动中，我们不希望被别人同开源阵营混为一谈，因此我们谨慎地避免使用那种促使人们将我们与他们混在一起的表达方式[^5]。例如，我们避免将非自由软件描述为“闭源”，我们称之为“非自由”或“私有”[^6]。
+将私有软件描述为“闭源”很明显是与“开源”概念相对。在自由软件运动中，我们不希望被别人同开源阵营混为一谈，因此我们谨慎地避免使用那种促使人们将我们与他们混在一起的表达方式[^wordtoavoid-5]。例如，我们避免将非自由软件描述为“闭源”，我们称之为“非自由”或“私有”[^wordtoavoid-6]。
 
 ### 云计算（Cloud Computing）
 
@@ -40,19 +40,19 @@
 
 当您思考或是回应一个由他人提出的并且使用这一概念的论述时，第一步是要澄清话题。该论述是关于什么场景的？适用于此场景的恰当并且清晰的概念是什么？只有当话题被清晰阐述之时，合乎逻辑的讨论才是可能的。
 
-“云计算”的众多可能的涵义之一是将您的数据存储于在线服务上。在大多数场景中，这是愚蠢的做法，由于这使您暴露在监控之下[^7]。
+“云计算”的众多可能的涵义之一是将您的数据存储于在线服务上。在大多数场景中，这是愚蠢的做法，由于这使您暴露在监控之下[^wordtoavoid-7]。
 
-另一种可能的涵义（与上一条有所重叠但又不完全相同）是“服务作为软件替代品”（SaaSS），它拒绝了您对于您自己的计算的控制权。您应该从不使用 SaaSS[^8]。
+另一种可能的涵义（与上一条有所重叠但又不完全相同）是“服务作为软件替代品”（SaaSS），它拒绝了您对于您自己的计算的控制权。您应该从不使用 SaaSS[^wordtoavoid-8]。
 
 另一种可能的涵义包括租赁远程的实体或虚拟服务器。这些实践在某些特定环境下是可以接受的。
 
 另一种可能的涵义是通过您自己的移动设备访问您自己的服务器。这并不会产生特别的伦理问题。
 
-美国国家标准技术研究所（NIST）为“云计算”的定义[^9]提出了三种场景，它们会带来不同的伦理问题：软件即服务（SaaS）、平台即服务（PaaS）、基础设施即服务（IaaS）。然而，这种定义与“云计算”通常的用法并不匹配，由于它并未包括向在线服务中存储数据。由 NIST 定义的 SaaS 在很大程度上与 SaaSS 重叠，后者虐待它的用户，但这两个概念并不等同。
+美国国家标准技术研究所（NIST）为“云计算”的定义[^wordtoavoid-9]提出了三种场景，它们会带来不同的伦理问题：软件即服务（SaaS）、平台即服务（PaaS）、基础设施即服务（IaaS）。然而，这种定义与“云计算”通常的用法并不匹配，由于它并未包括向在线服务中存储数据。由 NIST 定义的 SaaS 在很大程度上与 SaaSS 重叠，后者虐待它的用户，但这两个概念并不等同。
 
 这些不同的计算实践甚至不属于同一个讨论范围。避免使用“云计算”这一带来混淆的概念，最佳方式是不使用术语“云”与计算相关联。只谈论您想要表达的话题，并且以一种具体的概念称呼它。
 
-有趣的是，Larry Ellison，一位私有软件开发者也注意到了“云计算”这一概念的空泛性[^10]。但他决定仍然使用这一概念，由于作为一位私有软件开发者，此人与我们不是由相同理念所驱使的。
+有趣的是，Larry Ellison，一位私有软件开发者也注意到了“云计算”这一概念的空泛性[^wordtoavoid-10]。但他决定仍然使用这一概念，由于作为一位私有软件开发者，此人与我们不是由相同理念所驱使的。
 
 ### 商业（Commercial）
 
@@ -66,7 +66,7 @@
 
 ### 补偿（Compensation）
 
-当与版权联系在一起的时候谈论“补偿作者”将会带来以下两种假设：（1）版权是以作者之名而存在的；以及（2）每当我们阅读任何东西的时候，我们已经欠下了作者一笔债务并且必须补偿。第一个假设是错误的[^11]，而第二个假设是不可容忍的。
+当与版权联系在一起的时候谈论“补偿作者”将会带来以下两种假设：（1）版权是以作者之名而存在的；以及（2）每当我们阅读任何东西的时候，我们已经欠下了作者一笔债务并且必须补偿。第一个假设是错误的[^wordtoavoid-11]，而第二个假设是不可容忍的。
 
 而“补偿版权持有人”的鬼话在此基础上又附加了一层诈骗：您很可能认为这是在补偿作者，尽管在少数情况下确实是这样，但是绝大多数情况下这是在补偿出版商，正是那些出版商对我们强行施加了不平等的法律。
 
@@ -74,7 +74,7 @@
 
 消费是指我们对食物所做的事情：当我们消化了它以后，它就不再作为食物继续存在。作为类比，我们可以将相同的词语用于那些我们可以将其*消耗殆尽*的其他产品。将其用于耐用品诸如衣物或电器是一种涵义的延伸。然而，如果将其应用于发表的作品（计算机程序、保存于盘片或文件中的唱片、保存于纸上或文件中的书籍），这些作品的本质意义是永续保存并且可以被无限次地运行、播放或阅读，这显然就是一种错误。播放唱片或者运行程序这些行为并没有消费它们。
 
-“消费”一词是与不可复制的实物产品的经济层面相关联的，而引导人们在毫无察觉的情况下将这一结论套用到可复制的数字作品上——这种错误正是私有软件开发者（以及其他出版商）所热切希望并且积极推动的。他们的这种扭曲的观点在一篇 Business Insider 文章中暴露无遗[^12]。这篇文章还将出版的作品称为“内容”（content）。
+“消费”一词是与不可复制的实物产品的经济层面相关联的，而引导人们在毫无察觉的情况下将这一结论套用到可复制的数字作品上——这种错误正是私有软件开发者（以及其他出版商）所热切希望并且积极推动的。他们的这种扭曲的观点在一篇 Business Insider 文章中暴露无遗[^wordtoavoid-12]。这篇文章还将出版的作品称为“内容”（content）。
 
 与我们“消费内容”相关的狭隘想法为诸如数字千年版权法案（DMCA）这样的法律奠定了基础，它们禁止用户破解数字设备中的数字限制管理（DRM）。如果用户认为他们对这些设备所做的事情是“消费”，他们就可以将这种限制视为自然的要求。
 
@@ -88,17 +88,17 @@
 
 当“消费者”一词被用于指代计算机用户的时候，它被附加了一种我们应当拒绝的假设。其中一些假设来自于使用程序就是“消费”程序这一理念（参见上一条目），这将会引导人们将那些从不可复制的实物产品中得出的结论也强行套用到可复制的数字作品上来。
 
-此外，将软件用户描述为“消费者”指的是这样一种境地，人们被限制为只能在“市场”中可以买到的“产品”中做出选择。这里没有这种理念的容身之地，即用户可以对程序所做的事情直接行使控制权[^13]。
+此外，将软件用户描述为“消费者”指的是这样一种境地，人们被限制为只能在“市场”中可以买到的“产品”中做出选择。这里没有这种理念的容身之地，即用户可以对程序所做的事情直接行使控制权[^wordtoavoid-13]。
 
 为了描述那些并不被限制为被动使用作品的人们，我们建议使用“个人”或者“公民”而非“消费者”。
 
-“消费者”一词所带来的问题已经在此前有所注释[^14]。
+“消费者”一词所带来的问题已经在此前有所注释[^wordtoavoid-14]。
 
 ### 内容（Content）
 
 如果您想要描述一种舒适和满足的感觉，您一定会说“content”，但如果将这个词语用作名词以指代具有作者权的出版物和作品，这将服务于一种您可能很想避免的态度，这种态度将它们视为商品，其目的是装满包装盒并且用于赚钱。事实上，这贬低了作品本身。如果您不同意这种态度，您可以称之为“作品”或者“出版物”。
 
-那些使用“内容”一词的人们通常是那些以作者（它们称之为“创造者”，creator）之名攫取更多版权权力的出版商。“内容”一词暴露了它们对于这些作品及其作者的真实态度（参见 Courtney Love 致 Steve Case 的公开信[^15]并且在页面中搜索 content provider（内容提供商）。哎呀，Love 女士没有注意到“知识产权”一词也是带有偏见和欺骗性的[^16]）。
+那些使用“内容”一词的人们通常是那些以作者（它们称之为“创造者”，creator）之名攫取更多版权权力的出版商。“内容”一词暴露了它们对于这些作品及其作者的真实态度（参见 Courtney Love 致 Steve Case 的公开信[^wordtoavoid-15]并且在页面中搜索 content provider（内容提供商）。哎呀，Love 女士没有注意到“知识产权”一词也是带有偏见和欺骗性的[^wordtoavoid-16]）。
 
 然而，只要其他人仍然使用“内容提供商”这一概念，持不同政见者也可以称他们自己为“恶意内容提供商”。
 
@@ -124,7 +124,7 @@
 
 “数字锁”这一短语被某些批评者用于指代数字限制管理（DRM）。这一短语的问题在于它未能批判 DRM 的危害。而那些接受这一概念的人们未能对其进行透彻的思考。
 
-锁并不一定是压迫性的或者坏的。您可能拥有很多把锁，以及它们的钥匙或代码；您可能觉得它们有用或是会带来麻烦，但它们并未压迫您，由于您可以自己打开或锁上它们。类似地，我们发现加密[^17]对于保护我们的数字文件是无价之宝。这也是一种数字锁，并且您拥有其控制权。
+锁并不一定是压迫性的或者坏的。您可能拥有很多把锁，以及它们的钥匙或代码；您可能觉得它们有用或是会带来麻烦，但它们并未压迫您，由于您可以自己打开或锁上它们。类似地，我们发现加密[^wordtoavoid-17]对于保护我们的数字文件是无价之宝。这也是一种数字锁，并且您拥有其控制权。
 
 而 DRM 就像是由其他人为您安置的锁，他们拒绝给您钥匙——换言之，就像*手铐*。因此，对于 DRM 的恰当的比喻是“数字手铐”而非“数字锁”。
 
@@ -148,7 +148,7 @@
 
 ### 自由和开源软件（FLOSS）
 
-FLOSS 意指“自由和开源软件”（Free/Libre and Open Source Software），这一概念试图在自由和开源之间寻求中立[^18]。如果保持中立就是您的最终目标，使用 FLOSS 是保持中立的最佳方式。但如果您想要表达您对自由的支持，就不要使用这种中立性的短语。
+FLOSS 意指“自由和开源软件”（Free/Libre and Open Source Software），这一概念试图在自由和开源之间寻求中立[^wordtoavoid-18]。如果保持中立就是您的最终目标，使用 FLOSS 是保持中立的最佳方式。但如果您想要表达您对自由的支持，就不要使用这种中立性的短语。
 
 ### 免费（For Free）
 
@@ -160,7 +160,7 @@ FLOSS 意指“自由和开源软件”（Free/Libre and Open Source Software）
 
 ### 自由和开源软件（FOSS）
 
-FOSS 意指“自由和开源软件”（Free and Open Source Software），这一概念试图在自由和开源之间寻求中立[^19]。如果保持中立就是您的最终目标，使用 FLOSS 更好。但如果您想要表达您对自由的支持，就不要使用这种中立性的短语。
+FOSS 意指“自由和开源软件”（Free and Open Source Software），这一概念试图在自由和开源之间寻求中立[^wordtoavoid-19]。如果保持中立就是您的最终目标，使用 FLOSS 更好。但如果您想要表达您对自由的支持，就不要使用这种中立性的短语。
 
 ### 可自由获得（Freely Available）
 
@@ -180,11 +180,11 @@ FOSS 意指“自由和开源软件”（Free and Open Source Software），这�
 
 ### 谷歌（Google）
 
-请不要将“谷歌”用作动词以指代在互联网上进行搜索。它只是众多搜索引擎中的一种。我们建议使用“网络搜索”这一短语。尽可能使用一种尊重您隐私的搜索引擎；DuckDuckGo 声称它不会跟踪其用户[^20]，尽管我们不能确认这一点。
+请不要将“谷歌”用作动词以指代在互联网上进行搜索。它只是众多搜索引擎中的一种。我们建议使用“网络搜索”这一短语。尽可能使用一种尊重您隐私的搜索引擎；DuckDuckGo 声称它不会跟踪其用户[^wordtoavoid-20]，尽管我们不能确认这一点。
 
 ### 黑客（Hacker）
 
-黑客是指享受智慧乐趣的人们[^21]——并不一定与计算机有关。在 20 世纪 60 至 70 年代，麻省理工学院（MIT）的自由软件社区的程序员称他们自己为黑客。大约在 1980 年，那些发现了黑客社区的记者们错误地将这一词语用于指代“安全破坏者”。
+黑客是指享受智慧乐趣的人们[^wordtoavoid-21]——并不一定与计算机有关。在 20 世纪 60 至 70 年代，麻省理工学院（MIT）的自由软件社区的程序员称他们自己为黑客。大约在 1980 年，那些发现了黑客社区的记者们错误地将这一词语用于指代“安全破坏者”。
 
 请不要散播这种错误。那些破坏安全的人称为骇客（cracker）。
 
@@ -198,7 +198,7 @@ FOSS 意指“自由和开源软件”（Free and Open Source Software），这�
 
 为了避免不必要的偏见和混淆，最好能够采取这样一种严格的策略，不允许将“知识产权”作为讨论甚至是思考的基础。
 
-虚伪地将这些权力称为“权利”已经开始使得世界“知识产权”组织（WIPO）感到尴尬[^22]。
+虚伪地将这些权力称为“权利”已经开始使得世界“知识产权”组织（WIPO）感到尴尬[^wordtoavoid-22]。
 
 ### LAMP 系统（LAMP System）
 
@@ -206,7 +206,7 @@ LAMP 是指“Linux，Apache，MySQL 和 PHP”——一种常用于网络服务
 
 ### Linux 系统（Linux System）
 
-Linux 是 Linus Torvalds 于 1991 年开始开发的内核的名字，使用 Linux 内核的操作系统基本上是由 GNU 再加上 Linux 内核组成的。将整个操作系统称为“Linux”是不公平并且引起混淆的。请将此完整的操作系统称为 GNU/Linux，既尊重 GNU 计划，也将整个操作系统和它的内核区分开来[^23]。
+Linux 是 Linus Torvalds 于 1991 年开始开发的内核的名字，使用 Linux 内核的操作系统基本上是由 GNU 再加上 Linux 内核组成的。将整个操作系统称为“Linux”是不公平并且引起混淆的。请将此完整的操作系统称为 GNU/Linux，既尊重 GNU 计划，也将整个操作系统和它的内核区分开来[^wordtoavoid-23]。
 
 ### 市场（Market）
 
@@ -230,7 +230,7 @@ Linux 是 Linus Torvalds 于 1991 年开始开发的内核的名字，使用 Lin
 
 ### 开放（Open）
 
-请不要将“开放”或者“开源”用作自由软件的替代词语。这些短语基于不同的价值观代表不同的立场[^24]。自由软件是一场政治运动；开源只是一种开发模式。
+请不要将“开放”或者“开源”用作自由软件的替代词语。这些短语基于不同的价值观代表不同的立场[^wordtoavoid-24]。自由软件是一场政治运动；开源只是一种开发模式。
 
 当指代开源的立场时，使用它的名字是恰当的；但不要为我们或我们的作品贴上“开源”的标签——那将会使人们误认为我们也持有那样的立场。
 
@@ -242,7 +242,7 @@ Linux 是 Linus Torvalds 于 1991 年开始开发的内核的名字，使用 Lin
 
 ### Photoshop（PS）
 
-请不要将 photoshop（PS）用于动词以在普遍意义上指代任何照片处理或图像编辑。它只是一款特定的图像编辑软件的名字，我们应当尽量避免使用它，由于它是私有软件。有很多自由软件可用于图像编辑，例如 GIMP[^25]。
+请不要将 photoshop（PS）用于动词以在普遍意义上指代任何照片处理或图像编辑。它只是一款特定的图像编辑软件的名字，我们应当尽量避免使用它，由于它是私有软件。有很多自由软件可用于图像编辑，例如 GIMP[^wordtoavoid-25]。
 
 ### 盗版（Piracy）
 
@@ -250,7 +250,7 @@ Linux 是 Linus Torvalds 于 1991 年开始开发的内核的名字，使用 Lin
 
 如果您不认可未经批准的复制行为就像绑架谋杀的理念，您可能也不愿意使用“盗版”一词来描述此行为。中立性的短语诸如“非授权复制”（或者“被禁止的复制”，用于此种行为不合法的情况）可作为替代。我们中的一些人甚至倾向于使用某种褒义词，诸如“与我们的邻居分享信息”。
 
-一位主持了版权侵犯审判的美国法官认可“盗版”和“盗窃”属于诽谤性的词语[^26]。
+一位主持了版权侵犯审判的美国法官认可“盗版”和“盗窃”属于诽谤性的词语[^wordtoavoid-26]。
 
 ### PowerPoint（PPT）
 
@@ -284,7 +284,7 @@ Linux 是 Linus Torvalds 于 1991 年开始开发的内核的名字，使用 Lin
 
 参见《服务器真正为谁服务？》一文以获得关于此问题的更多讨论。
 
-在西班牙语中，我们继续使用“software como servicio”这一短语，这是由于“software como ser vicio”[^27]这个笑话太精妙绝伦了，以至于我们不舍得放弃它。
+在西班牙语中，我们继续使用“software como servicio”这一短语，这是由于“software como ser vicio”[^wordtoavoid-27]这个笑话太精妙绝伦了，以至于我们不舍得放弃它。
 
 ### 贩卖软件（Sell Software）
 
@@ -300,13 +300,13 @@ Linux 是 Linus Torvalds 于 1991 年开始开发的内核的名字，使用 Lin
 
 ### Skype
 
-请不要将 Skype 作为动词使用，用于从一般意义上指代任何类型的视频通讯或者网络电话。Skype 只是一种特定的私有软件的名字，它会窥探用户。[^28]如果您想要以一种同时尊重您的自由和隐私的方式进行网络音视频通话，您可以试用众多自由的 Skype 替代品，详情 <https://libreplanet.org/wiki/Group:Skype_Replacement>。
+请不要将 Skype 作为动词使用，用于从一般意义上指代任何类型的视频通讯或者网络电话。Skype 只是一种特定的私有软件的名字，它会窥探用户。[^wordtoavoid-28]如果您想要以一种同时尊重您的自由和隐私的方式进行网络音视频通话，您可以试用众多自由的 Skype 替代品，详情 <https://libreplanet.org/wiki/Group:Skype_Replacement>。
 
 ### 软件工业（Software Industry）
 
 “软件工业”一词鼓励人们想象软件总是由某种工厂开发并且送达“消费者”手中的。自由软件社区已经证实了事情并非如此。软件企业确实存在，并且不同的企业开发自由和/或私有软件，但那些开发自由软件的企业并不是像工厂那样运营的。
 
-“工业”一词正在被软件专利的倡导者用作一种鼓吹。他们将软件开发称为“工业”，然后试图争论这意味着它也应该受到专利垄断权的支配。欧洲议会于 2003 年拒绝软件专利，并且通过表决，将“工业”一词定义为“实物商品的自动化生产”[^29]。
+“工业”一词正在被软件专利的倡导者用作一种鼓吹。他们将软件开发称为“工业”，然后试图争论这意味着它也应该受到专利垄断权的支配。欧洲议会于 2003 年拒绝软件专利，并且通过表决，将“工业”一词定义为“实物商品的自动化生产”[^wordtoavoid-29]。
 
 ### 源代码模型（Source Model）
 
@@ -320,15 +320,15 @@ Linux 是 Linus Torvalds 于 1991 年开始开发的内核的名字，使用 Lin
 
 那些支持过于严格和专制版权制度的支持者，通常使用诸如“盗版”或者“盗窃”这样的词语来指代侵犯版权的行为。这是一种偏见，但是它们希望您将其作为客观事实而接受。
 
-在美国法律体系中，版权侵犯并不属于盗窃。适用于盗窃的法律并不适用于版权侵犯。专制性的版权制度的支持者正在请求权力机构——并且错误地解读权力机构所说的话[^30]，阐明了什么才能被恰当地描述为“版权盗窃”。
+在美国法律体系中，版权侵犯并不属于盗窃。适用于盗窃的法律并不适用于版权侵犯。专制性的版权制度的支持者正在请求权力机构——并且错误地解读权力机构所说的话[^wordtoavoid-30]，阐明了什么才能被恰当地描述为“版权盗窃”。
 
 非授权复制在很多情况下（不是全部！）被版权法所禁止，但是被禁止并不意味着它是错误的。从普遍意义上说，法律并不定义正确与错误。法律充其量只能试图实施公正。如果法律（实现）不能适应我们的是非观（具体），那么这样的法律就应该被改变。
 
-一位主持了一场版权侵犯审判的美国法官认可“盗版”和“盗窃”属于诽谤性的词语[^31]。
+一位主持了一场版权侵犯审判的美国法官认可“盗版”和“盗窃”属于诽谤性的词语[^wordtoavoid-31]。
 
 ### 信任计算（Trusted Computing）
 
-“信任计算”是其倡导者所起的名字，用于指代这样一种重新设计计算机的阴谋，这使得应用程序开发者可以信任您的计算机将会服从他们而非您[^32]。从他们的角度看，这是“信任”；从您的角度看，这是“背叛”。
+“信任计算”是其倡导者所起的名字，用于指代这样一种重新设计计算机的阴谋，这使得应用程序开发者可以信任您的计算机将会服从他们而非您[^wordtoavoid-32]。从他们的角度看，这是“信任”；从您的角度看，这是“背叛”。
 
 ### 供应商（Vendor）
 
@@ -336,67 +336,67 @@ Linux 是 Linus Torvalds 于 1991 年开始开发的内核的名字，使用 Lin
 
 
 
- [^1]: 参见《什么是自由软件？》以获得自由软件的完整定义。
+ [^wordtoavoid-1]: 参见《什么是自由软件？》以获得自由软件的完整定义。
 
- [^2]: 参见《如今自由软件更加重要》和《服务器真正是在为谁服务？》以获得更多信息。
+ [^wordtoavoid-2]: 参见《如今自由软件更加重要》和《服务器真正是在为谁服务？》以获得更多信息。
 
- [^3]: 参见 “The BSD License Problem” 一文，位于<http://gnu.org/philosophy/bsd.html>。
+ [^wordtoavoid-3]: 参见 “The BSD License Problem” 一文，位于<http://gnu.org/philosophy/bsd.html>。
 
- [^4]: 参见 “Various Licenses and Comments about Them”，位于<http://gnu.org/licenses/license-list.html>。
+ [^wordtoavoid-4]: 参见 “Various Licenses and Comments about Them”，位于<http://gnu.org/licenses/license-list.html>。
 
- [^5]: 参见《为什么说开源漏掉了自由软件的要点》。
+ [^wordtoavoid-5]: 参见《为什么说开源漏掉了自由软件的要点》。
 
- [^6]: 参见《自由与非自由软件的分类》以获得关于私有软件的更多信息。
+ [^wordtoavoid-6]: 参见《自由与非自由软件的分类》以获得关于私有软件的更多信息。
 
- [^7]: John Harris，“Why Hackers and Spooks Want Our Heads in the Cloud”，2011 年四月 25 日，[http://guardian.co.uk/commentisfree/2011/apr/25/hackers-spooks-cloud-antiauthoritarian-dream](http://guardian.co.uk/commentisfree/2011/apr/25/hackers-spooks-cloud-antiauthoritarian-dream)。
+ [^wordtoavoid-7]: John Harris，“Why Hackers and Spooks Want Our Heads in the Cloud”，2011 年四月 25 日，[http://guardian.co.uk/commentisfree/2011/apr/25/hackers-spooks-cloud-antiauthoritarian-dream](http://guardian.co.uk/commentisfree/2011/apr/25/hackers-spooks-cloud-antiauthoritarian-dream)。
 
- [^8]: 参见《服务器真正是在为谁服务？》以获得关于此问题的更多信息。
+ [^wordtoavoid-8]: 参见《服务器真正是在为谁服务？》以获得关于此问题的更多信息。
 
- [^9]: Peter Mell 和 Anthony Grance，“The NIST Definition of Cloud Computing: Recommendations of the National Institute of Standards and Technology”，NIST Special Publication 800-145 (2011 年九月)，[http://csrc.nist.gov/publications/nistpubs/800-145/SP800-145.pdf](http://csrc.nist.gov/publications/nistpubs/800-145/SP800-145.pdf)。
+ [^wordtoavoid-9]: Peter Mell 和 Anthony Grance，“The NIST Definition of Cloud Computing: Recommendations of the National Institute of Standards and Technology”，NIST Special Publication 800-145 (2011 年九月)，[http://csrc.nist.gov/publications/nistpubs/800-145/SP800-145.pdf](http://csrc.nist.gov/publications/nistpubs/800-145/SP800-145.pdf)。
 
- [^10]: Dan Farber，“Oracle’s Ellison Nails Cloud Computing”，2008 年九月 26 日，<http://news.cnet.com/8301-13953_3-10052188-80.html>。 
+ [^wordtoavoid-10]: Dan Farber，“Oracle’s Ellison Nails Cloud Computing”，2008 年九月 26 日，<http://news.cnet.com/8301-13953_3-10052188-80.html>。 
 
- [^11]: 参见《对版权的错误解读——一系列错误》 一文以获得关于此问题的更多信息。
+ [^wordtoavoid-11]: 参见《对版权的错误解读——一系列错误》 一文以获得关于此问题的更多信息。
 
- [^12]: Lara O’Reilly，“A Former Googler Has Declared War on Ad Blockers with a New Startup That Tackles Them in an Unorthodox Way”，2015 年六月 18 日，[http://uk.businessinsider.com/former-google-exec-launches-sourcepoint-with-10-million-series-a-funding-2015-6?r=US&IR=T](http://uk.businessinsider.com/former-google-exec-launches-sourcepoint-with-10-million-series-a-funding-2015-6?r=US&IR=T)。 @vglue -1pc
+ [^wordtoavoid-12]: Lara O’Reilly，“A Former Googler Has Declared War on Ad Blockers with a New Startup That Tackles Them in an Unorthodox Way”，2015 年六月 18 日，[http://uk.businessinsider.com/former-google-exec-launches-sourcepoint-with-10-million-series-a-funding-2015-6?r=US&IR=T](http://uk.businessinsider.com/former-google-exec-launches-sourcepoint-with-10-million-series-a-funding-2015-6?r=US&IR=T)。 @vglue -1pc
 
- [^13]: 参见《如今自由软件更加重要》一文以获得关于此问题的更多信息。
+ [^wordtoavoid-13]: 参见《如今自由软件更加重要》一文以获得关于此问题的更多信息。
 
- [^14]: Owen Hatherley，“Be a User, Not a Consumer: How Capitalism Has Changed Our Language”，2013 年八月 11 日，[http://theguardian.com/commentisfree/2013/aug/11/capitalism-language-raymond-williams](http://theguardian.com/commentisfree/2013/aug/11/capitalism-language-raymond-williams)。
+ [^wordtoavoid-14]: Owen Hatherley，“Be a User, Not a Consumer: How Capitalism Has Changed Our Language”，2013 年八月 11 日，[http://theguardian.com/commentisfree/2013/aug/11/capitalism-language-raymond-williams](http://theguardian.com/commentisfree/2013/aug/11/capitalism-language-raymond-williams)。
 
- [^15]: 美国摇滚音乐家 Courtney Love 于 2000 年五月 16 日在数字好莱坞在线娱乐会议上的演讲的未编辑抄本可以在此找到：<http://www.salon.com/2000/06/14/love_7/>。
+ [^wordtoavoid-15]: 美国摇滚音乐家 Courtney Love 于 2000 年五月 16 日在数字好莱坞在线娱乐会议上的演讲的未编辑抄本可以在此找到：<http://www.salon.com/2000/06/14/love_7/>。
 
- [^16]: 参见《您说过“知识产权”吗？这是一种迷惑性的幻景》获知这一问题的原因。
+ [^wordtoavoid-16]: 参见《您说过“知识产权”吗？这是一种迷惑性的幻景》获知这一问题的原因。
 
- [^17]:  Cory Doctorow，“Encryption Won’t Work If It Has a Back Door Only the ‘Good Guys’ Have Keys To”，2015 年五月 1 日，[http://theguardian.com/technology/2015/may/01/encryption-wont-work-if-it-has-a-back-door-only-the-good-guys-have-keys-to-](http://theguardian.com/technology/2015/may/01/encryption-wont-work-if-it-has-a-back-door-only-the-good-guys-have-keys-to-)。
+ [^wordtoavoid-17]:  Cory Doctorow，“Encryption Won’t Work If It Has a Back Door Only the ‘Good Guys’ Have Keys To”，2015 年五月 1 日，[http://theguardian.com/technology/2015/may/01/encryption-wont-work-if-it-has-a-back-door-only-the-good-guys-have-keys-to-](http://theguardian.com/technology/2015/may/01/encryption-wont-work-if-it-has-a-back-door-only-the-good-guys-have-keys-to-)。
 
- [^18]: 参见 <http://www.gnu.org/philosophy/floss-and-foss.html> 以获得关于此问题的更多信息。
+ [^wordtoavoid-18]: 参见 <http://www.gnu.org/philosophy/floss-and-foss.html> 以获得关于此问题的更多信息。
 
- [^19]: 参见上一条脚注。
+ [^wordtoavoid-19]: 参见上一条脚注。
 
- [^20]: “DuckDuckGo Privacy Policy”，最后更新于 2012 年四月 12 日，<https://duckduckgo.com/privacy>。
+ [^wordtoavoid-20]: “DuckDuckGo Privacy Policy”，最后更新于 2012 年四月 12 日，<https://duckduckgo.com/privacy>。
 
- [^21]: 参见我的文章 “On Hacking”，位于<http://stallman.org/articles/on-hacking.html>。
+ [^wordtoavoid-21]: 参见我的文章 “On Hacking”，位于<http://stallman.org/articles/on-hacking.html>。
 
- [^22]: Richard Stallman，“Public Awareness of Copyright, WIPO, June 2002”，最后更新于 2014 年，[http://gnu.org/philosophy/wipo-PublicAwarenessOfCopyright-2002.html](http://gnu.org/philosophy/wipo-PublicAwarenessOfCopyright-2002.html)。
+ [^wordtoavoid-22]: Richard Stallman，“Public Awareness of Copyright, WIPO, June 2002”，最后更新于 2014 年，[http://gnu.org/philosophy/wipo-PublicAwarenessOfCopyright-2002.html](http://gnu.org/philosophy/wipo-PublicAwarenessOfCopyright-2002.html)。
 
- [^23]: 参见《Linux 和 GNU 操作系统》一文以获知 GNU/Linux 操作系统的更多历史背景，由于它与本文所提到的命名问题相关。
+ [^wordtoavoid-23]: 参见《Linux 和 GNU 操作系统》一文以获知 GNU/Linux 操作系统的更多历史背景，由于它与本文所提到的命名问题相关。
 
- [^24]: 参见《为什么说开源漏掉了自由软件的要点》以获得完整解释。
+ [^wordtoavoid-24]: 参见《为什么说开源漏掉了自由软件的要点》以获得完整解释。
 
- [^25]: 参见 <http://directory.fsf.org/wiki/GIMP>。
+ [^wordtoavoid-25]: 参见 <http://directory.fsf.org/wiki/GIMP>。
 
- [^26]: Ernesto Van der Sar，“MPAA Banned from Using Piracy and Theft Terms in Hotfile Trial”，2013 年十一月 29 日，[http://torrentfreak.com/mpaa-banned-from-using-piracy-and-theft-terms-in-hotfile-trial-131129](http://torrentfreak.com/mpaa-banned-from-using-piracy-and-theft-terms-in-hotfile-trial-131129)。
+ [^wordtoavoid-26]: Ernesto Van der Sar，“MPAA Banned from Using Piracy and Theft Terms in Hotfile Trial”，2013 年十一月 29 日，[http://torrentfreak.com/mpaa-banned-from-using-piracy-and-theft-terms-in-hotfile-trial-131129](http://torrentfreak.com/mpaa-banned-from-using-piracy-and-theft-terms-in-hotfile-trial-131129)。
 
- [^27]: “软件，作为恶意的”之意。
+ [^wordtoavoid-27]: “软件，作为恶意的”之意。
 
- [^28]: 参见[http://gnu.org/proprietary/proprietary-surveillance.html#SpywareInSkype](http://gnu.org/proprietary/proprietary-surveillance.html#SpywareInSkype)以获得更多信息。
+ [^wordtoavoid-28]: 参见[http://gnu.org/proprietary/proprietary-surveillance.html#SpywareInSkype](http://gnu.org/proprietary/proprietary-surveillance.html#SpywareInSkype)以获得更多信息。
 
- [^29]: 欧洲议会，“Directive on the Patentability of Computer-Implemented Inventions”，2003 年九月 24 日，[http://web.archive.org/web/20071222001014/http://www.swpat.ffii.org/papers/europarl0309](http://web.archive.org/web/20071222001014/http://www.swpat.ffii.org/papers/europarl0309)。
+ [^wordtoavoid-29]: 欧洲议会，“Directive on the Patentability of Computer-Implemented Inventions”，2003 年九月 24 日，[http://web.archive.org/web/20071222001014/http://www.swpat.ffii.org/papers/europarl0309](http://web.archive.org/web/20071222001014/http://www.swpat.ffii.org/papers/europarl0309)。
 
- [^30]: 为了驳斥他们，您可以援引这一真实案例：Harper Lee 起诉她的代理人涉嫌诱骗她将 To Kill a Mockingbird 一书的版权指认给他。
+ [^wordtoavoid-30]: 为了驳斥他们，您可以援引这一真实案例：Harper Lee 起诉她的代理人涉嫌诱骗她将 To Kill a Mockingbird 一书的版权指认给他。
 
- [^31]: 参见脚注 26。
+ [^wordtoavoid-31]: 参见脚注 26。
 
- [^32]: 参见《您能够信任您的计算机吗？》以获得关于此问题的更多信息。
+ [^wordtoavoid-32]: 参见《您能够信任您的计算机吗？》以获得关于此问题的更多信息。
 

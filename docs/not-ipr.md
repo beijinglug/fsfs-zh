@@ -50,12 +50,12 @@
 
 -   参见“The Curious History of Komongistan (Busting the Term ‘Intellectual Property’)”一文，位于<http://gnu.org/philosophy/komongistan.html>。
 
--   可以用非洲各国之间的关系类比这些法律之间的关系，并且“非洲”是一个合乎逻辑的地理概念；然而，谈论“非洲”而非某个特定的国家将会引发大量混乱[^2]。
+-   可以用非洲各国之间的关系类比这些法律之间的关系，并且“非洲”是一个合乎逻辑的地理概念；然而，谈论“非洲”而非某个特定的国家将会引发大量混乱[^ipr-1]。
 
--   Rickard Falkvinge 也支持拒绝使用“知识产权”这一概念[^2]。
+-   Rickard Falkvinge 也支持拒绝使用“知识产权”这一概念[^ipr-2]。
 
 
- [^1]: Nicolas Kayser-Bril, “Africa Is Not a Country”，于 2014 年一月 24 日发表于<http://theguardian.com/world/2014/jan/24/africa-clinton>。
+ [^ipr-1]: Nicolas Kayser-Bril, “Africa Is Not a Country”，于 2014 年一月 24 日发表于<http://theguardian.com/world/2014/jan/24/africa-clinton>。
 
- [^2]: “Language Matters: Framing the Copyright Monopoly So We Can Keep Our Liberties”，于 2013 年七月 14 日发表于[http://torrentfreak.com/language-matters-framing-the-copyright-monopoly-so-we-can-keep-our-liberties-130714](http://torrentfreak.com/language-matters-%3Cbr%3Eframing-the-copyright-monopoly-so-we-can-keep-our-liberties-130714)。
+ [^ipr-2]: “Language Matters: Framing the Copyright Monopoly So We Can Keep Our Liberties”，于 2013 年七月 14 日发表于[http://torrentfreak.com/language-matters-framing-the-copyright-monopoly-so-we-can-keep-our-liberties-130714](http://torrentfreak.com/language-matters-%3Cbr%3Eframing-the-copyright-monopoly-so-we-can-keep-our-liberties-130714)。
 

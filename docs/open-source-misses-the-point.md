@@ -2,11 +2,11 @@
 
 > Copyright © 2007, 2008,2010, 2012–2015 Richard Stallman 此文最早于2007年发布于 <http://gnu.org>
 
-当我们说软件“自由”的时候，我们意指它尊重用户最根本的自由：即运行、学习和修改软件，或者重新发布软件副本（无论是否修改过）的自由[^1]。这是一个关于自由的问题，而非价格。因此我们应该理解为“言论自由”，而不是“免费啤酒“。
+当我们说软件“自由”的时候，我们意指它尊重用户最根本的自由：即运行、学习和修改软件，或者重新发布软件副本（无论是否修改过）的自由[^open-1]。这是一个关于自由的问题，而非价格。因此我们应该理解为“言论自由”，而不是“免费啤酒“。
 
 这些自由极其重要。它们是必要的，不仅是因为它们满足用户的个体利益，更是因为它们促进社会的团结——也就是分享与协作。由于我们的文化和生活变得越来越数字化，因此这些自由就变得越来越重要了。在一个由数字化的声音、图像和文字组成的世界里，自由软件正在逐渐地趋近于通常意义上的自由。
 
-现在全世界有数以千万计的人使用自由软件；印度和西班牙的一些学校正在教授所有的学生使用自由的 GNU/Linux 操作系统[^2]。但是，大多数用户都没有听说过我们开发这个系统以及建立自由软件社区的伦理原因，因为现在这个系统和社区更多地被描述为“开放源代码”（简称“开源”），并将其归属为另一种不同的、几乎不被提及自由的哲学。
+现在全世界有数以千万计的人使用自由软件；印度和西班牙的一些学校正在教授所有的学生使用自由的 GNU/Linux 操作系统[^open-2]。但是，大多数用户都没有听说过我们开发这个系统以及建立自由软件社区的伦理原因，因为现在这个系统和社区更多地被描述为“开放源代码”（简称“开源”），并将其归属为另一种不同的、几乎不被提及自由的哲学。
 
 自 1983 年以来，自由软件运动一直为计算机用户的自由而战。1984 年，我们发起开发自由的操作系统 GNU，避免那些否定用户自由的非自由操作系统。在八十年代，我们开发出了这个系统的重要组件，还有 GNU 通用公共许可证（GNU GPL）——一个专门用于保护所有用户自由的许可证。
 
@@ -14,11 +14,11 @@
 
 一些“开源”的支持者认为它是“自由软件的商业市场运动”，因为突出现实利益能吸引商业执行部门，并且避免纠缠于他们不想听的是非观点。其他支持者甚至断然否定自由软件运动的伦理和社会价值观。不管他们的观点是哪一种，“开源”运动中都没有谈起或提倡这种价值观。“开源”这个说法很快便与一些现实想法和论点勾连在一起了，比如构建强大而稳定的软件。从那时起许多“开源”的支持者也因此而加入其中，并持同样观点。
 
-这两个说法其实说的几乎都是同一类软件，但是它们所秉持的价值观是根本不同的。开源是一种开发方法论，自由软件是一场社会运动。对自由软件运动而言，自由软件是一种道义责任，尊重用户最根本的自由。而另一方面，开源的哲学更关注如何让软件“更好”——只关心实践意义。开源认为，非自由软件只是手边问题的欠妥解答，关于“开源”的大多数讨论并不关注对与错，只关注知名度和成功[^3]。
+这两个说法其实说的几乎都是同一类软件，但是它们所秉持的价值观是根本不同的。开源是一种开发方法论，自由软件是一场社会运动。对自由软件运动而言，自由软件是一种道义责任，尊重用户最根本的自由。而另一方面，开源的哲学更关注如何让软件“更好”——只关心实践意义。开源认为，非自由软件只是手边问题的欠妥解答，关于“开源”的大多数讨论并不关注对与错，只关注知名度和成功[^open-3]。
 
 然而自由软件运动中，非自由软件是一个社会问题，解决方案就是停止使用并转向自由软件。
 
-“自由软件”，“开放源代码”，如果指代的是同样（或几乎相同[^4]）的软件，你用什么名字很重要吗？是的，因为不同的文字传达了不同的理念。虽然现在一个以其他方式命名的自由程序能给你同样的自由，但是可持续的构筑自由依赖于教育人们珍惜自由。如果你愿意帮助做这个，最基本的就是提到“自由软件”。
+“自由软件”，“开放源代码”，如果指代的是同样（或几乎相同[^open-4]）的软件，你用什么名字很重要吗？是的，因为不同的文字传达了不同的理念。虽然现在一个以其他方式命名的自由程序能给你同样的自由，但是可持续的构筑自由依赖于教育人们珍惜自由。如果你愿意帮助做这个，最基本的就是提到“自由软件”。
 
 自由软件运动中我们并不把开源阵营看作敌人；敌人是专有（非自由）软件。但是我们希望人们知道我们代表自由，所以我们不能接受把我们和开源支持者混为一谈。
 
@@ -36,21 +36,21 @@
 
 然而很不幸，英语里所有可选的说法都存在各种问题。我们曾看到过很多这种情况，人们收到很多建议，但没有一个是明显“正确”的选择。（例如，在某些环境中法语和西班牙语单词“自由”是有效的,但印度人却完全不认可。）每个提交的用来替代“自由软件”的词语都存在一些语义问题——这也包括“开源软件”。
 
-“开放源代码软件”的官方定义（由开放源代码促进会公布，这里引用太长了[^5]）是间接引述自我们的“自由软件”的标准。与自由软件不同；在一些方面稍微有点宽松。尽管如此，他们的定义大多数情况还是非常接近我们的定义的。
+“开放源代码软件”的官方定义（由开放源代码促进会公布，这里引用太长了[^open-5]）是间接引述自我们的“自由软件”的标准。与自由软件不同；在一些方面稍微有点宽松。尽管如此，他们的定义大多数情况还是非常接近我们的定义的。
 
 然而，“开源软件”这个概念表面的意思是“你可以看源代码”，因此多数人似乎都把这当作它的真正意义。这个标准比自由软件更脆弱，甚至比开源的官方定义都脆弱。这样就包括了很多既不自由也不开源的软件。
 
-由于“开放源代码”的表面含义并非拥护者们所设想的，结果大多数人曲解了这个说法。以下是撰稿人 Neal Stephenson 所定义的“开源”：“Linux 是‘开源’软件的意思，简单地说，就是任何人都可以得到源代码的副本。[^6]”我并不认为他有意抵触或者争论官方的定义。我想他只是用了英语的习俗来提出开源的含义。堪萨斯洲曾经发表过类似的定义：“使用开源软件(OSS)。开源软件是源代码可自由、公开使用的软件，但特定的许可证规定了人们可以用代码做些什么[^7]”。
+由于“开放源代码”的表面含义并非拥护者们所设想的，结果大多数人曲解了这个说法。以下是撰稿人 Neal Stephenson 所定义的“开源”：“Linux 是‘开源’软件的意思，简单地说，就是任何人都可以得到源代码的副本。[^open-6]”我并不认为他有意抵触或者争论官方的定义。我想他只是用了英语的习俗来提出开源的含义。堪萨斯洲曾经发表过类似的定义：“使用开源软件(OSS)。开源软件是源代码可自由、公开使用的软件，但特定的许可证规定了人们可以用代码做些什么[^open-7]”。
 
-《纽约时报》的一篇文章引申了开源的意思，认为开源就是让用户做测试[^8]——让一小部分用户测试产品的早期版本并给出反馈——而这已经是专有软件数十年来一直在做的事情。
+《纽约时报》的一篇文章引申了开源的意思，认为开源就是让用户做测试[^open-8]——让一小部分用户测试产品的早期版本并给出反馈——而这已经是专有软件数十年来一直在做的事情。
 
-这个说法还被引申为设计和发布没有专利的产品[^9]。无专利的设备对社会而言确实值得称赞，但是“源代码”并不属于这些。
+这个说法还被引申为设计和发布没有专利的产品[^open-9]。无专利的设备对社会而言确实值得称赞，但是“源代码”并不属于这些。
 
 开源的支持者们试图通过指出他们的官方定义来应对这个问题，但收效甚微，甚至还不如直接用“自由软件”。“free software”这个说法天生就只有两种含义，其中一个是我们设想的含义，所以领会了“言论自由，而并非免费的啤酒”的人就不会曲解它。但是“开源”只有一个天然的含义，但是这个含义却和它的支持者们预想的不同。所以不存在一个一劳永逸的方法来解释和证明其官方定义。这就产生了更大的歧义。
 
-另外一个关于“开源”的误解认为它的意思是“不使用GNU GPL”。这还会产对一个对“自由软件”的误解，认为自由软件就是“GPL 许可证保护的软件”。这样都不对了，因为 GNU GPL 被当作是一个开源许可证，而大多数开源许可证被当作是自由软件许可证。而且还有很多不是 GNU GPL 的自由软件许可证[^10]。
+另外一个关于“开源”的误解认为它的意思是“不使用GNU GPL”。这还会产对一个对“自由软件”的误解，认为自由软件就是“GPL 许可证保护的软件”。这样都不对了，因为 GNU GPL 被当作是一个开源许可证，而大多数开源许可证被当作是自由软件许可证。而且还有很多不是 GNU GPL 的自由软件许可证[^open-10]。
 
-“开放源代码”甚至已经被引申和应用到了其他活动中，比如政府、教育和科学，那些没有源代码的，与软件的标准并不相关的领域。这些活动唯一的共同点是他们只是以某种方式邀请人们参加。而目前为止这个概念只是被引申成了“参与”或“透明”而已，甚至更浅。最坏的情况，它已经成为一个空洞的流行语[^11]。
+“开放源代码”甚至已经被引申和应用到了其他活动中，比如政府、教育和科学，那些没有源代码的，与软件的标准并不相关的领域。这些活动唯一的共同点是他们只是以某种方式邀请人们参加。而目前为止这个概念只是被引申成了“参与”或“透明”而已，甚至更浅。最坏的情况，它已经成为一个空洞的流行语[^open-11]。
 
 ### 不同的价值观会得出类似的结论……但并非总是如此
 
@@ -94,7 +94,7 @@
 
 ### “FLOSS” 和 “FOSS”
 
-为了在自由软件和开源之间保持中立，常用“FLOSS” 和 “FOSS”[^12]这种说法。如果你的目标是中立性，那么“FLOSS”更好，因为这真的很中立。如果你更想表达自由，那么用中立的说法并不好。站在自由的一边，让人们看到你对自由的支持。
+为了在自由软件和开源之间保持中立，常用“FLOSS” 和 “FOSS”[^open-12]这种说法。如果你的目标是中立性，那么“FLOSS”更好，因为这真的很中立。如果你更想表达自由，那么用中立的说法并不好。站在自由的一边，让人们看到你对自由的支持。
 
 ### 对立的传播
 
@@ -110,27 +110,27 @@
 
 Karim R. Lakhani 和 Robert G. Wolf的论文[“Why Hackers Do What They Do: Understanding Motivation and Effort in Free/Open Source Software Projects,” （剑桥: MIT 出版社, 2005）](http://ocw.mit.edu/courses/sloan-school-of-management/15-352-managing-innovation-emerging-trends-spring-2005/readings/%3Cbr%3Elakhaniwolf.pdf)在探讨自由软件开发者的动机时，指出相当一部分人被“软件必须是自由的”的观点所鼓舞。这里忽略了他们调查的调查对象是 SourceFourge 的开发人员这一事实，而该站点并不支持这是个伦理问题的观点。
 
-[^1]: 有关自由软件的完整定义，参见《自由软件定义》一文。
+[^open-1]: 有关自由软件的完整定义，参见《自由软件定义》一文。
 
-[^2]: 关于操作系统可参见《Linux 和 GNU 系统》一文
+[^open-2]: 关于操作系统可参见《Linux 和 GNU 系统》一文
 
-[^3]: 一个典型的领子，比如 Jay Lyman 的文章[“Open Source Is Woven Into the Latest, Hottest Trends” (12 September 2013)](http://www.linuxinsider.com/story/%3Cbr%3EOpen-Source-Is-Woven-Into-the-Latest-Hottest-Trends-78937.html) 
+[^open-3]: 一个典型的领子，比如 Jay Lyman 的文章[“Open Source Is Woven Into the Latest, Hottest Trends” (12 September 2013)](http://www.linuxinsider.com/story/%3Cbr%3EOpen-Source-Is-Woven-Into-the-Latest-Hottest-Trends-78937.html) 
 
-[^4]: 参见[“How Free Software and Open Source Relate as Categories of Programs”](http://gnu.org/philosophy/free-open-overlap.html)一文
+[^open-4]: 参见[“How Free Software and Open Source Relate as Categories of Programs”](http://gnu.org/philosophy/free-open-overlap.html)一文
 
-[^5]: 全部定义可参见<http://opensource.org/docs/osd> 
+[^open-5]: 全部定义可参见<http://opensource.org/docs/osd> 
 
-[^6]: Neal Stephenson, In the Beginning...Was the Command Line（纽约，HarperCollins出版，1999年），p 49。
+[^open-6]: Neal Stephenson, In the Beginning...Was the Command Line（纽约，HarperCollins出版，1999年），p 49。
 
-[^7]: 堪萨斯州全州技术架构，“信息架构”，version 8.0, 20.3.8, 2011年10月11日。
+[^open-7]: 堪萨斯州全州技术架构，“信息架构”，version 8.0, 20.3.8, 2011年10月11日。
 <https://web.archive.org/web/20001011193422/http://da.state.ks.us/ITEC/TechArchPt6ver80.pdf>
 
-[^8]: Mary Jane Irwin，“The Brave New World of Open-Source Game Design”（开源游戏设计的勇敢新世界），纽约时报，在线版，2009年2月7日。<http://www.nytimes.com/external/%3Cbr%3Egigaom/2009/02/07/07gigaom-the-brave-new-world-of-open-source-game-%3Cbr%3Edesign-37415.html>
+[^open-8]: Mary Jane Irwin，“The Brave New World of Open-Source Game Design”（开源游戏设计的勇敢新世界），纽约时报，在线版，2009年2月7日。<http://www.nytimes.com/external/%3Cbr%3Egigaom/2009/02/07/07gigaom-the-brave-new-world-of-open-source-game-%3Cbr%3Edesign-37415.html>
 
-[^9]: Karl Mathiesen 和 Tess Riley，“Texas Teenager Creates $20 Water Purifier to Tackle Toxic E-Waste Pollution”（德州青少年创建 $20 水净化器，以解决有毒电子废物污染环境），2015年8月27日。<http://theguardian.com/sustainable-business/2015/aug/27/texas-teenager-water-purifier-%3Cbr%3Etoxic-e-waste-pollution>
+[^open-9]: Karl Mathiesen 和 Tess Riley，“Texas Teenager Creates $20 Water Purifier to Tackle Toxic E-Waste Pollution”（德州青少年创建 $20 水净化器，以解决有毒电子废物污染环境），2015年8月27日。<http://theguardian.com/sustainable-business/2015/aug/27/texas-teenager-water-purifier-%3Cbr%3Etoxic-e-waste-pollution>
 
-[^10]: 参见“Various Licenses and Comments about Them” <http://gnu.org/licenses/license-list.html>”
+[^open-10]: 参见“Various Licenses and Comments about Them” <http://gnu.org/licenses/license-list.html>”
 
-[^11]:  Evgeny Morozov，“Open and Closed”（开放和封闭），2013年3月16日，<http://www.nytimes.com/2013/03/17/opinion/sunday/morozov-open-and-closed.html>
+[^open-11]:  Evgeny Morozov，“Open and Closed”（开放和封闭），2013年3月16日，<http://www.nytimes.com/2013/03/17/opinion/sunday/morozov-open-and-closed.html>
 
-[^12]: 可参见本文或文章”FLOSS 和 FOSS“<http://www.gnu.org/philosophy/floss-and-foss.html>
+[^open-12]: 可参见本文或文章”FLOSS 和 FOSS“<http://www.gnu.org/philosophy/floss-and-foss.html>
