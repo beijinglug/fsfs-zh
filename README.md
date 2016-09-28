@@ -1,7 +1,11 @@
+[![Build Status](https://drone.io/github.com/beijinglug/fsfs-zh/status.png)](https://drone.io/github.com/beijinglug/fsfs-zh/latest)
+
 Free Software, Free Society v3 Chinese Translation
 =========================
 
 在线阅读（Html）：<https://fsfs-zh.readthedocs.io/>
+
+下载电子书（EPUB）：[这里下载](https://drone.io/github.com/beijinglug/fsfs-zh/files/fsfs-zh.epub)
 
 如何参与
 ---------
@@ -25,7 +29,7 @@ Free Software, Free Society v3 Chinese Translation
 - 校对时注意整篇文章的翻译用语必须一致，同时也要保证与整本书的[术语翻译](glossary.md)一致。
 - 校对时注意调整 Markdown 格式，最终效果可以参考已经校对好的[appendix-a.md](docs/appendix-a.md)。
     - 所有文章的大标题均使用二级标题 `## 标题`，去掉标题前面的数字。其他子标题自动降低一级，如 `### 子标题`。Part 的标题使用一级标题，但不用写第几部分，直接翻译内容，`# GNU 工程与自由软件`
-    - 脚注调整格式，原文中出现注释的位置，加上`[^1]`，然后在文末按照格式 `[^1]: 注释内容` 加上注释内容即可，删掉原先的`###[(1)]`这种标识。
+    - 脚注调整格式，原文中出现注释的位置，加上`[^文件名-1]`，然后在文末按照格式 `[^文件名-1]: 注释内容` 加上注释内容即可，删掉原先的`### [(1)] (FOOT1)`这种标识。
     - 版权声明和首次发布说明，比如`Copyright © 2015 Free Software Foundation, Inc.` 翻译后放到文首标题下方，并使用 `>` 将其改为引用格式。
 	- 文中所有不相关的 Texinfo 和 HTML 代码符号都可以删掉。
     - 文中若出现译者/校对者的名字，请将其删除（安全考量），但若是引用其他网站或个人的翻译文章，应保留原翻译者、出处和授权许可（版权考量）。
