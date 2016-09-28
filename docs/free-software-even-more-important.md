@@ -1,6 +1,6 @@
 ## 如今自由软件更加重要
 
-> Copyright © 2015 Richard Stallman。此文大幅修改后发表于[《连线》杂志](Wired)网站，标题是[Why Free Software Is More Important Now Than Ever Before”](http://wired.com/opinion/2013/09/why-free-software-%3Cbr%3Eis-more-important-now-than-ever-before)，2013年9月28日。
+> Copyright © 2015 Richard Stallman。此文大幅修改后发表于[《连线》杂志](Wired)网站，标题是[Why Free Software Is More Important Now Than Ever Before”](http://wired.com/opinion/2013/09/why-free-software-is-more-important-now-than-ever-before)，2013年9月28日。
 
 自1983年以来，自由软件运动一直在为计算机用户的自由而战——用户控制他们使用的软件，而不是相反。当一个程序尊重用户和社区的自由时，我们把它称为“自由软件”。
 
@@ -100,7 +100,7 @@ SaaSS 并不意味着运行在服务器上的程序是非自由的（虽然大�
 
 [^fsemi-6]: 参见《服务器真正为谁服务？》一文。
 
-[^fsemi-7]: 参见 Sean Gallagher 于2013年6月14日发表的文章“NSA Gets Early Access to Zero-Day Data from Microsoft, Others”<http://arstechnica.com/security/2013/06/nsa-gets-%3Cbr%3Eearly-access-to-zero-day-data-from-microsoft-others/>
+[^fsemi-7]: 参见 Sean Gallagher 于2013年6月14日发表的文章“NSA Gets Early Access to Zero-Day Data from Microsoft, Others” <http://arstechnica.com/security/2013/06/nsa-gets-Eearly-access-to-zero-day-data-from-microsoft-others/>
 
 [^fsemi-8]: 关于我们建议的政策可参见《政府推动自由软件的措施》一文
 

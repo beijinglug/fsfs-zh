@@ -57,5 +57,4 @@
 
  [^ipr-1]: Nicolas Kayser-Bril, “Africa Is Not a Country”，于 2014 年一月 24 日发表于<http://theguardian.com/world/2014/jan/24/africa-clinton>。
 
- [^ipr-2]: “Language Matters: Framing the Copyright Monopoly So We Can Keep Our Liberties”，于 2013 年七月 14 日发表于[http://torrentfreak.com/language-matters-framing-the-copyright-monopoly-so-we-can-keep-our-liberties-130714](http://torrentfreak.com/language-matters-%3Cbr%3Eframing-the-copyright-monopoly-so-we-can-keep-our-liberties-130714)。
-
+ [^ipr-2]: “Language Matters: Framing the Copyright Monopoly So We Can Keep Our Liberties”，于 2013 年七月 14 日发表于<http://torrentfreak.com/language-matters-framing-the-copyright-monopoly-so-we-can-keep-our-liberties-130714>。

@@ -84,10 +84,10 @@ AGPL 的要求没有解决当*用户们*信赖其计算或者发送数据到别�
 
  [^recon-5]: 有关 SaaSS 可参见《服务器真正为谁服务？》一文
 
- [^recon-6]: 参见 <http://gnu.org/licenses/license-list.html#GNUAllPermissive>
+ [^recon-6]: 参见 <http://gnu.org/licenses/license-list.html\#GNUAllPermissive>
 
  [^recon-7]: 关于此许可证可参见 <http://creativecommons.org/about/cc0> 
 
- [^recon-8]: 参见 <http://gnu.org/licenses/license-list.html#OtherLicenses>
+ [^recon-8]: 参见 <http://gnu.org/licenses/license-list.html\#OtherLicenses>
 
- [^recon-9]: 关于使用此许可证可参见 <http://gnu.org/licenses/license-list.html#ccbysa>
+ [^recon-9]: 关于使用此许可证可参见 <http://gnu.org/licenses/license-list.html\#ccbysa>

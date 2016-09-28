@@ -1,3 +1,5 @@
+# 陷阱和挑战
+
 ## 您能够信任您的计算机吗？
 
 > Copyright © 2002, 2007, 2014, 2015 Richard Stallman 本文首先于 2002 年发表于 <http://gnu.org>。

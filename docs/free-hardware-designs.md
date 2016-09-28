@@ -152,15 +152,13 @@
 
  [^freehard-7]: 参见 <http://fsf.org/resources/hw/endorsement>
 
- [^freehard-8]: Rich Brown, “Pulling Back from Open Source Hardware, MakerBot Angers Some Adherents,” 27 September 2012, [http://cnet.com/news/pulling-back-from-\
-open-source-hardware-makerbot-angers-some-adherents/](http://cnet.com/news/pulling-back-from-%3Cbr%3Eopen-source-hardware-makerbot-angers-some-adherents/).
+ [^freehard-8]: Rich Brown, “Pulling Back from Open Source Hardware, MakerBot Angers Some Adherents,” 27 September 2012, <http://cnet.com/news/pulling-back-from-open-source-hardware-makerbot-angers-some-adherents/>.
 
  [^freehard-9]: 如本文中的用法，“数字硬件”包括在数字部分之外还有模拟部分的硬件。 
 
  [^freehard-10]: 参见美国版权局定义的“useful article”，于 <http://copyright.gov/register/va-useful.html>. 
 
- [^freehard-11]: 一篇由 Public Knowledge 所写的文章 (“为你的 3D 打印产物赋予许可的三个步骤” 6 March 2015,[https://publicknowledge.org/assets/uploads/documents/\
-3\_Steps\_for\_Licensing\_Your\_3D\_Printed\_Stuff.pdf](https://publicknowledge.org/assets/uploads/documents/%3Cbr%3E3_Steps_for_Licensing_Your_3D_Printed_Stuff.pdf)) 对其在美国的复杂性给出了很有用的信息，尽管该文落入了使用伪概念“知识产权”，和不应该和版权联用的宣传用语“保护”的常见谬误。若问为何，《应避免使用（或慎用）的词语，由于它们是不公正的或者引起混淆的》一文。 
+ [^freehard-11]: 一篇由 Public Knowledge 所写的文章 (“为你的 3D 打印产物赋予许可的三个步骤” 6 March 2015, <https://publicknowledge.org/assets/uploads/documents/3_Steps_for_Licensing_Your_3D_Printed_Stuff.pdf>) 对其在美国的复杂性给出了很有用的信息，尽管该文落入了使用伪概念“知识产权”，和不应该和版权联用的宣传用语“保护”的常见谬误。若问为何，《应避免使用（或慎用）的词语，由于它们是不公正的或者引起混淆的》一文。 
 
  [^freehard-12]: 参见《您说过“知识产权”吗？这是一种迷惑性的幻景》一文。 
 

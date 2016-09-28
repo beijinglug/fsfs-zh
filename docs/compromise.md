@@ -1,3 +1,5 @@
+# 珍视社区和你的自由
+
 ## 避免破坏性的妥协
 
 > Copyleft (C) 2008, 2009, 2014, 2015 理查德·斯托曼（Richard Stallman）。本文最早于 2008 年发表于 <http://gnu.org>
@@ -10,7 +12,7 @@
 
 因此，自由软件基金会做出了一些妥协——甚至是重大妥协。例如，我们在 GNU 通用公共许可证（GNU GPL）第三版的专利提供条款中做出了妥协，使得主要的商业软件公司可以贡献并发布基于 GPL v3 的软件，并藉此将部分软件专利置于此条款的效力之下。
 
-> 在生活中的另一个领域存在这样一种类似的观点，例如文章“‘Nudge’ Is Not Enough, It’s True. But We Already Knew That” (Jonathan Rowson, 19 July 2011, [http://guardian.co.uk/commentisfree/2011/jul/19/nudge-is-not-enough-behaviour-change](http://guardian.co.%3Cbr%3Euk/commentisfree/2011/jul/19/nudge-is-not-enough-behaviour-change))所指出的观点：除了温和的劝说，我们还需要态度和视角方面的转变。
+> 在生活中的另一个领域存在这样一种类似的观点，例如文章“‘Nudge’ Is Not Enough, It’s True. But We Already Knew That”（Jonathan Rowson, 19 July 2011, <http://guardian.co.uk/commentisfree/2011/jul/19/nudge-is-not-enough-behaviour-change>）所指出的观点：除了温和的劝说，我们还需要态度和视角方面的转变。
 
 GNU 宽通用公共许可证（GNU LGPL）的目的在于一种妥协，我们将它用于一些选定的自由程序库，以便允许将它们用于私有软件中。这是由于我们认为如果在法律层面禁止这样做只会迫使开发者转向使用私有程序库。我们在 GNU 软件中接受并安装某种代码使得它们能够与常见的私有软件协同工作，并且我们对这种行为以这样的方式进行描述和宣传，鼓励私有软件用户安装并使用 GNU 软件而不是相反。我们也会支持我们所认同的一些特定的运动，即使我们并不完全认同那些支持这些运动的组织。
 
@@ -53,9 +55,9 @@ GNU 宽通用公共许可证（GNU LGPL）的目的在于一种妥协，我们�
 
  [^compromise-2]: 这里的“自由”应理解为 freedom 中的自由，参见 @pageref{Definition} 以获得自由软件的完整定义。 
 
- [^compromise-3]: 参见自由软件基金会执行董事 John Sullivan 于 2008 年发表的文章：“The Last Mile Is Always the Hardest,”，位于[http://fsf.org/bulletin/2008/spring/the-last-mile-is-always-the-hardest](http://fsf.org/bulletin/2008/spring/the-last-mile-is-%3Cbr%3Ealways-the-hardest)，所提及的他本人对于这一问题的看法。 
+ [^compromise-3]: 参见自由软件基金会执行董事 John Sullivan 于 2008 年发表的文章：“The Last Mile Is Always the Hardest,”，位于[http://fsf.org/bulletin/2008/spring/the-last-mile-is-always-the-hardest](http://fsf.org/bulletin/2008/spring/the-last-mile-is-always-the-hardest)，所提及的他本人对于这一问题的看法。 
 
- [^compromise-4]: 您可以在这里找到自由操作系统发行版准则： (GNU FSDG) [http://gnu.org/philosophy/free-system-distribution-guidelines.html](http://gnu.org/philosophy/free-system-distribution-%3Cbr%3Eguidelines.html)。 
+ [^compromise-4]: 您可以在这里找到自由操作系统发行版准则： (GNU FSDG) <http://gnu.org/philosophy/free-system-distribution-guidelines.html>。 
 
  [^compromise-5]: 参见 <http://gnu.org/philosophy/java-trap.html> 获取更多细节。 
 

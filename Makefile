@@ -3,11 +3,13 @@ BOOKNAME = fsfs-zh
 TITLE = ebook/title.txt
 METADATA = ebook/metadata.xml
 TOC = --toc --toc-depth=2 --epub-chapter-level=2 
-CHAPTERS =  docs/foreword-trans.md \
+LATEX_CLASS = book
+TEMPLATE=./pdf
+PREFACES =  docs/foreword-trans.md \
 			docs/foreword-v3.md  \
 			docs/foreword-v1.md  \
-			docs/preface-v3.md  \
-			docs/free-sw.md \
+			docs/preface-v3.md  
+CHAPTERS =	docs/free-sw.md \
 			docs/thegnuproject.md  \
 			docs/initial-announcement.md \
 			docs/free-software-even-more-important.md  \
@@ -54,37 +56,64 @@ CHAPTERS =  docs/foreword-trans.md \
 			docs/social-inertia.md  \
 			docs/freedom-or-power.md  \
 			docs/imperfection-isnt-oppression.md  \
-			docs/surveillance-vs-democracy.md  \
-			docs/appendix-a.md \
+			docs/surveillance-vs-democracy.md  
+APPENDIXS =	docs/appendix-a.md \
 			docs/appendix-b.md \
 			docs/appendix-c.md  \
 
 all: book
 
-book: epub html 
+book: epub html pdf
 
 clean:
-		rm -r site
 		rm $(BOOKNAME).* 
+		rm -r site
+		rm *.tex *.aux *.fot *.toc *.log *.out
+		rm -fr fs-translations
+		rm *.png
 
 epub: $(BOOKNAME).epub
 
 html: $(BOOKNAME).html
 
-#pdf: $(BUILD)/$(BOOKNAME).pdf
+pdf: $(BOOKNAME).pdf
 
-$(BOOKNAME).epub: $(TITLE) $(CHAPTERS)
+$(BOOKNAME).epub: $(TITLE) $(PREFACES) $(CHAPTERS) $(APPENDIXS)
 	cp -r docs/fs-translations/ .
 	cp docs/*.png .
 	pandoc $(TOC) -S --epub-metadata=$(METADATA) -o $@ $^
 	rm -fr fs-translations
 	rm *.png
 
-$(BOOKNAME).html: $(CHAPTERS)
-			pandoc $(TOC) --standalone --to=html5 -o $@ $^
-			mkdocs --clean
+$(BOOKNAME).html:  $(PREFACES) $(CHAPTERS) $(APPENDIXS)
+	pandoc $(TOC) --standalone --to=html5 -o $@ $^
+	mkdocs build --clean
 
-#$(BUILD)/$(BOOKNAME).pdf: $(TITLE) $(CHAPTERS)
-#			pandoc $(TOC) --latex-engine=xelatex -V documentclass=$(LATEX_CLASS) -o $@ $^
+$(BOOKNAME).pdf: $(TITLE)  $(PREFACES) $(CHAPTERS) $(APPENDIXS)
+	multimarkdown -t latex ${TEMPLATE}/meta.txt ${PREFACES} -o preface.tex
+	multimarkdown -t latex ${TEMPLATE}/meta.txt ${CHAPTERS} -o chapters.tex
+	multimarkdown -t latex ${TEMPLATE}/meta.txt ${APPENDIXS} -o appendix.tex
+	${call pdfgen}
+#			pandoc $(TOC) --latex-engine=xelatex -V documentclass=$(LATEX_CLASS) --template=$(TEMPLATE) -o $@ $^
+	rm -fr fs-translations
+	rm *.png
+
+define pdfgen	
+	cp -r docs/fs-translations/ .
+	cp docs/*.png .
+	cp ${TEMPLATE}/template.tex fsfs-zh.tex
+
+	xelatex fsfs-zh.tex
+	xelatex fsfs-zh.tex
+	xelatex fsfs-zh.tex
+	
+	@echo "PDF Compiled!"
+	
+	rm *.tex *.aux *.fot *.toc *.log *.out
+
+	@echo
+	@echo "Done!"
+endef
+
 
 .PHONY: all book clean epub html 

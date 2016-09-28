@@ -390,7 +390,7 @@ Linux 是 Linus Torvalds 于 1991 年开始开发的内核的名字，使用 Lin
 
  [^wordtoavoid-27]: “软件，作为恶意的”之意。
 
- [^wordtoavoid-28]: 参见[http://gnu.org/proprietary/proprietary-surveillance.html#SpywareInSkype](http://gnu.org/proprietary/proprietary-surveillance.html#SpywareInSkype)以获得更多信息。
+ [^wordtoavoid-28]: 参见<http://gnu.org/proprietary/proprietary-surveillance.html\#SpywareInSkype>以获得更多信息。
 
  [^wordtoavoid-29]: 欧洲议会，“Directive on the Patentability of Computer-Implemented Inventions”，2003 年九月 24 日，[http://web.archive.org/web/20071222001014/http://www.swpat.ffii.org/papers/europarl0309](http://web.archive.org/web/20071222001014/http://www.swpat.ffii.org/papers/europarl0309)。
 

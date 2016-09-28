@@ -22,7 +22,7 @@
 
 当人们认识到普遍监控的级别过高的时候，他们的第一反应可能会是提议限制对采集到的数据的访问。这听起来很好，但这甚至丝毫不能解决问题，即使假定政府遵守这条规则。（美国国家安全局（NSA）曾经欺骗美国外国情报监控法庭（FISA），后者声称它不能有效地证实 NSA 有义务对其监控行为作出说明[^surveilance-11]。犯罪的嫌疑将成为访问这些数据的理由，于是，一旦揭露者被指控从事间谍活动，试图找到这个间谍将会为访问所采集到的数据提供理由。
 
-此外，国家监控系统的工作人员会出于个人原因滥用数据。一些 NSA 特工使用美国国家监控系统来跟踪他们的情人——不论是过去的、现在的还是正在追求的——并将这种做法称为 LOVEINT[^surveilance-12]。NSA 宣称它已经发现了几次这样的行为并对其进行了处罚；但是我们不知道还有多少次这样的行为没有抓到。然而，这些事件并不会让我们感到惊讶，由于警方已经长期利用他们可访问的驾照记录以跟踪那些迷倒了他们的对象。这种行为称之为“查询车牌获得约会”[^surveilance-13]（running a plate for a date）。
+此外，国家监控系统的工作人员会出于个人原因滥用数据。一些 NSA 特工使用美国国家监控系统来跟踪他们的情人——不论是过去的、现在的还是正在追求的——并将这种做法称为 LOVEINT[^surveilance-12]。NSA 宣称它已经发现了几次这样的行为并对其进行了处罚；但是我们不知道还有多少次这样的行为没有抓到。然而，这些事件并不会让我们感到惊讶，由于警方已经长期利用他们可访问的驾照记录以跟踪那些迷倒了他们的对象。这种行为称之为“查询车牌获得约会”（running a plate for a date）[^surveilance-13]。
 
 监控数据总会被用于其他目的，即使这是被禁止的。只要数据被采集，国家就有可能访问它们。国家可以用极坏的方式滥用这些数据，发生在欧洲[^surveilance-14]和美国[^surveilance-15]的一些例子证实了这一点。
 
@@ -134,9 +134,9 @@ NSA 通过棱镜计划（PRISM）进入了多家大型互联网公司的数据�
 
 [^surveilance-5]: Dan Roberts, “Patriot Act Author Prepares Bill to Put NSA Bulk Collection ’Out of Business,’” 10 October 2013, <http://theguardian.com/world/2013/oct/10/nsa-surveillance-patriot-act-author-bill>. 
 
-[^surveilance-6]: Lucy Dalglish, “Lessons from Wye River,” The News Media & the Law (Summer 2011): p. 1, [http://www.rcfp.org/browse-media-law-resources/news-media-law/news-media-and-law-summer-2011/lessons-wye-river](http://www.rcfp.org/browse-media-law-resources/%3Cbr%3Enews-media-law/news-media-and-law-summer-2011/lessons-wye-river). 
+[^surveilance-6]: Lucy Dalglish, “Lessons from Wye River,” The News Media & the Law (Summer 2011): p. 1, [http://www.rcfp.org/browse-media-law-resources/news-media-law/news-media-and-law-summer-2011/lessons-wye-river](http://www.rcfp.org/browse-media-law-resources/news-media-law/news-media-and-law-summer-2011/lessons-wye-river). 
 
-[^surveilance-7]:  Washington Agencies, “Yemen leak: former FBI man admits passing information to Associated Press,” 24 September 2013, [http://www.theguardian.com/media/2013/sep/24/yemen-leak-sachtleben-guilty-associated-press](http://www.theguardian.com/media/2013/%3Cbr%3Esep/24/yemen-leak-sachtleben-guilty-associated-press). 
+[^surveilance-7]:  Washington Agencies, “Yemen leak: former FBI man admits passing information to Associated Press,” 24 September 2013, [http://www.theguardian.com/media/2013/sep/24/yemen-leak-sachtleben-guilty-associated-press](http://www.theguardian.com/media/2013/sep/24/yemen-leak-sachtleben-guilty-associated-press). 
 
 [^surveilance-8]:  参见 “Verizon forced to hand over telephone data—full court ruling” (6 June 2013) 位于 <http://www.theguardian.com/world/interactive/2013/jun/06/verizon-telephone-data-court-order>，以获得关于美国外国情报监控法庭（FISA）之下美国政府采集 Verizon 旗下数以百万计的美国客户的通话记录的信息。 
 
@@ -148,7 +148,7 @@ NSA 通过棱镜计划（PRISM）进入了多家大型互联网公司的数据�
 
 [^surveilance-12]:  Adam Gabbatt and agencies, “NSA Analysts ‘Wilfully Violated’ Surveillance Systems, Agency Admits,” 24 August 2013, <http://theguardian.com/world/2013/aug/24/nsa-analysts-abused-surveillance-systems>. 
 
-[^surveilance-13]:  M. L. Elrick, “Cops Tap Database to Harass, Intimidate,” 31 July 2001, <http://sweetliberty.org/issues/privacy/lein1.htm#.VeQiuxcpDow>. 
+[^surveilance-13]:  M. L. Elrick, “Cops Tap Database to Harass, Intimidate,” 31 July 2001, <http://sweetliberty.org/issues/privacy/lein1.htm\#\.VeQiuxcpDow>. 
 
 [^surveilance-14]:  Rick Falkvinge, “Collected Personal Data Will Always Be Used against the Citizens,” 17 March 2012, <http://falkvinge.net/2012/03/17/collected-personal-data-will-always-be-used-against-the-citizens/>. 
 
@@ -166,38 +166,38 @@ NSA 通过棱镜计划（PRISM）进入了多家大型互联网公司的数据�
 
  [^surveilance-21]: 参见《服务器真正是在为谁服务？》一文以获取更多信息。
 
- [^surveilance-22]: Nicole Perlroth, “In Cybersecurity, Sometimes the Weakest Link Is a Family Member,” 21 May 2014, [http://bits.blogs.nytimes.com/2014/05/21/in-cybersecurity-sometimes-the-weakest-link-is-a-family-member/](http://bits.blogs.nytimes.com/2014/05/21/%3Cbr%3Ein-cybersecurity-sometimes-the-weakest-link-is-a-family-member/). 
+ [^surveilance-22]: Nicole Perlroth, “In Cybersecurity, Sometimes the Weakest Link Is a Family Member,” 21 May 2014, [http://bits.blogs.nytimes.com/2014/05/21/in-cybersecurity-sometimes-the-weakest-link-is-a-family-member/](http://bits.blogs.nytimes.com/2014/05/21/in-cybersecurity-sometimes-the-weakest-link-is-a-family-member/). 
 
  [^surveilance-23]: 我在此假定安保摄像头用于诸如商店内部或大街上。任何由其他人架设的对准某人私人空间的摄像机侵犯了隐私，但这是另一个问题。 
 
- [^surveilance-24]: Ms. Smith, “CIA Wants to Spy On You through Your Appliances,” 18 March 2012, [http://networkworld.com/article/2221934/microsoft-subnet/cia-wants-to-spy-on-you-through-your-appliances.html](http://networkworld.com/article/2221934/%3Cbr%3Emicrosoft-subnet/cia-wants-to-spy-on-you-through-your-appliances.html). 
+ [^surveilance-24]: Ms. Smith, “CIA Wants to Spy On You through Your Appliances,” 18 March 2012, [http://networkworld.com/article/2221934/microsoft-subnet/cia-wants-to-spy-on-you-through-your-appliances.html](http://networkworld.com/article/2221934/microsoft-subnet/cia-wants-to-spy-on-you-through-your-appliances.html). 
 
  [^surveilance-25]: Jon Queally, “Latest Docs Show Financial Ties between NSA and Internet Companies,” 23 August 2013, <http://www.commondreams.org/news/2013/08/23/latest-docs-show-financial-ties-between-nsa-and-internet-companies>. 
 
  [^surveilance-26]: Scott Shane and Colin Moynihan, “Drug Agents Use Vast Phone Trove, Eclipsing N.S.A.’s,” 1 September 2013,
-[http://www.nytimes.com/2013/09/02/us/drug-agents-use-vast-phone-trove-eclipsing-nsas.html?_r=0](http://www.nytimes.com/2013/09/02/us/%3Cbr%3Edrug-agents-use-vast-phone-trove-eclipsing-nsas.html?_r=0). 
+[http://www.nytimes.com/2013/09/02/us/drug-agents-use-vast-phone-trove-eclipsing-nsas.html?_r=0](http://www.nytimes.com/2013/09/02/us/drug-agents-use-vast-phone-trove-eclipsing-nsas.html?_r=0). 
 
- [^surveilance-27]: Dan Kaminsky, “Let’s Cut through the Bitcoin Hype: A Hacker-Entrepreneur’s Take,” 3 May 2013, [http://wired.com/2013/05/lets-cut-through-the-bitcoin-hype/](http://wired.com/2013/05/lets-cut-through-the-%3Cbr%3Ebitcoin-hype/). 
+ [^surveilance-27]: Dan Kaminsky, “Let’s Cut through the Bitcoin Hype: A Hacker-Entrepreneur’s Take,” 3 May 2013, [http://wired.com/2013/05/lets-cut-through-the-bitcoin-hype/](http://wired.com/2013/05/lets-cut-through-the-bitcoin-hype/). 
 
  [^surveilance-28]: Steven Levy, “E-Money (That’s What I Want),” Wired, 2.12 (December 1994), <http://archive.wired.com/wired/archive/2.12/emoney_pr.html>. 
 
  [^surveilance-29]: Richard Bilton, “Camera Grid to Log Number Plates,” last updated on 22 May 2009, <http://news.bbc.co.uk/2/hi/programmes/whos_watching_you/8064333.stm>. 
 
- [^surveilance-30]: Nusrat Choudhury, “Victory! Federal Court Recognizes Constitutional Rights of Americans on the No-Fly List,” 29 August 2013, [https://www.aclu.org/blog/victory-federal-court-recognizes-constitutional-rights-americans-no-fly-list](https://www.aclu.org/blog/victory-federal-court-recognizes-constitutional-rights-americans-%3Cbr%3Eno-fly-list). 
+ [^surveilance-30]: Nusrat Choudhury, “Victory! Federal Court Recognizes Constitutional Rights of Americans on the No-Fly List,” 29 August 2013, [https://www.aclu.org/blog/victory-federal-court-recognizes-constitutional-rights-americans-no-fly-list](https://www.aclu.org/blog/victory-federal-court-recognizes-constitutional-rights-americans-no-fly-list). 
 
  [^surveilance-31]: Kai Biermann, “Betrayed by Our Own Data,” 26 March 2011, <http://www.zeit.de/digital/datenschutz/2011-03/data-protection-malte-spitz>. 
 
- [^surveilance-32]: Sara M. Watson, “The Latest Smartphones Could Turn Us All into Activity Trackers,” 10 October 2013, [http://wired.com/2013/10/the-trojan-horse-of-the-latest-iphone-with-the-m7-coprocessor-we-all-become-qs-activity-trackers/](http://wired.com/2013/10/the-trojan-horse-%3Cbr%3Eof-the-latest-iphone-with-the-m7-coprocessor-we-all-become-qs-%3Cbr%3Eactivity-trackers/). 
+ [^surveilance-32]: Sara M. Watson, “The Latest Smartphones Could Turn Us All into Activity Trackers,” 10 October 2013, [http://wired.com/2013/10/the-trojan-horse-of-the-latest-iphone-with-the-m7-coprocessor-we-all-become-qs-activity-trackers/](http://wired.com/2013/10/the-trojan-horse-of-the-latest-iphone-with-the-m7-coprocessor-we-all-become-qs-activity-trackers/). 
 
- [^surveilance-33]: Patrick Toomey, “It Sure Sounds Like the NSA Is Tracking Our Locations,” 30 September 2013, [https://aclu.org/blog/it-sure-sounds-nsa-tracking-our-locations](https://aclu.org/blog/it-%3Cbr%3Esure-sounds-nsa-tracking-our-locations). 
+ [^surveilance-33]: Patrick Toomey, “It Sure Sounds Like the NSA Is Tracking Our Locations,” 30 September 2013, [https://aclu.org/blog/it-sure-sounds-nsa-tracking-our-locations](https://aclu.org/blog/it-sure-sounds-nsa-tracking-our-locations). 
 
  [^surveilance-34]: Glenn Greenwald, “NSA Collecting Phone Records of Millions of Verizon Customers Daily,” 6 June 2013, <http://www.theguardian.com/world/2013/jun/06/nsa-phone-records-verizon-court-order>. 
 
- [^surveilance-35]: 一些例子“Testilying: Cops Are Liars Who Get Away with Perjury” (Nick Malinowski, 3 February 2013, [http://vice.com/read/testilying-cops-are-liars-who-get-away-with-perjury](http://vice.com/read/%3Cbr%3Etestilying-cops-are-liars-who-get-away-with-perjury)) 以及 “Detective Is Found Guilty of Planting Drugs” (Tim Stelloh, 1 November 2011, [http://nytimes.com/2011/11/02/nyregion/brooklyn-detective-convicted-of-planting-drugs-on-innocent-people.html?pagewanted=all&_r=0](http://nytimes.com/2011/11/02/nyregion/brooklyn-detective-convicted-of-%3Cbr%3Eplanting-drugs-on-innocent-people.html?pagewanted=all&_r=0))
+ [^surveilance-35]: 一些例子“Testilying: Cops Are Liars Who Get Away with Perjury” (Nick Malinowski, 3 February 2013, [http://vice.com/read/testilying-cops-are-liars-who-get-away-with-perjury](http://vice.com/read/testilying-cops-are-liars-who-get-away-with-perjury)) 以及 “Detective Is Found Guilty of Planting Drugs” (Tim Stelloh, 1 November 2011, [http://nytimes.com/2011/11/02/nyregion/brooklyn-detective-convicted-of-planting-drugs-on-innocent-people.html?pagewanted=all&_r=0](http://nytimes.com/2011/11/02/nyregion/brooklyn-detective-convicted-of-planting-drugs-on-innocent-people.html?pagewanted=all&_r=0))
 
  [^surveilance-36]: 关于这一点参见“摄影不是犯罪”网站 <http://photographyisnotacrime.com/> 
 
- [^surveilance-37]: Kevin Drum,“Ubiquitous Surveillance, Police Edition,” 22 August 2013, [http://motherjones.com/kevin-drum/2013/08/ubiquitous-surveillance-police-edition](http://motherjones.com/kevin-drum/2013/08/ubiquitous-surveillance-%3Cbr%3Epolice-edition). 
+ [^surveilance-37]: Kevin Drum,“Ubiquitous Surveillance, Police Edition,” 22 August 2013, [http://motherjones.com/kevin-drum/2013/08/ubiquitous-surveillance-police-edition](http://motherjones.com/kevin-drum/2013/08/ubiquitous-surveillance-police-edition). 
 
  [^surveilance-38]: Public Citizen, “Call Your Representative: Tell Her or Him to Co-Sponsor a Constitutional Amendment to Overturn Citizens United and Restore Democracy to the People,” August 2015, <http://action.citizen.org/p/dia/action3/common/public/?action_KEY=12266>. 
 

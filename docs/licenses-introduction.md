@@ -1,3 +1,5 @@
+# 自由软件许可证
+
 ## 许可证简介
 
 > Copyright © 2010 自由软件基金会。由 Brett Smith 和 Richard Stallman 撰写。
@@ -11,12 +13,6 @@ GNU 操作系统的软件开发始于1984年。当时理查德·斯托曼的一�
 GNU 的 Copyleft 许可证最初的发行是针对软件，之后拓展到了相关领域比如软件文档。这些将自由软件运动的原则放到了实践领域，也都在本书中有解释。这些许可证的每一次修订都体现了自由软件法律与实际障碍之间的斗争，并体现了自由软件理念是如何变成法律条款的。
 
 ### 原始版本的 GPL
-
-These licenses were identical except for minor differences: for
-instance, terms about displaying license notices to users were different
-for different programs and, unless it covered a program that was just
-one source file, each license contained the name of the program it
-applied to.
 
 第一版 GNU 通用公共许可证发布于 1989 年——然而早在 1985 年，斯托曼就已经在用 copyleft 许可证发布 GNU 工程中的一部分软件了。到 1989 年时，每一个已经发布的 GNU 程序都有其自己的许可证。比如 GNU CC 通用公共许可证，GDB 通用公共许可证等等，而不是统一的 GNU 通用公共许可证。这些许可证除了细微差别几乎一样：比如给用户显示许可证时提示的信息只是不同的程序不同而已，除非只包含一个源文件，且每个程序文件都包含了许可证的名字。
 

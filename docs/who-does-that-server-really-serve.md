@@ -111,7 +111,7 @@ Google Docs 向我们展示要评估单一服务到底可以有多么复杂。�
 
  [^server-2]: 如需获知监控正在通过哪些日益增加的方式在业界蔓延，参见 <http://gnu.org/philosophy/proprietary/proprietary-surveillance.html>。
 
- [^server-3]: Amy Webb, “Congratulations, You Found a Photo of My Daughter Online,” 12 September 2013, [http://slate.com/articles/technology/data_mine_1/2013/09/privacy_facebook_kids_don_t_post_photos_of_your_kids_on_social_media.html](http://slate.com/articles/technology/data_mine_1/%3Cbr%3E2013/09/privacy_facebook_kids_don_t_post_photos_of_your_kids_on_%3Cbr%3Esocial_media.html). 
+ [^server-3]: Amy Webb, “Congratulations, You Found a Photo of My Daughter Online,” 12 September 2013, [http://slate.com/articles/technology/data_mine_1/2013/09/privacy_facebook_kids_don_t_post_photos_of_your_kids_on_social_media.html](http://slate.com/articles/technology/data_mine_1/2013/09/privacy_facebook_kids_don_t_post_photos_of_your_kids_on_social_media.html). 
 
  [^server-4]: 参见《JavaScript 陷阱》一文以获得更多信息。 
 
@@ -121,7 +121,7 @@ Google Docs 向我们展示要评估单一服务到底可以有多么复杂。�
 
  [^server-7]: 如需获知 “Open Software Service Definition,” 参见 <http://opendefinition.org/ossd/index.html> 一文。 
 
- [^server-8]: 如需获得更多信息，参见我的文章 “Network Services Aren’t Free or Nonfree; They Raise Other Issues,” 位于 [http://gnu.org/philosophy/network-services-arent-free-or-nonfree.html](http://gnu.org/philosophy/%3Cbr%3Enetwork-services-arent-free-or-nonfree.html)。
+ [^server-8]: 如需获得更多信息，参见我的文章 “Network Services Aren’t Free or Nonfree; They Raise Other Issues,” 位于 [http://gnu.org/philosophy/network-services-arent-free-or-nonfree.html](http://gnu.org/philosophy/network-services-arent-free-or-nonfree.html)。
 
  [^server-9]: 参见《JavaScript 陷阱》一文以获得更多信息。
 

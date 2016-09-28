@@ -129,7 +129,7 @@ use.
 
 [^linux-gnu-10]: 参见 <http://gnu.org/software/hurd/hurd-and-linux.html> 就会明白为什么 FSF 开发了 GNU Hurd 内核。 
 
-[^linux-gnu-11]: 参见 ”Linux 0.01 发行注记“ (“Notes for Linux Release 0.01,”) ：[http://ftp.funet.fi/pub/linux/historical/kernel/old-versions/RELNOTES-0.01](http://ftp.funet.fi/pub/linux/%3Cbr%3Ehistorical/kernel/old-versions/RELNOTES-0.01)。
+[^linux-gnu-11]: 参见 ”Linux 0.01 发行注记“ (“Notes for Linux Release 0.01,”)：<http://ftp.funet.fi/pub/linux/historical/kernel/old-versions/RELNOTES-0.01>。
 
 [^linux-gnu-12]: 比如, GNU C 运行库 (GNU C Library)(<http://gnu.org/software/libc/libc.html>)。
 

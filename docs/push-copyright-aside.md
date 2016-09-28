@@ -38,7 +38,7 @@
 
 然而，关于“开放”一词还有一个笑话。具有影响力的“开放访问”运动的支持者后来在其目标中放弃了再分发的自由。我站在 BOAI[^push-2] 的立场上，但现在“开放访问”已经是其他意思了。我将其称为“可再分发出版物”或“自由镜像出版物”。
 
-[^push-1]: “MIT Faculty Open Access Policy,” 于 2009 年三月 18 日经教学科研人员无记名投票通过。[http://libraries.mit.edu/scholarly/mit-open-access/open-access-at-mit/mit-open-access-policy/](http://libraries.mit.edu/scholarly/mit-open-access/%3Cbr%3Eopen-access-at-mit/mit-open-access-policy/). 
+[^push-1]: “MIT Faculty Open Access Policy,” 于 2009 年三月 18 日经教学科研人员无记名投票通过。[http://libraries.mit.edu/scholarly/mit-open-access/open-access-at-mit/mit-open-access-policy/](http://libraries.mit.edu/scholarly/mit-open-access/open-access-at-mit/mit-open-access-policy/). 
 
 [^push-2]: 参见 <http://www.budapestopenaccessinitiative.org/> 以获知 BOAI 指导思想。 
 

@@ -58,7 +58,7 @@ Java 小程序也是在浏览器中运行的，它们也会带来类似的问题
 
 如需引用相关程序的源代码，我们建议采用这种格式：
 
-``` {.smallexample}                  
+``` 
      
      // @source:                      
 ```                                  
@@ -67,7 +67,7 @@ Java 小程序也是在浏览器中运行的，它们也会带来类似的问题
 
 如需指出嵌入本页面的 JavaScript 代码所使用的许可证类型，我们建议将许可证文本置于如下所示的两段文字之间：
 
-``` {.smallexample}
+```
 
 The following is the entire license notice for
 the JavaScript code in this page.    
@@ -80,7 +80,7 @@ JavaScript code in this page.
 
 同许多其他自由软件许可证一样，GNU GPL 要求连同程序的源代码和二进制形式一起发布一份许可证的副本。然而，由于 GNU GPL 过于冗长，将其同 JavaScript 程序一起包含在页面中可能会带来某种不便。对于您所拥有著作权的代码，您可以移除这条要求，代之以类似下面这样的许可证声明：
 
-``` {.smallexample}
+```
           
           Copyright (C) YYYY  Developer
                                      

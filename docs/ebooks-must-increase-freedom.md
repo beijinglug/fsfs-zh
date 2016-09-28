@@ -38,5 +38,5 @@
 
  [^ebooks-4]: 参见 <http://gnu.org/proprietary/proprietary.html> 以获知一系列日益增长的威胁。 
 
- [^ebooks-5]: 参见我的文章《如今自由软件更加重要》和 “The Problem Is Software Controlled by Its Developer,” 位于 [http://gnu.org/philosophy/the-root-of-this-problem.html] (http://gnu.org/%3Cbr%3Ephilosophy/the-root-of-this-problem.html)以获得更多信息。  
+ [^ebooks-5]: 参见我的文章《如今自由软件更加重要》和 “The Problem Is Software Controlled by Its Developer,” 位于<http://gnu.org/philosophy/the-root-of-this-problem.html>以获得更多信息。
 

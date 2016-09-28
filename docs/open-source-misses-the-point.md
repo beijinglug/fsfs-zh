@@ -108,13 +108,13 @@
 
 #### 备注
 
-Karim R. Lakhani 和 Robert G. Wolf的论文[“Why Hackers Do What They Do: Understanding Motivation and Effort in Free/Open Source Software Projects,” （剑桥: MIT 出版社, 2005）](http://ocw.mit.edu/courses/sloan-school-of-management/15-352-managing-innovation-emerging-trends-spring-2005/readings/%3Cbr%3Elakhaniwolf.pdf)在探讨自由软件开发者的动机时，指出相当一部分人被“软件必须是自由的”的观点所鼓舞。这里忽略了他们调查的调查对象是 SourceFourge 的开发人员这一事实，而该站点并不支持这是个伦理问题的观点。
+Karim R. Lakhani 和 Robert G. Wolf的论文[“Why Hackers Do What They Do: Understanding Motivation and Effort in Free/Open Source Software Projects,” （剑桥: MIT 出版社, 2005）](http://ocw.mit.edu/courses/sloan-school-of-management/15-352-managing-innovation-emerging-trends-spring-2005/readings/lakhaniwolf.pdf)在探讨自由软件开发者的动机时，指出相当一部分人被“软件必须是自由的”的观点所鼓舞。这里忽略了他们调查的调查对象是 SourceFourge 的开发人员这一事实，而该站点并不支持这是个伦理问题的观点。
 
 [^open-1]: 有关自由软件的完整定义，参见《自由软件定义》一文。
 
 [^open-2]: 关于操作系统可参见《Linux 和 GNU 系统》一文
 
-[^open-3]: 一个典型的领子，比如 Jay Lyman 的文章[“Open Source Is Woven Into the Latest, Hottest Trends” (12 September 2013)](http://www.linuxinsider.com/story/%3Cbr%3EOpen-Source-Is-Woven-Into-the-Latest-Hottest-Trends-78937.html) 
+[^open-3]: 一个典型的领子，比如 Jay Lyman 的文章[“Open Source Is Woven Into the Latest, Hottest Trends” (12 September 2013)](http://www.linuxinsider.com/story/Open-Source-Is-Woven-Into-the-Latest-Hottest-Trends-78937.html) 
 
 [^open-4]: 参见[“How Free Software and Open Source Relate as Categories of Programs”](http://gnu.org/philosophy/free-open-overlap.html)一文
 
@@ -125,12 +125,12 @@ Karim R. Lakhani 和 Robert G. Wolf的论文[“Why Hackers Do What They Do: Und
 [^open-7]: 堪萨斯州全州技术架构，“信息架构”，version 8.0, 20.3.8, 2011年10月11日。
 <https://web.archive.org/web/20001011193422/http://da.state.ks.us/ITEC/TechArchPt6ver80.pdf>
 
-[^open-8]: Mary Jane Irwin，“The Brave New World of Open-Source Game Design”（开源游戏设计的勇敢新世界），纽约时报，在线版，2009年2月7日。<http://www.nytimes.com/external/%3Cbr%3Egigaom/2009/02/07/07gigaom-the-brave-new-world-of-open-source-game-%3Cbr%3Edesign-37415.html>
+[^open-8]: Mary Jane Irwin，“The Brave New World of Open-Source Game Design”（开源游戏设计的勇敢新世界），纽约时报，在线版，2009年2月7日。<http://www.nytimes.com/external/gigaom/2009/02/07/07gigaom-the-brave-new-world-of-open-source-game-design-37415.html>
 
-[^open-9]: Karl Mathiesen 和 Tess Riley，“Texas Teenager Creates $20 Water Purifier to Tackle Toxic E-Waste Pollution”（德州青少年创建 $20 水净化器，以解决有毒电子废物污染环境），2015年8月27日。<http://theguardian.com/sustainable-business/2015/aug/27/texas-teenager-water-purifier-%3Cbr%3Etoxic-e-waste-pollution>
+[^open-9]: Karl Mathiesen 和 Tess Riley，“Texas Teenager Creates $20 Water Purifier to Tackle Toxic E-Waste Pollution”（德州青少年创建 $20 水净化器，以解决有毒电子废物污染环境），2015年8月27日。<http://theguardian.com/sustainable-business/2015/aug/27/texas-teenager-water-purifier-toxic-e-waste-pollution>
 
 [^open-10]: 参见“Various Licenses and Comments about Them” <http://gnu.org/licenses/license-list.html>”
 
-[^open-11]:  Evgeny Morozov，“Open and Closed”（开放和封闭），2013年3月16日，<http://www.nytimes.com/2013/03/17/opinion/sunday/morozov-open-and-closed.html>
+[^open-11]: Evgeny Morozov，“Open and Closed”（开放和封闭），2013年3月16日，<http://www.nytimes.com/2013/03/17/opinion/sunday/morozov-open-and-closed.html>
 
 [^open-12]: 可参见本文或文章”FLOSS 和 FOSS“<http://www.gnu.org/philosophy/floss-and-foss.html>
