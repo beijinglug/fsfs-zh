@@ -6,7 +6,7 @@
 
 我不能对大部分商业电子书如此，因为这是“不被允许的”。如果我们试图违反，阅读器中的软件具有一种称为数字限制管理（DRM）的恶意功能，它将会限制用户阅读，因此不能分享。由于电子书是加密的，只有具有恶意功能的私有软件才能显示它们。
 
-我们作为读者所习惯的很多其他阅读方式对于电子书是“不被允许的”。对于亚马逊 Kindle （更合适它的名字是 Swindle [^1]），作为一个例子，用户不能使用现金匿名购买电子书。Kindle 的电子书通常仅可以从亚马逊获得，而亚马逊要求用户提供身份信息。由此亚马逊知道每位用户读了哪些书。在某些国家，例如英国，您可能会由于拥有一本禁书而被起诉[^2]，这比假想中的奥威尔主义（Orwellian）更加残酷。
+我们作为读者所习惯的很多其他阅读方式对于电子书是“不被允许的”。对于亚马逊 Kindle （更合适它的名字是 Swindle [^ebooks-1]），作为一个例子，用户不能使用现金匿名购买电子书。Kindle 的电子书通常仅可以从亚马逊获得，而亚马逊要求用户提供身份信息。由此亚马逊知道每位用户读了哪些书。在某些国家，例如英国，您可能会由于拥有一本禁书而被起诉[^ebooks-2]，这比假想中的奥威尔主义（Orwellian）更加残酷。
 
 > 参阅《电子书的威胁》一文，并且考虑加入我们关于电子书威胁的邮件列表，位于 <http://defectivebydesign.org/ebooks.html>.
 
@@ -14,7 +14,7 @@
 
 您甚至不能保证某部电子书明天还存在于您的机器中。人们在使用 Kindle 阅读《1984》的时候亲历了奥威尔主义：他们的电子书在眼皮底下消失了，由于亚马逊使用了一种带有后门的恶意软件将其远程删除（虚拟世界的焚书行为，这就是 Kindle 的涵义吗？）。但是请不必担心，亚马逊承诺不再如此，除非有国家命令。
 
-对于软件，要么用户控制程序（称这类软件为自由的[^3]），要么程序控制用户（非自由）。亚马逊的电子书政策模仿私有软件的发布政策，但这并非二者之间的唯一关联。上述恶意软件特性[^4]是通过私有软件强加给用户的。如果一款自由软件拥有类似的恶意特性，一些具有编程技能的用户可以移除它们，然后将修正后的版本提供给其他用户。用户不能更改私有软件，这使得它们成为其开发者对公众行使不公权力的理想工具[^5]。
+对于软件，要么用户控制程序（称这类软件为自由的[^ebooks-3]），要么程序控制用户（非自由）。亚马逊的电子书政策模仿私有软件的发布政策，但这并非二者之间的唯一关联。上述恶意软件特性[^ebooks-4]是通过私有软件强加给用户的。如果一款自由软件拥有类似的恶意特性，一些具有编程技能的用户可以移除它们，然后将修正后的版本提供给其他用户。用户不能更改私有软件，这使得它们成为其开发者对公众行使不公权力的理想工具[^ebooks-5]。
 
 以上这些对我们自由的侵害任何一种都足以作为我们说“不”的理由。如果这些政策仅限于亚马逊，我们可以跳过它们，但是其他电子书发行商的政策大致相似。
 
@@ -30,13 +30,13 @@
 
 分享是美好的，并且有了数字技术，分享应该变得更容易。（我指对原始版本进行非商业的再分发）因此，分享理应合法，而阻止分享并不能成为将电子书变为读者数字手铐的理由。如果电子书意味着必须在增进与限制读者自由中二选一，我们必须要求它们增进读者的自由。
 
- [^1]: 参见《为何称之为诈骗（Swindle）？》一文以获得更多信息。  
+ [^ebooks-1]: 参见《为何称之为诈骗（Swindle）？》一文以获得更多信息。  
 
- [^2]: Ben Quinn, “Man in London Charged with Terrorism Offences over Al-Qaida Document,” 4 April 2012, <http://www.theguardian.com/world/2012/apr/04/al-qaida-terrorism>.  
+ [^ebooks-2]: Ben Quinn, “Man in London Charged with Terrorism Offences over Al-Qaida Document,” 4 April 2012, <http://www.theguardian.com/world/2012/apr/04/al-qaida-terrorism>.  
 
- [^3]: 参见《什么是自由软件？》一文以获知自由软件的完整定义。  
+ [^ebooks-3]: 参见《什么是自由软件？》一文以获知自由软件的完整定义。  
 
- [^4]: 参见 <http://gnu.org/proprietary/proprietary.html> 以获知一系列日益增长的威胁。 
+ [^ebooks-4]: 参见 <http://gnu.org/proprietary/proprietary.html> 以获知一系列日益增长的威胁。 
 
- [^5]: 参见我的文章《如今自由软件更加重要》和 “The Problem Is Software Controlled by Its Developer,” 位于 [http://gnu.org/philosophy/the-root-of-this-problem.html] (http://gnu.org/%3Cbr%3Ephilosophy/the-root-of-this-problem.html)以获得更多信息。  
+ [^ebooks-5]: 参见我的文章《如今自由软件更加重要》和 “The Problem Is Software Controlled by Its Developer,” 位于 [http://gnu.org/philosophy/the-root-of-this-problem.html] (http://gnu.org/%3Cbr%3Ephilosophy/the-root-of-this-problem.html)以获得更多信息。  
 

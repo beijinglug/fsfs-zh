@@ -8,7 +8,7 @@ SaaSS 指的是使用某种由其他人实现的服务来替代您所运行的�
 
 ### 背景知识：私有软件是如何剥夺您的自由的
 
-数字技术可以赋予您自由，也可以剥夺您的自由。对于我们掌控自己计算的首要威胁来自*私有软件*：私有软件是用户所不能控制的，由于它受其拥有者（例如苹果或微软这样的商业公司）控制。其拥有者通常利用这种不公的权力向其中植入恶意功能，诸如间谍软件、后门、数字限制管理（DRM，它们将其鼓吹为数字版权管理）[^1]。
+数字技术可以赋予您自由，也可以剥夺您的自由。对于我们掌控自己计算的首要威胁来自*私有软件*：私有软件是用户所不能控制的，由于它受其拥有者（例如苹果或微软这样的商业公司）控制。其拥有者通常利用这种不公的权力向其中植入恶意功能，诸如间谍软件、后门、数字限制管理（DRM，它们将其鼓吹为数字版权管理）[^server-1]。
 
 > 如需获得关于此问题的更多信息，参见“The Bug Nobody Is Allowed to Understand,”一文，它位于 <http://gnu.org/philosophy/bug-nobody-allowed-to-understand.html>。
 
@@ -28,9 +28,9 @@ SaaSS 指的是使用某种由其他人实现的服务来替代您所运行的�
 
 进一步讲，SaaSS 将会自然而然地引起与某些私有软件中的恶意功能相当的结果。
 
-例如，一些私有软件是“间谍软件”：它们将会发送与用户的计算活动相关的数据[^2]。微软 Windows 向微软发送用户活动相关信息。微软 Windows 媒体播放器（Windows Media Player）向微软汇报每位用户播放过的内容。亚马逊 Kindle 汇报用户于何时阅读哪本书的第几页。愤怒的小鸟（Angry Birds）将会汇报用户地理位置的历史记录。
+例如，一些私有软件是“间谍软件”：它们将会发送与用户的计算活动相关的数据[^server-2]。微软 Windows 向微软发送用户活动相关信息。微软 Windows 媒体播放器（Windows Media Player）向微软汇报每位用户播放过的内容。亚马逊 Kindle 汇报用户于何时阅读哪本书的第几页。愤怒的小鸟（Angry Birds）将会汇报用户地理位置的历史记录。
 
-与私有软件不同的是，SaaSS 并不依赖隐秘的代码以获取用户数据。而是用户被强制要求将其数据上传到服务器以便使用 SaaSS。这与间谍软件具有相同的效果：服务器运营商可以不费吹灰之力得到用户数据——正因为 SaaSS 的天性。Amy Webb 曾经刻意避免发布她女儿的任何照片，但她犯了使用 SaaSS（Instagram）的错误，用它来编辑自己的照片。最终这些照片也就通过这条途径泄露出去了[^3]。
+与私有软件不同的是，SaaSS 并不依赖隐秘的代码以获取用户数据。而是用户被强制要求将其数据上传到服务器以便使用 SaaSS。这与间谍软件具有相同的效果：服务器运营商可以不费吹灰之力得到用户数据——正因为 SaaSS 的天性。Amy Webb 曾经刻意避免发布她女儿的任何照片，但她犯了使用 SaaSS（Instagram）的错误，用它来编辑自己的照片。最终这些照片也就通过这条途径泄露出去了[^server-3]。
 
 一些私有操作系统拥有通用的后门，允许某人远程进行软件更改。例如，微软可以通过 Windows 的通用后门强制更改用户计算机上的软件。此类后门也存在于几乎所有的移动电话中。一些私有应用程序也拥有通用后门，例如 Steam 的 GNU/Linux 客户端允许其开发者远程安装修改版本。
 
@@ -48,17 +48,17 @@ SaaSS 指的是使用某种由其他人实现的服务来替代您所运行的�
 
 SaaSS 和私有软件将会带来相似的后果，但二者的作用机制并不相同。对于私有软件，其机制是您拥有一份副本，但对其进行修改是困难或者非法的。而对于 SaaSS，其机制是您不能拥有一份您所用于计算的软件副本。
 
-这两类问题通常被混淆，而混淆不仅仅是一种偶然。网络开发者使用含混不清的短语“网页应用”将服务器软件和您在计算机浏览器中运行的程序混为一谈。一些网页会在您的浏览器中安装非正常甚至是大型的 JavaScript 程序而不会告知您。如果这些 JavaScript 程序是私有的[^4]，它们将会造成与任何其他私有软件类似的不公。然而，我们在此将会主要讨论使用服务本身带来的问题。
+这两类问题通常被混淆，而混淆不仅仅是一种偶然。网络开发者使用含混不清的短语“网页应用”将服务器软件和您在计算机浏览器中运行的程序混为一谈。一些网页会在您的浏览器中安装非正常甚至是大型的 JavaScript 程序而不会告知您。如果这些 JavaScript 程序是私有的[^server-4]，它们将会造成与任何其他私有软件类似的不公。然而，我们在此将会主要讨论使用服务本身带来的问题。
 
 很多自由软件支持者设想：SaaSS 带来的问题将可以通过开发自由的服务器软件来解决。对于服务器运营商而言，其服务器上的软件最好是自由的；否则如果它们是私有的，其拥有者便可拥有控制服务器的权力。这对于服务器运营商是不公的，并且根本不会使用户受益。但是，即使服务器上运行的软件是自由的，这也不能保护*服务器的用户*免受 SaaSS 的影响。这些软件赋予了服务器运营商自由，但却不能赋予服务器用户自由。
 
-公开发布服务器软件的源代码确实会使社区受益：这使得具有适当技能的用户能够架设类似的服务器，也许还能更改软件本身。我们建议对通常在服务器上运行的软件使用 GNU Affero 通用公共许可证（GNU Affero GPL）[^5]。
+公开发布服务器软件的源代码确实会使社区受益：这使得具有适当技能的用户能够架设类似的服务器，也许还能更改软件本身。我们建议对通常在服务器上运行的软件使用 GNU Affero 通用公共许可证（GNU Affero GPL）[^server-5]。
 
 但是，这些服务器都不能使您能够控制由它进行的计算，除非那是*您自己的*服务器。也许，对于某些工作，您可以信任您的朋友的服务器，如同您可能会请求朋友维护您计算机上的软件。对于除此之外的任何情况，这些服务器对您来说都是 SaaSS。SaaSS 总是迫使您屈从于服务器运营商的权力。唯一的解决方式是：*坚决不要使用 SaaSS！*不要使用任何其他人的服务器来进行您自己的计算以处理由您自己提供的数据。
 
-这个问题解释了“开放”和“自由”之间有着多大程度的区别。“开源”概念中的源代码几乎都是自由的[^6]。但是“开源软件”服务[^7]的理念并不能解决 SaaSS 的问题，由于它只意味着这种服务所依赖的服务器软件是开源的，并且/或者是自由的。
+这个问题解释了“开放”和“自由”之间有着多大程度的区别。“开源”概念中的源代码几乎都是自由的[^server-6]。但是“开源软件”服务[^server-7]的理念并不能解决 SaaSS 的问题，由于它只意味着这种服务所依赖的服务器软件是开源的，并且/或者是自由的。
 
-服务与软件有着本质区别，因而由服务引起的伦理问题与那些由软件引起的问题有着本质区别。为了避免这种混淆，我们避免将一项服务描述为“自由”或“私有”的[^8]。
+服务与软件有着本质区别，因而由服务引起的伦理问题与那些由软件引起的问题有着本质区别。为了避免这种混淆，我们避免将一项服务描述为“自由”或“私有”的[^server-8]。
 
 ### 区分 SaaSS 和其他网络服务
 
@@ -84,7 +84,7 @@ SaaSS 和私有软件将会带来相似的后果，但二者的作用机制并�
 
 有些网站提供多种服务，如果其中之一不是 SaaSS，其他服务有可能是 SaaSS。例如，Facebook 的主要服务是社交网络，那不是 SaaSS；然而，它提供了第三方应用，其中的某些是 SaaSS。Flickr 的主要服务是发布照片，这不是 SaaSS，但它也会提供照片编辑功能，这就是 SaaSS。类似地，使用 Instagram 发布这些照片并非 SaaSS，但使用它转换照片则是。
 
-Google Docs 向我们展示要评估单一服务到底可以有多么复杂。它邀请用户通过运行大量私有 JavaScript 程序[^9]以编辑文档，这无疑是坏的。然而，它还提供了用于标准格式上传或下载文档的应用程序接口（API）。自由的文档编辑器可以通过这个 API 工作，这种应用场景不是 SaaSS，由于它仅仅把 Google Docs 用作仓库。将您的所有数据展示给一家商业公司不是好事，但这属于隐私范畴，而非 SaaSS；依赖这样的服务来访问您的数据不是好事，但这属于风险范畴，而非 SaaSS。另一方面，使用这种服务转换文档格式*是*一种 SaaSS，因为您可以通过在您的计算机上运行适当的软件（最好是自由的）来实现这一目的。
+Google Docs 向我们展示要评估单一服务到底可以有多么复杂。它邀请用户通过运行大量私有 JavaScript 程序[^server-9]以编辑文档，这无疑是坏的。然而，它还提供了用于标准格式上传或下载文档的应用程序接口（API）。自由的文档编辑器可以通过这个 API 工作，这种应用场景不是 SaaSS，由于它仅仅把 Google Docs 用作仓库。将您的所有数据展示给一家商业公司不是好事，但这属于隐私范畴，而非 SaaSS；依赖这样的服务来访问您的数据不是好事，但这属于风险范畴，而非 SaaSS。另一方面，使用这种服务转换文档格式*是*一种 SaaSS，因为您可以通过在您的计算机上运行适当的软件（最好是自由的）来实现这一目的。
 
 当然，通过自由的文档编辑器使用 Google Docs 的情形并不常见。更为常见的情形是，人们通过私有 JavaScript 程序使用它，这类私有 JavaScript 程序和任何其他私有软件一样坏。而这种应用场景也可能涉及 SaaSS；这取决于文档编辑工作的哪些部分由 JavaScript 程序完成而哪些部分由服务器完成。我们并不清楚这个问题的答案，但既然 SaaSS 和私有软件都以相似的方式对用户作恶，我们并不急迫地想知道这个问题的答案。
 
@@ -102,29 +102,29 @@ Google Docs 向我们展示要评估单一服务到底可以有多么复杂。�
 
 与他人一起作为一个小组进行协作的情况又如何呢？直到现在，不借助服务器可能难以实现这一目的，并且您的用户组可能不知道如何架设自己的服务器。如果您使用他人的服务器，至少不要信任由商业公司运营的服务器。对于消费者而言，仅凭一纸合同并不能带来任何保护，除非您能够抓住其中的漏洞并且真正能够进行诉讼。即使如此，商业公司很可能在其编写的合同条款中允许其在较宽的范围内恣意妄为。国家可以从商业公司那里传唤您和任何其他人的数据，如同奥巴马对通讯公司所做的，假如那些公司不像之前那些为布什实施非法监听其客户的美国通讯公司那样主动就范。因此，如果您不得不使用服务器，选择那些运营商能够给予您基本信任而非仅仅是一层商业关系的服务器。
 
-然而，在长远的时间尺度上，我们可以开发出替代服务器的解决方案。例如，我们可以开发一种端对端的程序使得协作者可以分享加密数据。自由软件社区应该试图为关键的“网页应用”开发出端对端的分布式替代品。并且将它们在 GNU Affero GPL 许可证下发布可能是明智的，由于它们可以作为候选者供其他人转换为基于服务器的软件[^10]。GNU 计划正在寻找志愿者以开发这些替代品。我们可以邀请其他自由软件项目在它们进行设计时考虑这一问题。
+然而，在长远的时间尺度上，我们可以开发出替代服务器的解决方案。例如，我们可以开发一种端对端的程序使得协作者可以分享加密数据。自由软件社区应该试图为关键的“网页应用”开发出端对端的分布式替代品。并且将它们在 GNU Affero GPL 许可证下发布可能是明智的，由于它们可以作为候选者供其他人转换为基于服务器的软件[^server-10]。GNU 计划正在寻找志愿者以开发这些替代品。我们可以邀请其他自由软件项目在它们进行设计时考虑这一问题。
 
 与此同时，如果一家商业公司邀请您使用它的服务器来进行您自己的计算任务，不要屈服；也不要使用 SaaSS。不要购买或安装所谓的“瘦客户机”，它们只不过是厂商为了使您在其服务器上进行真实工作而提供的低性能计算机，除非您将会在*您自己的*服务器上使用它们。使用一台真实的计算机来工作并且保存您的数据。使用您自己的自由软件副本来进行您自己的计算，这是为了您的自由。
 
 
- [^1]: 请加入我们的运动一起反对 DRM，它位于[DefectiveByDesign.org](DefectiveByDesign.org)。 
+ [^server-1]: 请加入我们的运动一起反对 DRM，它位于[DefectiveByDesign.org](DefectiveByDesign.org)。 
 
- [^2]: 如需获知监控正在通过哪些日益增加的方式在业界蔓延，参见 <http://gnu.org/philosophy/proprietary/proprietary-surveillance.html>。
+ [^server-2]: 如需获知监控正在通过哪些日益增加的方式在业界蔓延，参见 <http://gnu.org/philosophy/proprietary/proprietary-surveillance.html>。
 
- [^3]: Amy Webb, “Congratulations, You Found a Photo of My Daughter Online,” 12 September 2013, [http://slate.com/articles/technology/data_mine_1/2013/09/privacy_facebook_kids_don_t_post_photos_of_your_kids_on_social_media.html](http://slate.com/articles/technology/data_mine_1/%3Cbr%3E2013/09/privacy_facebook_kids_don_t_post_photos_of_your_kids_on_%3Cbr%3Esocial_media.html). 
+ [^server-3]: Amy Webb, “Congratulations, You Found a Photo of My Daughter Online,” 12 September 2013, [http://slate.com/articles/technology/data_mine_1/2013/09/privacy_facebook_kids_don_t_post_photos_of_your_kids_on_social_media.html](http://slate.com/articles/technology/data_mine_1/%3Cbr%3E2013/09/privacy_facebook_kids_don_t_post_photos_of_your_kids_on_%3Cbr%3Esocial_media.html). 
 
- [^4]: 参见《JavaScript 陷阱》一文以获得更多信息。 
+ [^server-4]: 参见《JavaScript 陷阱》一文以获得更多信息。 
 
- [^5]: 参见《如何为你自己的作品选择一份许可证》一文以获得我们关于许可证选择的建议。
+ [^server-5]: 参见《如何为你自己的作品选择一份许可证》一文以获得我们关于许可证选择的建议。
 
- [^6]: 参见 “How Free Software and Open Source Relate as Categories of Programs,”<http://gnu.org/philosophy/free-open-overlap.html> 一文以获得更多信息。 
+ [^server-6]: 参见 “How Free Software and Open Source Relate as Categories of Programs,”<http://gnu.org/philosophy/free-open-overlap.html> 一文以获得更多信息。 
 
- [^7]: 如需获知 “Open Software Service Definition,” 参见 <http://opendefinition.org/ossd/index.html> 一文。 
+ [^server-7]: 如需获知 “Open Software Service Definition,” 参见 <http://opendefinition.org/ossd/index.html> 一文。 
 
- [^8]: 如需获得更多信息，参见我的文章 “Network Services Aren’t Free or Nonfree; They Raise Other Issues,” 位于 [http://gnu.org/philosophy/network-services-arent-free-or-nonfree.html](http://gnu.org/philosophy/%3Cbr%3Enetwork-services-arent-free-or-nonfree.html)。
+ [^server-8]: 如需获得更多信息，参见我的文章 “Network Services Aren’t Free or Nonfree; They Raise Other Issues,” 位于 [http://gnu.org/philosophy/network-services-arent-free-or-nonfree.html](http://gnu.org/philosophy/%3Cbr%3Enetwork-services-arent-free-or-nonfree.html)。
 
- [^9]: 参见《JavaScript 陷阱》一文以获得更多信息。
+ [^server-9]: 参见《JavaScript 陷阱》一文以获得更多信息。
 
- [^10]: 参见 “Why the Affero GPL,” at <http://gnu.org/licenses/why-affero-gpl.html> 以获得完整解释。
+ [^server-10]: 参见 “Why the Affero GPL,” at <http://gnu.org/licenses/why-affero-gpl.html> 以获得完整解释。
 
 
