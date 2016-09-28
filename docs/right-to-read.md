@@ -51,7 +51,7 @@ Lissa 没有向 SPA 举报 Dan，而他关于帮助她的决定使得他们终�
 
     这个故事中的某一种理念直到 2002 年还未在现实中被提议，这种理念是由 FBI 和微软掌控您的个人计算机的 root 口令并且不会让您得到它们。
 
-    这一阴谋的倡导者将其命名为诸如“信任计算”或者“Palladium”。我们称之为“背叛计算”[^1]，由于其效果是使您的计算机听命于商业公司，并且到了不再听命于您甚至是违抗您的地步。这在 2007 年作为 Windows Vista 的一部分被实施[^2]；我们可以预见苹果也会做出类似的事情。在这种阴谋中，由计算机制造商掌控其秘密代码，但 FBI 对它同样是唾手可得。
+    这一阴谋的倡导者将其命名为诸如“信任计算”或者“Palladium”。我们称之为“背叛计算”[^righttoread-1]，由于其效果是使您的计算机听命于商业公司，并且到了不再听命于您甚至是违抗您的地步。这在 2007 年作为 Windows Vista 的一部分被实施[^righttoread-2]；我们可以预见苹果也会做出类似的事情。在这种阴谋中，由计算机制造商掌控其秘密代码，但 FBI 对它同样是唾手可得。
 
     确切地说，微软所掌控的并不是传统意义上的口令；由于无人能够在终端上输入它。与之相反，它是一种数字签名和加密密钥，它对应着存储在您的计算机上的另一个密钥。这将允许微软以及任何潜在与微软合作的网站对于用户能够在其计算机上做的事情进行完全控制。
 
@@ -71,11 +71,11 @@ Lissa 没有向 SPA 举报 Dan，而他关于帮助她的决定使得他们终�
 
 -   今天的商业电子书剥夺了读者的传统自由。参见《电子书的威胁》一文以获得更多信息；
 
--   某一“生物课本”网站[^3]允许您访问其出版物，仅当您签订合同以保证不会将其借给任何人阅读[^4]。而出版商可以随意废除此合同；
+-   某一“生物课本”网站[^righttoread-3]允许您访问其出版物，仅当您签订合同以保证不会将其借给任何人阅读[^righttoread-4]。而出版商可以随意废除此合同；
 
--   电子出版物限制其用户的自由[^5]；
+-   电子出版物限制其用户的自由[^righttoread-5]；
 
--   计算机中的图书[^6]：用于控制谁可以在一台计算机上阅读图书和文档的软件。
+-   计算机中的图书[^righttoread-6]：用于控制谁可以在一台计算机上阅读图书和文档的软件。
 
 如果我们想要阻止这样的坏消息并且带来一些好消息，我们需要组织起来并且进行斗争。自由软件基金会（FSF）的 Defective by Design 运动已经为这场斗争拉开序幕；订阅该运动的邮件列表以提供支持。并且加入 FSF 以资助我们的工作。
 
@@ -92,14 +92,14 @@ Lissa 没有向 SPA 举报 Dan，而他关于帮助她的决定使得他们终�
 -   公有领域联盟（Union for the Public Domain）——一个致力于抵抗并且逆转版权和专利的权力过度扩张的组织。 
 
 
-[^1]: 参见《您能够信任您的计算机吗？》一文以获得更多关于“信任计算”的信息。 
+[^righttoread-1]: 参见《您能够信任您的计算机吗？》一文以获得更多关于“信任计算”的信息。 
 
-[^2]: 参见 <http://badvista.fsf.org/> 以了解我们反对 Windows Vista 的运动。 
+[^righttoread-2]: 参见 <http://badvista.fsf.org/> 以了解我们反对 Windows Vista 的运动。 
 
-[^3]: Nature America Inc., “Announcing Principles of Biology, an Interactive Textbook by Nature Education,” <http://nature.com/nature_education/biology.html>. 
+[^righttoread-3]: Nature America Inc., “Announcing Principles of Biology, an Interactive Textbook by Nature Education,” <http://nature.com/nature_education/biology.html>. 
 
-[^4]: Nature America Inc., “Principles of Science Privacy Notice,” accessed August 2015, <http://nature.com/principles/viewTermsOfUse>. 
+[^righttoread-4]: Nature America Inc., “Principles of Science Privacy Notice,” accessed August 2015, <http://nature.com/principles/viewTermsOfUse>. 
 
-[^5]: 参见 Don Clark 的文章 “Seybold Opens Chapter on Digital Books” (31 August 1999, [http://www.zdnet.com/article/seybold-opens-chapter-on-digital-books/](http://www.zdnet.com/article/seybold-opens-chapter-on-digital-books/))以获知有关以电子形式发布图书以及影响到阅读其副本的权利的版权问题的信息。 
+[^righttoread-5]: 参见 Don Clark 的文章 “Seybold Opens Chapter on Digital Books” (31 August 1999, [http://www.zdnet.com/article/seybold-opens-chapter-on-digital-books/](http://www.zdnet.com/article/seybold-opens-chapter-on-digital-books/))以获知有关以电子形式发布图书以及影响到阅读其副本的权利的版权问题的信息。 
 
-[^6]: “Microsoft Announces New Software for Reading on Screen,” 30 August 1999, <http://microsoft.com/en-us/news/press/1999/Aug99/SeyboldPR.aspx>. 
+[^righttoread-6]: “Microsoft Announces New Software for Reading on Screen,” 30 August 1999, <http://microsoft.com/en-us/news/press/1999/Aug99/SeyboldPR.aspx>. 

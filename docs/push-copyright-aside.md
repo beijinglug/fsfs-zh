@@ -30,15 +30,15 @@
 
 ### 后期的发展
 
-某些大学——例如麻省理工学院（MIT）[^1]——已经采纳了某些政策以限制出版者的权力。然而，更加强有力的政策是必需的，就像 MIT 允许个人作者“退出”（屈服）。
+某些大学——例如麻省理工学院（MIT）[^push-1]——已经采纳了某些政策以限制出版者的权力。然而，更加强有力的政策是必需的，就像 MIT 允许个人作者“退出”（屈服）。
 
 美国政府对某些受资金支持的科研项目提出了称为“公共访问”的要求。这要求在一定时期内的出版物发表在某个允许任何人查看论文的网站上。这种要求是积极的一步，但并不足够，由于它并不包含再分发该论文的自由。
 
 有趣的是，2002 年布达佩斯开放存取倡议（BOAI）所提出的“开放访问”确实包含了再分发的自由。我还是签署了该声明，尽管我对“开放”一词极其厌恶，但其立场是正确的。
 
-然而，关于“开放”一词还有一个笑话。具有影响力的“开放访问”运动的支持者后来在其目标中放弃了再分发的自由。我站在 BOAI[^2] 的立场上，但现在“开放访问”已经是其他意思了。我将其称为“可再分发出版物”或“自由镜像出版物”。
+然而，关于“开放”一词还有一个笑话。具有影响力的“开放访问”运动的支持者后来在其目标中放弃了再分发的自由。我站在 BOAI[^push-2] 的立场上，但现在“开放访问”已经是其他意思了。我将其称为“可再分发出版物”或“自由镜像出版物”。
 
-[^1]: “MIT Faculty Open Access Policy,” 于 2009 年三月 18 日经教学科研人员无记名投票通过。[http://libraries.mit.edu/scholarly/mit-open-access/open-access-at-mit/mit-open-access-policy/](http://libraries.mit.edu/scholarly/mit-open-access/%3Cbr%3Eopen-access-at-mit/mit-open-access-policy/). 
+[^push-1]: “MIT Faculty Open Access Policy,” 于 2009 年三月 18 日经教学科研人员无记名投票通过。[http://libraries.mit.edu/scholarly/mit-open-access/open-access-at-mit/mit-open-access-policy/](http://libraries.mit.edu/scholarly/mit-open-access/%3Cbr%3Eopen-access-at-mit/mit-open-access-policy/). 
 
-[^2]: 参见 <http://www.budapestopenaccessinitiative.org/> 以获知 BOAI 指导思想。 
+[^push-2]: 参见 <http://www.budapestopenaccessinitiative.org/> 以获知 BOAI 指导思想。 
 
