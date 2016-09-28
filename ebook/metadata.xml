@@ -1,7 +1,7 @@
 <dc:title>自由软件，自由社会（第三版）</dc:title> 
 <dc:language>zh-CN</dc:language> 
-<dc:creator opf:file-as="Doe, John" opf:role="aut">John Doe</dc:creator> 
-<dc:publisher>John Doe Publishing</dc:publisher>
-<dc:date opf:event="publication">2013-11-07</dc:date>
-<dc:rights>Copyright ©2013 by John Doe</dc:rights>
+<dc:creator opf:file-as="BLUG" opf:role="aut">Beijing GNU/Linux User Group</dc:creator> 
+<dc:publisher>GNU Press</dc:publisher>
+<dc:date opf:event="publication">2016-10-02</dc:date>
+<dc:rights>Copyright ©2016 Beijing GNU/Linux User Group</dc:rights>
 

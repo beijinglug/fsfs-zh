@@ -3,6 +3,7 @@ BOOKNAME = fsfs-zh
 TITLE = ebook/title.txt
 METADATA = ebook/metadata.xml
 TOC = --toc --toc-depth=2 --epub-chapter-level=2 
+COVER_IMAGE = docs/cover.png
 LATEX_CLASS = book
 TEMPLATE=./pdf
 PREFACES =  docs/foreword-trans.md \
@@ -81,7 +82,7 @@ pdf: $(BOOKNAME).pdf
 $(BOOKNAME).epub: $(TITLE) $(PREFACES) $(CHAPTERS) $(APPENDIXS)
 	cp -r docs/fs-translations/ .
 	cp docs/*.png .
-	pandoc $(TOC) -S --epub-metadata=$(METADATA) -o $@ $^
+	pandoc $(TOC) -S --epub-metadata=$(METADATA)  --epub-cover-image=$(COVER_IMAGE) -o $@ $^
 	rm -fr fs-translations
 	rm *.png
 

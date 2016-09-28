@@ -1,4 +1,4 @@
-## 附录B：不同语言对“自由软件”和“免费软件”的翻译
+# 附录B：不同语言对“自由软件”和“免费软件”的翻译
 
 > Copyright © 1999, 2000, 2004, 2006–2015 自由软件基金会 
 > 更新的翻译列表可参见 <http://gnu.org/philosophy/fs-translations.html>。增加新的语种翻译可联系 <web-translators@gnu.org>。
