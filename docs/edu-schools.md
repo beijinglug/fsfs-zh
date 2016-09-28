@@ -14,7 +14,7 @@
 
 相比之下，如果我们教学生使用非自由软件，就等同于培养依赖性，这将违背学校的社会使命，学校应该极力避免这种事情的发生。
 
-为什么呢？毕竟一些专有软件开发者可以免费给学校的提供非自由程序的副本。那是因为，就像烟草公司免费向学生发放香烟一样，他们希望*利用*学校给学生灌输这种对他们产品的依赖性[^1]。
+为什么呢？毕竟一些专有软件开发者可以免费给学校的提供非自由程序的副本。那是因为，就像烟草公司免费向学生发放香烟一样，他们希望*利用*学校给学生灌输这种对他们产品的依赖性[^edu-1]。
 
 当学生毕业之后，他们就会终止这种免费行为，而且，他们也不会为毕业生就职的公司或机构提供免费服务。你一旦对这些软件形成了依赖，你很可能就会付费，并且之后的升级可能会很昂贵。
 
@@ -36,6 +36,5 @@
 
 如果你和学校有一定联系——如果你是一名学生、一名教师、一位员工、一名管理者、一位捐赠人，或者这些人的父母——你有义务和责任向学校推广自由软件。如果私人请求无法解决这个问题，可将这个问题公开出来提交到社区。这样就能让更多的人意识到这件事情的重要性。你可以寻找同盟，让大家一起发起这项推广自由软件的运动。
 
-### [(1)](#DOCF1)
 
-[^1]: 参见 《雷诺烟草公司因向儿童发放卷烟样品，于2002年被罚1500万美元》[RJ Reynolds Tobacco Company was fined \$15m in 2002 for handing out free samples of cigarettes at events attended by children](http://bbc.co.uk/worldservice/sci_tech/features/health/tobaccotrial/usa.htm)
+[^edu-1]: 参见 《雷诺烟草公司因向儿童发放卷烟样品，于2002年被罚1500万美元》[RJ Reynolds Tobacco Company was fined \$15m in 2002 for handing out free samples of cigarettes at events attended by children](http://bbc.co.uk/worldservice/sci_tech/features/health/tobaccotrial/usa.htm)
