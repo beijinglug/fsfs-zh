@@ -8,7 +8,7 @@
 >
 > 一件不合理的事情是更改 MySQL 的许可证到某种非 copyleft 许可证的想法。那样会消除出售例外的可能，但允许所有种类的私有修改版本。无论MySQL应该走到哪里，都不应选择非 copyleft 许可证。
 
-当我共同签署了反对 Oracle 计划好的 MySQL 收购[^1]（还有Sun公司剩下的部分）的信件的时候，一些自由软件支持者很惊讶我会赞成 MySQL 开发者用过的出售许可证例外的行为。他们期望我完全地谴责这种行为。这篇文章解释了我对这种行为的想法，以及原因。
+当我共同签署了反对 Oracle 计划好的 MySQL 收购[^sellex-1]（还有Sun公司剩下的部分）的信件的时候，一些自由软件支持者很惊讶我会赞成 MySQL 开发者用过的出售许可证例外的行为。他们期望我完全地谴责这种行为。这篇文章解释了我对这种行为的想法，以及原因。
 
 出售例外的意思是代码的版权所有者以自由软件许可证将代码发布至公众，然后让顾客为在不同条款下使用同样代码的许可付款，例如允许它包括在私有应用里面。
 
@@ -40,9 +40,5 @@ FSF 不实行出售例外有三个原因。一个是它不会通往 FSF 的目�
 
 但我们不需要坚持公司们遵循那条原则。对于公司我认为出售例外是可以接受的，并且我会在合适的时候建议这样做，作为让程序自由化的一种方式。
 
-[^1]: James Love and Malini Aisola (Knowledge Ecology
-International), Richard Stallman (FSF), Jim Killock (Open Rights Group),
-letter to Neelie Kroes (Commissioner for Competition, European
-Commission), 19 October 2009,
-<http://keionline.org/sites/default/files/ec_letter_mysql_oct19.pdf>.
+[^sellex-1]: James Love and Malini Aisola (Knowledge Ecology International), Richard Stallman (FSF), Jim Killock (Open Rights Group), letter to Neelie Kroes (Commissioner for Competition, European Commission), 19 October 2009, <http://keionline.org/sites/default/files/ec_letter_mysql_oct19.pdf>.
 
