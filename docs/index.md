@@ -1,9 +1,30 @@
 自由软件，自由社会（第三版）
 ======
 
-此为 Richard Stallman 文集《自由软件，自由社会》第三版。
+![](docs/cover.png)
 
 封面设计 Kyle Winfree
+
+
+下载电子版（PDF）：[这里下载](https://drone.io/github.com/beijinglug/fsfs-zh/files/fsfs-zh.pdf)
+
+下载电子书（EPUB）：[这里下载](https://drone.io/github.com/beijinglug/fsfs-zh/files/fsfs-zh.epub)
+
+贡献者
+-------
+
+感谢以下各位贡献者的辛勤劳动！
+
+| 贡献者 | 贡献内容 |
+| ------ | -------- |
+| @nadebula | 翻译了第三、四、六和七部分以及其他一些文章 | 
+| @tonghuix | 翻译了一些文章，将某些既有翻译加入进来，大量校对 |
+| @liushuyu | 翻译了 Linux and GNU 一文 |
+| @persmle | 翻译了一些文章，大量校对 | 
+| @MandyMY | 大量校对 |
+| @biergaizi | 少量翻译 |
+| @mytbk | 少量翻译和校对 |
+
 
 目  录
 -----
@@ -67,8 +88,8 @@
     - [自由还是权力？](freedom-or-power.md)
     - [缺陷并不等同于压迫](imperfection-isnt-oppression.md)
     - [民主可以承受多少监控？](surveillance-vs-democracy.md)
-- [**附录 A：**关于软件的基础知识](appendix-a)
-- [**附录 B：**不同语言对“自由软件”和“免费软件”的翻译](appendix-b)
+- [**附录 A：**关于软件的基础知识](appendix-a.md)
+- [**附录 B：**不同语言对“自由软件”和“免费软件”的翻译](appendix-b.md)
 - [**附录 C：**自由软件之歌](appendix-c.md)
 
 > Verbatim copying and distribution of this entire book are permitted 
