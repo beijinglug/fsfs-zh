@@ -64,7 +64,7 @@ APPENDIXS =	docs/appendix-a.md \
 
 all: book
 
-book: epub html pdf
+book: epub html pdf odf
 
 clean:
 		rm $(BOOKNAME).* 
@@ -78,6 +78,8 @@ epub: $(BOOKNAME).epub
 html: $(BOOKNAME).html
 
 pdf: $(BOOKNAME).pdf
+
+odf: $(BOOKNAME).odt
 
 $(BOOKNAME).epub: $(TITLE) $(PREFACES) $(CHAPTERS) $(APPENDIXS)
 	cp -r docs/fs-translations/ .
@@ -113,6 +115,9 @@ define pdfgen
 	@echo
 	@echo "Done!"
 endef
+
+$(BOOKNAME).odt:  $(PREFACES) $(CHAPTERS) $(APPENDIXS)
+	pandoc -t odt -o $@ $^
 
 
 .PHONY: all book clean epub html 
