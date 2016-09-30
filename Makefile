@@ -68,10 +68,10 @@ book: epub html pdf odf
 
 clean:
 		rm $(BOOKNAME).* 
-		rm -r site
 		rm *.tex *.aux *.fot *.toc *.log *.out
 		rm -fr fs-translations
 		rm *.png
+		rm -r site
 
 epub: $(BOOKNAME).epub
 
@@ -84,7 +84,7 @@ odf: $(BOOKNAME).odt
 $(BOOKNAME).epub: $(TITLE) $(PREFACES) $(CHAPTERS) $(APPENDIXS)
 	cp -r docs/fs-translations/ .
 	cp docs/*.png .
-	pandoc $(TOC) -S --epub-metadata=$(METADATA)  --epub-cover-image=$(COVER_IMAGE) -o $@ $^
+	pandoc $(TOC) -S -t epub3 --epub-metadata=$(METADATA)  --epub-cover-image=$(COVER_IMAGE) -o $@ $^
 	rm -fr fs-translations
 	rm *.png
 
