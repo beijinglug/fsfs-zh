@@ -4,15 +4,16 @@
 
 纵观历史，可以发现 GNU 工程在很多地方都与这份初始通告有很多差异。比如实际是拖延到了 1984 年 1 月才开始。而自由软件的很多哲学理念也是数年之后才得以厘清。
 
-
-<pre>
+```
 From mit-vax!mit-eddie!RMS@MIT-OZ
  From: `RMS%MIT-OZ@mit-eddie`
  Newsgroups: net.unix-wizards,net.usoft
  Subject: new Unix implementation
  Date: Tue, 27-Sep-83 12:35:59 EST
  Organization: MIT AI Lab, Cambridge, MA
+```
 
+<quate>
 自由的 Unix！
 
 今年的感恩节我要去写一个完整的类 UNIX 软件系统，命名为 GNU （Gnu's Not Unix），并以
@@ -72,8 +73,7 @@ Usenet：
    Richard Stallman
    166 Prospect St
    Cambridge, MA 02139 
-
-</pre>
+</quate>
 
 [^init-1]:这里用词没有注意，初衷是想说没有人需要为使用 GNU 系统而索要*授权*。然而这个词没有说的很清晰，结果人们经常以为获取 GNU 的副本需要很少或者免费。而这从来都是不是目的。
 

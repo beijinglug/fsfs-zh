@@ -110,8 +110,6 @@ define pdfgen
 	
 	@echo "PDF Compiled!"
 	
-	rm *.tex *.aux *.fot *.toc *.log *.out
-
 	@echo
 	@echo "Done!"
 endef

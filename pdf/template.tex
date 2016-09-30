@@ -1,4 +1,4 @@
-\documentclass[a4paper]{book}
+\documentclass[a5paper, UTF8, openright]{book}
 \usepackage[absolute,overlay,showboxes]{textpos}
 % \usepackage[lining]{ebgaramond}
 \usepackage[CJKspace]{xeCJK}
@@ -30,6 +30,8 @@
 \usepackage{changepage}
 
 \usepackage{pdfpages}
+\usepackage{geometry}
+\geometry{left=1.5cm,right=1.5cm,top=2cm,bottom=2cm}
 
 % To support tables so required tabulary package
 \usepackage{tabulary}
@@ -228,7 +230,6 @@ framexleftmargin=20pt
 \setcounter{footnote}{1}
 
 \title{{自由软件，自由社会（第三版）}}
-\author{理查德·斯托曼著，北京 GNU/Linux 用户组协力翻译}
 
 \makeatletter
 \let\savedauthor=\@author
@@ -240,50 +241,50 @@ framexleftmargin=20pt
 
 \title{\huge{\savedtitle}}
 
-\author{\textbf{\savedauthor}\thanks{本书基于 GNU 自由文档协议 1.3 版 (GNU Free Documentation License 1.3) 授权发布，可自由复制和分发，和/或基于 GNU 自由文档协议 1.3 版或自由软件基金会发布的更高版本，做出修改。本书使用 Markdown 书写，源码地址：\url{https://github.com/beijinglug/fsfs-zh/}。}}
+\author{\textbf{[美] Richard .M Stallman 著，北京 GNU/Linux 用户组协力翻译}\thanks{本书基于 GNU 自由文档协议 1.3 版 (GNU Free Documentation License 1.3) 授权发布，可自由复制和分发，和/或基于 GNU 自由文档协议 1.3 版或自由软件基金会发布的更高版本，做出修改。本书使用 Markdown 书写，源码地址：\url{https://github.com/beijinglug/fsfs-zh/}。}}
 
 \def\w3cdtfymd{\the\year-\ifnum\month<10 0\fi\the\month-\ifnum\day<10 0\fi\the\day}
 \date{\w3cdtfymd}
 
 \newcommand{\PreserveBackslash}[1]{\let\temp=\\#1\let\\=\temp}
 \let\PBS=\PreserveBackslash
-\makeatletter
-  \setlength\headheight{12\p@}
-  \setlength\headsep   {.25in}
-  \setlength\topskip   {10\p@}
-  \setlength\footskip{.35in}
-  \setlength\textwidth{400\p@}
+%\makeatletter
+%  \setlength\headheight{12\p@}
+%  \setlength\headsep   {.25in}
+%  \setlength\topskip   {10\p@}
+%  \setlength\footskip{.15in}
+%  \setlength\textwidth{400\p@}
   
-  \setlength\@tempdima{\paperheight}
-  \addtolength\@tempdima{-2in}
-  \divide\@tempdima\baselineskip
-  \@tempcnta=\@tempdima
-  \setlength\textheight{\@tempcnta\baselineskip}
-  \addtolength\textheight{\topskip}
+%  \setlength\@tempdima{\paperheight}
+%  \addtolength\@tempdima{0.2in}
+%  \divide\@tempdima\baselineskip
+%  \@tempcnta=\@tempdima
+%  \setlength\textheight{\@tempcnta\baselineskip}
+%  \addtolength\textheight{\topskip}
   
-  \setlength\@tempdima        {\paperwidth}
-  \addtolength\@tempdima      {-\textwidth}
-  \setlength\oddsidemargin    {\paperwidth}
-  \addtolength\oddsidemargin  {-2.35in}
-  \addtolength\oddsidemargin  {-\textwidth}
-  \setlength\marginparwidth   {0pt}
-  \@settopoint\oddsidemargin
-  \@settopoint\marginparwidth
-  \setlength\evensidemargin  {\paperwidth}
-  \addtolength\evensidemargin{-2.35in}
-  \addtolength\evensidemargin{-\textwidth}
-  \@settopoint\evensidemargin
+%  \setlength\@tempdima        {\paperwidth}
+%  \addtolength\@tempdima      {-\textwidth}
+%  \setlength\oddsidemargin    {\paperwidth}
+%  \addtolength\oddsidemargin  {0.35in}
+%  \addtolength\oddsidemargin  {-\textwidth}
+%  \setlength\marginparwidth   {0pt}
+%  \@settopoint\oddsidemargin
+%  \@settopoint\marginparwidth
+%  \setlength\evensidemargin  {\paperwidth}
+%  \addtolength\evensidemargin{0.35in}
+%  \addtolength\evensidemargin{-\textwidth}
+%  \@settopoint\evensidemargin
   
-  \setlength\topmargin{\paperheight}
-  \addtolength\topmargin{-2in}
-  \addtolength\topmargin{-\headheight}
-  \addtolength\topmargin{-\headsep}
-  \addtolength\topmargin{-\textheight}
-  \addtolength\topmargin{-\footskip}     % this might be wrong!
-  \addtolength\topmargin{-.5\topmargin}
-  \@settopoint\topmargin
-  %\@addtoreset{footnote}{page}  
-\makeatother
+%  \setlength\topmargin{\paperheight}
+%  \addtolength\topmargin{-0.2in}
+%  \addtolength\topmargin{-\headheight}
+%  \addtolength\topmargin{-\headsep}
+%  \addtolength\topmargin{-\textheight}
+%  \addtolength\topmargin{-\footskip}     % this might be wrong!
+%  \addtolength\topmargin{-.5\topmargin}
+%  \@settopoint\topmargin
+%  \@addtoreset{footnote}{page}  
+%\makeatother
 
 \fancypagestyle{plain}{\fancyhf{}\fancyfoot{}} % make sure no page number in page of first chapter
 
