@@ -7,8 +7,9 @@ dist: trusty
 before_script:
     - uname -a
     - lsb_release -a
-    - install.latex.ubuntu.sh
-    - install.multimarkdown.sh
+    - sudo apt-get update
+    - ./install.latex.ubuntu.sh
+    - ./install.multimarkdown.sh
     - sudo apt-get -y install pandoc
 script:
     - make pdf
