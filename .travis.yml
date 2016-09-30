@@ -1,0 +1,19 @@
+os: linux
+
+sudo: required
+
+dist: trusty
+
+before_script:
+    - uname -a
+    - lsb_release -a
+    - install.latex.ubuntu.sh
+    - install.multimarkdown.sh
+    - sudo apt-get -y install pandoc
+script:
+    - make pdf
+    - make epub
+
+after_script:
+    - echo "===================================================================="
+    - ls -lah fsfs-zh.*
