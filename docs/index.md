@@ -1,7 +1,7 @@
 自由软件，自由社会（第三版）
 ======
 
-![](docs/cover.png)
+![](cover.png)
 
 封面设计 Kyle Winfree
 
