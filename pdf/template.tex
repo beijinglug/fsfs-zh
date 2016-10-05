@@ -34,7 +34,7 @@
 \geometry{left=1.5cm,right=1.5cm,top=2cm,bottom=2cm}
 
 % To support tables so required tabulary package
-\usepackage{tabulary}
+\usepackage{longtable,tabulary}
 
 \definecolor{colorchapter}{RGB}{0,0,0}     % All black 
 \definecolor{colorsection}{RGB}{0,0,0}     
@@ -49,6 +49,9 @@
 \definecolor{editorOcher}{rgb}{1, 0.5, 0} % #FF7F00 -> rgb(239, 169, 0)
 \definecolor{editorGreen}{rgb}{0, 0.4, 0.1} % #007C00 -> rgb(0, 150, 25)
 
+% for pandoc
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 
 \lstdefinelanguage{JavaScript}{
   keywords={typeof, new, true, false, catch, function, return, null, catch, switch, var, if, in, while, do, else, case, break},
