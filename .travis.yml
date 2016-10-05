@@ -1,24 +1,32 @@
 os: linux
+
 sudo: required
+
 dist: trusty
+
 before_script:
-- uname -a
-- lsb_release -a
-- sudo apt-get update
-- "./install.latex.ubuntu.sh"
-- "./install.multimarkdown.sh"
-- sudo apt-get -y install pandoc
+    - uname -a
+    - lsb_release -a
+    - sudo apt-get update
+    - "./install.latex.ubuntu.sh"
+    - "./install.multimarkdown.sh"
+    - sudo apt-get -y install pandoc
+
 script:
-- make pdf
-- make epub
+    - make pdf
+    - make epub
+
 after_script:
-- echo "===================================================================="
-- ls -lah fsfs-zh.*
+    - echo "===================================================================="
+    - ls -lah fsfs-zh.*
+
 deploy:
-  provider: releases
-  api_key:
-    secure: n4u/q/fCDHCVyxb2zcyRgFcCT0cEIRG8ob0leEr7VqRSIcWzkYdxF9Vnkp6NbNr0eYcclTSvTQO8vq0W/Eyg4N6afk3A47aBmhqae7EljtuLaccJByw8qVejIkHrlVO1tLXSwyEhZzkib9GiF1mnIaRinh6yOzAmle9ueLmi9GcLCWZ5LBDxvrk3GmZ5164Ciuw9l0nwTt+5DQBsF5zpuPWdrpGN0YCl2Q64FJsiVqYs1WqEdKBOS6VMOOEGG5Q5XcrV/IedGKlOZgM8pM1XmgBvM3jIyTibA/IxMak7hd2wcVIwmb7+rUb5vA5EPImDbw9rqAjbO74CzXI4Cu7/Vs1Yu2zIBgeK/ZmCny8U/MoGO2jLZDeLQf6USfXcL4+rZs2SvcswVm4DFbnxl8TCy+SsE9gUnex4xKvKSVgF0Kq4uG4Tt5C7kjXjVRR7cM/SSLbJowb+SbkQzLR1Wja1ifU8C4ng21o/PcR0Hdny47RxuA7tCelnP5djmrlHbpS+O48h5tRTwZoMaqSdSxi7Lj08mA3owf3xtZwG52XryKmdroFLA9M3+k+ej5stWnQmEyXpaCAB9QDIEjkrdSpU1rGj2R1FeQOhOZtPjrSDMPUgejBYbCFMa/pf19f7MAOAWL8RUcU3vj/hKdrtZtabZck1kK0Ns2Dkhw75v05KmBk=
-  file: fsfs-zh.pdf, fsfs-zh.epub
-  on:
-      tags: true
-    repo: beijinglug/fsfs-zh
+    provider: releases
+    api_key:
+        secure: n4u/q/fCDHCVyxb2zcyRgFcCT0cEIRG8ob0leEr7VqRSIcWzkYdxF9Vnkp6NbNr0eYcclTSvTQO8vq0W/Eyg4N6afk3A47aBmhqae7EljtuLaccJByw8qVejIkHrlVO1tLXSwyEhZzkib9GiF1mnIaRinh6yOzAmle9ueLmi9GcLCWZ5LBDxvrk3GmZ5164Ciuw9l0nwTt+5DQBsF5zpuPWdrpGN0YCl2Q64FJsiVqYs1WqEdKBOS6VMOOEGG5Q5XcrV/IedGKlOZgM8pM1XmgBvM3jIyTibA/IxMak7hd2wcVIwmb7+rUb5vA5EPImDbw9rqAjbO74CzXI4Cu7/Vs1Yu2zIBgeK/ZmCny8U/MoGO2jLZDeLQf6USfXcL4+rZs2SvcswVm4DFbnxl8TCy+SsE9gUnex4xKvKSVgF0Kq4uG4Tt5C7kjXjVRR7cM/SSLbJowb+SbkQzLR1Wja1ifU8C4ng21o/PcR0Hdny47RxuA7tCelnP5djmrlHbpS+O48h5tRTwZoMaqSdSxi7Lj08mA3owf3xtZwG52XryKmdroFLA9M3+k+ej5stWnQmEyXpaCAB9QDIEjkrdSpU1rGj2R1FeQOhOZtPjrSDMPUgejBYbCFMa/pf19f7MAOAWL8RUcU3vj/hKdrtZtabZck1kK0Ns2Dkhw75v05KmBk=
+    file:
+        - fsfs-zh.pdf
+        - fsfs-zh.epub
+    on:
+        tags: true
+        repo: beijinglug/fsfs-zh
