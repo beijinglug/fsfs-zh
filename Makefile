@@ -68,10 +68,10 @@ all: book
 book: epub html pdf odf
 
 clean:
-		rm $(BOOKNAME).* 
 		rm *.tex *.aux *.fot *.toc *.log *.out
 		rm -fr fs-translations
 		rm *.png
+		rm $(BOOKNAME).* 
 		rm -r site
 
 epub: $(BOOKNAME).epub
