@@ -1,3 +1,4 @@
+\newpage
 ## 为什么学校应该只使用自由软件
 
 > Copyright © 2003, 2009, 2014 Richard Stallman 此文最早于2003年发布在 <http://gnu.org>。 参考中译 JODOO <http://blog.fujiji.com/why-schools-should-exclusively-use-free-software/> 2015年10月，略有改动

@@ -1,3 +1,4 @@
+\newpage
 ## GNU工程
 
 > Copyright © 1998, 2001, 2002, 2005–2008, 2010 Richard Stallman。本文最初以标题“GNU 操作系统和自由软件运动”发表于由 Chris DiBona 等人编写的《开放源码：开源革命之声》(Sebastopol: O’Reilly Media, 1999)。尽管我不是 “开放源码”的支持者，我还是贡献了这篇文章， 这样自由软件运动的思想不会在那本书中完全失声。

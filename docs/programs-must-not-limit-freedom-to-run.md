@@ -1,3 +1,4 @@
+\newpage
 ##  程序不得限制它们的自由运行
 
 > Copyright © 2012 自由软件基金会。此文2012年首发于<http://gnu.org>

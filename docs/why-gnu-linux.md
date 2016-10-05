@@ -1,5 +1,6 @@
 # 名字的含义
 
+\newpage
 ## 名字的含义？
 
 > Copyright © 2000, 2006, 2007 Richard Stallman。此文原中译 monnand，此处略有修改

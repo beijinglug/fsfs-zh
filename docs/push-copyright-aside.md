@@ -1,3 +1,4 @@
+\newpage
 ## 科学必须摆脱版权束缚
 
 > Copyright (C) 2001, 2012 Richard Stallman。本文最初于 2001 年六月 8 日发表于 Nature 杂志的 Web Debates 论坛。

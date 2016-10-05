@@ -1,3 +1,4 @@
+\newpage
 ## GNU 通用公共许可证
 
 > 中文翻译：bergwolf <bergwolf@gmail.com> ，源出处：<https://sites.google.com/site/bergwolf02/gplv3_zh>

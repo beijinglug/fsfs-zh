@@ -1,3 +1,4 @@
+\newpage
 ## 为什么使用 Copyleft
 
 > Copyright © 2003, 2007, 2008, 2013 自由软件基金会。 此文原载于 <http://gnu.org>

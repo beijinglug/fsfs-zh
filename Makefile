@@ -5,6 +5,7 @@ METADATA = ebook/metadata.xml
 TOC = --toc --toc-depth=2 --epub-chapter-level=2 
 COVER_IMAGE = docs/cover.png
 LATEX_CLASS = book
+PANDOC_TEX = pandoc -f markdown_mmd $(TOC) --latex-engine=xelatex -V documentclass=book
 TEMPLATE=./pdf
 PREFACES =  docs/foreword-trans.md \
 			docs/foreword-v3.md  \
@@ -93,9 +94,9 @@ $(BOOKNAME).html:  $(PREFACES) $(CHAPTERS) $(APPENDIXS)
 	mkdocs build --clean
 
 $(BOOKNAME).pdf: $(TITLE)  $(PREFACES) $(CHAPTERS) $(APPENDIXS)
-	multimarkdown -t latex ${TEMPLATE}/meta.txt ${PREFACES} -o preface.tex
-	multimarkdown -t latex ${TEMPLATE}/meta.txt ${CHAPTERS} -o chapters.tex
-	multimarkdown -t latex ${TEMPLATE}/meta.txt ${APPENDIXS} -o appendix.tex
+	$(PANDOC_TEX) ${PREFACES} -o preface.tex
+	$(PANDOC_TEX) ${CHAPTERS} -o chapters.tex
+	$(PANDOC_TEX) ${APPENDIXS} -o appendix.tex
 	${call pdfgen}
 #			pandoc $(TOC) --latex-engine=xelatex -V documentclass=$(LATEX_CLASS) --template=$(TEMPLATE) -o $@ $^
 	rm -fr fs-translations

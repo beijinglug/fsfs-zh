@@ -1,3 +1,4 @@
+\newpage
 ## GNU 操作系统的初始公告
 
 这是 GNU 工程的原始通告，由理查德·斯托曼（Richard Stallman）于 1983 年 9 月 27 日发表。
@@ -11,9 +12,7 @@ From mit-vax!mit-eddie!RMS@MIT-OZ
  Subject: new Unix implementation
  Date: Tue, 27-Sep-83 12:35:59 EST
  Organization: MIT AI Lab, Cambridge, MA
-```
 
-<quate>
 自由的 Unix！
 
 今年的感恩节我要去写一个完整的类 UNIX 软件系统，命名为 GNU （Gnu's Not Unix），并以
@@ -73,7 +72,7 @@ Usenet：
    Richard Stallman
    166 Prospect St
    Cambridge, MA 02139 
-</quate>
+```
 
 [^init-1]:这里用词没有注意，初衷是想说没有人需要为使用 GNU 系统而索要*授权*。然而这个词没有说的很清晰，结果人们经常以为获取 GNU 的副本需要很少或者免费。而这从来都是不是目的。
 

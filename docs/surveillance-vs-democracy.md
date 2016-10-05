@@ -1,3 +1,4 @@
+\newpage
 ## 民主可以承受多少监控？
 
 > 著作权所有 (C) 2015 Richard Stallman 本文最初以相同的标题发表于《连线》杂志（Wired, 2013年10月14）<http://www.wired.com/opinion/2013/10/a-necessary-evil-what-it-takes-for-democracy-to-survive-surveillance>
