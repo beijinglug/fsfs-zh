@@ -1,3 +1,4 @@
+\newpage
 ## 自由还是权力？
 
 > 本文由 Bradley M. Kuhn 和 Richard Stallman 撰写。

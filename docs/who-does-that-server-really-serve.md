@@ -1,3 +1,4 @@
+\newpage
 ## 服务器真正是在为谁服务？
 
 > Copyright (C) 2010, 2013, 2015 理查德·斯托曼（Richard Stallman）。本文最初于 2010 年三月 8 日以标题“What Does That Server Really Serve?”发表于 Boston Review 在线版。

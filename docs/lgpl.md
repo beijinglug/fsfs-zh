@@ -1,3 +1,4 @@
+\newpage
 ## GNU 宽通用许可证
 
 > 中文翻译 Leo <leohca@yahoo.com>  源网页：<http://www.thebigfly.com/gnu/lgpl/lgpl-v3.php>

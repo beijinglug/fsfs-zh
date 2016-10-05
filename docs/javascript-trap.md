@@ -1,3 +1,4 @@
+\newpage
 ## JavaScript 陷阱
 
 > Copyright (C) 2009–2013 Richard Stallman 

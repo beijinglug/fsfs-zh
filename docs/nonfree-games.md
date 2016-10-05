@@ -1,3 +1,4 @@
+\newpage
 ## GNU/Linux 上带有数字限制管理（DRM）的私有游戏：是好是坏？
 
 > Copyright (C) 2013 自由软件基金会

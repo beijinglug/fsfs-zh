@@ -1,3 +1,4 @@
+\newpage
 ## 保护软件领域免受专利困扰
 
 > Copyright (C) 2012, 2013 自由软件基金会，本文的一个版本最初以标题 “Let’s Limit the Effect of Software Patents, Since We Can’t Eliminate Them” 发表于《连线》杂志 Wired 网站 （Wired, 1 November 2012, <http://wired.com/opinion/2012/11/richard-stallman-software-patents/>）。该版本于 2012 年发表于 <http://gnu.org>

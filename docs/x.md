@@ -1,3 +1,4 @@
+\newpage
 ## X Window 系统的陷阱
 
 > Copyright (C) 1998, 1999, 2009 理查德·斯托曼（Richard Stallman）。本文最初于 1998 年发表在 <http://gnu.org>。

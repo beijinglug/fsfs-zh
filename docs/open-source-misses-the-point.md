@@ -1,3 +1,4 @@
+\newpage
 ## 为什么说开源漏掉了自由软件的要点
 
 > Copyright © 2007, 2008,2010, 2012–2015 Richard Stallman 此文最早于2007年发布于 <http://gnu.org>

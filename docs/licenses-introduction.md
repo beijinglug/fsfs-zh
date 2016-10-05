@@ -1,5 +1,6 @@
 # 自由软件许可证
 
+\newpage
 ## 许可证简介
 
 > Copyright © 2010 自由软件基金会。由 Brett Smith 和 Richard Stallman 撰写。
