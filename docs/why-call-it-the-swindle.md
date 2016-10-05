@@ -33,4 +33,4 @@
 
 [^swindle-1]: 采取行动反对 iThings，位于[u.fsf.org/ithings](u.fsf.org/ithings)；反对亚马逊诈骗（Swindle）位于[u.fsf.org/swindle](u.fsf.org/swindle)和[u.fsf.org/ebookslist](u.fsf.org/ebookslist)；以及反对 Windows，位于[upgradefromwindows.org](upgradefromwindows.org)。
 
-[^swindle-2]: 参见 <https://u.fsf.org/drm> 以获得关于数字限制管理（DRM）的更多信息。@end raggedright。
+[^swindle-2]: 参见 <https://u.fsf.org/drm> 以获得关于数字限制管理（DRM）的更多信息。
