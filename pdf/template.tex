@@ -30,8 +30,7 @@
 \usepackage{changepage}
 
 \usepackage{pdfpages}
-\usepackage{geometry}
-\geometry{left=1.5cm,right=1.5cm,top=2cm,bottom=2cm}
+\usepackage[bindingoffset=0.5cm, margin=1.5cm, includeheadfoot]{geometry}
 
 % To support tables so required tabulary package
 \usepackage{longtable,tabulary}
@@ -332,7 +331,7 @@ framexleftmargin=20pt
 \renewcommand{\thetab}{\thechapter.\arabic{tab}}
 
 \newcommand{\prechap}{第}
-\newcommand{\postchap}{章}
+\newcommand{\postchap}{部分}
 \newcommand{\presect}{}
 \newcommand{\postsect}{节}
 \renewcommand{\chaptermark}[1]{\markboth{\textbf{\prechap \thechapter \postchap}\hspace*{1ex}#1}{}}
