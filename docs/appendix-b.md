@@ -11,7 +11,7 @@
 | af | 南非荷兰语 | vrye sagteware | gratis sagteware |
 | ar | 阿拉伯语 | ![fs-translations/ar-libre](fs-translations/ar-libre.png){ width=100px } *(barmajiyat ḥorrah)* |
 | be | 白俄罗斯语 | ![fs-translations/be-libre](fs-translations/be-libre.png){ width=100px }  *(svabodnae pragramnae zabes’pjachen’ne)* |
-| bg | 保加利亚语 | ![fs-translations/bg-libre](fs-translations/bg-libre.png) width=100px }  *(svoboden softuer)* | ![fs-translations/bg-gratis](fs-translations/bg-gratis.png){ width=100px }  *(bezplaten softuer)* |
+| bg | 保加利亚语 | ![fs-translations/bg-libre](fs-translations/bg-libre.png){ width=100px }  *(svoboden softuer)* | ![fs-translations/bg-gratis](fs-translations/bg-gratis.png){ width=100px }  *(bezplaten softuer)* |
 | bn | 孟加拉语 |![fs-translations/bn-libre](fs-translations/bn-libre.png){ width=100px } *(swadhin software)* |
 | ca | 加泰罗尼亚语 | programari lliure | programari gratuït |
 | cs | 捷克语 | svobodný software | bezplatný software |

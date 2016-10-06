@@ -5,7 +5,7 @@ METADATA = ebook/metadata.xml
 TOC = --toc --toc-depth=2 --epub-chapter-level=2 
 COVER_IMAGE = docs/cover.png
 LATEX_CLASS = book
-PANDOC_TEX = pandoc -f markdown_mmd $(TOC) --latex-engine=xelatex -V documentclass=book
+PANDOC_TEX = pandoc --from="markdown_mmd+link_attributes" $(TOC) --latex-engine=xelatex -V documentclass=book
 TEMPLATE=./pdf
 PREFACES =  docs/foreword-trans.md \
 			docs/foreword-v3.md  \
