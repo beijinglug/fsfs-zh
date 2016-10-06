@@ -9,7 +9,6 @@ before_script:
     - lsb_release -a
     - sudo apt-get update
     - "./install.latex.ubuntu.sh"
-    - "./install.multimarkdown.sh"
     - wget https://github.com/jgm/pandoc/releases/download/1.17.2/pandoc-1.17.2-1-amd64.deb
     - sudo dpkg -i *.deb
 
