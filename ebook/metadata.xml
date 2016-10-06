@@ -1,7 +1,14 @@
-<dc:title>自由软件，自由社会（第三版）</dc:title> 
-<dc:language>zh-CN</dc:language> 
-<dc:creator opf:file-as="BLUG" opf:role="aut">Beijing GNU/Linux User Group</dc:creator> 
-<dc:publisher>GNU Press</dc:publisher>
-<dc:date opf:event="publication">2016-10-02</dc:date>
-<dc:rights>Copyright ©2016 Beijing GNU/Linux User Group</dc:rights>
-
+---
+title:
+- type: main
+  text: 自由软件，自由社会
+- type: subtitle
+  text: 理查德·斯托曼选集（第三版）
+creator:
+- role: author
+  text: Beijing GNU/Linux User Group
+- role: editor
+  text: Beijing GNU/Linux User Group
+publisher: Beijing GNU/Linux User Group
+rights: © 2016 Beijing GNU/Linux User Group, GNU FDL 1.3
+...
