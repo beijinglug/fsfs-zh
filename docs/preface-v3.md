@@ -16,7 +16,7 @@
 
 我希望此书可以告诉你，我们很容易就会失去自由，教会你如何保护，并启发你珍视自由。
 
-要感谢 Jeanne Rasata 管理此项目，编辑书木，排版文字，并建立目录。还要感谢 Karl Berry 协助解决 Texinfo 技术问题，以及 Kyle Winfree 设计和排版此书的封面。
+要感谢 Jeanne Rasata 管理此项目，编辑书目，排版文字，并建立目录。还要感谢 Karl Berry 协助解决 Texinfo 技术问题，以及 Kyle Winfree 设计和排版此书的封面。
 
 \ 
 
