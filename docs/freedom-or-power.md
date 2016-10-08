@@ -1,8 +1,9 @@
 \newpage
 ## 自由还是权力？
 
-> 本文由 Bradley M. Kuhn 和 Richard Stallman 撰写。
 > Copyright (C) 2001, 2009 Bradley M. Kuhn 和 Richard Stallman 本文最初于 2001 年发表于 <http://gnu.org>。
+
+> 本文由 Bradley M. Kuhn 和 Richard Stallman 撰写。
 
 *对自由的爱是对他人的爱；对权力的爱是对自己的爱。——William Hazlitt*
 
