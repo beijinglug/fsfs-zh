@@ -7,7 +7,7 @@
 
 这些自由极其重要。它们是必要的，不仅是因为它们满足用户的个体利益，更是因为它们促进社会的团结——也就是分享与协作。由于我们的文化和生活变得越来越数字化，因此这些自由就变得越来越重要了。在一个由数字化的声音、图像和文字组成的世界里，自由软件正在逐渐地趋近于通常意义上的自由。
 
-现在全世界有数以千万计的人使用自由软件；印度和西班牙的一些学校正在教授所有的学生使用自由的 GNU/Linux 操作系统[^open-2]。但是，大多数用户都没有听说过我们开发这个系统以及建立自由软件社区的伦理原因，因为现在这个系统和社区更多地被描述为“开放源代码”（简称“开源”），并将其归属为另一种不同的、几乎不被提及自由的哲学。
+现在全世界有数以千万计的人使用自由软件；印度和西班牙的一些学校正在教授所有的学生使用自由的 GNU/Linux 操作系统[^open-2]。但是，大多数用户都没有听说过我们开发这个系统以及建立自由软件社区的伦理原因，因为现在这个系统和社区更多地被描述为“开放源代码”（简称“开源”），并将其归属为另一种不同的、几乎不提及自由的哲学。
 
 自 1983 年以来，自由软件运动一直为计算机用户的自由而战。1984 年，我们发起开发自由的操作系统 GNU，避免那些否定用户自由的非自由操作系统。在八十年代，我们开发出了这个系统的重要组件，还有 GNU 通用公共许可证（GNU GPL）——一个专门用于保护所有用户自由的许可证。
 
@@ -109,15 +109,15 @@
 
 #### 备注
 
-Karim R. Lakhani 和 Robert G. Wolf的论文[“Why Hackers Do What They Do: Understanding Motivation and Effort in Free/Open Source Software Projects,” （剑桥: MIT 出版社, 2005）](http://ocw.mit.edu/courses/sloan-school-of-management/15-352-managing-innovation-emerging-trends-spring-2005/readings/lakhaniwolf.pdf)在探讨自由软件开发者的动机时，指出相当一部分人被“软件必须是自由的”的观点所鼓舞。这里忽略了他们调查的对象是 SourceFourge 的开发人员这一事实，而该站点并不支持这是个伦理问题的观点。
+Karim R. Lakhani 和 Robert G. Wolf的论文“Why Hackers Do What They Do: Understanding Motivation and Effort in Free/Open Source Software Projects”（剑桥: MIT 出版社, 2005）<http://ocw.mit.edu/courses/sloan-school-of-management/15-352-managing-innovation-emerging-trends-spring-2005/readings/lakhaniwolf.pdf>在探讨自由软件开发者的动机时，指出相当一部分人被“软件必须是自由的”的观点所鼓舞。这里忽略了他们调查的对象是 SourceFourge 的开发人员这一事实，而该站点并不支持这是个伦理问题的观点。
 
 [^open-1]: 有关自由软件的完整定义，参见《什么是自由软件？》一文。
 
 [^open-2]: 关于操作系统可参见《Linux 和 GNU 系统》一文
 
-[^open-3]: 一个典型的领子，比如 Jay Lyman 的文章[“Open Source Is Woven Into the Latest, Hottest Trends” (12 September 2013)](http://www.linuxinsider.com/story/Open-Source-Is-Woven-Into-the-Latest-Hottest-Trends-78937.html) 
+[^open-3]: 一个典型的领子，比如 Jay Lyman 的文章“Open Source Is Woven Into the Latest, Hottest Trends”（2013年9月12日）<http://www.linuxinsider.com/story/Open-Source-Is-Woven-Into-the-Latest-Hottest-Trends-78937.html>
 
-[^open-4]: 参见[“How Free Software and Open Source Relate as Categories of Programs”](http://gnu.org/philosophy/free-open-overlap.html)一文
+[^open-4]: 参见“How Free Software and Open Source Relate as Categories of Programs”一文，位于<http://gnu.org/philosophy/free-open-overlap.html>
 
 [^open-5]: 全部定义可参见<http://opensource.org/docs/osd> 
 

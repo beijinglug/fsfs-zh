@@ -325,7 +325,7 @@ Linux 是 Linus Torvalds 于 1991 年开始开发的内核的名字，使用 Lin
 
 非授权复制在很多情况下（不是全部！）被版权法所禁止，但是被禁止并不意味着它是错误的。从普遍意义上说，法律并不定义正确与错误。法律充其量只能试图实施公正。如果法律（实现）不能适应我们的是非观（具体），那么这样的法律就应该被改变。
 
-一位主持了一场版权侵犯审判的美国法官认可“盗版”和“盗窃”属于诽谤性的词语[^wordtoavoid-31]。
+一位主持了一场版权侵犯审判的美国法官认可“盗版”和“盗窃”属于诽谤性的词语[^wordtoavoid-26]。
 
 ### 信任计算（Trusted Computing）
 
@@ -359,7 +359,7 @@ Linux 是 Linus Torvalds 于 1991 年开始开发的内核的名字，使用 Lin
 
  [^wordtoavoid-11]: 参见《对版权的错误解读——一系列错误》 一文以获得关于此问题的更多信息。
 
- [^wordtoavoid-12]: Lara O’Reilly，“A Former Googler Has Declared War on Ad Blockers with a New Startup That Tackles Them in an Unorthodox Way”，2015 年六月 18 日，[http://uk.businessinsider.com/former-google-exec-launches-sourcepoint-with-10-million-series-a-funding-2015-6?r=US&IR=T](http://uk.businessinsider.com/former-google-exec-launches-sourcepoint-with-10-million-series-a-funding-2015-6?r=US&IR=T)。 @vglue -1pc
+ [^wordtoavoid-12]: Lara O’Reilly，“A Former Googler Has Declared War on Ad Blockers with a New Startup That Tackles Them in an Unorthodox Way”，2015 年六月 18 日，[http://uk.businessinsider.com/former-google-exec-launches-sourcepoint-with-10-million-series-a-funding-2015-6?r=US&IR=T](http://uk.businessinsider.com/former-google-exec-launches-sourcepoint-with-10-million-series-a-funding-2015-6?r=US&IR=T)。
 
  [^wordtoavoid-13]: 参见《如今自由软件更加重要》一文以获得关于此问题的更多信息。
 
@@ -391,13 +391,11 @@ Linux 是 Linus Torvalds 于 1991 年开始开发的内核的名字，使用 Lin
 
  [^wordtoavoid-27]: “软件，作为恶意的”之意。
 
- [^wordtoavoid-28]: 参见<http://gnu.org/proprietary/proprietary-surveillance.html\#SpywareInSkype>以获得更多信息。
+ [^wordtoavoid-28]: 参见这份说明以获得更多信息 <http://gnu.org/proprietary/proprietary-surveillance.html\#SpywareInSkype>。
 
  [^wordtoavoid-29]: 欧洲议会，“Directive on the Patentability of Computer-Implemented Inventions”，2003 年九月 24 日，[http://web.archive.org/web/20071222001014/http://www.swpat.ffii.org/papers/europarl0309](http://web.archive.org/web/20071222001014/http://www.swpat.ffii.org/papers/europarl0309)。
 
  [^wordtoavoid-30]: 为了驳斥他们，您可以援引这一真实案例：Harper Lee 起诉她的代理人涉嫌诱骗她将 To Kill a Mockingbird 一书的版权指认给他。
 
- [^wordtoavoid-31]: 参见脚注 26。
-
- [^wordtoavoid-32]: 参见《您能够信任您的计算机吗？》以获得关于此问题的更多信息。
+[^wordtoavoid-32]: 参见《您能够信任您的计算机吗？》以获得关于此问题的更多信息。
 
