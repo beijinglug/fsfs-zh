@@ -3,15 +3,17 @@
 
 > 本版本由 Leo-Hong (leohca (at) yahoo.com) 翻译整理。 源网页：<http://www.thebigfly.com/gnu/FDLv1.3/>。
 
-这是一份 GNU 自由文档许可证非正式的中文翻译。它并非由自由软件基金会所发表，亦非使用 GNU 自由文档许可证的文件的法定发布条款─只有 [GNU 自由文档许可证英文原文](http://www.gnu.org/licenses/fdl.html)的版本始具有此等效力。然而，我们希望这份翻译能帮助中文的使用者更了解 GNU 自由文档许可证。 
+-----
 
-This is an unofficial translation of the GNU Free Documentation License into Chinese. It was not published by the Free Software Foundation, and does not legally state the distribution terms for documents that uses the GNU FDL--only [the original English text of the GNU FDL](http://www.gnu.org/licenses/fdl.html) does that. However, we hope that this translation will help Chinese speakers understand the GNU FDL better.
+这是一份 GNU 自由文档许可证非正式的中文翻译。它并非由自由软件基金会所发表，亦非使用 GNU 自由文档许可证的文件的法定发布条款─只有 GNU 自由文档许可证英文原文 <http://www.gnu.org/licenses/fdl.html>的版本始具有此等效力。然而，我们希望这份翻译能帮助中文的使用者更了解 GNU 自由文档许可证。 
 
-### GNU 自由文档许可证
+This is an unofficial translation of the GNU Free Documentation License into Chinese. It was not published by the Free Software Foundation, and does not legally state the distribution terms for documents that uses the GNU FDL--only the original English text of the GNU FDL <http://www.gnu.org/licenses/fdl.html> does that. However, we hope that this translation will help Chinese speakers understand the GNU FDL better.
+
+-----
 
 第1.3版, 2008年11月
 
-著作权所有 (C) 2000,2001,2002,2007,2008 Free Software Foundation, Inc.<http://fsf.org/></font>
+著作权所有 (C) 2000,2001,2002,2007,2008 自由软件基金会 <http://fsf.org/>
 
 允许每个人复制和发布本许可证文件的完整副本，  
 但不允许对它进行任何修改。
@@ -167,21 +169,32 @@ MMC有重新授权的资格，如果它是在MMC下授权；或者所有的作�
 为使用本许可证成为你撰写成的一份文件，必须在文件中包括本许可证的一份复本，以及标题页的后面包括许可声明：
 
 ````
-Copyright (c) YEAR YOUR NAME. Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled "GNU Free Documentation License".
-
+Copyright (c) YEAR YOUR NAME. Permission is granted to copy,
+distribute and/or modify this document under the terms of
+the GNU Free Documentation License, Version 1.2 or any later
+version published by the Free Software Foundation; with no
+Invariant Sections, no Front-Cover Texts, and no Back-Cover
+Texts. A copy of the license is included in the section
+entitled "GNU Free Documentation License".
 ````
 
 如果你有恒常章节、前封面文字和后封面文字，请将with... Texts这一行以这些文本取代：
 
 ````
-with the Invariant Sections being LIST THEIR TITLES, with the Front-Cover Texts being LIST, and with the Back-Cover Texts being LIST.
+with the Invariant Sections being LIST THEIR TITLES, with the
+Front-Cover Texts being LIST, and with the Back-Cover Texts
+being LIST.
 ````
 
 如果你有不具封面文字的恒常章节，或一些其它这三者的组合，将可选择的二项合并以符合实际情形。
 
 如果你的文件中包含有并非微不足道的程序码范例，我们建议这些范例平行地在你的自由软件授权选择下，比如以 GNU General Public License 的自由软件授权来发布，从而允许它们作为自由软件而使用。
 
+
+
 **因为本书是基于 GNU FPL 许可证发布的，所以下面附加 FDL 许可证的英文原版，同时亦可与前面中文翻译版共同帮助理解。特此注明。**
+
+------
 
 ### GNU Free Documentation License 
 
@@ -632,7 +645,8 @@ replace the “with…Texts.” line with this:
 
 ```
 with the Invariant Sections being list their titles, with the 
-Front\-Cover Texts being list, and with the Back\-Cover Texts being list.
+Front-Cover Texts being list, and with the Back-Cover Texts
+being list.
 ```
 
 If you have Invariant Sections without Cover Texts, or some other

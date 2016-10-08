@@ -5,15 +5,17 @@
 
 ### 声明
 
-　　This is an unofficial translation of the GNU General Public License
+This is an unofficial translation of the GNU General Public License
 into Chinese. It was not published by the Free Software Foundation, and
 does not legally state the distribution terms for software that uses the
-GNU GPL--only [the original English text of the GNU
-GPL](http://www.gnu.org/licenses/gpl-3.0.html) does that. However, we
+GNU GPL--only the original English text of the GNU
+GPL <http://www.gnu.org/licenses/gpl-3.0.html> does that. However, we
 hope that this translation will help Chinese speakers understand the GNU
 GPL better.
 
-这是一份GNU通用公共授权的非官方中文简体翻译。它并非由自由软件基金会发布，也不是使用GNU通用公共授权的软件的法定发布条款——只有[GNU通用公共授权的英文原版](http://www.gnu.org/licenses/gpl-3.0.html)具有这样的效力。然而，我们希望这份翻译能够帮助中文读者更好的理解GNU通用公共授权。
+这是一份GNU通用公共授权的非官方中文简体翻译。它并非由自由软件基金会发布，也不是使用GNU通用公共授权的软件的法定发布条款——只有 GNU 通用公共授权的英文原版 <http://www.gnu.org/licenses/gpl-3.0.html> 具有这样的效力。然而，我们希望这份翻译能够帮助中文读者更好的理解GNU通用公共授权。
+
+-----
 
 第三版，2007年6月29日
 
@@ -249,8 +251,12 @@ f. 要求任何发布该材料（或其修改版本）的人用对接收者的�
 ```
 <用一行描述程序的名称与其用途简述>
 版权所有(C) <年份><作者姓名>
-本程序为自由软件；您可依据自由软件基金会所发表的GNU通用公共授权条款，对本程序再次发布和/或修改；无论您依据的是本授权的第三版，或（您可选的）任一日后发行的版本。
-本程序是基于使用目的而加以发布，然而不负任何担保责任；亦无对适售性或特定目的适用性所为的默示性担保。详情请参照GNU通用公共授权。
+本程序为自由软件；您可依据自由软件基金会所发表的GNU通用
+公共授权条款，对本程序再次发布和/或修改；无论您依据的
+是本授权的第三版，或（您可选的）任一日后发行的版本。
+本程序是基于使用目的而加以发布，然而不负任何担保责任；
+亦无对适售性或特定目的适用性所为的默示性担保。详情请
+参照GNU通用公共授权。
 您应已收到附随于本程序的GNU通用公共授权的副本；如果没有，请参照
 <http://www.gnu.org/licenses/>.
 ```
@@ -262,7 +268,8 @@ f. 要求任何发布该材料（或其修改版本）的人用对接收者的�
 ```
 <程序> 版权所有(C) <年份> <作者姓名>
 本程序不负任何担保责任，欲知详情请键入'show w'。
-这是一个自由软件，欢迎您在特定条件下再发布本程序；欲知详情请键入'show c'。
+这是一个自由软件，欢迎您在特定条件下再发布本程序；
+欲知详情请键入'show c'。
 ```
 
 所假设的指令'show w'与'show c'应显示通用公共授权的相对应条款。当然，您可以使用'show w'与'show c'以外的指令名称；对于图形用户界面，您可以用“关于”项代实现此功能。
