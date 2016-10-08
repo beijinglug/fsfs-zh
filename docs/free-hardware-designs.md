@@ -1,7 +1,7 @@
 \newpage
 ## 自由硬件和自由硬件设计
  
-> Copyright © 2015 Richard Stallman。本文分成两部分，分别以标题“为什么我们需要自由的电子硬件设计” (Wired, 11 March 2015, <http://wired.com/2015/03/need-free-digital-hardware-designs>) 和“硬件设计必须自由，如何行动见此” (Wired, 18 March 2015, <http://wired.com/2015/03/richard-stallman-how-to-make-hardware-designs-free>)，发表于《连线》杂志网站。2015年本文发布于 <http://gnu.org> 。
+> Copyright © 2015 Richard Stallman。本文分成两部分，分别以标题“为什么我们需要自由的电子硬件设计” <http://wired.com/2015/03/need-free-digital-hardware-designs> 和“硬件设计必须自由，如何行动见此” <http://wired.com/2015/03/richard-stallman-how-to-make-hardware-designs-free>，发表于《连线》杂志网站。2015年本文发布于 <http://gnu.org> 。
 
 > 自由软件的思想向硬件延伸到什么范围？让我们的硬件设计自由是不是个道德义务，正如使我们的软件自由那样？维持我们的自由是否需要抵制出自非自由设计的硬件？
 
@@ -159,7 +159,7 @@
 
  [^freehard-10]: 参见美国版权局定义的“useful article”，于 <http://copyright.gov/register/va-useful.html>. 
 
- [^freehard-11]: 一篇由 Public Knowledge 所写的文章 (“为你的 3D 打印产物赋予许可的三个步骤” 6 March 2015, <https://publicknowledge.org/assets/uploads/documents/3_Steps_for_Licensing_Your_3D_Printed_Stuff.pdf>) 对其在美国的复杂性给出了很有用的信息，尽管该文落入了使用伪概念“知识产权”，和不应该和版权联用的宣传用语“保护”的常见谬误。若问为何，《应避免使用（或慎用）的词语，由于它们是不公正的或者引起混淆的》一文。 
+ [^freehard-11]: 一篇由 Public Knowledge 所写的文章“为你的 3D 打印产物赋予许可的三个步骤”<https://publicknowledge.org/assets/uploads/documents/3_Steps_for_Licensing_Your_3D_Printed_Stuff.pdf>（2015年3月6日）。对其在美国的复杂性给出了很有用的信息，尽管该文落入了使用伪概念“知识产权”，和不应该和版权联用的宣传用语“保护”的常见谬误。若问为何，参见《应避免使用（或慎用）的词语，由于它们是不公正的或者引起混淆的》一文。 
 
  [^freehard-12]: 参见《您说过“知识产权”吗？这是一种迷惑性的幻景》一文。 
 
