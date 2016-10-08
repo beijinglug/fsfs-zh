@@ -53,5 +53,5 @@
 
 [^ebook1]: 参见《阅读的权利》一文以获得更多信息。
 
-[^ebook2]: 参见《版权与社区》一文和我在 2012 年致巴西参议院主席 Senator José Sarney 的公开信，位于 <https://stallman.org/articles/internet-sharing-license.en.html>，以获得更多信息。
+[^ebook2]: 参见《计算机网络时代的版权与社区之争》一文和我在 2012 年致巴西参议院主席 Senator José Sarney 的公开信，位于 <https://stallman.org/articles/internet-sharing-license.en.html>，以获得更多信息。
 
