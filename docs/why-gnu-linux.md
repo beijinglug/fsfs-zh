@@ -5,7 +5,7 @@
 
 > Copyright © 2000, 2006, 2007 Richard Stallman。
 
->关于此主题了解更多，你也可以阅读我们的 GNU/Linux FAQ <http://gnu.org/gnu/gnu-linux-faq.html> 的文章 *Linux和GNU系统*，它讲了 GNU/Linux 系统的历史，它和这命名的问题有关，以及文章 *从未听过GNU的GNU用户* <http://gnu.org/gnu/gnu-users-never-heard-of-gnu.html>。
+>关于此主题了解更多，你也可以阅读我们的 GNU/Linux FAQ <http://gnu.org/gnu/gnu-linux-faq.html> 和本书的《Linux 和 GNU 操作系统》一文，它讲了 GNU/Linux 系统的历史，和这命名的问题有关。以及另一篇文章《从未听过 GNU 的 GNU 用户》<http://gnu.org/gnu/gnu-users-never-heard-of-gnu.html>。
 
 顾名则思义；我们所选的名字代表了我们所要传达的思想。一个不恰当的名字会向人们传递错误的思想。玫瑰不管叫什么闻起来总是甜的——但是如果你把它叫作笔，当人们用它写字时将会很失望。同样地，如果你把笔叫作“玫瑰”，人们可能就不知道它能做什么了。如果你把我们的操作系统称为“Linux”，则会传达一些关于此系统起源、历史和目的的错误概念。如果你称之为 GNU/Linux，这将传达（虽然不详细）一个准确的概念。
 
