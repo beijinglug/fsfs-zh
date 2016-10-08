@@ -1,4 +1,4 @@
-# 附录B：不同语言对“自由软件”和“免费软件”的翻译
+# 不同语言对“自由软件”和“免费软件”的翻译
 
 > Copyright © 1999, 2000, 2004, 2006–2015 自由软件基金会 
 > 更新的翻译列表可参见 <http://gnu.org/philosophy/fs-translations.html>。增加新的语种翻译可联系 <web-translators@gnu.org>。
@@ -10,7 +10,7 @@
 | en | 英语 | free software | gratis software |
 | af | 南非荷兰语 | vrye sagteware | gratis sagteware |
 | ar | 阿拉伯语 | ![fs-translations/ar-libre](fs-translations/ar-libre.png){ width=100px } *(barmajiyat ḥorrah)* |
-| be | 白俄罗斯语 | ![fs-translations/be-libre](fs-translations/be-libre.png){ width=100px }  *(svabodnae pragramnae zabes’pjachen’ne)* |
+| be | 白俄罗斯语 | ![fs-translations/be-libre](fs-translations/be-libre.png){ width=120px }  *(svabodnae pragramnae zabes’pjachen’ne)* |
 | bg | 保加利亚语 | ![fs-translations/bg-libre](fs-translations/bg-libre.png){ width=100px }  *(svoboden softuer)* | ![fs-translations/bg-gratis](fs-translations/bg-gratis.png){ width=100px }  *(bezplaten softuer)* |
 | bn | 孟加拉语 |![fs-translations/bn-libre](fs-translations/bn-libre.png){ width=100px } *(swadhin software)* |
 | ca | 加泰罗尼亚语 | programari lliure | programari gratuït |
@@ -31,39 +31,39 @@
 | hi | 印地语 | ![fs-translations/hi-libre](fs-translations/hi-libre.png){ width=100px } *(mukt software)*|![fs-translations/hi-gratis](fs-translations/hi-gratis.png){ width=100px } *(muft software)*|
 | hr | 克罗地亚语 | slobodan softver | besplatan softver|
 | hu | 匈牙利语 | szabad szoftver | ingyenes szoftver *或* ingyen szoftver |
-| hy | 亚美尼亚语 | ![fs-translations/hy-libre](fs-translations/hy-libre.png){ width=100px } *(azat tsragir/tsragrer)* |
+| hy | 亚美尼亚语 | ![fs-translations/hy-libre](fs-translations/hy-libre.png){ width=120px } *(azat tsragir/tsragrer)* |
 | ia | 国际语 | libere programmage *或* libere programmario | 
 | id | 印度尼西亚语 | perangkat lunak bebas|
 | io | 伊多 | libera programaro |
 | is | 冰岛语 | frjáls hugbúna@dh{}ur |
 | it | 意大利语 | software libero | software gratuito |
 | ja | 日语 | ![fs-translations/ja-kanji-libre](fs-translations/ja-kanji-libre.png){ width=100px } *(jiyū-sofutouea)* | ![fs-translations/ja-kanji-gratis](fs-translations/ja-kanji-gratis.png){ width=100px } *(muryō-sofutouea)*|
-| ka | 格鲁吉亚语 |![fs-translations/ka-libre](fs-translations/ka-libre.png){ width=100px } *(tavisupali programebi)* | ![fs-translations/ka-gratis](fs-translations/ka-gratis.png){ width=100px } *(upaso programebi)* |
+| ka | 格鲁吉亚语 |![fs-translations/ka-libre](fs-translations/ka-libre.png){ width=120px } *(tavisupali programebi)* | ![fs-translations/ka-gratis](fs-translations/ka-gratis.png){ width=100px } *(upaso programebi)* |
 | ko | 韩语 | ![fs-translations/ko-libre](fs-translations/ko-libre.png){ width=100px }  *(ja-yu software)* | 
 | lt | 立陶宛语 | laisva programinė įranga | nemokama programinė įranga |
 | lv | 拉脱维亚语 | brīva programmatūra | bezmaksas programmatūra |
 | mk | 马其顿语 | ![fs-translations/mk-libre](fs-translations/mk-libre.png){ width=100px } *(sloboden softver)* |![fs-translations/mk-gratis](fs-translations/mk-gratis.png){ width=100px } *(besplaten softver)*|
-| ml | 马拉雅拉姆语 | ![fs-translations/ml-libre](fs-translations/ml-libre.png){ width=100px } *(svatantrasophṯṯveyar)* | ![fs-translations/ml-gratis](fs-translations/ml-gratis.png){ width=100px } *(soujanyasophṯṯveyar)* |
+| ml | 马拉雅拉姆语 | ![fs-translations/ml-libre](fs-translations/ml-libre.png){ width=120px } *(svatantrasophṯṯveyar)* | ![fs-translations/ml-gratis](fs-translations/ml-gratis.png){ width=120px } *(soujanyasophṯṯveyar)* |
 | ms | 马来语 | perisian bebas |
 | nl | 荷兰语 | vrije software | gratis software |
 | no | 挪威语 | fri programvare |
 | pl | 波兰语 | wolne oprogramowanie | darmowe oprogramowanie|
 | pt | 葡萄牙语 | software livre |
 | ro | 罗马尼亚语 | programe libere | programe gratuite |
-| ru | 俄语 | ![fs-translations/ru-libre](fs-translations/ru-libre.png){ width=100px } *(svobodnie programmi)* | ![fs-translations/ru-gratis](fs-translations/ru-gratis.png){ width=100px } *(besplatnie programmi)* |
+| ru | 俄语 | ![fs-translations/ru-libre](fs-translations/ru-libre.png){ width=120px } *(svobodnie programmi)* | ![fs-translations/ru-gratis](fs-translations/ru-gratis.png){ width=120px } *(besplatnie programmi)* |
 | sc | 撒丁语 | software liberu |
 | si | 僧伽罗语 |![fs-translations/si-libre](fs-translations/si-libre.png){ width=100px }  *(nidahas mṛdukāṅga)* |
 | sk | 斯洛伐克语 | slobodný softvér |
 | sl | 斯洛文尼亚语 | prosto programje |
 | sq | 阿尔巴尼亚语 | software i lirë | software falas |
-| sr | 塞尔维亚 | ![fs-translations/sr-libre](fs-translations/sr-libre.png){ width=100px }} *或*  slobodni softver |![fs-translations/sr-gratis](fs-translations/sr-gratis.png){ width=100px } *或* besplatni softver |
+| sr | 塞尔维亚 | ![fs-translations/sr-libre](fs-translations/sr-libre.png){ width=100px } *或*  slobodni softver |![fs-translations/sr-gratis](fs-translations/sr-gratis.png){ width=100px } *或* besplatni softver |
 | sv | 瑞典语 | fri programvara *或* fri mjukvara |
 | sw | 斯瓦希里语 | software huru *或* programu huru za kompyuta |
-| ta | 泰米尔文 | ![fs-translations/ta-libre](fs-translations/ta-libre.png){ width=100px } *(kaṭṭaṟṟa meṉpoñaḷ)* | ![fs-translations/ta-gratis](fs-translations/ta-gratis.png){ width=100px } *(illavasa menporul)* |
+| ta | 泰米尔文 | ![fs-translations/ta-libre](fs-translations/ta-libre.png){ width=120px } *(kaṭṭaṟṟa meṉpoñaḷ)* | ![fs-translations/ta-gratis](fs-translations/ta-gratis.png){ width=120px } *(illavasa menporul)* |
 | th | 泰语 | ![fs-translations/th-libre](fs-translations/th-libre.png){ width=100px } *(sofotwerseri)* |
 | tl | 他加禄语（菲律宾）| malayang software |
 | tr | 土耳其语 | özgür yazilim |
-| uk | 乌克兰语 | ![fs-translations/uk-libre](fs-translations/uk-libre.png){ width=100px } *(vil’ne prohramne zabezpechennja)*|
+| uk | 乌克兰语 | ![fs-translations/uk-libre](fs-translations/uk-libre.png){ width=120px } *(vil’ne prohramne zabezpechennja)*|
 | ur | 乌尔都语 | ![fs-translations/ur-libre](fs-translations/ur-libre.png){ width=100px } *(azad software)* | ![fs-translations/ur-gratis](fs-translations/ur-gratis.png){ width=100px } *(muft software)* |
 | vi | 越南语 | ![fs-translations/vi-libre](fs-translations/vi-libre.png){ width=100px } |
 | zh-cn | 中文（简体） |![fs-translations/zh-cn-libre](fs-translations/zh-cn-libre.png){ width=100px } *(zi-you ruan-jian)*|![fs-translations/zh-cn-gratis](fs-translations/zh-cn-gratis.png){ width=100px } *(mian-fei ruan-jian)* |
