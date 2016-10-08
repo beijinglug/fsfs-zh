@@ -304,7 +304,7 @@ AACS 阴谋集团为所有播放器制定了细致的规则。例如在 2011 年
 
 我们想要利用它们改变新西兰版权法案中的两大邪恶部分，它们不应取代“三振出局法”[^copyright-community-4]，由于分享是美好的，它们应当摆脱针对用于破解 DRM 的软件的审查。当心反假冒贸易协定（ACTA），它们试图在不同国家之间商定一种条约，使这些国家可以攻击它们的国民，我们不知道如何攻击，由于它们不会告诉我们。
 
- [^copyright-community-1]: 在 2010 年，关于数字视频输出的加密系统被正式破解(参见 Mark Hachman’s “HDCP Master Key Confirmed; Blu-Ray Content Vulnerable” (September 16 2010)，位于 <http://pcmag.com/article2/0,2817,2369280,00.asp> 以获得更多信息) 。
+ [^copyright-community-1]: 在 2010 年，关于数字视频输出的加密系统被正式破解。参见 Mark Hachman 的文章“HDCP Master Key Confirmed; Blu-Ray Content Vulnerable”（2010年9月16日），位于 <http://pcmag.com/article2/0,2817,2369280,00.asp> 以获得更多信息) 。
 
  [^copyright-community-2]: 此书即《Free as in Freedom》。中文译名《若为自由故：自由软件之父理查德·斯托曼传》，邓楠、李凡希翻译，人民邮电出版社2015年出版。——译者注。
 
