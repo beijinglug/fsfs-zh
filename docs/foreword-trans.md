@@ -18,7 +18,7 @@
 
 此书的翻译得到了大量的支持和关注，特别感谢 GNU 网站中文化团队以及哲思社区曾翻译过此书的第一版和第二版的部分文章。术语和专业性内容我们也参考了国内其他人撰写的类似论文、书籍，还有中文维基百科。同时为了减少重复劳动，以合规性为前提，我们也将几篇既有的优秀中文翻译加入其中，感谢他们曾经做出的巨大贡献。
 
-参与本书翻译和校对的成员有（按贡献量排序）：tonghuix、nadebula、MandyMY、mytbk、persmule、biergaizi、liushuyu 和 Artoria2e5。其中 nadebula 翻译了大量版权和专利相关的文章，而这一部分则是此前很少发表的内容；其他成员则参与了翻译和校对。感谢 mytbk 帮助解决了此书 PDF 文件生成的格式问题，liushuyu 重新制作了“自由软件之歌”中文版乐谱。
+参与本书翻译和校对的成员有（按贡献量排序）：tonghuix、nadebula、MandyMY、mytbk、persmule、biergaizi、liushuyu 和 Artoria2e5。其中 nadebula 提供了 25 篇高质量翻译，特别是翻译了大量版权和专利相关的文章，而这一部分则是此前很少发表的内容；其他成员则参与了翻译和校对；感谢 mytbk 帮助解决了此书 PDF 文件生成的格式问题；liushuyu 重新制作了“自由软件之歌”中文版乐谱，并可以通过自由的乐谱软件 Musescore[^trans-2] 播放聆听。
 
 \    
 
@@ -32,3 +32,5 @@
 <https://beijinglug.club>
 
 [^trans-1]: 相关信息可见 <https://savannah.gnu.org/projects/blug>
+
+[^trans-2]: 可前往其官方网站下载 https://musescore.org/。GNU/Linux 发行版可通过包管理器搜索`musescore`来安装。
