@@ -6,9 +6,9 @@
 封面设计 Kyle Winfree
 
 
-下载电子版（PDF）：[这里下载](https://drone.io/github.com/beijinglug/fsfs-zh/files/fsfs-zh.pdf)
+下载电子版（PDF）：[这里下载](https://github.com/beijinglug/fsfs-zh/releases)
 
-下载电子书（EPUB）：[这里下载](https://drone.io/github.com/beijinglug/fsfs-zh/files/fsfs-zh.epub)
+下载电子书（EPUB）：[这里下载](https://github.com/beijinglug/fsfs-zh/releases)
 
 贡献者
 -------
