@@ -9,9 +9,8 @@ before_script:
     - lsb_release -a
     - sudo apt-get update
     - "./install.latex.ubuntu.sh"
+    - "./install.fandolsong.sh"
     - wget https://github.com/jgm/pandoc/releases/download/1.17.2/pandoc-1.17.2-1-amd64.deb
-    - wget -c http://mirrors.ctan.org/fonts/fandol/FandolSong-Bold.otf http://mirrors.ctan.org/fonts/fandol/FandolKai-Regular.otf http://mirrors.ctan.org/fonts/fandol/FandolSong-Regular.otf
-    - mv *.ttf /usr/share/fonts/
     - sudo dpkg -i *.deb
 
 script:
