@@ -20,12 +20,11 @@
 
 参与本书翻译和校对的成员有（按贡献量排序）：tonghuix、nadebula、MandyMY、mytbk、persmule、biergaizi、liushuyu 和 Artoria2e5。其中 nadebula 提供了 25 篇高质量翻译，特别是翻译了大量版权和专利相关的文章，而这一部分则是此前很少发表的内容；其他成员则参与了翻译和校对；感谢 mytbk 帮助解决了此书 PDF 文件生成的格式问题；liushuyu 重新制作了“自由软件之歌”中文版乐谱，并可以通过自由的乐谱软件 Musescore[^trans-2] 播放聆听。
 
-本书的翻译依然还有尚不完善之处，我们非常欢迎各界朋友雅正。本书的翻译项目托管在 GitHub 网站 <https://github.com/beijinglug/fsfs-zh>，您可以直接那里提交 Issue 或 Pull Request。此处亦附上本书英文原版下载地址 <https://www.gnu.org/doc/fsfs3-hardcover.pdf>，以便对照。
+本书的翻译依然尚不完善之处，我们非常欢迎各界朋友雅正。本书的翻译项目托管在 GitHub 网站 <https://github.com/beijinglug/fsfs-zh>，您可以直接在那里提交 Issue 或 Pull Request 帮助我们改正。此处亦附上本书英文原版下载地址 <https://www.gnu.org/doc/fsfs3-hardcover.pdf>，以便对照。
 
 \   
 
-北京 GNU/Linux 用户组 
-<https://beijinglug.club>
+北京 GNU/Linux 用户组（<https://beijinglug.club>）2016年10月于北京
 
 [^trans-1]: 相关信息可见 <https://savannah.gnu.org/projects/blug>
 
