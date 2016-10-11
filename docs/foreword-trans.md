@@ -24,7 +24,9 @@
 
 \   
 
-北京 GNU/Linux 用户组（<https://beijinglug.club>）2016年10月于北京
+北京 GNU/Linux 用户组（<https://beijinglug.club>） 
+
+2016年10月于北京
 
 [^trans-1]: 相关信息可见 <https://savannah.gnu.org/projects/blug>
 
