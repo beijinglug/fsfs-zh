@@ -13,6 +13,12 @@ Free Software, Free Society v3 Chinese Translation
 
 下载电子书（EPUB）：[这里下载](https://github.com/beijinglug/fsfs-zh/releases)
 
+如何从源码构建
+--------
+
+参见 [BUILD.md](BUILD.md) 文档。
+
+
 如何参与
 -------
 
@@ -25,11 +31,11 @@ Free Software, Free Society v3 Chinese Translation
 | ------ | -------- |
 | @nadebula | 翻译了第三、四、六和七部分以及其他一些文章 | 
 | @tonghuix | 翻译了一些文章，将某些既有翻译加入进来，大量校对 |
-| @liushuyu | 翻译了 Linux and GNU 一文 |
+| @liushuyu | 翻译了 Linux and GNU 一文，使用 Musescore 重制了自由软件之歌的乐谱 |
 | @persmle | 翻译了一些文章，大量校对 | 
 | @MandyMY | 大量校对 |
 | @biergaizi | 少量翻译 |
-| @mytbk | 少量翻译和校对 |
+| @mytbk | 少量翻译和校对，并完善 pdf 格式排版 |
 
 授权许可
 --------
