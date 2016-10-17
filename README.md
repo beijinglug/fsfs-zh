@@ -1,6 +1,5 @@
 [![Build Status](https://travis-ci.org/beijinglug/fsfs-zh.svg?branch=master)](https://travis-ci.org/beijinglug/fsfs-zh)
 [![Build Status](https://semaphoreci.com/api/v1/tonghuix/fsfs-zh/branches/master/shields_badge.svg)](https://semaphoreci.com/tonghuix/fsfs-zh)
-[![Build Status](https://drone.io/github.com/beijinglug/fsfs-zh/status.png)](https://drone.io/github.com/beijinglug/fsfs-zh/latest)
 
 Free Software, Free Society v3 Chinese Translation
 =========================

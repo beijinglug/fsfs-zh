@@ -7,7 +7,7 @@ dist: trusty
 before_script:
     - uname -a
     - lsb_release -a
-    - sudo add-apt-repository -y ppa:jonathonf/texlive-2016
+    - sudo add-apt-repository -y ppa:jonathonf/texlive-2015
     - sudo apt-get update
     - "./install.latex.ubuntu.sh"
     - "./install.fandolsong.sh"
