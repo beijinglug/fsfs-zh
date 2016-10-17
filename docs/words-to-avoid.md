@@ -53,7 +53,7 @@
 
 这些不同的计算实践甚至不属于同一个讨论范围。避免使用“云计算”这一带来混淆的概念，最佳方式是不使用术语“云”与计算相关联。只谈论您想要表达的话题，并且以一种具体的概念称呼它。
 
-有趣的是，Larry Ellison，一位私有软件开发者也注意到了“云计算”这一概念的空泛性[^wordtoavoid-10]。但他决定仍然使用这一概念，由于作为一位私有软件开发者，此人与我们不是由相同理念所驱使的。
+有趣的是，Larry Ellison，一位私有软件开发者也注意到了“云计算”这一概念的空泛性[^wordtoavoid-10]。但他决定仍然使用这一概念，因为他是一位私有软件开发者，毕竟此人与我们不是由相同理念所驱使的。
 
 ### 商业（Commercial）
 
@@ -359,7 +359,8 @@ Linux 是 Linus Torvalds 于 1991 年开始开发的内核的名字，使用 Lin
 
  [^wordtoavoid-11]: 参见《对版权的错误解读——一系列错误》 一文以获得关于此问题的更多信息。
 
- [^wordtoavoid-12]: Lara O’Reilly，“A Former Googler Has Declared War on Ad Blockers with a New Startup That Tackles Them in an Unorthodox Way”，2015 年六月 18 日，[http://uk.businessinsider.com/former-google-exec-launches-sourcepoint-with-10-million-series-a-funding-2015-6?r=US&IR=T](http://uk.businessinsider.com/former-google-exec-launches-sourcepoint-with-10-million-series-a-funding-2015-6?r=US&IR=T)。
+ [^wordtoavoid-12]: Lara O’Reilly，“A Former Googler Has Declared War on Ad Blockers with a New Startup That Tackles Them in an Unorthodox Way”，2015 年六月 18 日，[http://uk.businessinsider.com/former-google-exec-launches-sourcepoint-with-10-million-series-a-funding-
+ 2015-6?r=US&IR=T](http://uk.businessinsider.com/former-google-exec-launches-sourcepoint-with-10-million-series-a-funding-2015-6?r=US&IR=T)。
 
  [^wordtoavoid-13]: 参见《如今自由软件更加重要》一文以获得关于此问题的更多信息。
 
