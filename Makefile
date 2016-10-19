@@ -63,16 +63,16 @@ APPENDIXS =	docs/appendix-a.md \
 			docs/appendix-b.md \
 			docs/appendix-c.md  \
 
-all: book
+all: book html
 
-book: epub html pdf odf
+book: epub pdf odf
 
 clean:
 		rm *.tex *.aux *.fot *.toc *.log *.out
 		rm -fr fs-translations
 		rm *.png
-		rm $(BOOKNAME).* 
 		rm -r site
+		rm $(BOOKNAME).* 
 
 epub: $(BOOKNAME).epub
 
