@@ -126,6 +126,5 @@ Google Docs 向我们展示要评估单一服务到底可以有多么复杂。�
 
  [^server-9]: 参见《JavaScript 陷阱》一文以获得更多信息。
 
- [^server-10]: 参见 “Why the Affero GPL,” at <http://gnu.org/licenses/why-affero-gpl.html> 以获得完整解释。
-
+ [^server-10]: 参见 “Why the Affero GPL” <http://gnu.org/licenses/why-affero-gpl.html> 以获得完整解释。
 
