@@ -3,7 +3,7 @@
 \newpage
 ## 避免破坏性的妥协
 
-> Copyleft (C) 2008, 2009, 2014, 2015 理查德·斯托曼（Richard Stallman）。本文最早于 2008 年发表于 <http://gnu.org>
+> Copyright (C) 2008, 2009, 2014, 2015 理查德·斯托曼（Richard Stallman）。本文最早于 2008 年发表于 <http://gnu.org>
 
 > 1983 年 9 月 27 日，我发起了一项计划，致力于创造一个完全自由的操作系统，它称作 GNU —— 意为 GNU 不是 Unix （GNU's Not Unix）。为了纪念 GNU 操作系统 25 周年，我写出了这篇文章，旨在阐述我们的社区怎样才能避开破坏性的妥协。除了避开这类妥协之外，您还可通过很多其他方式帮助 GNU 和自由软件。其中一条基本方式是以合作成员的身份加入自由软件基金会（FSF）[^compromise-1]。
 
@@ -59,7 +59,7 @@ GNU 宽通用公共许可证（GNU LGPL）的目的在于一种妥协，我们�
 
  [^compromise-3]: 参见自由软件基金会执行董事 John Sullivan 于 2008 年发表的文章：“The Last Mile Is Always the Hardest,”，位于[http://fsf.org/bulletin/2008/spring/the-last-mile-is-always-the-hardest](http://fsf.org/bulletin/2008/spring/the-last-mile-is-always-the-hardest)，所提及的他本人对于这一问题的看法。 
 
- [^compromise-4]: 您可以在这里找到自由操作系统发行版准则： (GNU FSDG) <http://gnu.org/philosophy/free-system-distribution-guidelines.html>。 
+ [^compromise-4]: 您可以在这里找到自由操作系统发行版准则（GNU FSDG）：<http://gnu.org/philosophy/free-system-distribution-guidelines.html>。 
 
  [^compromise-5]: 参见 <http://gnu.org/philosophy/java-trap.html> 获取更多细节。 
 
