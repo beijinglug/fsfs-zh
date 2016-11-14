@@ -1,7 +1,7 @@
 \newpage
 ## GNU 自由文档许可证
 
-> 本版本由 Leo-Hong (leohca (at) yahoo.com) 翻译整理。 源网页：<http://www.thebigfly.com/gnu/FDLv1.3/>。
+> 此版本由 Leo-Hong (leohca (at) yahoo.com) 翻译整理。 源网页：<http://www.thebigfly.com/gnu/FDLv1.3/>。
 
 -----
 
@@ -13,7 +13,7 @@ This is an unofficial translation of the GNU Free Documentation License into Chi
 
 第1.3版, 2008年11月
 
-著作权所有 (C) 2000,2001,2002,2007,2008 自由软件基金会 <http://fsf.org/>
+Copyright © 2000,2001,2002,2007,2008 自由软件基金会 <http://fsf.org/>
 
 允许每个人复制和发布本许可证文件的完整副本，  
 但不允许对它进行任何修改。
