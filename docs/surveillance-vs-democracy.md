@@ -1,7 +1,7 @@
 \newpage
 ## 民主可以承受多少监控？
 
-> Copyright (C) 2015 理查德·斯托曼（Richard Stallman）。本文最初以相同的标题发表于《连线》杂志（2013年10月14日）[http://www.wired.com/opinion/2013/10/a-necessary-evil-what-it-takes-for-
+> Copyright © 2015 理查德·斯托曼（Richard Stallman）。本文最初以相同的标题发表于《连线》杂志（2013年10月14日）[http://www.wired.com/opinion/2013/10/a-necessary-evil-what-it-takes-for-
 democracy-to-survive-surveillance](http://www.wired.com/opinion/2013/10/a-necessary-evil-what-it-takes-for-democracy-to-survive-surveillance)
 
 多亏了爱德华•斯诺登的揭露，我们才知道当今社会中的普遍监控级别已经与人权不相容。在美国和世界其他地区持续发生的针对持不同政见者、信息来源和新闻工作者的骚扰和指控确认了这一点。我们需要适当降低普遍监控的级别，但是到底应当在多大程度上？我们所必须保证其不被超越的，可接受的*最大监控级别*到底是多少？这种监控级别应当这样定义：一旦超过了这样的级别，监控行为将会干涉民主的运行。此时揭露者（例如斯诺登）很可能因此而被逮捕。

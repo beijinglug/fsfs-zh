@@ -1,7 +1,7 @@
 \newpage
 ## 电子书必须增进我们的自由而非限制我们的自由
 
-> Copyright (C) 2012 理查德·斯托曼（Richard Stallman）。本文最初于 2012 年 4 月 17 日以标题“Technology Should Help Us Share, Not Constrain Us”，发表于英国卫报<http://guardian.co.uk>，并带有一些特别的修订。此版本整合了部分修订，同时恢复了部分原文。
+> Copyright © 2012 理查德·斯托曼（Richard Stallman）。本文最初于 2012 年 4 月 17 日以标题“Technology Should Help Us Share, Not Constrain Us”，发表于英国卫报<http://guardian.co.uk>，并带有一些特别的修订。此版本整合了部分修订，同时恢复了部分原文。
 
 我喜欢 The Jehovah Contract 这本书，也希望每个人都喜欢它。这些年来，我已经至少借出它六次了。纸版书允许我们这么做。
 

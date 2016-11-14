@@ -1,7 +1,7 @@
 \newpage
 ## X Window 系统的陷阱
 
-> Copyright (C) 1998, 1999, 2009 理查德·斯托曼（Richard Stallman）。本文最初于 1998 年发表在 <http://gnu.org>。
+> Copyright © 1998, 1999, 2009 理查德·斯托曼（Richard Stallman）。本文最初于 1998 年发表在 <http://gnu.org>。
 
 左版（Copyleft），还是不要左版？这是自由软件社区中的主要分歧之一。左版的理念之一是我们可以以火灭火——即我们应当利用版权以保证我们的代码持续自由。GNU 通用公共许可证（GNU GPL）就是一个左版许可证的例子。
 

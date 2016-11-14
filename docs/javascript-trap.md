@@ -1,7 +1,7 @@
 \newpage
 ## JavaScript 陷阱
 
-> Copyright (C) 2009–2013 Richard Stallman 
+> Copyright © 2009–2013 Richard Stallman 
 
 > 您可能每天都在您的计算机上通过您的浏览器运行私有软件而毫无察觉。
 

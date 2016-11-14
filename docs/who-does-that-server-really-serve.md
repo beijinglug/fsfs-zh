@@ -1,7 +1,7 @@
 \newpage
 ## 服务器真正是在为谁服务？
 
-> Copyright (C) 2010, 2013, 2015 理查德·斯托曼（Richard Stallman）。本文最初于 2010 年三月 8 日以标题“What Does That Server Really Serve?”发表于 Boston Review 在线版。
+> Copyright © 2010, 2013, 2015 理查德·斯托曼（Richard Stallman）。本文最初于 2010 年三月 8 日以标题“What Does That Server Really Serve?”发表于 Boston Review 在线版。
 
 **在互联网环境中，私有软件并非剥夺您的自由的唯一方式。“服务作为软件替代品”（Service as a Software Substitute），或者 SaaSS，是另一种赋予其他人支配您的计算的权力的途径。**
 

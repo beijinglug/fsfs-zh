@@ -3,7 +3,7 @@
 
 > 本文是 Richard Stallman 所做主题演讲之抄本，该主题演讲于 2009 年十月在新西兰基督城（克赖斯特彻奇）会展中心所举行的新西兰奥特亚罗瓦图书馆与信息协会（LIANZA）会议上进行。
 
-> Copyright (C) 2009 自由软件基金会，感谢 Bookman 为此原始抄本所做的贡献。
+> Copyright © 2009 自由软件基金会，感谢 Bookman 为此原始抄本所做的贡献。
 
 > **Brenda Chawner：** 今天，本人荣幸介绍 Richard Stallman，他的主题演讲由惠灵顿维多利亚大学信息管理学院所赞助。
 >

@@ -1,7 +1,7 @@
 \newpage
 ## 软件专利的威胁
 
-> Copyright (C) 2009, 2010, 2014 Richard Stallman 此抄本最初于 2009 年发表于 <http://gnu.org>。
+> Copyright © 2009, 2010, 2014 Richard Stallman 此抄本最初于 2009 年发表于 <http://gnu.org>。
 
 > 本文是 Richard Stallman 于 2009 年 11 月 8 日在位于新西兰惠灵顿的惠灵顿维多利亚大学所做的演讲的未编辑抄本。
 
