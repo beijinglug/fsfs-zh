@@ -26,15 +26,15 @@ sudo pip3 install mkdocs
 
 如上文安装好 pandoc 之后，直接运行`make epub`即可，会在当前目录下生成`fsfs-zh.epub`文件。
 
-如何在 Amazon Swindle（RMS 对 Kindle 的蔑称）上阅读？通过包管理器安装 Calibre 这款软件（此软件亦支持 M$ Windows 和 macO$ 系统），然后将 epub 文件生成 mobi 文件导入阅读器即可。我们并不推荐在 Swindle 上阅读此书，但兼容 Swindle 格式可以让你看完此书后抛弃这个产品。
+如何在 Amazon Swindle（RMS 对 Kindle 的蔑称）上阅读？通过包管理器安装 [Calibre](https://calibre-ebook.com/) 这款软件（此软件亦支持 M$ Windows 和 macO$ 系统），然后将 epub 文件生成 mobi 文件导入阅读器即可。我们并不推荐在 Swindle 上阅读此书，但兼容 Swindle 格式可以让你看完此书后抛弃这个产品。
 
 ## PDF 文件
 
-这里使用了 texlive 2015 工具集，越新越好。Debian Stretch 和 Ubuntu 16.04/16.10 可直接运行`install.latex.ubuntu.sh`脚本安装所有需要的包。Fedora 24 可以运行如下命令：
+这里使用了 texlive 2015 工具集，越新越好。Debian Stretch 和 Ubuntu 16.04/16.10 可直接运行`install.latex.ubuntu.sh`脚本安装所有需要的包。Fedora 24 / 25 可以运行如下命令：
 
 `sudo dnf -y install @"Authoring and Publishing" pandoc pandoc-pdf pandoc-citeproc texlive-textpos texlive-tocbibind texlive-framed  texlive-appendix texlive-tabulary texlive-fandol google-noto-cjk-fonts texlive-bigfoot`
 
-以便安装必须的包。除 Fedora 24 以外均需要安装 Fandol 系列字体，可以运行`install.fandol.sh`脚本安装。
+这样可以安装必须的包。低于 Fedora 23（含）的版本均需要安装 Fandol 系列字体，可以运行`install.fandol.sh`脚本安装。
 
 安装好后执行`make pdf`即可，会在当前目录下生成`fsfs-zh.pdf`文件。
 
