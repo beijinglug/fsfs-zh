@@ -39,6 +39,7 @@ Free Software, Free Society v3 Chinese Translation
 | @MandyMY | 大量校对 |
 | @biergaizi | 少量翻译 |
 | @mytbk | 少量翻译和校对，并完善 pdf 格式排版 |
+| @wxy | 参与修订，并将此书增加到[Linux中国](https://linux.cn)的每周微博、微信推送中 |
 
 授权许可
 --------
