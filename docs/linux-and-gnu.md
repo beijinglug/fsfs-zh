@@ -5,15 +5,15 @@
 
 每天，大量的用户在毫不知情的情况下在他们的计算机上运行着修改版的 GNU 操作系统[^linux-gnu-1]。而这个现在广为使用的修改版的 GNU 操作系统通常被称为“Linux”，但是很多它的用户并不知道，它其实就是 GNU 计划开发的 GNU 操作系统[^linux-gnu-2]。
 
-Linux 也确实存在，并且那些用户也确实是在使用它，不过它仅仅是这些用户所使用的操作系统的一部分。Linux 仅仅是一个内核: 它就是分配你硬件设备上的资源给其他你所使用的程序的一个特殊程序。内核是操作系统中不可或缺的一部分，但是只有内核是远远不够的。内核仅能在完整操作系统的环境下才能正常工作。一般来讲，Linux 会与 GNU 操作系统合起来使用: 整个系统就是添加了Linux 内核的 GNU 操作系统，或者简而言之，GNU/Linux。所有所谓的 “Linux” 发行版其实就是 GNU/Linux 发行版。
+Linux 也确实存在，并且那些用户也确实是在使用它，不过它仅仅是这些用户所使用的操作系统的一部分。Linux 仅仅是一个内核: 它就是分配你硬件设备上的资源给其他你所使用的程序的一个特殊程序。内核是操作系统中不可或缺的一部分，但是只有内核是远远不够的。内核仅能在完整操作系统的环境下才能正常工作。一般来讲，Linux 会与 GNU 操作系统合起来使用: 整个系统就是添加了 Linux 内核的 GNU 操作系统，或者简而言之，GNU/Linux。所有所谓的 “Linux” 发行版其实就是 GNU/Linux 发行版。
 
-很多用户并不能区分内核（即 Linux）和整个操作系统（他们也称为 “Linux”）。这种混淆视听的称呼并不能帮助人们正确理解这一区别。所以人们通常会认为1991年 Linus Torvalds 在没有借助太多其他帮助的情况下就开发出了整个操作系统。
+很多用户并不能区分内核（即 Linux）和整个操作系统（他们也称为 “Linux”）。这种混淆视听的称呼并不能帮助人们正确理解这一区别。所以人们通常会认为 1991 年 Linus Torvalds 在没有借助太多其他帮助的情况下就开发出了整个操作系统。
 
 程序员们基本上都知道 Linux 只是个内核。但是他们通常会听到别人把整个操作系统都称为 Linux，然后他们就会跟从接受以内核名称命名操作系统的传统。比如，很多人都相信当 Linus Torvalds 编写完 Linux 内核之后，它的用户们去寻找其他与之搭配使用的自由软件时，（毫无道理地）发现用于构建类 Unix 系统的一切其实都已然存在。
 
 真实的情况是，当时的他们发现了并不完全完整的 GNU 系统，而这一发现决非偶然。当时已有的自由软件[^linux-gnu-3]加在一起一同组成了一个完整的操作系统。这是因为 GNU 项目从 1984 年就开始致力于实现这一目标。在 GNU 宣言（GNU Manifesto）[^linux-gnu-4]当中，我们就确立了开发一个称为 GNU 的类 Unix 的自由操作系统的目标。GNU 计划的初始声明（The Initial Announcement）[^linux-gnu-5]还包括了 GNU 操作系统开发计划的部分大纲。在 Linux 开始开发前，GNU 几乎就要完成了。
 
-绝大多数的自由软件项目都是以“为某项具体的工作开发一款具体的软件”为目的。比如，Linus Torvalds 开发了类似于 Unix 的内核（Linux）; Donald Knuth 编写了一个格式化文本工具（TeX）; 而Bob Scheifler 则开发了一种窗口管理系统 （X 窗口管理系统）。对于这类软件而言，衡量特定的软件对该项目的贡献是简单而自然的。
+绝大多数的自由软件项目都是以“为某项具体的工作开发一款具体的软件”为目的。比如，Linus Torvalds 开发了类似于 Unix 的内核（Linux）; Donald Knuth 编写了一个格式化文本工具（TeX）; 而 Bob Scheifler 则开发了一种窗口管理系统 （X 窗口管理系统）。对于这类软件而言，衡量特定的软件对该项目的贡献是简单而自然的。
 
 但是如果我们以这种方法去衡量 GNU 项目的贡献的话，我们会得出怎样的结果呢？某个 CD-ROM 的供应商发现在他们的 “Linux 发行版”中，GNU 软件[^linux-gnu-6]是其中最大的必备依赖软件，约占全部源代码数量的28%，并且还包括了构成完整操作系统不可或缺的一部分组件。而 Linux 自己只占 3%（截至 2008 年，此比例仍然准确: 在 gNewSense 的“主源”当中，Linux 占 1.5%，而 GNU 软件包占了 15%）。所以如果你想以写操作系统的人命名这个操作系统的话，最为确切的单词名字恐怕是“GNU”。
 
@@ -23,9 +23,9 @@ Linux 也确实存在，并且那些用户也确实是在使用它，不过它�
 
 在 90 年代初期，我们已经搞定了一个除了内核之外的系统。我们其实也开始开发一个内核，GNU Hurd （<http://gnu.org/software/hurd/hurd.html>），一个运行于 Mach 的内核。开发这个内核的难度远超我们的想象; GNU Hurd 在 2001 年终于能稳定运行了，但是距离被人们日常使用的目标仍然相差甚远[^linux-gnu-10]。
 
-幸运的是，因为有 Linux 的存在，我们并不需要等待 Hurd。在 1992 年，Torvalds 自由化了 Linux 之后，它填补了 GNU 操作系统中重要的最后一道坎。人们从此可以将 GNU 操作系统[^linux-gnu-11]和 Linux 合并使用来创造一个完全自由的操作系统——一个包含Linux 的 GNU 操作系统，即 GNU/Linux 操作系统。去让它们能很好地协同工作并不是一件容易的事。一些 GNU 组件 [^linux-gnu-12] 需要作出一些必要的改动才能和 Linux 一起使用。将一个完整系统整合成一个能“开箱即用”的发行版也是一个不小的挑战。这需要解决一个我们之前没有遇到过的问题——如何安装和启动系统，因为我们还没有研究到那一步。因此，制作了各种各样发行版的人们进行了大量的必要工作。但是这就像万物的规律一样，最终会有人去解决这个问题的。
+幸运的是，因为有 Linux 的存在，我们并不需要等待 Hurd。在 1992 年，Torvalds 自由化了 Linux 之后，它填补了 GNU 操作系统中重要的最后一道坎。人们从此可以将 GNU 操作系统[^linux-gnu-11]和 Linux 合并使用来创造一个完全自由的操作系统——一个包含 Linux 的 GNU 操作系统，即 GNU/Linux 操作系统。去让它们能很好地协同工作并不是一件容易的事。一些 GNU 组件 [^linux-gnu-12] 需要作出一些必要的改动才能和 Linux 一起使用。将一个完整系统整合成一个能“开箱即用”的发行版也是一个不小的挑战。这需要解决一个我们之前没有遇到过的问题——如何安装和启动系统，因为我们还没有研究到那一步。因此，制作了各种各样发行版的人们进行了大量的必要工作。但是这就像万物的规律一样，最终会有人去解决这个问题的。
 
-GNU 项目支持 GNU/Linux 系统和 *GNU 操作系统* 。FSF 资助了重写 GNU C 运行库中与Linux 有关的扩展的工作，这样，最新的 GNU/Linux 操作系统就能毫不修改地使用最新版本的库了。FSF 还资助了 Debian GNU/Linux 的早期开发。
+GNU 项目支持 GNU/Linux 系统和 *GNU 操作系统* 。FSF 资助了重写 GNU C 运行库中与 Linux 有关的扩展的工作，这样，最新的 GNU/Linux 操作系统就能毫不修改地使用最新版本的库了。FSF 还资助了 Debian GNU/Linux 的早期开发。
 
 现在，GNU/Linux 操作系统有非常多的发行版 （英文中常称为 “distros”）。它们当中的绝大部分遵从 Linux 的哲学而不是 GNU 的哲学。不过彻底自由的 GNU/Linux 发行版也是存在的[^linux-gnu-13]。FSF 赞助了 gNewSense 计算机等设备 （<http://gnewsense.org>）。
 
@@ -44,7 +44,7 @@ GNU 项目支持 GNU/Linux 系统和 *GNU 操作系统* 。FSF 资助了重写 G
 
 [^linux-gnu-1]: 参见《自由与非自由软件的分类》查看更多有关 GNU 操作系统的信息。
 
-[^linux-gnu-2]: 详情请见“GNU Users Who Have Never Heard of GNU“ <http://gnu.org/gnu/gnu-users-never-heard-of-gnu.html> 和 ”Overview of the GNU System“，<http://gnu.org/gnu/gnu-history.html>。
+[^linux-gnu-2]: 详情请见“GNU Users Who Have Never Heard of GNU” <http://gnu.org/gnu/gnu-users-never-heard-of-gnu.html> 和 “Overview of the GNU System”，<http://gnu.org/gnu/gnu-history.html>。
 
 [^linux-gnu-3]: 参见《什么是自由软件？》来获得自由软件的完整定义。 
 
@@ -62,7 +62,7 @@ GNU 项目支持 GNU/Linux 系统和 *GNU 操作系统* 。FSF 资助了重写 G
 
 [^linux-gnu-10]: 参见 <http://gnu.org/software/hurd/hurd-and-linux.html> 就会明白为什么 FSF 开发了 GNU Hurd 内核。 
 
-[^linux-gnu-11]: 参见 ”Linux 0.01 发行注记“ （“Notes for Linux Release 0.01,”）：<http://ftp.funet.fi/pub/linux/historical/kerne去l/old-versions/RELNOTES-0.01>。
+[^linux-gnu-11]: 参见 “Linux 0.01 发行注记” （“Notes for Linux Release 0.01,”）：<http://ftp.funet.fi/pub/linux/historical/kerne去l/old-versions/RELNOTES-0.01>。
 
 [^linux-gnu-12]: 比如, GNU C 运行库 （GNU C Library）<http://gnu.org/software/libc/libc.html>。
 
