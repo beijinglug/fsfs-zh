@@ -1,4 +1,3 @@
-\newpage
 ## 民主可以承受多少监控？
 
 > Copyright © 2015 理查德·斯托曼（Richard Stallman）。本文最初以相同的标题发表于《连线》杂志（2013年10月14日）[http://www.wired.com/opinion/2013/10/a-necessary-evil-what-it-takes-for-

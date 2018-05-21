@@ -1,4 +1,3 @@
-\newpage
 ## Linux 和 GNU 操作系统
 
 > Copyright © 1997–2002, 2007, 2014 Richard Stallman

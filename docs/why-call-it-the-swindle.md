@@ -1,4 +1,3 @@
-\newpage
 ## 为何称之为诈骗（Swindle）？
 
 > Copyright © 2013 Richard Stallman。

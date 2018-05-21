@@ -1,4 +1,3 @@
-\newpage
 ## GNU 自由文档许可证
 
 > 此版本由 Leo-Hong (leohca (at) yahoo.com) 翻译整理。 源网页：<http://www.thebigfly.com/gnu/FDLv1.3/>。
@@ -191,7 +190,6 @@ being LIST.
 如果你的文件中包含有并非微不足道的程序码范例，我们建议这些范例平行地在你的自由软件授权选择下，比如以 GNU General Public License 的自由软件授权来发布，从而允许它们作为自由软件而使用。
 
 
-\newpage
 
 **因为本书是基于 GNU FPL 许可证发布的，所以下面附加 FDL 许可证的英文原版，同时亦可与前面中文翻译版共同帮助理解。特此注明。**
 

@@ -1,4 +1,3 @@
-\newpage
 ## 为什么学校应该只使用自由软件
 
 > Copyright © 2003, 2009, 2014 Richard Stallman 此文最早于2003年发布在 <http://gnu.org>。

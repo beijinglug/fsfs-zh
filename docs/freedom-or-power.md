@@ -1,4 +1,3 @@
-\newpage
 ## 自由还是权力？
 
 > Copyright © 2001, 2009 Bradley M. Kuhn 和 Richard Stallman 本文最初于 2001 年发表于 <http://gnu.org>。

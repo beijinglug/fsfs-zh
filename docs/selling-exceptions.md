@@ -1,4 +1,3 @@
-\newpage
 ## 关于出售例外对GNU GPL的影响
 
 > Copyright © 2009, 2010 理查德·斯托曼（Richard Stallman）
