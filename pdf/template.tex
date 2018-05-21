@@ -3,6 +3,12 @@
 % \usepackage[lining]{ebgaramond}
 \usepackage[CJKspace]{xeCJK}
 \usepackage{tocbibind} % for toc show inside pdf
+
+% section break, and related titlesec and hyperref loading order
+% https://tex.stackexchange.com/questions/9497/start-new-page-with-each-section
+% https://tex.stackexchange.com/questions/219174/issue-with-page-breaks-before-section-and-toc-hyperlinks
+\usepackage{titlesec} % texlive-latex-extra package
+\newcommand{\sectionbreak}{\clearpage}
 \usepackage[
 	%urlbordercolor = {1 1 1},
 	%linkbordercolor = {1 1 1},
@@ -23,7 +29,6 @@
 \usepackage{array}
 \usepackage[font=small,format=plain,labelfont=bf,up,textfont=it,up]{caption}
 
-\usepackage{titlesec} % texlive-latex-extra package
 \usepackage[titletoc]{appendix} % this is used for \appendices
 \usepackage{xltxtra} 
 \usepackage{upquote}
