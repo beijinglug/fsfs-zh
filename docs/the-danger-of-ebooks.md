@@ -1,4 +1,3 @@
-\newpage
 ## 电子书的威胁
 
 > Copyright © 2011, 2014 Richard Stallman

@@ -1,4 +1,3 @@
-\newpage
 ## 为何升级到 GPLv3
 
 > Copyright © 2007, 2009 理查德·斯托曼（Richard Stallman）本文首发于2007年在 <http://gnu.org>。

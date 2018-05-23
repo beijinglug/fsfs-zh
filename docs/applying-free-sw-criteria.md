@@ -1,4 +1,3 @@
-\newpage
 ## 应用自由软件判断准则
 
 > Copyright © 2015 理查德·斯托曼（Richard Stallman）

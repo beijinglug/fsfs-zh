@@ -1,4 +1,3 @@
-\newpage
 ## 如今自由软件更加重要
 
 > Copyright © 2015 理查德·斯托曼（Richard Stallman）。此文大幅修改后发表于《连线》杂志（Wired）网站，标题是[“Why Free Software Is More Important Now Than Ever Before”](http://wired.com/opinion/2013/09/why-free-software-is-more-important-now-than-ever-before)，2013年9月28日。

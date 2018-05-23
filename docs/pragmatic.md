@@ -1,4 +1,3 @@
-\newpage
 ## Copyleft：务实的理想主义
 
 > Copyright © 1998, 2003 自由软件基金会
