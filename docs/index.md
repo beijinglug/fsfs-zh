@@ -35,7 +35,7 @@
 - [前言](preface-v3.md)
 - 第一部分：GNU 计划和自由软件
     - [什么是自由软件？](free-sw.md)
-    - [GNU 计划](thegnuproject.md)
+    - [GNU 过程](thegnuproject.md)
     - [GNU 操作系统的初始公告](initial-announcement.md)
     - [如今自由软件更加重要](free-software-even-more-important.md)
     - [为什么学校应该只使用自由软件](edu-schools.md)
