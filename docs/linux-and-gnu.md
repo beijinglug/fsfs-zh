@@ -52,7 +52,7 @@ GNU 项目支持 GNU/Linux 系统和 *GNU 操作系统* 。FSF 资助了重写 G
 [^linux-gnu-5]: 参见《GNU 操作系统的初始公告》。
 
 [^linux-gnu-6]: 参见《自由与非自由软件的分类》了解 GNU 软件的更多信息。
-去
+
 [^linux-gnu-7]: GCC 主页: <http://gnu.org/software/gcc/>。
 
 [^linux-gnu-8]: 这些不太引人注意而不可或缺的组件包括 GNU 汇编器 （GAS） 和链接器 （GNU ld），它们现在都是 GNU Binutils 软件包 （<http://gnu.org/software/binutils/>） 的一部分，还有 GNU tar （<http://gnu.org/software/tar/>） 等软件。
