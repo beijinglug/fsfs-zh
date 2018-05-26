@@ -356,7 +356,7 @@ Harmony 是一个兼容的替代库，设计为使得无需 Qt 运行 KDE 软件
 
 [^thegnu-11]: Eric Raymond 是开源的主要拥护者；参见《为什么说开源漏掉了自由软件的要点》。 
 
-[^thegnu-12]: 埃里克`雷蒙德（Eric. S. Raymond），《大讲堂与集市》；此书已由机械工业出版社于2014年出版，卫剑钒译。
+[^thegnu-12]: 埃里克`雷蒙德（Eric. S. Raymond），《大教堂与集市》；此书已由机械工业出版社于2014年出版，卫剑钒译。
 
 [^thegnu-13]: 更多信息见 “GNU/Linux FAQ”，于 <http://gnu.org/gnu/gnu-linux-faq.html>, 和《Linux 和 GNU 操作系统》。
 
