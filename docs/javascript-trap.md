@@ -110,4 +110,4 @@ recipients can acc ess the Corresponding Source.
 
 发布这些许可证信息的一种方式如上文中的附件 A。另一种方法，称为 JavaScript 许可证网络标签，可能对于精简的 JavaScript 代码更为便捷，特别是对于那些并非您编写的代码。
 
-[^js-1]: LibreJS 工程 (<http://gnu.org/software/librejs/>) 是 JavaScript 程序员所必需的。如果您掌握了必备的技能，请帮助我们维护这个价值连城的浏览器扩展。
+[^js-1]: LibreJS 工程 (<http://gnu.org/software/librejs/>) 需要 JavaScript 程序员（的帮助）。如果您掌握了必备的技能，请帮助我们维护这个价值连城的浏览器扩展。
