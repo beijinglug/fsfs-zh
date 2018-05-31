@@ -18,7 +18,7 @@
 
 然而自由软件运动中，非自由软件是一个社会问题，解决方案就是停止使用并转向自由软件。
 
-“自由软件”，“开放源代码”，如果指代的是同样（或几乎相同[^open-4]）的软件，你用什么名字很重要吗？是的，因为不同的文字传达了不同的理念。虽然现在一个以其他方式命名的自由程序能给你同样的自由，但是可持续的构筑自由依赖于教育人们珍惜自由。如果你愿意提供帮助，最基本的就是提到“自由软件”。
+“自由软件”，“开放源代码”，如果指代的是同样（或几乎相同[^open-4]）的软件，你用什么名字很重要吗？是的，因为不同的文字传达了不同的理念。虽然现在一个以其他方式命名的自由程序能给你同样的自由，但是可持续地构筑自由依赖于教育人们珍惜自由。如果你愿意提供帮助，最基本的就是提到“自由软件”。
 
 自由软件运动中我们并不把开源阵营看作敌人；敌人是专有（非自由）软件。但是我们希望人们知道我们代表自由，所以我们不能接受把我们和开源支持者混为一谈。
 
@@ -115,7 +115,7 @@ school-of-management/15-352-managing-innovation-emerging-trends-spring-2005/read
 
 [^open-2]: 关于操作系统可参见《Linux 和 GNU 系统》一文
 
-[^open-3]: 一个典型的领子，比如 Jay Lyman 的文章“Open Source Is Woven Into the Latest, Hottest Trends”（2013年9月12日）<http://www.linuxinsider.com/story/Open-Source-Is-Woven-Into-the-Latest-Hottest-Trends-78937.html>
+[^open-3]: 一个典型的例子，比如 Jay Lyman 的文章“Open Source Is Woven Into the Latest, Hottest Trends”（2013年9月12日）<http://www.linuxinsider.com/story/Open-Source-Is-Woven-Into-the-Latest-Hottest-Trends-78937.html>
 
 [^open-4]: 参见“How Free Software and Open Source Relate as Categories of Programs”一文，位于<http://gnu.org/philosophy/free-open-overlap.html>
 
