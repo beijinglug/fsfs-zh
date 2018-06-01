@@ -61,7 +61,8 @@ CHAPTERS =	docs/free-sw.md \
 			docs/surveillance-vs-democracy.md  
 APPENDIXS =	docs/appendix-a.md \
 			docs/appendix-b.md \
-			docs/appendix-c.md  \
+			docs/appendix-c.md
+PDF_IMG = category.pdf code-zh.pdf song-book-jutta-scrunch-crop-zh.pdf
 
 all: book html
 
@@ -71,6 +72,7 @@ clean:
 		rm *.tex *.aux *.fot *.toc *.log *.out
 		rm -fr fs-translations
 		rm *.png
+		rm $(PDF_IMG)
 		rm -r site
 		rm $(BOOKNAME).* 
 
@@ -93,10 +95,14 @@ $(BOOKNAME).html:  $(PREFACES) $(CHAPTERS) $(APPENDIXS)
 	pandoc $(TOC) --standalone --to=html5 -o $@ $^
 	mkdocs build --clean
 
-$(BOOKNAME).pdf: $(TITLE)  $(PREFACES) $(CHAPTERS) $(APPENDIXS)
+%.pdf: docs/%.svg
+	rsvg-convert -f pdf -o $@ $<
+
+$(BOOKNAME).pdf: $(TITLE)  $(PREFACES) $(CHAPTERS) $(APPENDIXS) $(PDF_IMG)
 	$(PANDOC_TEX) ${PREFACES} -o preface.tex
 	$(PANDOC_TEX) ${CHAPTERS} -o chapters.tex
 	$(PANDOC_TEX) ${APPENDIXS} -o appendix.tex
+	sed -i 's/\(\\includegraphics.*\)\.svg\}/\1.pdf}/g' chapters.tex appendix.tex
 	${call pdfgen}
 #			pandoc $(TOC) --latex-engine=xelatex -V documentclass=$(LATEX_CLASS) --template=$(TEMPLATE) -o $@ $^
 	rm -fr fs-translations
