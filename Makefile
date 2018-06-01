@@ -71,6 +71,7 @@ clean:
 		rm *.tex *.aux *.fot *.toc *.log *.out
 		rm -fr fs-translations
 		rm *.png
+		rm code-zh.pdf
 		rm -r site
 		rm $(BOOKNAME).* 
 
@@ -85,9 +86,11 @@ odf: $(BOOKNAME).odt
 $(BOOKNAME).epub: $(TITLE) $(PREFACES) $(CHAPTERS) $(APPENDIXS)
 	cp -r docs/fs-translations/ .
 	cp docs/*.png .
+	cp docs/code-zh.pdf .
 	pandoc $(TOC) -S -t epub3 --epub-metadata=$(METADATA)  --epub-cover-image=$(COVER_IMAGE) -o $@ $^
 	rm -fr fs-translations
 	rm *.png
+
 
 $(BOOKNAME).html:  $(PREFACES) $(CHAPTERS) $(APPENDIXS)
 	pandoc $(TOC) --standalone --to=html5 -o $@ $^
@@ -101,10 +104,12 @@ $(BOOKNAME).pdf: $(TITLE)  $(PREFACES) $(CHAPTERS) $(APPENDIXS)
 #			pandoc $(TOC) --latex-engine=xelatex -V documentclass=$(LATEX_CLASS) --template=$(TEMPLATE) -o $@ $^
 	rm -fr fs-translations
 	rm *.png
+	rm code-zh.pdf
 
 define pdfgen	
 	cp -r docs/fs-translations/ .
 	cp docs/*.png .
+	cp docs/code-zh.pdf .
 	cp ${TEMPLATE}/template.tex fsfs-zh.tex
 
 	xelatex fsfs-zh.tex
