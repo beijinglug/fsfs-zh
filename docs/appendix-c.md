@@ -8,7 +8,7 @@
 
 *译者注：读者可下载 Musescore 格式的乐谱文件[^apc-1]，通过自由的乐谱软件 Musescore[^apc-2] 聆听。*
 
-![自由软件之歌乐谱](song-book-jutta-scrunch-crop-zh.svg){ width=100% }
+![自由软件之歌乐谱](song-book-jutta-scrunch-crop-zh.svg)<!--(used-by-pdf){ width=100% }(used-by-pdf)-->
 
 
 [^apc-1]: 乐谱文件下载：<https://github.com/beijinglug/fsfs-zh/blob/master/docs/song-book-jutta-scrunch-crop-zh.mscx>
