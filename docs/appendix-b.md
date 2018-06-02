@@ -35,7 +35,7 @@
 | ia | 国际语 | libere programmage *或* libere programmario | 
 | id | 印度尼西亚语 | perangkat lunak bebas|
 | io | 伊多 | libera programaro |
-| is | 冰岛语 | frjáls hugbúna@dh<!--(used-by-pdf){}(used-by-pdf)-->ur |
+| is | 冰岛语 | frjáls hugbúnaður |
 | it | 意大利语 | software libero | software gratuito |
 | ja | 日语 | ![fs-translations/ja-kanji-libre](fs-translations/ja-kanji-libre.svg)<!--(used-by-pdf){ width=100px }(used-by-pdf)--> <!--(pdf-newline)--><br> *(jiyū-sofutouea)* | ![fs-translations/ja-kanji-gratis](fs-translations/ja-kanji-gratis.svg)<!--(used-by-pdf){ width=100px }(used-by-pdf)--> <!--(pdf-newline)--><br> *(muryō-sofutouea)*|
 | ka | 格鲁吉亚语 |![fs-translations/ka-libre](fs-translations/ka-libre.svg)<!--(used-by-pdf){ width=120px }(used-by-pdf)--> <!--(pdf-newline)--><br> *(tavisupali programebi)* | ![fs-translations/ka-gratis](fs-translations/ka-gratis.svg)<!--(used-by-pdf){ width=100px }(used-by-pdf)--> <!--(pdf-newline)--><br> *(upaso programebi)* |
