@@ -106,7 +106,7 @@
 
 [^gov-1]: 参见《什么是自由软件？》一文了解自由软件的定义
 
-[^gov-2]: 参见反 DRM 活动网站[http://defectivebydesign.org/what_is_drm](http://defectivebydesign.org/what_is_drm)以及《应避免使用(或慎用)的词语》一文中有关 DRM 的章节了解相关问题。
+[^gov-2]: 参见反 DRM 活动网站 [http://defectivebydesign.org/what_is_drm](http://defectivebydesign.org/what_is_drm) 以及《应避免使用(或慎用)的词语》一文中有关 DRM 的章节了解相关问题。
 
 [^gov-3]: 参见《服务器真正为谁服务？》一文的相关章节，了解 SaaSS。
 
