@@ -42,4 +42,4 @@ GNU 工程是理想主义的，但是那些鼓励理想主义的人面临很大�
 
 [^whygnulinux-1]: 参见 Dietmar Muller 于 2001 年 7 月 10 日发表的文章《“Stallman: Love Is Not Free”》<http://zdnet.com/article/stallman-love-is-not-free/>
 
-[^whygnulinux-2]: 参见《“自由的桎梏——Java 陷阱”》<http://gnu.org/philosophy/java-trap.html>一文
+[^whygnulinux-2]: 参见《“自由的桎梏——Java 陷阱”》<http://gnu.org/philosophy/java-trap.html> 一文
