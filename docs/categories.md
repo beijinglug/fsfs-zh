@@ -4,7 +4,7 @@
 
 > 参见《应避免使用（或慎用）的词语，由于它们是不公正的或者引起混淆的》一文。
 
-![自由与非自由软件的分类](category-zh.png){ width=90% }
+![自由与非自由软件的分类](category.svg){ width=90% }
 
 > 本图最初由 Chao-Kuei 创作并且经过其他人的更新，解释了不同类别的软件之间的区别。现有它的矢量图版，位于<http://gnu.org/philosophy/category.svg>以及 XFig 格式版本，位于<http://gnu.org/philosophy/category.fig>。本图采用 GNU 通用公共许可证（GNU GPL）2.0 或更高版本、GNU 自由文档许可证（GNU FDL）1.2 或更高版本、或者创作共用-署名-相同方式共享（CC BY-SA）许可证 2.0 或更高版本。
 
@@ -154,13 +154,13 @@ FSF 遵循这样的规则，我们不能在自己的计算机上安装任何私�
 
  [^cate-5]: 参见《X Windows 系统陷阱》。 
 
- [^cate-6]: 参见 “The BSD License Problem,” 一文，位于<http://gnu.org/philosophy/bsd.html>。 
+ [^cate-6]: 参见 “The BSD License Problem,” 一文，位于 <http://gnu.org/philosophy/bsd.html>。 
 
- [^cate-7]: 参见 “Overview of the GNU System,” 一文，位于<http://gnu.org/gnu/gnu-history.html>以获知更多历史背景。
+ [^cate-7]: 参见 “Overview of the GNU System,” 一文，位于 <http://gnu.org/gnu/gnu-history.html> 以获知更多历史背景。
 
  [^cate-8]: 参见《Linux 和 GNU 系统》一文以获得更多信息。 
 
- [^cate-9]: 参见 “Overview of the GNU System,” 一文，位于<http://gnu.org/gnu/gnu-history.html>以获知更多历史背景。
+ [^cate-9]: 参见 “Overview of the GNU System,” 一文，位于 <http://gnu.org/gnu/gnu-history.html> 以获知更多历史背景。
 
  [^cate-10]: 参见 <http://directory.fsf.org>。 
 
