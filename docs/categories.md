@@ -154,13 +154,13 @@ FSF 遵循这样的规则，我们不能在自己的计算机上安装任何私�
 
  [^cate-5]: 参见《X Windows 系统陷阱》。 
 
- [^cate-6]: 参见 “The BSD License Problem,” 一文，位于<http://gnu.org/philosophy/bsd.html>。 
+ [^cate-6]: 参见 “The BSD License Problem,” 一文，位于 <http://gnu.org/philosophy/bsd.html>。 
 
- [^cate-7]: 参见 “Overview of the GNU System,” 一文，位于<http://gnu.org/gnu/gnu-history.html>以获知更多历史背景。
+ [^cate-7]: 参见 “Overview of the GNU System,” 一文，位于 <http://gnu.org/gnu/gnu-history.html> 以获知更多历史背景。
 
  [^cate-8]: 参见《Linux 和 GNU 系统》一文以获得更多信息。 
 
- [^cate-9]: 参见 “Overview of the GNU System,” 一文，位于<http://gnu.org/gnu/gnu-history.html>以获知更多历史背景。
+ [^cate-9]: 参见 “Overview of the GNU System,” 一文，位于 <http://gnu.org/gnu/gnu-history.html> 以获知更多历史背景。
 
  [^cate-10]: 参见 <http://directory.fsf.org>。 
 

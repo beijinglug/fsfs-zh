@@ -88,15 +88,15 @@ SaaSS 并不意味着运行在服务器上的程序是非自由的（虽然大�
 
 我们以及上千用户从1984年开始就这么做，这样才有了现在我们使用的自由的 GNU/Linux 操作系统，所有人——无论是否是程序员——都可以使用。以一个程序员或活动家的身份，加入我们的事业。让我们一起解放所有计算机用户吧。
 
-[^fsemi-1]: 参见<http://gnu.org/proprietary/proprietary.html>可知这些不断增加的威胁。
+[^fsemi-1]: 参见 <http://gnu.org/proprietary/proprietary.html> 可知这些不断增加的威胁。
 
 [^fsemi-2]: 自由软件的完整定义可参见《什么是自由软件》一文。
 
 [^fsemi-3]: 参见《自由和非自由软件分类》一文中关于专有软件的脚注 1。
 
-[^fsemi-4]: 参见 Marcelo Rinesi 于2015年8月6日发表的文章"The Telemarketer Singularity"<http://ieet.org/index.php/IEET/more/rinesi20150806>
+[^fsemi-4]: 参见 Marcelo Rinesi 于2015年8月6日发表的文章"The Telemarketer Singularity" <http://ieet.org/index.php/IEET/more/rinesi20150806>
 
-[^fsemi-5]: 关于 GNU 操作系统的历史可参见《GNU 工程》一文，以及“GNU/Linux FAQ”<http://gnu.org/gnu/gnu-linux-faq.html>。
+[^fsemi-5]: 关于 GNU 操作系统的历史可参见《GNU 工程》一文，以及“GNU/Linux FAQ” <http://gnu.org/gnu/gnu-linux-faq.html>。
 
 [^fsemi-6]: 参见《服务器真正为谁服务？》一文。
 
