@@ -67,6 +67,8 @@ frame=tb,
 framexleftmargin=20pt
 }
 
+
+
 \titleformat{\section}
 {\color{colorsection}\normalfont\Large\bfseries}
 {\color{colorsection}\thesection}{1em}{}
@@ -117,7 +119,28 @@ framexleftmargin=20pt
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % 使用 DejaVu Sans 显示 ⚠ ☢ ☠ ✔ 这四个 dingbats 字符
 % http://tex.stackexchange.com/questions/23049/font-substitution-with-xelatex
+
+\newcommand\la[1]{{#1}}
 \newfontfamily{\DingbatSubstFont}{DejaVu Sans}
+\newfontfamily{\ar}{Noto Kufi Arabic}
+%\newfontfamily{\ar}{DejaVu Sans}
+\newfontfamily{\bg}{Noto Sans CJK SC}
+\newfontfamily{\bn}{Noto Sans Bengali}
+%\newfontfamily{\fa}{Noto Kufi Arabic}
+\newfontfamily{\fa}{DejaVu Sans}
+\newfontfamily{\he}{Noto Sans Hebrew}
+\newfontfamily{\hi}{Noto Sans Devanagari}
+\newfontfamily{\hy}{Noto Sans Armenian}
+\newfontfamily{\ja}{Noto Sans CJK JP}
+\newfontfamily{\ka}{Noto Sans Georgian}
+\newfontfamily{\ko}{Noto Sans CJK KR}
+\newfontfamily{\ml}{Noto Sans Malayalam}
+\newfontfamily{\si}{Noto Sans Sinhala}
+\newfontfamily{\ta}{Noto Sans Tamil}
+\newfontfamily{\th}{Noto Sans Thai}
+\newfontfamily{\ur}{Noto Nastaliq Urdu}
+\newfontfamily{\zhtw}{Noto Sans CJK TC}
+
 \XeTeXinterchartokenstate=1
 \newXeTeXintercharclass\DingbatSubst
 \XeTeXcharclass"26A0=\DingbatSubst	% ⚠
