@@ -9,7 +9,7 @@
 |----------|-----------------------------------|---------------------------------------------------|------------------------------------------|
 | en | 英语 | free software | gratis software |
 | af | 南非荷兰语 | vrye sagteware | gratis sagteware |
-| ar | 阿拉伯语 | <!--(pdf)\la{\ar (pdf)-->برمجيات حرة  <!--(pdf)}(pdf)--><!--(pdf-newline)--><br> *(barmajiyat ḥorrah)* |
+| ar | 阿拉伯语 | <!--(pdf)\la{\ar حرة  برمجيات \iffalse (pdf)-->برمجيات حرة  <!--(pdf)\fi}(pdf)--><!--(pdf-newline)--><br> *(barmajiyat ḥorrah)* |
 | be | 白俄罗斯语 | свабоднае праграмнае забесьпячэньне  <!--(pdf-newline)--><br> *(svabodnae pragramnae zabes’pjachen’ne)* |
 | bg | 保加利亚语 | <!--(pdf)\la{\bg (pdf)--> свободен софтуер <!--(pdf)}(pdf)-->  <!--(pdf-newline)--><br> *(svoboden softuer)* | <!--(pdf)\la{\bg (pdf)--> безплатен софтуер <!--(pdf)}(pdf)-->  <!--(pdf-newline)--><br> *(bezplaten softuer)* |
 | bn | 孟加拉语 | <!--(pdf)\la{\bn (pdf)--> স্বাধীন সফটওয়্যার <!--(pdf)}(pdf)--><!--(pdf-newline)--><br> *(swadhin software)* |
@@ -64,7 +64,7 @@
 | tl | 他加禄语（菲律宾）| malayang software |
 | tr | 土耳其语 | özgür yazilim |
 | uk | 乌克兰语 | вільне програмне забезпечення  <!--(pdf-newline)--><br> *(vil’ne prohramne zabezpechennja)*|
-| ur | 乌尔都语 | <!--(pdf)\la{\ur (pdf)--> آزاد سافٹ ویئر  <!--(pdf)}(pdf)--> <!--(pdf-newline)--><br> *(azad software)* | <!--(pdf)\la{\ur (pdf)--> مفت سافٹ ویئر  <!--(pdf)}(pdf)--> <!--(pdf-newline)--><br> *(muft software)* |
+| ur | 乌尔都语 | <!--(pdf)\la{\ur   ویئر سافٹ آزاد \iffalse (pdf)--> آزاد سافٹ ویئر  <!--(pdf)\fi}(pdf)--> <!--(pdf-newline)--><br> *(azad software)* | <!--(pdf)\la{\ur  ویئر سافٹ مفت\iffalse (pdf)--> مفت سافٹ ویئر   <!--(pdf) \fi}(pdf)--> <!--(pdf-newline)--><br> *(muft software)* |
 | vi | 越南语 | phần mềm tự do |
 | zh-cn | 中文（简体） | 自由软件 <!--(pdf-newline)--><br> *(zi-you ruan-jian)*| 免费软件 <!--(pdf-newline)--><br> *(mian-fei ruan-jian)* |
 | zh-tw | 中文（繁体） |<!--(pdf)\la{\zhtw (pdf)--> 自由軟體 <!--(pdf)}(pdf)-->  <!--(pdf-newline)--><br> *(zih-yo)* | <!--(pdf)\la{\zhtw (pdf)-->  免費軟體 <!--(pdf)}(pdf)-->  <!--(pdf-newline)--><br> *(mien-fei)*|
