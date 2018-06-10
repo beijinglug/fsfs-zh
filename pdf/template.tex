@@ -122,7 +122,7 @@ framexleftmargin=20pt
 
 \newcommand\la[1]{{#1}}
 \newfontfamily{\DingbatSubstFont}{DejaVu Sans}
-\newfontfamily{\ar}[Script=Arabic]{Noto Kufi Arabic}
+\newfontfamily{\ar}[Script=Arabic]{Noto Naskh Arabic}
 %\newfontfamily{\ar}{DejaVu Sans}
 \newfontfamily{\bg}{Noto Sans CJK SC}
 \newfontfamily{\bn}{Noto Sans Bengali}
@@ -131,15 +131,16 @@ framexleftmargin=20pt
 \newfontfamily{\he}{Noto Sans Hebrew}
 \newfontfamily{\hi}{Noto Sans Devanagari}
 \newfontfamily{\hy}{Noto Sans Armenian}
-\newfontfamily{\ja}{Noto Sans CJK JP}
+\newCJKfontfamily{\ja}{Noto Sans CJK JP}
 \newfontfamily{\ka}{Noto Sans Georgian}
 \newCJKfontfamily{\ko}{Noto Sans CJK KR}
+%\newcommand\ko[0]{}
 \newfontfamily{\ml}{Noto Sans Malayalam}
 \newfontfamily{\si}{Noto Sans Sinhala}
 \newfontfamily{\ta}{Noto Sans Tamil}
 \newfontfamily{\th}{Noto Sans Thai}
-\newfontfamily{\ur}{Noto Nastaliq Urdu}
-\newfontfamily{\zhtw}{Noto Sans CJK TC}
+\newfontfamily{\ur}[Script=Arabic,Language=Urdu]{Noto Nastaliq Urdu}
+\newCJKfontfamily{\zhtw}{Noto Sans CJK TC}
 
 \XeTeXinterchartokenstate=1
 \newXeTeXintercharclass\DingbatSubst
