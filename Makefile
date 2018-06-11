@@ -79,7 +79,7 @@ clean:
 		-rm $(PDF_IMG)
 		-rm -r site
 		-rm $(BOOKNAME).*
-		-rm $(SVG_IMG)
+		#-rm $(SVG_IMG)
 		-rm $(PREFACES_PDF) $(CHAPTERS_PDF) $(APPENDIXS_PDF) 
 
 epub: $(BOOKNAME).epub
@@ -90,8 +90,8 @@ pdf: $(BOOKNAME).pdf
 
 odf: $(BOOKNAME).odt
 
-$(SVG_IMG): docs/fs-translations/%.svg : docs/fs-translations/%.pdf
-	pdf2svg $< $@
+#$(SVG_IMG): docs/fs-translations/%.svg : docs/fs-translations/%.pdf
+	#pdf2svg $< $@
 
 $(BOOKNAME).epub: $(TITLE) $(PREFACES) $(CHAPTERS) $(APPENDIXS) #$(SVG_IMG)
 	ln -s docs/fs-translations/ . #消除Warning
