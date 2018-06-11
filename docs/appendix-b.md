@@ -23,7 +23,7 @@
 | eu | 巴斯克语 | software librea | doako softwarea |
 | es | 西班牙语 | software libre | software gratuito |
 | et | 爱沙尼亚语 | vaba tarkvara | tasuta tarkvara |
-| fa | 波斯语 | <!--(pdf)\la{\fa (pdf)--> نرم افزار آزاد<!--(pdf)}(pdf)--> <!--(pdf-newline)--><br> *(narmafzar azad)* | <!--(pdf)\la{\fa (pdf)-->نرم افزار رایگان <!--(pdf)}(pdf)--> <!--(pdf-newline)--><br> *(narmafzar raygan)* |
+| fa | 波斯语 | <!--(pdf)\la{\fa آزاد افزار نرم \iffalse (pdf)--> نرم افزار آزاد<!--(pdf) \fi }(pdf)--> <!--(pdf-newline)--><br> *(narmafzar azad)* | <!--(pdf)\la{\fa رایگان افزار نرم \iffalse (pdf)-->نرم افزار رایگان <!--(pdf) \fi }(pdf)--> <!--(pdf-newline)--><br> *(narmafzar raygan)* |
 | fi | 芬兰语 | vapaa ohjelmisto | ilmainen ohjelmisto |
 | fr | 法语 | logiciel libre | logiciel gratuit |
 | ga | 爱尔兰语 | saorbhogearraí | bogearraí saora in aisce |
