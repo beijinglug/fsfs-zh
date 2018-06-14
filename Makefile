@@ -5,7 +5,7 @@ METADATA = ebook/metadata.xml
 TOC = --toc --toc-depth=2 --epub-chapter-level=2 
 COVER_IMAGE = docs/cover.png
 LATEX_CLASS = book
-PANDOC_TEX = pandoc --from="markdown_mmd+link_attributes+backtick_code_blocks+fenced_code_attributes+raw_tex+latex_macros" $(TOC) --latex-engine=xelatex -V documentclass=book
+PANDOC_TEX = pandoc --from="markdown_mmd+link_attributes+backtick_code_blocks+fenced_code_attributes+raw_tex+latex_macros" $(TOC) --pdf-engine=xelatex -V documentclass=book
 TEMPLATE=./pdf
 PREFACES =  docs/foreword-trans.md \
 			docs/foreword-v3.md  \
@@ -75,11 +75,9 @@ book: epub pdf odf
 clean:
 		-rm *.tex *.aux *.fot *.toc *.log *.out
 		-rm -fr fs-translations
-		-rm *.png
 		-rm $(PDF_IMG)
 		-rm -r site
 		-rm $(BOOKNAME).*
-		#-rm $(SVG_IMG)
 		-rm $(PREFACES_PDF) $(CHAPTERS_PDF) $(APPENDIXS_PDF) 
 
 epub: $(BOOKNAME).epub
@@ -95,10 +93,9 @@ odf: $(BOOKNAME).odt
 
 $(BOOKNAME).epub: $(TITLE) $(PREFACES) $(CHAPTERS) $(APPENDIXS) #$(SVG_IMG)
 	ln -s docs/fs-translations/ . #消除Warning
-#	cp docs/*.png .
-	pandoc $(TOC) -S -t epub3 --epub-metadata=$(METADATA)  --epub-cover-image=$(COVER_IMAGE) -o $@ $^ #$(shell echo $(SVG_IMG) | sed 's/docs\///g' )
+	cp docs/*.svg .
+	pandoc $(TOC) -t epub3 --epub-metadata=$(METADATA)  --epub-cover-image=$(COVER_IMAGE) -o $@ $^
 	rm  fs-translations
-#	rm *.png
 
 $(BOOKNAME).html:  $(PREFACES) $(CHAPTERS) $(APPENDIXS) #$(SVG_IMG)
 	ln -s docs/fs-translations/ . #消除Warning
@@ -121,9 +118,7 @@ $(BOOKNAME).pdf: $(TITLE)  $(PREFACES_PDF) $(CHAPTERS_PDF) $(APPENDIXS_PDF) $(PD
 	$(PANDOC_TEX) ${APPENDIXS_PDF} -o appendix.tex
 #	sed -i 's/\(\\includegraphics.*\)\.svg\}/\1.pdf}/g' chapters.tex appendix.tex
 	${call pdfgen}
-#			pandoc $(TOC) --latex-engine=xelatex -V documentclass=$(LATEX_CLASS) --template=$(TEMPLATE) -o $@ $^
 	rm -fr fs-translations
-	rm *.png
 
 define pdfgen	
 	cp -r docs/fs-translations/ .
