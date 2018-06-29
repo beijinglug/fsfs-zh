@@ -47,7 +47,7 @@ GNU 项目支持 GNU/Linux 系统和 *GNU 操作系统* 。FSF 资助了重写 G
 
 [^linux-gnu-3]: 参见《什么是自由软件？》来获得自由软件的完整定义。 
 
-[^linux-gnu-4]: 查看“GNU 宣言（GNU Manifesto）”，位于<http://gnu.org/gnu/manifesto.html> 。
+[^linux-gnu-4]: 查看“GNU 宣言（GNU Manifesto）”，位于 <http://gnu.org/gnu/manifesto.html> 。
  
 [^linux-gnu-5]: 参见《GNU 操作系统的初始公告》。
 
