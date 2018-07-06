@@ -48,7 +48,7 @@
 
 ### 注记
 
--   参见“The Curious History of Komongistan (Busting the Term ‘Intellectual Property’)”一文，位于<http://gnu.org/philosophy/komongistan.html>。
+-   参见“The Curious History of Komongistan (Busting the Term ‘Intellectual Property’)”一文，位于 <http://gnu.org/philosophy/komongistan.html>。
 
 -   可以用非洲各国之间的关系类比这些法律之间的关系，并且“非洲”是一个合乎逻辑的地理概念；然而，谈论“非洲”而非某个特定的国家将会引发大量混乱[^ipr-1]。
 
