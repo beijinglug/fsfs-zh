@@ -6,7 +6,7 @@
 
 ![自由与非自由软件的分类](category.svg)<!--(pdf){ width=90% }(pdf)-->
 
-> 本图最初由 Chao-Kuei 创作并且经过其他人的更新，解释了不同类别的软件之间的区别。现有它的矢量图版，位于<http://gnu.org/philosophy/category.svg>以及 XFig 格式版本，位于<http://gnu.org/philosophy/category.fig>。本图采用 GNU 通用公共许可证（GNU GPL）2.0 或更高版本、GNU 自由文档许可证（GNU FDL）1.2 或更高版本、或者创作共用-署名-相同方式共享（CC BY-SA）许可证 2.0 或更高版本。
+> 本图最初由 Chao-Kuei 创作并且经过其他人的更新，解释了不同类别的软件之间的区别。现有它的矢量图版，位于 <http://gnu.org/philosophy/category.svg> 以及 XFig 格式版本，位于 <http://gnu.org/philosophy/category.fig> 。本图采用 GNU 通用公共许可证（GNU GPL）2.0 或更高版本、GNU 自由文档许可证（GNU FDL）1.2 或更高版本、或者创作共用-署名-相同方式共享（CC BY-SA）许可证 2.0 或更高版本。
 
 ### 自由软件（Free Software）
 
@@ -98,7 +98,7 @@ GNU 软件包的开发者可以选择将版权转让给 FSF 或者自己保留�
 
 如果他们将版权转让给 FSF，该程序成为 FSF 拥有版权的 GNU 软件，此时 FSF 可以强制实行它的许可证。如果他们选择自己保留版权，强制实行其许可证是他们自己的责任。
 
-FSF 不会接受非官方 GNU 软件包的软件的版权协议，这是一条规定。
+FSF 不会接受非官方 GNU 软件包的软件的版权转让，这是一条规定。
 
 ### 非自由软件（Nonfree Software）
 
@@ -146,7 +146,7 @@ FSF 遵循这样的规则，我们不能在自己的计算机上安装任何私�
 
  [^cate-1]: 参见《Linux 和 GNU 系统》一文以获得更多信息。 
 
- [^cate-2]: 参见 “Free Software Is More Reliable!” 一文，位于 <http://gnu.org/software/reliability.html>。 
+ [^cate-2]: 参见 “自由软件更值得信赖！” 一文，位于 <http://gnu.org/software/reliability.html>。 
 
  [^cate-3]: 参见《“开放源代码”为什么不符合自由软件的思想》一文。 
 
@@ -156,11 +156,11 @@ FSF 遵循这样的规则，我们不能在自己的计算机上安装任何私�
 
  [^cate-6]: 参见 “The BSD License Problem,” 一文，位于 <http://gnu.org/philosophy/bsd.html>。 
 
- [^cate-7]: 参见 “Overview of the GNU System,” 一文，位于 <http://gnu.org/gnu/gnu-history.html> 以获知更多历史背景。
+ [^cate-7]: 参见 “GNU系统概览” 一文，位于 <http://gnu.org/gnu/gnu-history.html> 以获知更多历史背景。
 
  [^cate-8]: 参见《Linux 和 GNU 系统》一文以获得更多信息。 
 
- [^cate-9]: 参见 “Overview of the GNU System,” 一文，位于 <http://gnu.org/gnu/gnu-history.html> 以获知更多历史背景。
+ [^cate-9]: 参见 “GNU系统概览” 一文，位于 <http://gnu.org/gnu/gnu-history.html> 以获知更多历史背景。
 
  [^cate-10]: 参见 <http://directory.fsf.org>。 
 

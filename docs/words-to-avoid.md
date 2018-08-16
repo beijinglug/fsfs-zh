@@ -136,7 +136,7 @@
 
 较好的替代短语包括“数字限制管理”（Digital Restrictions Management）和“数字手铐”（digital handcuffs）。
 
-请您签名支持我们致力于废除 DRM 的运动，它位于[DefectiveByDesign.org](DefectiveByDesign.org)。
+请您签名支持我们致力于废除 DRM 的运动，它位于 [DefectiveByDesign.org](DefectiveByDesign.org)。
 
 ### 生态系统（Ecosystem）
 
@@ -246,7 +246,7 @@ Linux 是 Linus Torvalds 于 1991 年开始开发的内核的名字，使用 Lin
 
 ### 盗版（Piracy）
 
-出版商通常将不被它们批准的复制行为称为“盗版”。通过这种形式，它们暗示这在伦理上与在外海攻击船只以及绑架谋杀船上的人一样坏。基于这样一种鼓吹，它们在世界上的大部分地区骗取到了法律支持以便在绝大多数（有时是全部）环境下进行复制（它们仍在继续施压以使得这些禁令更加完整）。
+出版商通常将不被它们批准的复制行为称为“盗版”。通过这种形式，它们暗示这在伦理上与在外海攻击船只以及绑架谋杀船上的人一样坏。基于这样一种鼓吹，它们在世界上的大部分地区骗取到了法律支持以便在绝大多数（有时是全部）环境下禁止复制（它们仍在继续施压以使得这些禁令更加完整）。
 
 如果您不认可未经批准的复制行为就像绑架谋杀的理念，您可能也不愿意使用“盗版”一词来描述此行为。中立性的短语诸如“非授权复制”（或者“被禁止的复制”，用于此种行为不合法的情况）可作为替代。我们中的一些人甚至倾向于使用某种褒义词，诸如“与我们的邻居分享信息”。
 
@@ -340,9 +340,9 @@ Linux 是 Linus Torvalds 于 1991 年开始开发的内核的名字，使用 Lin
 
  [^wordtoavoid-2]: 参见《如今自由软件更加重要》和《服务器真正是在为谁服务？》以获得更多信息。
 
- [^wordtoavoid-3]: 参见 “The BSD License Problem” 一文，位于<http://gnu.org/philosophy/bsd.html>。
+ [^wordtoavoid-3]: 参见 “The BSD License Problem” 一文，位于 <http://gnu.org/philosophy/bsd.html>。
 
- [^wordtoavoid-4]: 参见 “Various Licenses and Comments about Them”，位于<http://gnu.org/licenses/license-list.html>。
+ [^wordtoavoid-4]: 参见 “Various Licenses and Comments about Them”，位于 <http://gnu.org/licenses/license-list.html>。
 
  [^wordtoavoid-5]: 参见《为什么说开源漏掉了自由软件的要点》。
 
@@ -377,7 +377,7 @@ Linux 是 Linus Torvalds 于 1991 年开始开发的内核的名字，使用 Lin
 
  [^wordtoavoid-20]: “DuckDuckGo Privacy Policy”，最后更新于 2012 年四月 12 日，<https://duckduckgo.com/privacy>。
 
- [^wordtoavoid-21]: 参见我的文章 “On Hacking”，位于<http://stallman.org/articles/on-hacking.html>。
+ [^wordtoavoid-21]: 参见我的文章 “On Hacking”，位于 <http://stallman.org/articles/on-hacking.html>。
 
  [^wordtoavoid-22]: Richard Stallman，“Public Awareness of Copyright, WIPO, June 2002”，最后更新于 2014 年，[http://gnu.org/philosophy/wipo-PublicAwarenessOfCopyright-2002.html](http://gnu.org/philosophy/wipo-PublicAwarenessOfCopyright-2002.html)。
 

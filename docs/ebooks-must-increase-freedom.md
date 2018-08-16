@@ -1,6 +1,6 @@
 ## 电子书必须增进我们的自由而非限制我们的自由
 
-> Copyright © 2012 理查德·斯托曼（Richard Stallman）。本文最初于 2012 年 4 月 17 日以标题“Technology Should Help Us Share, Not Constrain Us”，发表于英国卫报<http://guardian.co.uk>，并带有一些特别的修订。此版本整合了部分修订，同时恢复了部分原文。
+> Copyright © 2012 理查德·斯托曼（Richard Stallman）。本文最初于 2012 年 4 月 17 日以标题“Technology Should Help Us Share, Not Constrain Us”，发表于英国卫报 <http://guardian.co.uk>，并带有一些特别的修订。此版本整合了部分修订，同时恢复了部分原文。
 
 我喜欢 The Jehovah Contract 这本书，也希望每个人都喜欢它。这些年来，我已经至少借出它六次了。纸版书允许我们这么做。
 
@@ -8,7 +8,7 @@
 
 我们作为读者所习惯的很多其他阅读方式对于电子书是“不被允许的”。对于亚马逊 Kindle （更合适它的名字是 Swindle [^ebooks-1]），作为一个例子，用户不能使用现金匿名购买电子书。Kindle 的电子书通常仅可以从亚马逊获得，而亚马逊要求用户提供身份信息。由此亚马逊知道每位用户读了哪些书。在某些国家，例如英国，您可能会由于拥有一本禁书而被起诉[^ebooks-2]，这比假想中的奥威尔主义（Orwellian）[^ebooks-n]更加残酷。
 
-[^ebooks-n]: 指现代政权藉宣传、误报、否认事实、操纵过去，来执行社会控制。包括冷处理、蒸发，公开纪录和大多数人记忆中均被抹煞不存在，就如《一九八四》（作者乔治·奥威尔）中的世界观一样。——译者注，摘自维基百科
+[^ebooks-n]: 指现代专制政权借由严厉执行政治宣传、监视、故意提供虚假资料、否认事实（双重思想）和操纵过去（包括制造“非人”，意指把一个人过去的存在从公共记录和记忆中消除）的政策以控制社会，就如《一九八四》（作者乔治·奥威尔）中的世界观一样。——译者注，摘自维基百科
 
 > 参阅《电子书的威胁》一文，并且考虑加入我们关于电子书威胁的邮件列表，位于 <http://defectivebydesign.org/ebooks.html>.
 
@@ -40,5 +40,5 @@
 
  [^ebooks-4]: 参见 <http://gnu.org/proprietary/proprietary.html> 以获知一系列日益增长的威胁。 
 
- [^ebooks-5]: 参见我的文章《如今自由软件更加重要》和 “The Problem Is Software Controlled by Its Developer,” 位于<http://gnu.org/philosophy/the-root-of-this-problem.html>以获得更多信息。
+ [^ebooks-5]: 参见我的文章《如今自由软件更加重要》和 “The Problem Is Software Controlled by Its Developer,” 位于 <http://gnu.org/philosophy/the-root-of-this-problem.html> 以获得更多信息。
 

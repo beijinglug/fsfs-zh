@@ -168,7 +168,7 @@ DMCA 于 1998 年被实施。随之，它宣称合理使用在名义上尚属合
 
  [^mis-copyright-1]: Fox Film Corp. v. Doyal, 286 US 123, 1932. 
 
- [^mis-copyright-2]: 参见 Julian Sanchez 的文章 “The Trouble with ‘Balance’ Metaphors” (4 February 2011, <http://juliansanchez.com/2011/02/04/the-trouble-with-balance-metaphors/>以获得关于“合理判断与平衡权重之间的类比能够怎样以有害的方式限制我们的思考”这一问题的深入调查。
+ [^mis-copyright-2]: 参见 Julian Sanchez 的文章 “The Trouble with ‘Balance’ Metaphors” (4 February 2011, <http://juliansanchez.com/2011/02/04/the-trouble-with-balance-metaphors/>)以获得关于“合理判断与平衡权重之间的类比能够怎样以有害的方式限制我们的思考”这一问题的深入调查。
 
  [^mis-copyright-3]: Congressional Record, S. 483, “The Copyright Term Extension Act of 1995,” 2 March 1995, pp. S3390–4. 
 

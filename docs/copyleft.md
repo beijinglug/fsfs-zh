@@ -1,12 +1,12 @@
 ## 什么是 Copyleft？ 
 
-> Copyright © 1996–2009, 2013 自由软件基金会。此文最初于发表1996年发表在<http://gnu.org>。
+> Copyright © 1996–2009, 2013 自由软件基金会。此文最初于发表1996年发表在 <http://gnu.org>。
 
 Copyleft 是一种使一个程序或其它工作自由的通用方法，并要求该程序（或其他作品）的所有修改和衍生版本也是自由的。
 
 使一个程序成为自由软件最简单的方法就是将它放到一个不受版权限制的公有领域。如果他们足够明智，就应该允许人们共享该程序和他们的改进成果。但是这也使得那些不愿合作的人有权利将该程序转化为专有软件。他们可以或多或少地做一些修改，并将其作为专有软件发布。而获得修改版程序的人将不能拥有原作者赋予他们的自由，因为中间人已经将其剥夺了。
 
-在 GNU 工程中，我们的目标是赋予*所有*用户重新发布和修改 GNU 软件的自由。如果中间人剥夺了这种自由，即便我们可能会有很多使用者，但他们将不能享有自由。因此我们使它“Copyleft”，来代替将 GNU 软件放到公有领域。Copyleft 指明任何人重新发布软件，不管有没有修改，都必须将这种自由传递到下一个副本中并改变它，以使人们更多的复制和修改。Copyleft 保证了每一位用户都拥有自由。
+在 GNU 工程中，我们的目标是赋予*所有*用户重新发布和修改 GNU 软件的自由。如果中间人剥夺了这种自由，即便我们可能会有很多使用者，但他们将不能享有自由。因此我们使它“Copyleft”，来代替将 GNU 软件放到公有领域。Copyleft 指明任何人在重新发布软件时，不管有没有修改，都必须将这种自由传递到下一个副本中并改变它，以使人们更多的地复制和修改。Copyleft 保证了每一位用户都拥有自由。
 
 Copyleft 也对其他程序员发布自由软件提供了一种激励，重要的自由程序如 GNU C++ 编译器就是因为这个原因而存在。
 
@@ -20,13 +20,13 @@ Copyleft 也可以帮助那些想给自由软件做改进的程序员获得自�
 
 "Copyleft"是一种对程序享有版权的方式。它不意味着放弃版权；事实上，那样做就不是 copyleft 了。Copyleft 里的单词"left"与动词"to leave"（离开）没什么联系——只是一种与"right"（右边）反向的说法。
 
-Copyleft 是一个抽象的概念，而你不能直接使用抽象的概念；你只能使用该概念的一个具体实现。在 GNU 工程中，为大多数软件所使用的具体发布规则都包含在了 GNU 通用公共许可证（GNU General Public License）中。GNU 通用公共许可证经常被简称为 GNU GPL。还有一个关于 GNU GPL 常见问题的页面<http://gnu.org/licenses/gpl-faq.html>，你也可以阅读为什么FSF从贡献者那得到版权转让<http://gnu.org/copyleft/why-assign.html>。
+Copyleft 是一个抽象的概念，而你不能直接使用抽象的概念；你只能使用该概念的一个具体实现。在 GNU 工程中，为大多数软件所使用的具体发布规则都包含在了 GNU 通用公共许可证（GNU General Public License）中。GNU 通用公共许可证经常被简称为 GNU GPL。还有一个关于 GNU GPL 常见问题的页面 <http://gnu.org/licenses/gpl-faq.html>，你也可以阅读为什么FSF从贡献者那得到版权转让 <http://gnu.org/copyleft/why-assign.html>。
 
 Copyleft 的一种替代形式，是 GNU Affero 通用公共许可证（GNU Affero General Public License，AGPL），主要应用于服务器上的程序。它可以确保公开服务器上的修改版也公开发布源代码。
 
 Copyleft 的另一种替代形式，GNU 宽通用公共许可证（GNU Lesser General Public License，LGPL），应用于一小部分（并非全部）的 GNU 库。想了解更多关于 LGPL 的正确使用，请阅读文章《为什么我们不应该在新的开发库中使用 LGPL》<http://gnu.org/philosophy/why-not-lgpl.html>。
 
-GNU 自由文档许可证（GNU FDL）是Copyleft的一种形式，用于在手册、教材或其它文档上以保证任何人都可以自由的复制和发布它们，不管是否对它们进行了修改，也不管是不是进行商业化使用。
+GNU 自由文档许可证（GNU FDL）是Copyleft的一种形式，用于在手册、教材或其它文档上以保证任何人都可以自由地复制和发布它们，不管是否对它们进行了修改，也不管是不是进行商业化使用。
 
 相应的许可证被包含在众多手册和每个 GNU 源代码的发布中。
 
@@ -34,9 +34,9 @@ GNU 自由文档许可证（GNU FDL）是Copyleft的一种形式，用于在手�
 
 对许多不同的程序使用相同的发布条款，使得在不同的程序间复制代码变得很容易。既然都有相同的发布条款, 这就没有必要去考虑这些条款是否相容。LGPL 中有一项规定，它可以允许你把发布条款改成普通的 GPL，因此你可以将代码拷贝到另一个使用 GPL 的程序当中。第三版的 LGPL 被当作了 GPL 第三版的例外，所以自动具有兼容性。
 
-如果你想用 GNU GPL 或 GNU LGPL 来 copyleft 你的程序，请查看许可证介绍页面的建议<http://gnu.org/copyleft/gpl-howto.html>。作为建议，请注意你必须使用我们许可证的全文。每篇许可证都是不可分割的整体，因此部分复制是不允许的。
+如果你想用 GNU GPL 或 GNU LGPL 来 copyleft 你的程序，请查看许可证介绍页面的建议 <http://gnu.org/copyleft/gpl-howto.html>。作为建议，请注意你必须使用我们许可证的全文。每篇许可证都是不可分割的整体，因此部分复制是不允许的。
 
-如果你用 GNU FDL 来 copyleft 你的手册，请查看 FDL 文本结尾的说明和 GFDL 说明页面<http://gnu.org/copyleft/fdl-howto.html>。同样，部分复制是不允许的。
+如果你用 GNU FDL 来 copyleft 你的手册，请查看 FDL 文本结尾的说明和 GFDL 说明页面 <http://gnu.org/copyleft/fdl-howto.html>。同样，部分复制是不允许的。
 
 使用反转的字母 C 外套一个圆圈作为版权符号是一个法律错误。Copyleft 是基于合法的版权，所以作品应该有版权声明。版权声明要求要么使用版权符号（园圈里的字母 C），或使用单词“Copyright”（版权所有）。
 

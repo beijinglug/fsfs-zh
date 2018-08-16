@@ -26,7 +26,7 @@
 
 实际上，开源的标准比自由软件要弱一些。据我们所知，目前所有的自由软件都算是开源软件。几乎所有开源软件也都是自由软件，但也有例外。首先是一些开源许可证过于严苛，因此并不能认定为是自由许可证。比如“Open Watcom”的许可证就不是自由的，因为它不允许将修改后的软件私人使用。幸运的是，只有很少一些程序使用这样的许可证。
 
-其次，实践中更重要的一点是，很多产品包含了计算机可以检查可执行程序签名的方法，以便阻止用户安装其它版本的可执行程序。只有这个有特权的公司可以允许所有设备运行，或允许用户访问其全部兼容设备。这种设备我们称之为“暴君”（Tyrants），而这种行为称之为“tivo 化”（tivoization），以我们第一次看见这样做的产品（Tivo）而得名。即使可执行文件是从自由的源代码构建出来，用户却无法运行修改版，所以这个可执行文件也是非自由的。
+其次，实践中更重要的一点是，很多产品包含了计算机可以检查可执行程序签名的方法，以便阻止用户安装其它版本的可执行程序。只有这个有特权的公司可以构建能在设备上运行的可执行程序，或允许访问其全部功能。这种设备我们称之为“暴君”（Tyrants），而这种行为称之为“tivo 化”（tivoization），以我们第一次看见这样做的产品（Tivo）而得名。即使可执行文件是从自由的源代码构建出来，用户却无法运行修改版，所以这个可执行文件也是非自由的。
 
 开源标准并没有认识到这个问题。它只关注源代码的许可证问题。因此，从比如像 Linux 这种开源且自由的源代码构建，却不可修改的可执行文件只是开源软件但不是自由的。很多 Android 产品包含了这种基于 Linux 的非自由 tivo 化的可执行文件。
 
@@ -100,7 +100,7 @@
 
 “自由”和“开放”在传播上是一组对立的概念。“自由软件”和“开源”虽然是不同的思想，但大多数人认为这两个在概念上是相同的。当人们变得习惯于说和思考“开源”，这对他们获取自由软件运动的理念和思考是一个障碍。如果他们已经将“开放”和我们联系起来，在他们认识到我们代表*其他事情*之前，也许需要冲击他们的理性。任何推广“开放”的活动实际上都会更深的让自由软件运动隐藏在幕后。
 
-因此，自由软件的活跃者经过深思熟虑以后决定拒绝参加那些标榜自己是“开放”的活动。即使活动本身并不错，但每次为“开放”多做的贡献，都会对另一方作出伤害。也有很多很好的活动是“自由”或“解放”的。而参与这些活动，会对这些项目有小小的额外好出。既然有这么多有益的项目可选，为什么不选能更有好处的呢？
+因此，自由软件的活跃者经过深思熟虑以后决定拒绝参加那些标榜自己是“开放”的活动。即使活动本身并不错，但每次为“开放”多做的贡献，都会对另一方作出伤害。也有很多很好的活动是“自由”或“解放”的。而参与这些活动，会对这些项目有小小的额外好处。既然有这么多有益的项目可选，为什么不选能更有好处的呢？
 
 ### 结论
 
@@ -117,9 +117,9 @@ school-of-management/15-352-managing-innovation-emerging-trends-spring-2005/read
 
 [^open-3]: 一个典型的例子，比如 Jay Lyman 的文章“Open Source Is Woven Into the Latest, Hottest Trends”（2013年9月12日）<http://www.linuxinsider.com/story/Open-Source-Is-Woven-Into-the-Latest-Hottest-Trends-78937.html>
 
-[^open-4]: 参见“How Free Software and Open Source Relate as Categories of Programs”一文，位于<http://gnu.org/philosophy/free-open-overlap.html>
+[^open-4]: 参见“How Free Software and Open Source Relate as Categories of Programs”一文，位于 <http://gnu.org/philosophy/free-open-overlap.html>
 
-[^open-5]: 全部定义可参见<http://opensource.org/docs/osd> 
+[^open-5]: 全部定义可参见 <http://opensource.org/docs/osd> 
 
 [^open-6]: Neal Stephenson, In the Beginning...Was the Command Line（纽约，HarperCollins出版，1999年），p 49。
 
