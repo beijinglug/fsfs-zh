@@ -47,7 +47,7 @@ GNU 宽通用公共许可证（GNU LGPL）的目的在于一种妥协，我们�
 
 破坏性的妥协不仅仅是对他人的不良影响，它还会通过认知上的不一致扭曲您自己的价值观。如果您抱有某种价值观，但是您的行动表现出来的是与之相冲突的其他价值观，您很可能将会试图改变您的价值观或者行动，以便解决这种矛盾。因此，那些仅仅争论实践上的好处的，或者引导用户转向某些私有软件的项目，几乎不可避免地羞于哪怕只是*暗示*“私有软件是不符合伦理的”。对于它们的参与者，以及对于公众，它们只能强化消费者价值。我们必须拒绝这些妥协，如果我们想要坚持我们自己的价值观不动摇。
 
-如果您想要转向自由软件并且是为了自由的终极目标而不会做出妥协，您可以查阅自由软件基金会的相关资源，它们位于<http://www.fsf.org/resources>。这里列出了能够与自由软件协同工作的硬件和机器配置列表，可供安装的完全自由的 GNU/Linux 发行版的列表，以及能够在百分之百自由软件环境下工作的数千款自由软件包[^compromise-6]。如果您想要帮助社区走在通往自由的正确道路上，很重要的一点就是公开支持公民价值。当人们正在讨论什么是好或者坏，或者要做什么事情的时候，您可以援引自由和社区的价值观并与他们争论。
+如果您想要转向自由软件并且是为了自由的终极目标而不会做出妥协，您可以查阅自由软件基金会的相关资源，它们位于 <http://www.fsf.org/resources>。这里列出了能够与自由软件协同工作的硬件和机器配置列表，可供安装的完全自由的 GNU/Linux 发行版的列表，以及能够在百分之百自由软件环境下工作的数千款自由软件包[^compromise-6]。如果您想要帮助社区走在通往自由的正确道路上，很重要的一点就是公开支持公民价值。当人们正在讨论什么是好或者坏，或者要做什么事情的时候，您可以援引自由和社区的价值观并与他们争论。
 
 一条能够让您更快前行的道路有时并不是一条更好的道路，如果它通往错误的目的地。为了成就一个充满雄心壮志的目标，做出一些妥协是必需的。但是，一定要警惕那些将您引离最终目标的妥协。
 
@@ -56,7 +56,7 @@ GNU 宽通用公共许可证（GNU LGPL）的目的在于一种妥协，我们�
 
  [^compromise-2]: 这里的“自由”应理解为 freedom 中的自由，参见《什么是自由软件？》一文以获得自由软件的完整定义。 
 
- [^compromise-3]: 参见自由软件基金会执行董事 John Sullivan 于 2008 年发表的文章：“The Last Mile Is Always the Hardest,”，位于[http://fsf.org/bulletin/2008/spring/the-last-mile-is-always-the-hardest](http://fsf.org/bulletin/2008/spring/the-last-mile-is-always-the-hardest)，所提及的他本人对于这一问题的看法。 
+ [^compromise-3]: 参见自由软件基金会执行董事 John Sullivan 于 2008 年发表的文章：“The Last Mile Is Always the Hardest,”，位于 [http://fsf.org/bulletin/2008/spring/the-last-mile-is-always-the-hardest](http://fsf.org/bulletin/2008/spring/the-last-mile-is-always-the-hardest)，所提及的他本人对于这一问题的看法。 
 
  [^compromise-4]: 您可以在这里找到自由操作系统发行版准则（GNU FSDG）：<http://gnu.org/philosophy/free-system-distribution-guidelines.html>。 
 

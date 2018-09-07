@@ -10,7 +10,7 @@
 
 当美国宪法被起草之时，作者们应当被赋予某种版权垄断权这一想法被提出——然后又被拒绝了。我们国家的创始人采纳了另一种假设，即版权并非作者们的一种自然的权利，而是以进步之名，人为地为他们做出的一种认可。宪法通过这一条款（第 I 章，第 8 条，第 8 款）许可了这样一种版权体系：
 
-> （国会应当拥有权力）通过在一段限定的时间内保证作者和发明者对其作品或发明拥有专属权利，以促进自然科学和实用艺术的进步。
+> （国会应当拥有权力）通过在一段限定的时间内保证作者和发明者对其作品或发明拥有专属权利，以促进自然科学和实用技艺的进步。
 
 美国最高法院已经一再强调，促进进步意味着保护那些版权作品的使用者的利益。例如，在*Fox Film 起诉 Doyal 的案例* [^mis-copyright-1]中，法庭说道：
 
@@ -168,7 +168,7 @@ DMCA 于 1998 年被实施。随之，它宣称合理使用在名义上尚属合
 
  [^mis-copyright-1]: Fox Film Corp. v. Doyal, 286 US 123, 1932. 
 
- [^mis-copyright-2]: 参见 Julian Sanchez 的文章 “The Trouble with ‘Balance’ Metaphors” (4 February 2011, <http://juliansanchez.com/2011/02/04/the-trouble-with-balance-metaphors/>以获得关于“合理判断与平衡权重之间的类比能够怎样以有害的方式限制我们的思考”这一问题的深入调查。
+ [^mis-copyright-2]: 参见 Julian Sanchez 的文章 “The Trouble with ‘Balance’ Metaphors” (4 February 2011, <http://juliansanchez.com/2011/02/04/the-trouble-with-balance-metaphors/>)以获得关于“合理判断与平衡权重之间的类比能够怎样以有害的方式限制我们的思考”这一问题的深入调查。
 
  [^mis-copyright-3]: Congressional Record, S. 483, “The Copyright Term Extension Act of 1995,” 2 March 1995, pp. S3390–4. 
 

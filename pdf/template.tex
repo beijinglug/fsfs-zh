@@ -18,7 +18,17 @@
 	colorlinks = true,
 	citecolor = black,
 	linkcolor = black]{hyperref}
-\usepackage{graphicx}
+
+\usepackage{graphicx,grffile}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+
 \usepackage{xltxtra}
 \usepackage{fancyhdr}
 \usepackage{booktabs}
@@ -66,6 +76,8 @@ xleftmargin=20pt,
 frame=tb,
 framexleftmargin=20pt
 }
+
+
 
 \titleformat{\section}
 {\color{colorsection}\normalfont\Large\bfseries}
@@ -117,7 +129,29 @@ framexleftmargin=20pt
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % 使用 DejaVu Sans 显示 ⚠ ☢ ☠ ✔ 这四个 dingbats 字符
 % http://tex.stackexchange.com/questions/23049/font-substitution-with-xelatex
+
+\newcommand\la[1]{{#1}}
 \newfontfamily{\DingbatSubstFont}{DejaVu Sans}
+\newfontfamily{\ar}[Script=Arabic]{Noto Naskh Arabic}
+%\newfontfamily{\ar}{DejaVu Sans}
+\newfontfamily{\bg}{Noto Sans CJK SC}
+\newfontfamily{\bn}{Noto Sans Bengali}
+%\newfontfamily{\fa}{Noto Kufi Arabic}
+\newfontfamily{\fa}{DejaVu Sans}
+\newfontfamily{\he}{Noto Sans Hebrew}
+\newfontfamily{\hi}{Noto Sans Devanagari}
+\newfontfamily{\hy}{Noto Sans Armenian}
+\newCJKfontfamily{\ja}{Noto Sans CJK JP}
+\newfontfamily{\ka}{Noto Sans Georgian}
+\newCJKfontfamily{\ko}{Noto Sans CJK KR}
+%\newcommand\ko[0]{}
+\newfontfamily{\ml}{Noto Sans Malayalam}
+\newfontfamily{\si}{Noto Sans Sinhala}
+\newfontfamily{\ta}{Noto Sans Tamil}
+\newfontfamily{\th}{Noto Sans Thai}
+\newfontfamily{\ur}[Script=Arabic,Language=Urdu]{Noto Nastaliq Urdu}
+\newCJKfontfamily{\zhtw}{Noto Sans CJK TC}
+
 \XeTeXinterchartokenstate=1
 \newXeTeXintercharclass\DingbatSubst
 \XeTeXcharclass"26A0=\DingbatSubst	% ⚠
@@ -137,6 +171,7 @@ framexleftmargin=20pt
 
 \settowidth{\parindent}{文字}
 \setcounter{footnote}{1}
+\interfootnotelinepenalty=10000 %使脚注不跨页
 
 \title{\huge{\textbf{自由软件，自由社会}}\\
 \large{理查德·斯托曼选集（第三版）}}
