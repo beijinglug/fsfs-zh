@@ -81,7 +81,7 @@ The GNU General Public License is a free, copyleft license for software and othe
 
 最后，每一个程序都不断受到软件专利的威胁。
 
-各国不应允许专利限制在通用计算机上开发和使用软件，但在这种情况下，我们希望避免将专利申请到一个自由程序的特殊危险而使其成为有效的所有权。为了防止这种情况（发生），GPL保证专利不能被用来使程序变成不自由的。
+各国不应允许专利限制在通用计算机上开发和使用软件，但在这种情况下，我们希望避免将专利申请到一个自由程序的特殊危险而使其有效地专有化。为了防止这种情况（发生），GPL保证专利不能被用来使程序变成不自由的。
 
 >Finally, every program is threatened constantly by software patents.
 States should not allow patents to restrict development and use of software on general-purpose computers, but in those that do, we wish to avoid the special danger that patents applied to a free program could make it effectively proprietary.  To prevent this, the GPL assures that patents cannot be used to render the program non-free.
@@ -656,4 +656,3 @@ GNU通用公共许可证不允许将您的程序合并到专有程序中。如�
 
 
 >The GNU General Public License does not permit incorporating your program into proprietary programs. If your program is a subroutine library, you may consider it more useful to permit linking proprietary applications with the library. If this is what you want to do, use the GNU Lesser General Public License instead of this License. But first, please read <https://www.gnu.org/licenses/why-not-lgpl.html>.
-
