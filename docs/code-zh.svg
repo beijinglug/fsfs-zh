@@ -5,11 +5,35 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    id="svg2"
    width="501"
    height="76"
-   viewBox="0 0 501 76">
+   viewBox="0 0 501 76"
+   sodipodi:docname="code-zh.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1266"
+     inkscape:window-height="932"
+     id="namedview18"
+     showgrid="false"
+     inkscape:zoom="1.3859857"
+     inkscape:cx="266.18613"
+     inkscape:cy="27.606584"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -18,7 +42,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -38,15 +62,6 @@
        y="19.885723"
        x="43.339935"
        id="tspan9207">源代码</tspan></text>
-  <text
-     id="text9209-0"
-     y="65.508919"
-     x="42.964859"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.18533325px;line-height:125%;font-family:'Noto Sans CJK SC';-inkscape-font-specification:'Noto Sans CJK SC, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     xml:space="preserve"><tspan
-       y="65.508919"
-       x="42.964859"
-       id="tspan9229">代码</tspan></text>
   <text
      id="text9209-04"
      y="20.547146"
@@ -82,5 +97,5 @@
      xml:space="preserve"><tspan
        y="65.509621"
        x="460.23859"
-       id="tspan9269">代码</tspan></text>
+       id="tspan9269">机器码</tspan></text>
 </svg>
