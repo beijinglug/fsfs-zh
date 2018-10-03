@@ -61,7 +61,7 @@
 | sv | 瑞典语 | fri programvara *或* fri mjukvara |
 | sw | 斯瓦希里语 | software huru *或* programu huru za kompyuta |
 | ta | 泰米尔文 | <!--(pdf)\la{\ta (pdf)--> கட்டற்ற மென்பொருள் <!--(pdf)}(pdf)--> <!--(pdf-newline)--><br> *(kaṭṭaṟṟa meṉpoñaḷ)* | <!--(pdf)\la{\ta (pdf)--> இலவச மென்பொருள் <!--(pdf)}(pdf)--> <!--(pdf-newline)--><br> *(illavasa menporul)* |
-| th | 泰语 | <!--(pdf)\la{\th (pdf)--> ซอฟต์แวร์เสรี <!--(pdf)}(pdf)--> <!--(pdf-newline)--><br> *(sofotwerseri)* |
+| th | 泰语 | <!--(pdf)\la{\thai (pdf)--> ซอฟต์แวร์เสรี <!--(pdf)}(pdf)--> <!--(pdf-newline)--><br> *(sofotwerseri)* |
 | tl | 他加禄语（菲律宾）| malayang software |
 | tr | 土耳其语 | özgür yazilim |
 | uk | 乌克兰语 | вільне програмне забезпечення  <!--(pdf-newline)--><br> *(vil’ne prohramne zabezpechennja)*|
