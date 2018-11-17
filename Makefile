@@ -66,7 +66,6 @@ APPENDIXS =	docs/appendix-a.md \
 			docs/appendix-c.md
 APPENDIXS_PDF = $(shell echo $(APPENDIXS) | sed 's/.md/_pdf.md/g')
 PDF_IMG = category.pdf code-zh.pdf song-book-jutta-scrunch-crop-zh.pdf
-#SVG_IMG = docs/fs-translations/ar-libre.svg docs/fs-translations/be-libre.svg docs/fs-translations/bg-gratis.svg docs/fs-translations/bg-libre.svg docs/fs-translations/bn-libre.svg docs/fs-translations/el-gratis.svg docs/fs-translations/el-libre.svg docs/fs-translations/fa-gratis.svg docs/fs-translations/fa-libre.svg docs/fs-translations/he-gratis.svg docs/fs-translations/he-libre.svg docs/fs-translations/hi-gratis.svg docs/fs-translations/hi-libre.svg docs/fs-translations/hy-libre.svg docs/fs-translations/ja-kanji-gratis.svg docs/fs-translations/ja-kanji-libre.svg docs/fs-translations/ja-libre.svg docs/fs-translations/ka-gratis.svg docs/fs-translations/ka-libre.svg docs/fs-translations/ko-libre.svg docs/fs-translations/mk-gratis.svg docs/fs-translations/mk-libre.svg docs/fs-translations/ml-gratis.svg docs/fs-translations/ml-libre.svg docs/fs-translations/ru-gratis.svg docs/fs-translations/ru-libre.svg docs/fs-translations/si-libre.svg docs/fs-translations/sr-gratis.svg docs/fs-translations/sr-libre.svg docs/fs-translations/ta-gratis.svg docs/fs-translations/ta-libre.svg docs/fs-translations/th-libre.svg docs/fs-translations/uk-libre.svg docs/fs-translations/ur-gratis.svg docs/fs-translations/ur-libre.svg docs/fs-translations/vi-libre.svg docs/fs-translations/zh-cn-free.svg docs/fs-translations/zh-cn-gratis.svg docs/fs-translations/zh-cn-libre.svg docs/fs-translations/zh-tw-free.svg docs/fs-translations/zh-tw-gratis.svg docs/fs-translations/zh-tw-libre.svg
 
 all: book html
 
@@ -74,7 +73,6 @@ book: epub pdf odf
 
 clean:
 		-rm *.tex *.aux *.fot *.toc *.log *.out
-		-rm -fr fs-translations
 		-rm $(PDF_IMG)
 		-rm -r site
 		-rm $(BOOKNAME).*
@@ -88,20 +86,13 @@ pdf: $(BOOKNAME).pdf
 
 odf: $(BOOKNAME).odt
 
-#$(SVG_IMG): docs/fs-translations/%.svg : docs/fs-translations/%.pdf
-	#pdf2svg $< $@
-
 $(BOOKNAME).epub: $(TITLE) $(PREFACES) $(CHAPTERS) $(APPENDIXS) #$(SVG_IMG)
-	ln -s docs/fs-translations/ . #消除Warning
 	cp docs/*.svg .
 	pandoc $(TOC) -t epub3 --epub-metadata=$(METADATA)  --epub-cover-image=$(COVER_IMAGE) -o $@ $^
-	rm  fs-translations
 
-$(BOOKNAME).html:  $(PREFACES) $(CHAPTERS) $(APPENDIXS) #$(SVG_IMG)
-	ln -s docs/fs-translations/ . #消除Warning
-	pandoc $(TOC) --standalone --to=html5 -o $@ $^ #$(shell echo $(SVG_IMG) | sed 's/docs\///g' )
+$(BOOKNAME).html:  $(PREFACES) $(CHAPTERS) $(APPENDIXS)
+	pandoc $(TOC) --standalone --to=html5 -o $@ $^ 
 	mkdocs build --clean
-	rm fs-translations
 
 %.pdf: docs/%.svg
 	rsvg-convert -f pdf -o $@ $<
@@ -116,12 +107,9 @@ $(BOOKNAME).pdf: $(TITLE)  $(PREFACES_PDF) $(CHAPTERS_PDF) $(APPENDIXS_PDF) $(PD
 	$(PANDOC_TEX) ${PREFACES_PDF} -o preface.tex
 	$(PANDOC_TEX) ${CHAPTERS_PDF} -o chapters.tex
 	$(PANDOC_TEX) ${APPENDIXS_PDF} -o appendix.tex
-#	sed -i 's/\(\\includegraphics.*\)\.svg\}/\1.pdf}/g' chapters.tex appendix.tex
 	${call pdfgen}
-	rm -fr fs-translations
 
 define pdfgen	
-	cp -r docs/fs-translations/ .
 	cp docs/*.png .
 	cp ${TEMPLATE}/template.tex fsfs-zh.tex
 
@@ -135,10 +123,8 @@ define pdfgen
 	@echo "Done!"
 endef
 
-$(BOOKNAME).odt:  $(PREFACES) $(CHAPTERS) $(APPENDIXS) #$(SVG_IMG)
-	ln -s docs/fs-translations/ .
+$(BOOKNAME).odt:  $(PREFACES) $(CHAPTERS) $(APPENDIXS) 
 	pandoc -t odt -o $@ $^ #$(shell echo $(SVG_IMG) | sed 's/docs\///g' )
-	rm fs-translations
 
 
 .PHONY: all book clean epub html 
