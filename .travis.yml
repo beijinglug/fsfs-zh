@@ -12,7 +12,7 @@ before_script:
     - sudo apt-get update
     - "./install.latex.ubuntu.sh"
     - "./install.fandolsong.sh"
-    - wget https://github.com/jgm/pandoc/releases/download/2.2.1/pandoc-2.2.1-1-amd64.deb
+    - wget -c https://github.com/jgm/pandoc/releases/download/2.5/pandoc-2.5-1-amd64.deb
     - sudo dpkg -i *.deb
 
 script:
