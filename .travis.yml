@@ -7,6 +7,7 @@ dist: xenial
 before_script:
     - uname -a
     - lsb_release -a
+    - sudo add-apt-repository -y ppa:jonathonf/texlive-2018
     - sudo add-apt-repository -y ppa:jonathonf/fonts
     - sudo apt-get update
     - "./install.latex.ubuntu.sh"
