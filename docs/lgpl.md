@@ -5,13 +5,13 @@
 
 -----
 
-这是一份 GNU 宽通用许可证非正式的中文翻译。它并非由自由软件基金会所发表，亦非使用 GNU 宽通用许可证的文件的法定发布条款─只有 GNU 宽通用许可证英文原文 <http://www.gnu.org/licenses/lgpl.html> 的版本始具有此等效力。然而，我们希望这份翻译能帮助中文的使用者更了解 GNU 宽通用许可证。
+这是一份 GNU 宽通用许可证非正式的中文翻译。它并非由自由软件基金会所发表，亦非使用 GNU 宽通用许可证的文件的法定发布条款——只有 GNU 宽通用许可证英文原文 <http://www.gnu.org/licenses/lgpl.html> 的版本始具有此等效力。然而，我们希望这份翻译能帮助中文的使用者更了解 GNU 宽通用许可证。
 
 This is an unofficial translation of the LGPL Free Documentation License into Chinese. It was not published by the Free Software Foundation, and does not legally state the distribution terms for documents that uses the GNU LGPL--only the original English text of the GNU LGPL <http://www.gnu.org/licenses/lgpl.html> does that. However, we hope that this translation will help Chinese speakers understand the GNU LGPL better
 
 -----
 
-第 3 版, 2007 年 6 月 29 日
+第 3 版，2007 年 6 月 29 日
 
 版权所有（C）2007 自由软件基金会 http://fsf.org/
 
@@ -73,7 +73,7 @@ e)提供安装信息，但只有如果你，否则必须根据通用共公授权
 
 ### 5.组合的库
 
-您可以将基于该库的作品的库组件与其他非应用程序且不在本许可范围内的库组件并排放置在一个单独的库中，并根据您的选择，发布这样组合的库，只要做到以下全部两项:
+您可以将基于该库的作品的库组件与其他非应用程序且不在本许可范围内的库组件并排放置在一个单独的库中，并根据您的选择，发布这样组合的库，只要做到以下全部两项：
  
 a)将组合的库与基于该（按本协议发布的）库的同一作品的未与任何其他库组件组合的副本一并发布。
  

@@ -108,7 +108,7 @@
 
 #### 备注
 
-Karim R. Lakhani 和 Robert G. Wolf 的论文“Why Hackers Do What They Do: Understanding Motivation and Effort in Free/Open Source Software Projects”（剑桥: MIT 出版社, 2005）[http://ocw.mit.edu/courses/sloan-
+Karim R. Lakhani 和 Robert G. Wolf 的论文“Why Hackers Do What They Do: Understanding Motivation and Effort in Free/Open Source Software Projects”（剑桥：MIT 出版社，2005）[http://ocw.mit.edu/courses/sloan-
 school-of-management/15-352-managing-innovation-emerging-trends-spring-2005/readings/lakhaniwolf.pdf](http://ocw.mit.edu/courses/sloan-school-of-management/15-352-managing-innovation-emerging-trends-spring-2005/readings/lakhaniwolf.pdf)，在探讨自由软件开发者的动机时，指出相当一部分人被“软件必须是自由的”的观点所鼓舞。这里忽略了他们调查的对象是 SourceFourge 的开发人员这一事实，而该站点并不支持这是个伦理问题的观点。
 
 [^open-1]: 有关自由软件的完整定义，参见《什么是自由软件？》一文。

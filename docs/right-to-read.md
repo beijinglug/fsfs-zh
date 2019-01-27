@@ -89,7 +89,7 @@ Lissa 没有向 SPA 举报 Dan，而他关于帮助她的决定使得他们终�
 
 -   Boyle, James, “Sold Out,” *New York Times,* 31 March 1996, sec. 4, p. 15; 也可以在这里找到：<https://law.duke.edu/boylesite/sold_out.htm>.
 
--   社论, *Washington Post,* “Public Data or Private Data,” 3 November 1996, sec. C, p. 6, [http://web.archive.org/web/20130508120533/http://www.interesting-people.org/archives/interesting-people/199611/msg00012.html](http://web.archive.org/web/20130508120533/http://www.interesting-people.org/archives/interesting-people/199611/msg00012.html).
+-   社论，*Washington Post,* “Public Data or Private Data,” 3 November 1996, sec. C, p. 6, [http://web.archive.org/web/20130508120533/http://www.interesting-people.org/archives/interesting-people/199611/msg00012.html](http://web.archive.org/web/20130508120533/http://www.interesting-people.org/archives/interesting-people/199611/msg00012.html).
 
 -   公有领域联盟（Union for the Public Domain）——一个致力于抵抗并且逆转版权和专利的权力过度扩张的组织。 
 
@@ -102,6 +102,6 @@ Lissa 没有向 SPA 举报 Dan，而他关于帮助她的决定使得他们终�
 
 [^righttoread-4]: Nature America Inc., “Principles of Science Privacy Notice,” accessed August 2015, <http://nature.com/principles/viewTermsOfUse>. 
 
-[^righttoread-5]: 参见 Don Clark 的文章 “Seybold Opens Chapter on Digital Books” (31 August 1999, [http://www.zdnet.com/article/seybold-opens-chapter-on-digital-books/](http://www.zdnet.com/article/seybold-opens-chapter-on-digital-books/))以获知有关以电子形式发布图书以及影响到阅读其副本的权利的版权问题的信息。 
+[^righttoread-5]: 参见 Don Clark 的文章 “Seybold Opens Chapter on Digital Books”（31 August 1999, [http://www.zdnet.com/article/seybold-opens-chapter-on-digital-books/](http://www.zdnet.com/article/seybold-opens-chapter-on-digital-books/)）以获知有关以电子形式发布图书以及影响到阅读其副本的权利的版权问题的信息。 
 
 [^righttoread-6]: “Microsoft Announces New Software for Reading on Screen,” 30 August 1999, <http://microsoft.com/en-us/news/press/1999/Aug99/SeyboldPR.aspx>. 

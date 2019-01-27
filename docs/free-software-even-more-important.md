@@ -94,7 +94,7 @@ SaaSS 并不意味着运行在服务器上的程序是非自由的（虽然大�
 
 [^fsemi-3]: 参见《自由和非自由软件分类》一文中关于专有软件的脚注 1。
 
-[^fsemi-4]: 参见 Marcelo Rinesi 于 2015 年 8 月 6 日发表的文章"The Telemarketer Singularity" <http://ieet.org/index.php/IEET/more/rinesi20150806>
+[^fsemi-4]: 参见 Marcelo Rinesi 于 2015 年 8 月 6 日发表的文章“The Telemarketer Singularity”<http://ieet.org/index.php/IEET/more/rinesi20150806>
 
 [^fsemi-5]: 关于 GNU 操作系统的历史可参见《GNU 工程》一文，以及“GNU/Linux FAQ” <http://gnu.org/gnu/gnu-linux-faq.html>。
 

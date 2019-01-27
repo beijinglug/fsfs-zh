@@ -50,12 +50,12 @@ From mit-vax!mit-eddie!RMS@MIT-OZ
  Usenet：
     ...!mit-eddie!RMS@OZ   ...!mit-vax!RMS@OZ
  
- 美国邮政:
+ 美国邮政：
     Richard Stallman
     166 Prospect St
     Cambridge, MA 02139
 ```
 
 
-[^init-1]:这里用词没有注意，初衷是想说没有人需要为使用 GNU 系统而索要*授权*。然而这个词没有说的很清晰，结果人们经常以为获取 GNU 的副本需要很少或者免费。而这从来都不是目的。
+[^init-1]: 这里用词没有注意，初衷是想说没有人需要为使用 GNU 系统而索要*授权*。然而这个词没有说的很清晰，结果人们经常以为获取 GNU 的副本需要很少或者免费。而这从来都不是目的。
 
