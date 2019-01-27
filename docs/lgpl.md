@@ -13,7 +13,7 @@ This is an unofficial translation of the LGPL Free Documentation License into Ch
 
 第 3 版, 2007 年 6 月 29 日
 
-版权所有 （C）2007 自由软件基金会 http://fsf.org/
+版权所有（C）2007 自由软件基金会 http://fsf.org/
 
 允许每个人复制和发布本许可证文件的完整副本，但不允许对它进行任何修改。
 

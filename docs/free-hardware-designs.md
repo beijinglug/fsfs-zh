@@ -1,6 +1,6 @@
 ## 自由硬件和自由硬件设计
  
-> Copyright © 2015 Richard Stallman。本文分成两部分，分别以标题“为什么我们需要自由的电子硬件设计” <http://wired.com/2015/03/need-free-digital-hardware-designs> 和“硬件设计必须自由，如何行动见此” <http://wired.com/2015/03/richard-stallman-how-to-make-hardware-designs-free>，发表于《连线》杂志网站。2015 年本文发布于 <http://gnu.org> 。
+> Copyright © 2015 Richard Stallman。本文分成两部分，分别以标题“为什么我们需要自由的电子硬件设计” <http://wired.com/2015/03/need-free-digital-hardware-designs> 和“硬件设计必须自由，如何行动见此” <http://wired.com/2015/03/richard-stallman-how-to-make-hardware-designs-free>，发表于《连线》杂志网站。2015 年本文发布于 <http://gnu.org>。
 
 > 自由软件的思想向硬件延伸到什么范围？让我们的硬件设计自由是不是个道德义务，正如使我们的软件自由那样？维持我们的自由是否需要抵制出自非自由设计的硬件？
 
@@ -38,7 +38,7 @@
 
 在 FPGA 上运行自由的逻辑门模式可以是一种使得数字设备从电路层变自由的潜在有效方法。然而为了使 FPGA 在自由世界中可用，我们需要为其设计自由的开发工具。其障碍是加载进 FPGA 的逻辑门模式文件的格式是私密的。多年以来，没有一种 FPGA 的型号能够让我们不使用不自由（私有）的工具就能够为其生成逻辑门模式文件。
 
-到了 2015 年，用来给一种通用的 FPGA 型号—— Lattice iCE40[^freehard-4]用硬件描述语言（HDL）写成的输入文件编程的自由软件工具出现了。现在也可以用自由工具编译 C 程序并在 Xilinx Spartan 6 LX9 FPGA 上运行它们[^freehard-5]，但这些工具不支持 HDL 输入。我们建议您抵制其他型号的 FPGA 直到它们也能被自由的工具支持。
+到了 2015 年，用来给一种通用的 FPGA 型号——Lattice iCE40[^freehard-4]用硬件描述语言（HDL）写成的输入文件编程的自由软件工具出现了。现在也可以用自由工具编译 C 程序并在 Xilinx Spartan 6 LX9 FPGA 上运行它们[^freehard-5]，但这些工具不支持 HDL 输入。我们建议您抵制其他型号的 FPGA 直到它们也能被自由的工具支持。
 
 对 HDL 代码本身而言，它可以表现为软件（当运行于模拟器上或载入 FPGA 中），也可以表现为硬件设计（当实现为不可变的硅晶或电路板）。
 

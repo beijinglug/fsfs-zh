@@ -254,7 +254,7 @@ Linux 是 Linus Torvalds 于 1991 年开始开发的内核的名字，使用 Lin
 
 ### PowerPoint（PPT）
 
-请不要使用 PowerPoint 指代任何类型的幻灯片演示文稿。它只是一款特定的用于制作演示文稿的私有软件的名字。为了您的自由，您应该只用自由软件来制作演示文稿。推荐的可选工具包括 TeX 的 beamer 类以及 OpenOffice.org （或 LibreOffice——译者注）的 Impress。
+请不要使用 PowerPoint 指代任何类型的幻灯片演示文稿。它只是一款特定的用于制作演示文稿的私有软件的名字。为了您的自由，您应该只用自由软件来制作演示文稿。推荐的可选工具包括 TeX 的 beamer 类以及 OpenOffice.org（或 LibreOffice——译者注）的 Impress。
 
 ### 保护（Protection）
 
@@ -266,7 +266,7 @@ Linux 是 Linus Torvalds 于 1991 年开始开发的内核的名字，使用 Lin
 
 如果您想要批判版权制度而非只是想保持中立，您还可以使用“版权限制”这一短语。因此，您可以说“版权限制持续很长时间”。
 
-“保护”一词还被用于描述恶意功能。例如，“复制保护”是一种干扰复制行为的功能。从用户的观点来看，这是一种阻碍。因此我们将此恶意功能称为“复制阻碍”。它更多地被称为数字限制管理（DRM）——参见 Defective by Design 运动， 它位于 [DefectiveByDesign.org](DefectiveByDesign.org)。
+“保护”一词还被用于描述恶意功能。例如，“复制保护”是一种干扰复制行为的功能。从用户的观点来看，这是一种阻碍。因此我们将此恶意功能称为“复制阻碍”。它更多地被称为数字限制管理（DRM）——参见 Defective by Design 运动，它位于 [DefectiveByDesign.org](DefectiveByDesign.org)。
 
 ### 合理与无差别（RAND，Reasonable and Non-Discriminatory）
 
