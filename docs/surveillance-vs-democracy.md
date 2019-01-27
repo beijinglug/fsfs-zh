@@ -159,11 +159,11 @@ NSA 通过棱镜计划（PRISM）进入了多家大型互联网公司的数据�
 
  [^surveilance-17]: Joanna Berendt, “Macedonia Government Is Blamed for Wiretapping Scandal,” 21 June 2015, <http://www.nytimes.com/2015/06/22/world/europe/macedonia-government-is-blamed-for-wiretapping-scandal.html?_r=0>. 
 
- [^surveilance-18]: “International Principles on the Application of Human Rights to Communications Surveillance,” last modified May 2014, <https://en.necessaryandproportionate.org/text>. 
+ [^surveilance-18]: “International Principles on the Application of Human Rights to Communications Surveillance,” last modified May 2014, <https://en.necessaryandproportionate.org/text>.
 
  [^surveilance-19]: Eric Lichtblau and James Risen, “Officials Say U.S. Wiretaps Exceeded Law,” 15 April 2009, <http://nytimes.com/2009/04/16/us/16nsa.html>. 
 
- [^surveilance-20]: 几十年来，自由软件运动一直致力于揭露私有软件公司诸如微软和苹果的专权的监控机制。监控行为已经在各行业之间蔓延，而不再限于软件产业，并且——离开键盘的限制——进入移动计算领域，在办公室、家庭、交通工具、教室内等。如需获知监控行为进入这些领域的不断增加的方式，参见<http://gnu.org/philosophy/proprietary/proprietary-surveillance.html>. 
+ [^surveilance-20]: 几十年来，自由软件运动一直致力于揭露私有软件公司诸如微软和苹果的专权的监控机制。监控行为已经在各行业之间蔓延，而不再限于软件产业，并且——离开键盘的限制——进入移动计算领域，在办公室、家庭、交通工具、教室内等。如需获知监控行为进入这些领域的不断增加的方式，参见 <http://gnu.org/philosophy/proprietary/proprietary-surveillance.html>. 
 
  [^surveilance-21]: 参见《服务器真正是在为谁服务？》一文以获取更多信息。
 

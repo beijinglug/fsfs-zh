@@ -121,7 +121,7 @@ school-of-management/15-352-managing-innovation-emerging-trends-spring-2005/read
 
 [^open-5]: 全部定义可参见 <http://opensource.org/docs/osd> 
 
-[^open-6]: Neal Stephenson, In the Beginning...Was the Command Line（纽约，HarperCollins出版，1999年），p 49。
+[^open-6]: Neal Stephenson, In the Beginning...Was the Command Line（纽约，HarperCollins 出版，1999年），p 49。
 
 [^open-7]: 堪萨斯州全州技术架构，“信息架构”，version 8.0, 20.3.8, 2011年10月11日。
 <https://web.archive.org/web/20001011193422/http://da.state.ks.us/ITEC/TechArchPt6ver80.pdf>

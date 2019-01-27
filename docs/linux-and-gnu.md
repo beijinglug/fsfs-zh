@@ -61,7 +61,7 @@ GNU 项目支持 GNU/Linux 系统和 *GNU 操作系统* 。FSF 资助了重写 G
 
 [^linux-gnu-10]: 参见 <http://gnu.org/software/hurd/hurd-and-linux.html> 就会明白为什么 FSF 开发了 GNU Hurd 内核。 
 
-[^linux-gnu-11]: 参见 “Linux 0.01 发行注记” （“Notes for Linux Release 0.01,”）：<http://ftp.funet.fi/pub/linux/historical/kerne去l/old-versions/RELNOTES-0.01>。
+[^linux-gnu-11]: 参见 “Linux 0.01 发行注记” （“Notes for Linux Release 0.01,”）：<http://ftp.funet.fi/pub/linux/historical/kernel/old-versions/RELNOTES-0.01>。
 
 [^linux-gnu-12]: 比如, GNU C 运行库 （GNU C Library）<http://gnu.org/software/libc/libc.html>。
 
@@ -69,4 +69,4 @@ GNU 项目支持 GNU/Linux 系统和 *GNU 操作系统* 。FSF 资助了重写 G
 
 [^linux-gnu-14]: 撰写此文时，一个类 Windows 的接近全部自由的操作系统已经开发了出来，但是从技术角度来讲，它不像 GNU 或者 Unix，所以并没有受此问题的影响。Solaris 的大部分内核都已自由开放，但是如果你想基于 Solaris 实现一个完全自由的操作系统，除了需要替换内核中缺失的实现外，还需要放进 GNU 或者 BSD 当中。
 
-[^linux-gnu-15]: 从另一个方面来讲，在此文撰写的这几年间，GNU C 运行库已经被移植到了很多版本的 BSD 内核上，这为集成 GNU 操作系统到该内核上带来了方便。就像 GNU/Linux那样，GNU 还有好多个变种，比如 GNU/kFreeBSD 和 GNU/kNetBSD。普通桌面用户可能不好区分 GNU/Linux 和 GNU/*BSD。 
+[^linux-gnu-15]: 从另一个方面来讲，在此文撰写的这几年间，GNU C 运行库已经被移植到了很多版本的 BSD 内核上，这为集成 GNU 操作系统到该内核上带来了方便。就像 GNU/Linux 那样，GNU 还有好多个变种，比如 GNU/kFreeBSD 和 GNU/kNetBSD。普通桌面用户可能不好区分 GNU/Linux 和 GNU/*BSD。 

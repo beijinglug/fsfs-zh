@@ -20,7 +20,7 @@
 
 由于这种潜在的混淆，当一家软件公司宣称它的产品是“free software”的时候，务必查看实际的发布条款以确认用户是否真正拥有自由软件所暗示的所有基本自由。有时它真的属于自由软件，有时它不是。
 
-很多语言都拥有两个独立的单词用来表示“freedom”中的自由和零价格的免费。例如，法语中有 libre 和 gratuit。而英语则不是；在英语中确实有一个单词 gratis 用于无歧义地表示价格，但没有普通的形容词用于无歧义地表示自由。因此，如果您说另一种语言，我们建议您在将“free”翻译为您的母语的时候澄清其涵义。参见我们整理的将“free software”这一短语翻译为多种其他语言的详细列表（见附录B）。
+很多语言都拥有两个独立的单词用来表示“freedom”中的自由和零价格的免费。例如，法语中有 libre 和 gratuit。而英语则不是；在英语中确实有一个单词 gratis 用于无歧义地表示价格，但没有普通的形容词用于无歧义地表示自由。因此，如果您说另一种语言，我们建议您在将“free”翻译为您的母语的时候澄清其涵义。参见我们整理的将“free software”这一短语翻译为多种其他语言的详细列表（见附录 B）。
 
 自由软件通常比私有软件更可靠[^cate-2]。
 
@@ -156,11 +156,11 @@ FSF 遵循这样的规则，我们不能在自己的计算机上安装任何私�
 
  [^cate-6]: 参见 “The BSD License Problem,” 一文，位于 <http://gnu.org/philosophy/bsd.html>。 
 
- [^cate-7]: 参见 “GNU系统概览” 一文，位于 <http://gnu.org/gnu/gnu-history.html> 以获知更多历史背景。
+ [^cate-7]: 参见 “GNU 系统概览” 一文，位于 <http://gnu.org/gnu/gnu-history.html> 以获知更多历史背景。
 
  [^cate-8]: 参见《Linux 和 GNU 系统》一文以获得更多信息。 
 
- [^cate-9]: 参见 “GNU系统概览” 一文，位于 <http://gnu.org/gnu/gnu-history.html> 以获知更多历史背景。
+ [^cate-9]: 参见 “GNU 系统概览” 一文，位于 <http://gnu.org/gnu/gnu-history.html> 以获知更多历史背景。
 
  [^cate-10]: 参见 <http://directory.fsf.org>。 
 
