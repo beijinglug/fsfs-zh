@@ -1,6 +1,6 @@
 ## 为什么学校应该只使用自由软件
 
-> Copyright © 2003, 2009, 2014 Richard Stallman 此文最早于2003年发布在 <http://gnu.org>。
+> Copyright © 2003, 2009, 2014 Richard Stallman 此文最早于 2003 年发布在 <http://gnu.org>。
 
 教育性的活动（包括学校里的）有道义责任只教授自由软件。
 
@@ -37,4 +37,4 @@
 如果你和学校有一定联系——如果你是一名学生、一名教师、一位员工、一名管理者、一位捐赠人，或者这些人的父母——你有义务和责任向学校推广自由软件。如果私人请求无法解决这个问题，可将这个问题公开出来提交到社区。这样就能让更多的人意识到这件事情的重要性。你可以寻找同盟，让大家一起发起这项推广自由软件的运动。
 
 
-[^edu-1]: 参见 《雷诺烟草公司因向儿童发放卷烟样品，于2002年被罚1500万美元》（RJ Reynolds Tobacco Company was fined \$15m in 2002 for handing out free samples of cigarettes at events attended by children）<http://bbc.co.uk/worldservice/sci_tech/features/health/tobaccotrial/usa.htm>
+[^edu-1]: 参见 《雷诺烟草公司因向儿童发放卷烟样品，于 2002 年被罚 1500 万美元》（RJ Reynolds Tobacco Company was fined \$15m in 2002 for handing out free samples of cigarettes at events attended by children）<http://bbc.co.uk/worldservice/sci_tech/features/health/tobaccotrial/usa.htm>

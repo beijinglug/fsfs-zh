@@ -40,7 +40,7 @@
 
 根据伯尔尼保护文学和艺术作品公约（大多数国家已经签署）[^cate-n]，任何写下的东西自动获得版权，这也包括计算机程序。因此，如果您想要使您的程序进入公有领域，您必须采取某些法律步骤以放弃其版权；否则该程序是受版权保护的。
 
-[^cate-n]: 《伯尔尼保护文学和艺术作品公约》（法语：Convention de Berne pour la protection des œuvres littéraires et artistiques），简称《伯尔尼公约》，是关于著作权保护的国际条约。《公约》生效至今（2013年）进行过8次补充和修订，共有167个签约国。——译者注，摘自维基百科
+[^cate-n]: 《伯尔尼保护文学和艺术作品公约》（法语：Convention de Berne pour la protection des œuvres littéraires et artistiques），简称《伯尔尼公约》，是关于著作权保护的国际条约。《公约》生效至今（2013 年）进行过 8 次补充和修订，共有 167 个签约国。——译者注，摘自维基百科
 
 ### 左版软件（Copylefted Software）
 

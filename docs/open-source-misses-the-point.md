@@ -1,6 +1,6 @@
 ## 为什么说开源漏掉了自由软件的要点
 
-> Copyright © 2007, 2008,2010, 2012–2015 Richard Stallman 此文最早于2007年发布于 <http://gnu.org>
+> Copyright © 2007, 2008,2010, 2012–2015 Richard Stallman 此文最早于 2007 年发布于 <http://gnu.org>
 
 当我们说软件“自由”的时候，我们意指它尊重用户最根本的自由：即运行、学习和修改软件，或者重新发布软件副本（无论是否修改过）的自由[^open-1]。这是一个关于自由的问题，而非价格。因此我们应该理解为“言论自由”，而不是“免费啤酒”。
 
@@ -72,7 +72,7 @@
 
 然而只有在软件尊重了用户的自由时，才能说它服务于用户。如果软件被设计的目的是使用户枷锁缠身会怎样呢？那样的话，强大仅仅意味着枷锁套得更紧，而可靠则使枷锁更难去除。恶意的功能，比如针对用户的间谍行为、限制用户、后门和在专有软件里很常见的强制性升级，甚至有些开源的支持者也想实现这些。
 
-在电影和唱片公司的压力下，个人使用的软件逐渐被有意地设计成能够限制用户的软件。这种恶意的特征被称为 DRM 或者数字限制管理（Digital Restrictions Management，参见[DefectiveByDesign.org](DefectiveByDesign.org)），而这正是与自由软件所要提倡的自由精神相对立的。并且不仅仅在精神上：因为 DRM 的目标是践踏你们的自由，DRM 的开发者们试图使你修改实现了 DRM 的软件变得困难、或者不可能，甚至非法。
+在电影和唱片公司的压力下，个人使用的软件逐渐被有意地设计成能够限制用户的软件。这种恶意的特征被称为 DRM 或者数字限制管理（Digital Restrictions Management，参见 [DefectiveByDesign.org](DefectiveByDesign.org)），而这正是与自由软件所要提倡的自由精神相对立的。并且不仅仅在精神上：因为 DRM 的目标是践踏你们的自由，DRM 的开发者们试图使你修改实现了 DRM 的软件变得困难、或者不可能，甚至非法。
 
 然而，一些开源支持者提出了所谓“开源 DRM”软件。他们的想法是，通过公开并允许人们修改那些被设计成用来限制你访问加密媒体的程序的源代码，生产更加强大、可靠的软件来限制像你这样的用户。然后，再将这些程序放到那些不允许你修改的设备中发布。
 
@@ -115,23 +115,23 @@ school-of-management/15-352-managing-innovation-emerging-trends-spring-2005/read
 
 [^open-2]: 关于操作系统可参见《Linux 和 GNU 系统》一文
 
-[^open-3]: 一个典型的例子，比如 Jay Lyman 的文章“Open Source Is Woven Into the Latest, Hottest Trends”（2013年9月12日）<http://www.linuxinsider.com/story/Open-Source-Is-Woven-Into-the-Latest-Hottest-Trends-78937.html>
+[^open-3]: 一个典型的例子，比如 Jay Lyman 的文章“Open Source Is Woven Into the Latest, Hottest Trends”（2013 年 9 月 12 日）<http://www.linuxinsider.com/story/Open-Source-Is-Woven-Into-the-Latest-Hottest-Trends-78937.html>
 
 [^open-4]: 参见“How Free Software and Open Source Relate as Categories of Programs”一文，位于 <http://gnu.org/philosophy/free-open-overlap.html>
 
 [^open-5]: 全部定义可参见 <http://opensource.org/docs/osd> 
 
-[^open-6]: Neal Stephenson, In the Beginning...Was the Command Line（纽约，HarperCollins 出版，1999年），p 49。
+[^open-6]: Neal Stephenson, In the Beginning...Was the Command Line（纽约，HarperCollins 出版，1999 年），p 49。
 
-[^open-7]: 堪萨斯州全州技术架构，“信息架构”，version 8.0, 20.3.8, 2011年10月11日。
+[^open-7]: 堪萨斯州全州技术架构，“信息架构”，version 8.0, 20.3.8, 2011 年 10 月 11 日。
 <https://web.archive.org/web/20001011193422/http://da.state.ks.us/ITEC/TechArchPt6ver80.pdf>
 
-[^open-8]: Mary Jane Irwin，“The Brave New World of Open-Source Game Design”（开源游戏设计的勇敢新世界），纽约时报，在线版，2009年2月7日。<http://www.nytimes.com/external/gigaom/2009/02/07/07gigaom-the-brave-new-world-of-open-source-game-design-37415.html>
+[^open-8]: Mary Jane Irwin，“The Brave New World of Open-Source Game Design”（开源游戏设计的勇敢新世界），纽约时报，在线版，2009 年 2 月 7 日。<http://www.nytimes.com/external/gigaom/2009/02/07/07gigaom-the-brave-new-world-of-open-source-game-design-37415.html>
 
-[^open-9]: Karl Mathiesen 和 Tess Riley，“Texas Teenager Creates $20 Water Purifier to Tackle Toxic E-Waste Pollution”（德州青少年创建 $20 水净化器，以解决有毒电子废物污染环境），2015年8月27日。<http://theguardian.com/sustainable-business/2015/aug/27/texas-teenager-water-purifier-toxic-e-waste-pollution>
+[^open-9]: Karl Mathiesen 和 Tess Riley，“Texas Teenager Creates $20 Water Purifier to Tackle Toxic E-Waste Pollution”（德州青少年创建 $20 水净化器，以解决有毒电子废物污染环境），2015 年 8 月 27 日。<http://theguardian.com/sustainable-business/2015/aug/27/texas-teenager-water-purifier-toxic-e-waste-pollution>
 
 [^open-10]: 参见“Various Licenses and Comments about Them” <http://gnu.org/licenses/license-list.html>
 
-[^open-11]: Evgeny Morozov，“Open and Closed”（开放和封闭），2013年3月16日，<http://www.nytimes.com/2013/03/17/opinion/sunday/morozov-open-and-closed.html>
+[^open-11]: Evgeny Morozov，“Open and Closed”（开放和封闭），2013 年 3 月 16 日，<http://www.nytimes.com/2013/03/17/opinion/sunday/morozov-open-and-closed.html>
 
 [^open-12]: 可参见本文或文章“FLOSS 和 FOSS” <http://www.gnu.org/philosophy/floss-and-foss.html>
