@@ -63,7 +63,7 @@ GNU 项目支持 GNU/Linux 系统和 *GNU 操作系统*。FSF 资助了重写 GN
 
 [^linux-gnu-11]: 参见 “Linux 0.01 发行注记”（“Notes for Linux Release 0.01,”）：<http://ftp.funet.fi/pub/linux/historical/kernel/old-versions/RELNOTES-0.01>。
 
-[^linux-gnu-12]: 比如，GNU C 运行库（GNU C Library）<http://gnu.org/software/libc/libc.html>。
+[^linux-gnu-12]: 比如 GNU C 运行库（GNU C Library）<http://gnu.org/software/libc/libc.html>。
 
 [^linux-gnu-13]: 参见 <http://gnu.org/distros/> 以获得我们知道的所有完全自由的发行版的列表。 
 
