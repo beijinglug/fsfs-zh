@@ -14,6 +14,8 @@ addons:
             - fonts-liberation
             - fonts-noto
             - fonts-noto-cjk
+            - fonts-noto-unhinted
+            - fonts-noto-hinted
             - librsvg2-bin
             - pdf2svg
 
