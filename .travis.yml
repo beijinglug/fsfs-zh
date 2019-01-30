@@ -1,44 +1,42 @@
 os: linux
-
 sudo: required
-
 dist: xenial
 addons:
-    apt:
-        packages:
-            - texlive-xetex
-            - texlive-lang-chinese
-            - texlive-fonts-recommended
-            - lmodern
-            - texlive-fonts-extra
-            - fonts-liberation
-            - fonts-noto
-            - fonts-noto-cjk
-            - fonts-noto-unhinted
-            - fonts-noto-hinted
-            - librsvg2-bin
-            - pdf2svg
+  apt:
+    packages:
+    - texlive-xetex
+    - texlive-lang-chinese
+    - texlive-fonts-recommended
+    - lmodern
+    - texlive-fonts-extra
+    - fonts-liberation
+    - fonts-noto
+    - fonts-noto-cjk
+    - fonts-noto-unhinted
+    - fonts-noto-hinted
+    - librsvg2-bin
+    - pdf2svg
 
 before_script:
-    - "./install.fandolsong.sh"
-    - wget -c https://github.com/jgm/pandoc/releases/download/2.5/pandoc-2.5-1-amd64.deb
-    - sudo dpkg -i *.deb
+  - "./install.fandolsong.sh"
+  - wget -c https://github.com/jgm/pandoc/releases/download/2.5/pandoc-2.5-1-amd64.deb
+  - sudo dpkg -i *.deb
 
 script:
-    - make pdf
-    - make epub
+  - make pdf
+  - make epub
 
 after_script:
-    - echo "===================================================================="
-    - ls -lah fsfs-zh.*
+  - echo "===================================================================="
+  - ls -lah fsfs-zh.*
 
 deploy:
-    provider: releases
-    api_key:
-        secure: n4u/q/fCDHCVyxb2zcyRgFcCT0cEIRG8ob0leEr7VqRSIcWzkYdxF9Vnkp6NbNr0eYcclTSvTQO8vq0W/Eyg4N6afk3A47aBmhqae7EljtuLaccJByw8qVejIkHrlVO1tLXSwyEhZzkib9GiF1mnIaRinh6yOzAmle9ueLmi9GcLCWZ5LBDxvrk3GmZ5164Ciuw9l0nwTt+5DQBsF5zpuPWdrpGN0YCl2Q64FJsiVqYs1WqEdKBOS6VMOOEGG5Q5XcrV/IedGKlOZgM8pM1XmgBvM3jIyTibA/IxMak7hd2wcVIwmb7+rUb5vA5EPImDbw9rqAjbO74CzXI4Cu7/Vs1Yu2zIBgeK/ZmCny8U/MoGO2jLZDeLQf6USfXcL4+rZs2SvcswVm4DFbnxl8TCy+SsE9gUnex4xKvKSVgF0Kq4uG4Tt5C7kjXjVRR7cM/SSLbJowb+SbkQzLR1Wja1ifU8C4ng21o/PcR0Hdny47RxuA7tCelnP5djmrlHbpS+O48h5tRTwZoMaqSdSxi7Lj08mA3owf3xtZwG52XryKmdroFLA9M3+k+ej5stWnQmEyXpaCAB9QDIEjkrdSpU1rGj2R1FeQOhOZtPjrSDMPUgejBYbCFMa/pf19f7MAOAWL8RUcU3vj/hKdrtZtabZck1kK0Ns2Dkhw75v05KmBk=
-    file:
-        - fsfs-zh.pdf
-        - fsfs-zh.epub
-    on:
-        tags: true
-        repo: beijinglug/fsfs-zh
+  provider: releases
+  api_key:
+    secure: J3ovA6JXQ3OWlyG9nC7j8oou8YcW3zMKc8s6Ax2Ajmzl1CVgyvg149Jfpmk9qH3SKeapNOzou+Ibj+I1yytPo2OGgUjYWaSf4yMn8UCkWp3FPDSZPsLb/JLfmCbU9jxtIROLYbt7lLp/YGKLqwLm8VxI8kqE93lw0nE0rwsFC55ed3GrNu+xiXVkw3VZ7sXAfbUvxjRAA/ME6OEK3jZYMoaJdjivjNPLVmLFcgCot6eGIwU08PKZ3mjP5WAzF1rbbSwyAMZTrziFBHJC9ZKiRWuHlSTzI+jDFYNdNtJXvP0x3Mdcl9wbNnlicnd4PuJaCYltDpylrQGXC4r/QA0XBTT25zW5aSfRAzYn9xK35KmaHvL/2f0hr6Nygpb7ipuiWLfoTS+F+U0nIwrHqjxb/s3oHa16KrSktdKPTeOXQB04OrwQYlHHGwKvcOkVI9zxb9wKyFYhB2eylGB9/6yiYKKOUsAc4uhjRBzDZvF+eVqPTFBs5vXM5SxdtBFGBMDIIc1Shp9Nmj8vQt3zRPvEDPEpDhw3R/iU5OQdN23ilY1f6whIP/xd1wZThk6HAP0h3xw8CDcDOx0Ffp52z1NDNmAiKoxXVmn+4BosF8VMCONVh7g43DoRg26Xklvk8mcikxzduQ0d8w3KrIfLu0LGSKxX5h4ff1h5ljECAAKQn48=
+  file: 
+    - fsfs-zh.pdf
+    - fsfs-zh.epub
+  on:
+    tags: true
+    repo: beijinglug/fsfs-zh
