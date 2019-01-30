@@ -1,5 +1,4 @@
 [![Build Status](https://travis-ci.org/beijinglug/fsfs-zh.svg?branch=master)](https://travis-ci.org/beijinglug/fsfs-zh)
-[![Build Status](https://semaphoreci.com/api/v1/tonghuix/fsfs-zh/branches/master/shields_badge.svg)](https://semaphoreci.com/tonghuix/fsfs-zh)
 [![GitHub release](https://img.shields.io/github/release/beijinglug/fsfs-zh.svg)](https://github.com/beijinglug/fsfs-zh/releases)
 [![Github All Releases](https://img.shields.io/github/downloads/beijinglug/fsfs-zh/total.svg)](https://github.com/beijinglug/fsfs-zh/releases)
 
@@ -36,10 +35,11 @@ Free Software, Free Society v3 Chinese Translation
 | @tonghuix | 翻译了一些文章，将某些既有翻译加入进来，大量校对 |
 | @liushuyu | 翻译了 Linux and GNU 一文，使用 Musescore 重制了自由软件之歌的乐谱 |
 | @persmle | 翻译了一些文章，大量校对 | 
-| @MandyMY | 大量校对 |
-| @biergaizi | 少量翻译 |
-| @mytbk | 少量翻译和校对，并完善 pdf 格式排版 |
+| @MandyMY | 大量校对和修订 |
+| @biergaizi | 少量翻译并做了大量社交网络推广 |
+| @mytbk | 少量翻译和校对，并协助 PDF 格式排版，Pandoc 及 Texlive 的格式适配等 |
 | @wxy | 参与修订，并将此书增加到[Linux中国](https://linux.cn)的每周微博、微信推送中 |
+| @hagb | 大量校对和修订，并将此书反馈到 GNU 官网的中文翻译中 #209 | 
 
 授权许可
 --------
