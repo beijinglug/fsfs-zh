@@ -1,8 +1,8 @@
 ## 如今自由软件更加重要
 
-> Copyright © 2015 理查德·斯托曼（Richard Stallman）。此文大幅修改后发表于《连线》杂志（Wired）网站，标题是[“Why Free Software Is More Important Now Than Ever Before”](http://wired.com/opinion/2013/09/why-free-software-is-more-important-now-than-ever-before)，2013年9月28日。
+> Copyright © 2015 理查德·斯托曼（Richard Stallman）。此文大幅修改后发表于《连线》杂志（Wired）网站，标题是[“Why Free Software Is More Important Now Than Ever Before”](http://wired.com/opinion/2013/09/why-free-software-is-more-important-now-than-ever-before)，2013 年 9 月 28 日。
 
-自1983年以来，自由软件运动一直在为计算机用户的自由而战——用户控制他们使用的软件，而不是相反。当一个程序尊重用户和社区的自由时，我们把它称为“自由软件”。
+自 1983 年以来，自由软件运动一直在为计算机用户的自由而战——用户控制他们使用的软件，而不是相反。当一个程序尊重用户和社区的自由时，我们把它称为“自由软件”。
 
 我们有时也称之为“libre software”以便澄清我们关注的是自由，而不是价格。一些专有（非自由）软件比如 Photoshop，非常昂贵；而其他比如 Flash 播放器则免费提供——所以价格并不是大问题。无论高价还是免费，它们都将程序开发者的权力凌驾于用户之上，而这种权力是不应该存在的。
 
@@ -86,7 +86,7 @@ SaaSS 并不意味着运行在服务器上的程序是非自由的（虽然大�
 
 我们应该控制我们自己的计算机，如何赢回控制权？可以拒绝使用我们自己或平时所用计算机上的非自由软件，拒绝 SaaSS。对于我们这些程序员而言，可以开发自由软件[^fsemi-10]，还可以拒绝开发或者推广非自由软件或 SaaSS，并广泛散播这些理念给其他人[^fsemi-11]。
 
-我们以及上千用户从1984年开始就这么做，这样才有了现在我们使用的自由的 GNU/Linux 操作系统，所有人——无论是否是程序员——都可以使用。以一个程序员或活动家的身份，加入我们的事业。让我们一起解放所有计算机用户吧。
+我们以及上千用户从 1984 年开始就这么做，这样才有了现在我们使用的自由的 GNU/Linux 操作系统，所有人——无论是否是程序员——都可以使用。以一个程序员或活动家的身份，加入我们的事业。让我们一起解放所有计算机用户吧。
 
 [^fsemi-1]: 参见 <http://gnu.org/proprietary/proprietary.html> 可知这些不断增加的威胁。
 
@@ -94,13 +94,13 @@ SaaSS 并不意味着运行在服务器上的程序是非自由的（虽然大�
 
 [^fsemi-3]: 参见《自由和非自由软件分类》一文中关于专有软件的脚注 1。
 
-[^fsemi-4]: 参见 Marcelo Rinesi 于2015年8月6日发表的文章"The Telemarketer Singularity" <http://ieet.org/index.php/IEET/more/rinesi20150806>
+[^fsemi-4]: 参见 Marcelo Rinesi 于 2015 年 8 月 6 日发表的文章“The Telemarketer Singularity”<http://ieet.org/index.php/IEET/more/rinesi20150806>
 
 [^fsemi-5]: 关于 GNU 操作系统的历史可参见《GNU 工程》一文，以及“GNU/Linux FAQ” <http://gnu.org/gnu/gnu-linux-faq.html>。
 
 [^fsemi-6]: 参见《服务器真正为谁服务？》一文。
 
-[^fsemi-7]: 参见 Sean Gallagher 于2013年6月14日发表的文章“NSA Gets Early Access to Zero-Day Data from Microsoft, Others” <http://arstechnica.com/security/2013/06/nsa-gets-Eearly-access-to-zero-day-data-from-microsoft-others/>
+[^fsemi-7]: 参见 Sean Gallagher 于 2013 年 6 月 14 日发表的文章“NSA Gets Early Access to Zero-Day Data from Microsoft, Others” <http://arstechnica.com/security/2013/06/nsa-gets-Eearly-access-to-zero-day-data-from-microsoft-others/>
 
 [^fsemi-8]: 关于我们建议的政策可参见《政府推动自由软件的措施》一文
 

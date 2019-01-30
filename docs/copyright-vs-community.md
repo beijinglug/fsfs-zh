@@ -300,9 +300,9 @@ AACS 阴谋集团为所有播放器制定了细致的规则。例如在 2011 年
 
 我们想要利用它们改变新西兰版权法案中的两大邪恶部分，它们不应取代“三振出局法”[^copyright-community-5]，由于分享是美好的，它们应当摆脱针对用于破解 DRM 的软件的审查。当心反假冒贸易协定（ACTA），它们试图在不同国家之间商定一种条约，使这些国家可以攻击它们的国民，我们不知道如何攻击，由于它们不会告诉我们。
 
- [^copyright-community-1]: 在 2010 年，关于数字视频输出的加密系统被正式破解。参见 Mark Hachman 的文章“HDCP Master Key Confirmed; Blu-Ray Content Vulnerable”（2010年9月16日），位于 <http://pcmag.com/article2/0,2817,2369280,00.asp> 以获得更多信息) 。
+ [^copyright-community-1]: 在 2010 年，关于数字视频输出的加密系统被正式破解。参见 Mark Hachman 的文章“HDCP Master Key Confirmed; Blu-Ray Content Vulnerable”（2010 年 9 月 16 日），位于 <http://pcmag.com/article2/0,2817,2369280,00.asp> 以获得更多信息。
 
- [^copyright-community-2]: 此书即《Free as in Freedom》。中文译名《若为自由故：自由软件之父理查德·斯托曼传》，邓楠、李凡希翻译，人民邮电出版社2015年出版。——译者注。
+ [^copyright-community-2]: 此书即《Free as in Freedom》。中文译名《若为自由故：自由软件之父理查德·斯托曼传》，邓楠、李凡希翻译，人民邮电出版社 2015 年出版。——译者注。
 
  [^copyright-community-3]:  在 2015 年，我加入了科研论文这一条，由于我认为发布他人的论文的修改版本是有害的；然而，将物理和数学论文以创作共用：署名许可证发布在 arxiv.org 或是众多其他自由期刊上似乎并不会带来什么问题。于是，我随后得出结论，科研论文应当是自由的。
 

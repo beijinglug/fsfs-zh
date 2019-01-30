@@ -6,7 +6,7 @@
 
 ![自由与非自由软件的分类](category.svg)<!--(pdf){ width=90% }(pdf)-->
 
-> 本图最初由 Chao-Kuei 创作并且经过其他人的更新，解释了不同类别的软件之间的区别。现有它的矢量图版，位于 <http://gnu.org/philosophy/category.svg> 以及 XFig 格式版本，位于 <http://gnu.org/philosophy/category.fig> 。本图采用 GNU 通用公共许可证（GNU GPL）2.0 或更高版本、GNU 自由文档许可证（GNU FDL）1.2 或更高版本、或者创作共用-署名-相同方式共享（CC BY-SA）许可证 2.0 或更高版本。
+> 本图最初由 Chao-Kuei 创作并且经过其他人的更新，解释了不同类别的软件之间的区别。现有它的矢量图版，位于 <http://gnu.org/philosophy/category.svg> 以及 XFig 格式版本，位于 <http://gnu.org/philosophy/category.fig>。本图采用 GNU 通用公共许可证（GNU GPL）2.0 或更高版本、GNU 自由文档许可证（GNU FDL）1.2 或更高版本、或者创作共用-署名-相同方式共享（CC BY-SA）许可证 2.0 或更高版本。
 
 ### 自由软件（Free Software）
 
@@ -20,7 +20,7 @@
 
 由于这种潜在的混淆，当一家软件公司宣称它的产品是“free software”的时候，务必查看实际的发布条款以确认用户是否真正拥有自由软件所暗示的所有基本自由。有时它真的属于自由软件，有时它不是。
 
-很多语言都拥有两个独立的单词用来表示“freedom”中的自由和零价格的免费。例如，法语中有 libre 和 gratuit。而英语则不是；在英语中确实有一个单词 gratis 用于无歧义地表示价格，但没有普通的形容词用于无歧义地表示自由。因此，如果您说另一种语言，我们建议您在将“free”翻译为您的母语的时候澄清其涵义。参见我们整理的将“free software”这一短语翻译为多种其他语言的详细列表（见附录B）。
+很多语言都拥有两个独立的单词用来表示“freedom”中的自由和零价格的免费。例如，法语中有 libre 和 gratuit。而英语则不是；在英语中确实有一个单词 gratis 用于无歧义地表示价格，但没有普通的形容词用于无歧义地表示自由。因此，如果您说另一种语言，我们建议您在将“free”翻译为您的母语的时候澄清其涵义。参见我们整理的将“free software”这一短语翻译为多种其他语言的详细列表（见附录 B）。
 
 自由软件通常比私有软件更可靠[^cate-2]。
 
@@ -40,7 +40,7 @@
 
 根据伯尔尼保护文学和艺术作品公约（大多数国家已经签署）[^cate-n]，任何写下的东西自动获得版权，这也包括计算机程序。因此，如果您想要使您的程序进入公有领域，您必须采取某些法律步骤以放弃其版权；否则该程序是受版权保护的。
 
-[^cate-n]: 《伯尔尼保护文学和艺术作品公约》（法语：Convention de Berne pour la protection des œuvres littéraires et artistiques），简称《伯尔尼公约》，是关于著作权保护的国际条约。《公约》生效至今（2013年）进行过8次补充和修订，共有167个签约国。——译者注，摘自维基百科
+[^cate-n]: 《伯尔尼保护文学和艺术作品公约》（法语：Convention de Berne pour la protection des œuvres littéraires et artistiques），简称《伯尔尼公约》，是关于著作权保护的国际条约。《公约》生效至今（2013 年）进行过 8 次补充和修订，共有 167 个签约国。——译者注，摘自维基百科
 
 ### 左版软件（Copylefted Software）
 
@@ -156,11 +156,11 @@ FSF 遵循这样的规则，我们不能在自己的计算机上安装任何私�
 
  [^cate-6]: 参见 “The BSD License Problem,” 一文，位于 <http://gnu.org/philosophy/bsd.html>。 
 
- [^cate-7]: 参见 “GNU系统概览” 一文，位于 <http://gnu.org/gnu/gnu-history.html> 以获知更多历史背景。
+ [^cate-7]: 参见 “GNU 系统概览” 一文，位于 <http://gnu.org/gnu/gnu-history.html> 以获知更多历史背景。
 
  [^cate-8]: 参见《Linux 和 GNU 系统》一文以获得更多信息。 
 
- [^cate-9]: 参见 “GNU系统概览” 一文，位于 <http://gnu.org/gnu/gnu-history.html> 以获知更多历史背景。
+ [^cate-9]: 参见 “GNU 系统概览” 一文，位于 <http://gnu.org/gnu/gnu-history.html> 以获知更多历史背景。
 
  [^cate-10]: 参见 <http://directory.fsf.org>。 
 
