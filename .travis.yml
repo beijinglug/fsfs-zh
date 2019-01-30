@@ -35,8 +35,9 @@ deploy:
   api_key:
     secure: J3ovA6JXQ3OWlyG9nC7j8oou8YcW3zMKc8s6Ax2Ajmzl1CVgyvg149Jfpmk9qH3SKeapNOzou+Ibj+I1yytPo2OGgUjYWaSf4yMn8UCkWp3FPDSZPsLb/JLfmCbU9jxtIROLYbt7lLp/YGKLqwLm8VxI8kqE93lw0nE0rwsFC55ed3GrNu+xiXVkw3VZ7sXAfbUvxjRAA/ME6OEK3jZYMoaJdjivjNPLVmLFcgCot6eGIwU08PKZ3mjP5WAzF1rbbSwyAMZTrziFBHJC9ZKiRWuHlSTzI+jDFYNdNtJXvP0x3Mdcl9wbNnlicnd4PuJaCYltDpylrQGXC4r/QA0XBTT25zW5aSfRAzYn9xK35KmaHvL/2f0hr6Nygpb7ipuiWLfoTS+F+U0nIwrHqjxb/s3oHa16KrSktdKPTeOXQB04OrwQYlHHGwKvcOkVI9zxb9wKyFYhB2eylGB9/6yiYKKOUsAc4uhjRBzDZvF+eVqPTFBs5vXM5SxdtBFGBMDIIc1Shp9Nmj8vQt3zRPvEDPEpDhw3R/iU5OQdN23ilY1f6whIP/xd1wZThk6HAP0h3xw8CDcDOx0Ffp52z1NDNmAiKoxXVmn+4BosF8VMCONVh7g43DoRg26Xklvk8mcikxzduQ0d8w3KrIfLu0LGSKxX5h4ff1h5ljECAAKQn48=
   file: 
-    - fsfs-zh.pdf
-    - fsfs-zh.epub
+    - "fsfs-zh.pdf"
+    - "fsfs-zh.epub"
+  skip_cleanup: true
   on:
     tags: true
     repo: beijinglug/fsfs-zh
