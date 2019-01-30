@@ -5,18 +5,17 @@ sudo: required
 dist: xenial
 addons:
     apt:
-        sources:
-            - sourceline: 'deb http://ppa.launchpad.net/jonathonf/texlive-2018/ubuntu xenial main'
-              key_url: 'https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x8CF63AD3F06FC659'
-            - sourceline: 'deb http://ppa.launchpad.net/jonathonf/fonts/ubuntu xenial main'
-              key_url: 'https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x8CF63AD3F06FC659'
         packages:
             - texlive-xetex
             - texlive-lang-chinese
             - texlive-fonts-recommended
+            - lmodern
+            - texlive-fonts-extra
             - fonts-liberation
             - fonts-noto
             - fonts-noto-cjk
+            - fonts-noto-unhinted
+            - fonts-noto-hinted
             - librsvg2-bin
             - pdf2svg
 
@@ -30,7 +29,6 @@ script:
     - make epub
 
 after_script:
-    - make clean
     - echo "===================================================================="
     - ls -lah fsfs-zh.*
 
