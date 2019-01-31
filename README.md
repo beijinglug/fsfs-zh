@@ -13,7 +13,7 @@ Free Software, Free Society v3 Chinese Translation
 
 下载电子书（EPUB）：[这里下载](https://github.com/beijinglug/fsfs-zh/releases)
 
-**我们正在努力将翻译成果同步到 [GNU 官网](https://www.gnu.org/home.zh-cn.html)，如果你想帮忙请加入进来！参见 #209 和 #166 。**
+**我们正在努力将翻译成果同步到 [GNU 官网](https://www.gnu.org/home.zh-cn.html)！如果你想帮忙请加入进来，参见 #209 和 #166 。**
 
 如何从源码构建
 --------
