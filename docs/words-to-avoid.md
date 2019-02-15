@@ -254,7 +254,7 @@ Linux 是 Linus Torvalds 于 1991 年开始开发的内核的名字，使用 Lin
 
 ### PowerPoint（PPT）
 
-请不要使用 PowerPoint 指代任何类型的幻灯片演示文稿。它只是一款特定的用于制作演示文稿的私有软件的名字。为了您的自由，您应该只用自由软件来制作演示文稿。推荐的可选工具包括 TeX 的 beamer 类以及 OpenOffice.org（或 LibreOffice——译者注）的 Impress。
+请不要使用 PowerPoint 指代任何类型的幻灯片演示文稿。它只是一款特定的用于制作演示文稿的私有软件的名字。为了您的自由，您应该只用自由软件来制作演示文稿。推荐的可选工具包括 <!--(pdf)\TeX\iffalse (pdf)-->TeX<!--(pdf) \fi(pdf)--> 的 beamer 类以及 OpenOffice.org（或 LibreOffice——译者注）的 Impress。
 
 ### 保护（Protection）
 

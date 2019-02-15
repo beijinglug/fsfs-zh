@@ -40,7 +40,7 @@ Copyright © 2000,2001,2002,2007,2008 自由软件基金会 <http://fsf.org/>
 
 文件的“透明”副本指的是一份机器可读的副本，它以一种一般公众可以取得其规格说明的格式来表现，适合于直接用一般文字编辑器、一般点阵图像程序用于由图元像素构成的影像或一些可以广泛取得的绘图程序用于由向量绘制的图形直接地进行修订；并且适合于输入到文字格式化程式，或是可以自动地转换到适合于输入到文字格式化程序的各种格式。一份以透明以外的档案格式所构成的副本，其标记或缺少标记，若是被安排成用来挫折或是打消读者进行其后续的修改，则此副本并非透明。一种影像格式，如果仅仅是用来充斥文本的资料量时，就不是透明的。一个不是透明的副本被称为混浊。
 
-透明副本适合格式的例子包括有：没有标记的纯 ASCII、Texinfo 输入格式、LaTeX 输入格式、使用可以公开取得其 DTD 的 SGML 或 XML、合乎标准的简单 HTML、PostScript 或 PDF。透明影像格式的例子有 PNG、XCF 和 JPG。混浊格式包括只能够以私人文书处理器阅读以及编辑的私人格式、DTD 以及或处理工具不能够一般地加以取得的 SGML 或 XML、以及由某些文书处理器只是为了输出的目的而做出的，由机器制作的 HTML、PostScript 或 PDF。
+透明副本适合格式的例子包括有：没有标记的纯 ASCII、Texinfo 输入格式、<!--(pdf)\LaTeX\iffalse (pdf)-->LaTeX<!--(pdf) \fi(pdf)--> 输入格式、使用可以公开取得其 DTD 的 SGML 或 XML、合乎标准的简单 HTML、PostScript 或 PDF。透明影像格式的例子有 PNG、XCF 和 JPG。混浊格式包括只能够以私人文书处理器阅读以及编辑的私人格式、DTD 以及或处理工具不能够一般地加以取得的 SGML 或 XML、以及由某些文书处理器只是为了输出的目的而做出的，由机器制作的 HTML、PostScript 或 PDF。
 
 标题页对一本印刷书籍来说，指的是标题页本身，以及所需要用来容纳本许可证必须出现在标题页的易读内容的，如此的接续数页。对于并没有任何如此页面的作品的某些格式，标题页指的是本文主体开始之前作品标题最显着位置的文字。
 
@@ -283,7 +283,7 @@ Version 1.3, 3 November 2008
     called “Opaque”.
 
     Examples of suitable formats for Transparent copies include plain
-    ASCII without markup, Texinfo input format, LaTeX input format, SGML
+    ASCII without markup, Texinfo input format, <!--(pdf)\LaTeX\iffalse (pdf)-->LaTeX<!--(pdf) \fi(pdf)--> input format, SGML
     or XML using a publicly available DTD, and standard-conforming
     simple HTML, PostScript or PDF designed for human modification.
     Examples of transparent image formats include PNG, XCF and JPG.
