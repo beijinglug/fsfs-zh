@@ -51,7 +51,7 @@
     - [Linux 和 GNU 操作系统](linux-and-gnu.md)
     - [自由与非自由软件的分类](categories.md)
     - [为什么说开源漏掉了自由软件的要点](open-source-misses-the-point.md)
-    - [您说过“知识产权”吗？这是一种迷惑性的幻景](not-ipr.md)
+    - [您说过“知识产权”吗？这是一种迷惑的幻景](not-ipr.md)
     - [为何称之为诈骗（Swindle）？](why-call-it-the-swindle.md)
     - [应避免使用（或慎用）的词语，由于它们是不公正的或者引起混淆的](words-to-avoid.md)
 - 第三部分：版权和不公

@@ -182,7 +182,7 @@ DMCA 于 1998 年被实施。随之，它宣称合理使用在名义上尚属合
 
  [^mis-copyright-8]: 参见 <http://gnu.org/proprietary/proprietary-drm.html> 以获得关于这一问题的更多信息。 
 
- [^mis-copyright-9]: 参见《您说过“知识产权”吗？这是一种迷惑性的幻景》一文以获知为何这一短语是有问题的。 
+ [^mis-copyright-9]: 参见《您说过“知识产权”吗？这是一种迷惑的幻景》一文以获知为何这一短语是有问题的。 
 
  [^mis-copyright-10]: 由于它被更名为不可拼读的 CBDTPA，一种有助于理解和记忆的解读是“消费但不要尝试编程法案”（Consume, But Don’t Try Programming Anything），而其真正名称是“消费者宽带和数字电视促进法案”（Consumer Broadband and Digital Television Promotion Act） 
 

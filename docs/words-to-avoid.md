@@ -367,7 +367,7 @@ Linux 是 Linus Torvalds 于 1991 年开始开发的内核的名字，使用 Lin
 
  [^wordtoavoid-15]: 美国摇滚音乐家 Courtney Love 于 2000 年五月 16 日在数字好莱坞在线娱乐会议上的演讲的未编辑抄本可以在此找到：<http://www.salon.com/2000/06/14/love_7/>。
 
- [^wordtoavoid-16]: 参见《您说过“知识产权”吗？这是一种迷惑性的幻景》获知这一问题的原因。
+ [^wordtoavoid-16]: 参见《您说过“知识产权”吗？这是一种迷惑的幻景》获知这一问题的原因。
 
  [^wordtoavoid-17]:  Cory Doctorow，“Encryption Won’t Work If It Has a Back Door Only the ‘Good Guys’ Have Keys To”，2015 年五月 1 日，[http://theguardian.com/technology/2015/may/01/encryption-wont-work-if-it-has-a-back-door-only-the-good-guys-have-keys-to-](http://theguardian.com/technology/2015/may/01/encryption-wont-work-if-it-has-a-back-door-only-the-good-guys-have-keys-to-)。
 

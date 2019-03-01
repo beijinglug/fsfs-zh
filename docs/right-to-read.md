@@ -83,7 +83,7 @@ Lissa 没有向 SPA 举报 Dan，而他关于帮助她的决定使得他们终�
 
 ### 参考文献
 
--   美国专利及商标局（USPTO），Intellectual Property and the National Information Infrastructure: The Report of the Working Group on Intellectual Property Rights, Washington, DC: GPO, 1995.（参见《您说过“知识产权”吗？这是一种迷惑性的幻景》一文以获知为何“知识产权”这一短语是含混不清的并且永远不应被使用）。
+-   美国专利及商标局（USPTO），Intellectual Property and the National Information Infrastructure: The Report of the Working Group on Intellectual Property Rights, Washington, DC: GPO, 1995.（参见《您说过“知识产权”吗？这是一种迷惑的幻景》一文以获知为何“知识产权”这一短语是含混不清的并且永远不应被使用）。
 
 -   Samuelson, Pamela, “The Copyright Grab,” *Wired,* January 1996, 4.01, <http://wired.com/wired/archive/4.01/white.paper_pr.html>.
 

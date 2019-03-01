@@ -160,5 +160,5 @@
 
  [^freehard-11]: 一篇由 Public Knowledge 所写的文章“为你的 3D 打印产物赋予许可的三个步骤” <https://publicknowledge.org/assets/uploads/documents/3_Steps_for_Licensing_Your_3D_Printed_Stuff.pdf>（2015 年 3 月 6 日）。对其在美国的复杂性给出了很有用的信息，尽管该文落入了使用伪概念“知识产权”，和不应该和版权联用的宣传用语“保护”的常见谬误。若问为何，参见《应避免使用（或慎用）的词语，由于它们是不公正的或者引起混淆的》一文。 
 
- [^freehard-12]: 参见《您说过“知识产权”吗？这是一种迷惑性的幻景》一文。 
+ [^freehard-12]: 参见《您说过“知识产权”吗？这是一种迷惑的幻景》一文。 
 
