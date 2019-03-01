@@ -136,19 +136,19 @@
 
 
 
- [^freehard-1]: 参见《什么是自由软件？》以查看四项基本自由的列表。
+ [^freehard-1]: 参见[《什么是自由软件？》](free-sw.md)以查看四项基本自由的列表。
 
 
  [^freehard-2]: 参见 <http://gnu.org/philosophy/proprietary/proprietary-surveillance.html> 以查看一个在工业中扩散的监视手段的快速增长的列表。
 
 
- [^freehard-3]: 参见《为什么说开源漏掉了自由软件的要点》一文
+ [^freehard-3]: 参见[《为什么说开源漏掉了自由软件的要点》](open-source-misses-the-point.md)一文
 
  [^freehard-4]: 参见 <http://clifford.at/icestorm/>. 
 
  [^freehard-5]: 参见 <https://github.com/Wolfgang-Spraul/fpgatools>
 
- [^freehard-6]: 参见《如今自由软件更加重要》一文
+ [^freehard-6]: 参见[《如今自由软件更加重要》](free-software-even-more-important.md)一文
 
  [^freehard-7]: 参见 <http://fsf.org/resources/hw/endorsement>
 
@@ -158,7 +158,7 @@
 
  [^freehard-10]: 参见美国版权局定义的“useful article”，于 <http://copyright.gov/register/va-useful.html>. 
 
- [^freehard-11]: 一篇由 Public Knowledge 所写的文章“为你的 3D 打印产物赋予许可的三个步骤” <https://publicknowledge.org/assets/uploads/documents/3_Steps_for_Licensing_Your_3D_Printed_Stuff.pdf>（2015 年 3 月 6 日）。对其在美国的复杂性给出了很有用的信息，尽管该文落入了使用伪概念“知识产权”，和不应该和版权联用的宣传用语“保护”的常见谬误。若问为何，参见《应避免使用（或慎用）的词语，由于它们是不公正的或者引起混淆的》一文。 
+ [^freehard-11]: 一篇由 Public Knowledge 所写的文章“为你的 3D 打印产物赋予许可的三个步骤” <https://publicknowledge.org/assets/uploads/documents/3_Steps_for_Licensing_Your_3D_Printed_Stuff.pdf>（2015 年 3 月 6 日）。对其在美国的复杂性给出了很有用的信息，尽管该文落入了使用伪概念“知识产权”，和不应该和版权联用的宣传用语“保护”的常见谬误。若问为何，参见[《应避免使用（或慎用）的词语，由于它们是不公正的或者引起混淆的》](words-to-avoid.md)一文。 
 
- [^freehard-12]: 参见《您说过“知识产权”吗？这是一种迷惑的幻景》一文。 
+ [^freehard-12]: 参见[《您说过“知识产权”吗？这是一种迷惑的幻景》](not-ipr.md)一文。 
 

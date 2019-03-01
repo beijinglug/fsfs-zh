@@ -12,7 +12,7 @@ SaaSS 指的是使用某种由其他人实现的服务来替代您所运行的�
 
 > 如需获得关于此问题的更多信息，参见“The Bug Nobody Is Allowed to Understand,”一文，它位于 <http://gnu.org/philosophy/bug-nobody-allowed-to-understand.html>。
 
-我们针对这个问题的解决方案是开发*自由软件*并且拒绝私有软件。自由软件意味着您作为用户拥有四项基本自由：（0）以任何目的运行该软件的自由；（1）研究和修改源代码使其以您所期望的方式工作的自由；（2）再发布相同副本的自由；（3）再发布您的修改版本的自由（参见《什么是自由软件？》一文中有关自由软件定义）。
+我们针对这个问题的解决方案是开发*自由软件*并且拒绝私有软件。自由软件意味着您作为用户拥有四项基本自由：（0）以任何目的运行该软件的自由；（1）研究和修改源代码使其以您所期望的方式工作的自由；（2）再发布相同副本的自由；（3）再发布您的修改版本的自由（参见[《什么是自由软件？》](free-sw.md)一文中有关自由软件定义）。
 
 只要有了自由软件，我们作为用户就能夺回我们计算的控制权。私有软件仍然存在，但我们可以将其排除在生活之外，并且我们中的很多人已经在这么做。然而现在，我们对自己的计算的控制权面临新的威胁：作为软件替代品的服务（SaaSS）。为了捍卫我们的自由，我们必须像拒绝私有软件那样拒绝 SaaSS。
 
@@ -112,9 +112,9 @@ Google Docs 向我们展示要评估单一服务到底可以有多么复杂。�
 
  [^server-3]: Amy Webb, “Congratulations, You Found a Photo of My Daughter Online,” 12 September 2013, [http://slate.com/articles/technology/data_mine_1/2013/09/privacy_facebook_kids_don_t_post_photos_of_your_kids_on_social_media.html](http://slate.com/articles/technology/data_mine_1/2013/09/privacy_facebook_kids_don_t_post_photos_of_your_kids_on_social_media.html). 
 
- [^server-4]: 参见《JavaScript 陷阱》一文以获得更多信息。 
+ [^server-4]: 参见[《JavaScript 陷阱》](javascript-trap.md)一文以获得更多信息。 
 
- [^server-5]: 参见《如何为你的作品选择一份许可证》一文以获得我们关于许可证选择的建议。
+ [^server-5]: 参见[《如何为你的作品选择一份许可证》](license-recommendations.md)一文以获得我们关于许可证选择的建议。
 
  [^server-6]: 参见 “How Free Software and Open Source Relate as Categories of Programs,” <http://gnu.org/philosophy/free-open-overlap.html> 一文以获得更多信息。 
 
@@ -122,6 +122,6 @@ Google Docs 向我们展示要评估单一服务到底可以有多么复杂。�
 
  [^server-8]: 如需获得更多信息，参见我的文章 “Network Services Aren’t Free or Nonfree; They Raise Other Issues,” 位于 [http://gnu.org/philosophy/network-services-arent-free-or-nonfree.html](http://gnu.org/philosophy/network-services-arent-free-or-nonfree.html)。
 
- [^server-9]: 参见《JavaScript 陷阱》一文以获得更多信息。
+ [^server-9]: 参见[《JavaScript 陷阱》](javascript-trap.md)一文以获得更多信息。
 
  [^server-10]: 参见 “Why the Affero GPL” <http://gnu.org/licenses/why-affero-gpl.html> 以获得完整解释。

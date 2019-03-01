@@ -165,7 +165,7 @@ NSA 通过棱镜计划（PRISM）进入了多家大型互联网公司的数据�
 
  [^surveilance-20]: 几十年来，自由软件运动一直致力于揭露私有软件公司诸如微软和苹果的专权的监控机制。监控行为已经在各行业之间蔓延，而不再限于软件产业，并且——离开键盘的限制——进入移动计算领域，在办公室、家庭、交通工具、教室内等。如需获知监控行为进入这些领域的不断增加的方式，参见 <http://gnu.org/philosophy/proprietary/proprietary-surveillance.html>. 
 
- [^surveilance-21]: 参见《服务器真正是在为谁服务？》一文以获取更多信息。
+ [^surveilance-21]: 参见[《服务器真正是在为谁服务？》](who-does-that-server-really-serve.md)一文以获取更多信息。
 
  [^surveilance-22]: Nicole Perlroth, “In Cybersecurity, Sometimes the Weakest Link Is a Family Member,” 21 May 2014, [http://bits.blogs.nytimes.com/2014/05/21/in-cybersecurity-sometimes-the-weakest-link-is-a-family-member/](http://bits.blogs.nytimes.com/2014/05/21/in-cybersecurity-sometimes-the-weakest-link-is-a-family-member/). 
 
@@ -203,7 +203,7 @@ become-qs-activity-trackers/).
 
  [^surveilance-38]: Public Citizen, “Call Your Representative: Tell Her or Him to Co-Sponsor a Constitutional Amendment to Overturn Citizens United and Restore Democracy to the People,” August 2015, <http://action.citizen.org/p/dia/action3/common/public/?action_KEY=12266>. 
 
- [^surveilance-39]: 参见《应避免使用（或慎用）的词语》一文中有关 DRM 的叙述。
+ [^surveilance-39]: 参见[《应避免使用（或慎用）的词语》](words-to-avoid.md)一文中有关 DRM 的叙述。
 
  [^surveilance-40]: James Allworth, “Your Smartphone Works for the Surveillance State,” 7 June 2013, <https://hbr.org/2013/06/your-iphone-works-for-the-secret-police>. 
 

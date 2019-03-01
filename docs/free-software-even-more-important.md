@@ -90,22 +90,22 @@ SaaSS 并不意味着运行在服务器上的程序是非自由的（虽然大�
 
 [^fsemi-1]: 参见 <http://gnu.org/proprietary/proprietary.html> 可知这些不断增加的威胁。
 
-[^fsemi-2]: 自由软件的完整定义可参见《什么是自由软件？》一文。
+[^fsemi-2]: 自由软件的完整定义可参见[《什么是自由软件？》](free-sw.md)一文。
 
-[^fsemi-3]: 参见《自由与非自由软件的分类》一文中关于专有软件的脚注 1。
+[^fsemi-3]: 参见[《自由与非自由软件的分类》](categories.md)一文中关于专有软件的脚注 1。
 
 [^fsemi-4]: 参见 Marcelo Rinesi 于 2015 年 8 月 6 日发表的文章“The Telemarketer Singularity”<http://ieet.org/index.php/IEET/more/rinesi20150806>
 
-[^fsemi-5]: 关于 GNU 操作系统的历史可参见《GNU 工程》一文，以及“GNU/Linux FAQ” <http://gnu.org/gnu/gnu-linux-faq.html>。
+[^fsemi-5]: 关于 GNU 操作系统的历史可参见[《GNU 工程》](thegnuproject.md)一文，以及“GNU/Linux FAQ” <http://gnu.org/gnu/gnu-linux-faq.html>。
 
-[^fsemi-6]: 参见《服务器真正是在为谁服务？》一文。
+[^fsemi-6]: 参见[《服务器真正是在为谁服务？》](who-does-that-server-really-serve.md)一文。
 
 [^fsemi-7]: 参见 Sean Gallagher 于 2013 年 6 月 14 日发表的文章“NSA Gets Early Access to Zero-Day Data from Microsoft, Others” <http://arstechnica.com/security/2013/06/nsa-gets-Eearly-access-to-zero-day-data-from-microsoft-others/>
 
-[^fsemi-8]: 关于我们建议的政策可参见《政府推动自由软件的措施》一文
+[^fsemi-8]: 关于我们建议的政策可参见[《政府推动自由软件的措施》](government-free-software.md)一文
 
 [^fsemi-9]: 有关自由软件在学校的讨论可参见 <http://gnu.org/education>
 
-[^fsemi-10]: 关于许可证的建议可参见《如何为你的作品选择一份许可证》一文中的推荐许可证。
+[^fsemi-10]: 关于许可证的建议可参见[《如何为你的作品选择一份许可证》](license-recommendations.md)一文中的推荐许可证。
 
 [^fsemi-11]: 各种帮助的方式可参见 <http://gnu.org/help>

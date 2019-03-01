@@ -41,17 +41,17 @@ GNU 项目支持 GNU/Linux 系统和 *GNU 操作系统*。FSF 资助了重写 GN
 人们有时候会问 BSD 是不是也是某种版本的 GNU，就像 GNU/Linux 那样。其实 BSD 开发者们也是得到了 GNU 项目的启发才使他们的代码自由了。而且很显然这种行为是由 GNU 的积极分子努力游说的结果，但是他们的代码与 GNU 并无太多交集。BSD 操作系统现在也使用一些 GNU 软件，就像是 GNU 操作系统及其变种也使用一些 BSD 软件一样。然而，总体而言，它们是两个完全不同、分开发展的操作系统。BSD 开发者没有采用编写内核然后放进 GNU 操作系统的做法，所以将 BSD 称为 GNU/BSD 很显然是不合适的[^linux-gnu-15]。
 
 
-[^linux-gnu-1]: 参见《自由与非自由软件的分类》查看更多有关 GNU 操作系统的信息。
+[^linux-gnu-1]: 参见[《自由与非自由软件的分类》](categories.md)查看更多有关 GNU 操作系统的信息。
 
 [^linux-gnu-2]: 详情请见“GNU Users Who Have Never Heard of GNU” <http://gnu.org/gnu/gnu-users-never-heard-of-gnu.html> 和 “Overview of the GNU System”，<http://gnu.org/gnu/gnu-history.html>。
 
-[^linux-gnu-3]: 参见《什么是自由软件？》来获得自由软件的完整定义。 
+[^linux-gnu-3]: 参见[《什么是自由软件？》](free-sw.md)来获得自由软件的完整定义。 
 
 [^linux-gnu-4]: 查看“GNU 宣言（GNU Manifesto）”，位于 <http://gnu.org/gnu/manifesto.html>。
  
-[^linux-gnu-5]: 参见《GNU 操作系统的初始公告》。
+[^linux-gnu-5]: 参见[《GNU 操作系统的初始公告》](initial-announcement.md)。
 
-[^linux-gnu-6]: 参见《自由与非自由软件的分类》了解 GNU 软件的更多信息。
+[^linux-gnu-6]: 参见[《自由与非自由软件的分类》](categories.md)了解 GNU 软件的更多信息。
 
 [^linux-gnu-7]: GCC 主页：<http://gnu.org/software/gcc/>。
 

@@ -2,7 +2,7 @@
 
 > Copyright © 1996–1999，2001–2004，2007–2015，自由软件基金会。本列单最初于 1996 年发表于 <http://gnu.org>。
 
-有些单词或短语是我们建议避免使用或者避免在特定上下文或应用场景使用的。其中的一些词语具有歧义或误导性；而其他一些词语则预设了某种我们所不赞同的观点，并且我们希望您也不会同意那些观点。（参见《自由与非自由软件的分类》和《为何称之为诈骗（Swindle）？》两篇文章。）
+有些单词或短语是我们建议避免使用或者避免在特定上下文或应用场景使用的。其中的一些词语具有歧义或误导性；而其他一些词语则预设了某种我们所不赞同的观点，并且我们希望您也不会同意那些观点。（参见[《自由与非自由软件的分类》](categories.md)和[《为何称之为诈骗（Swindle）？》](why-call-it-the-swindle.md)两篇文章。）
 
 ### 可获得性（Access）
 
@@ -282,7 +282,7 @@ Linux 是 Linus Torvalds 于 1991 年开始开发的内核的名字，使用 Lin
 
 我们曾经说“软件即服务”是一种不公，但我们随后发现人们对于哪些活动属于 SaaS 的理解还存在诸多分歧。于是我们转为使用一个新的短语，“作为软件替代品的服务”，即 SaaSS。这个短语有两个优点：由于它从未被使用过，因此我们的定义是其唯一定义；另外它解释了这种不公包括哪些方面。
 
-参见《服务器真正是在为谁服务？》一文以获得关于此问题的更多讨论。
+参见[《服务器真正是在为谁服务？》](who-does-that-server-really-serve.md)一文以获得关于此问题的更多讨论。
 
 在西班牙语中，我们继续使用“software como servicio”这一短语，这是由于“software como ser vicio”[^wordtoavoid-27]这个笑话太精妙绝伦了，以至于我们不舍得放弃它。
 
@@ -290,7 +290,7 @@ Linux 是 Linus Torvalds 于 1991 年开始开发的内核的名字，使用 Lin
 
 “贩卖软件”这一短语是含混不清的。严格地说，用一份自由软件副本换取一笔资金是在贩卖该软件，这样做也无可厚非。然而，人们通常将“贩卖软件”与对该软件的后续使用的私有限制相关联。您可以保持清醒并且拒绝混淆，通过说“有偿发布软件副本”或者“为软件的使用施加私有限制”。
 
-参见《售卖自由软件》一文以获得关于此问题的更多讨论。
+参见[《售卖自由软件》](selling.md)一文以获得关于此问题的更多讨论。
 
 ### 分享经济（Sharing Economy）
 
@@ -336,38 +336,38 @@ Linux 是 Linus Torvalds 于 1991 年开始开发的内核的名字，使用 Lin
 
 
 
- [^wordtoavoid-1]: 参见《什么是自由软件？》以获得自由软件的完整定义。
+ [^wordtoavoid-1]: 参见[《什么是自由软件？》](free-sw.md)以获得自由软件的完整定义。
 
- [^wordtoavoid-2]: 参见《如今自由软件更加重要》和《服务器真正是在为谁服务？》以获得更多信息。
+ [^wordtoavoid-2]: 参见[《如今自由软件更加重要》](free-software-even-more-important.md)和[《服务器真正是在为谁服务？》](who-does-that-server-really-serve.md)以获得更多信息。
 
  [^wordtoavoid-3]: 参见 “The BSD License Problem” 一文，位于 <http://gnu.org/philosophy/bsd.html>。
 
  [^wordtoavoid-4]: 参见 “Various Licenses and Comments about Them”，位于 <http://gnu.org/licenses/license-list.html>。
 
- [^wordtoavoid-5]: 参见《为什么说开源漏掉了自由软件的要点》。
+ [^wordtoavoid-5]: 参见[《为什么说开源漏掉了自由软件的要点》](open-source-misses-the-point.md)。
 
- [^wordtoavoid-6]: 参见《自由与非自由软件的分类》以获得关于私有软件的更多信息。
+ [^wordtoavoid-6]: 参见[《自由与非自由软件的分类》](categories.md)以获得关于私有软件的更多信息。
 
  [^wordtoavoid-7]: John Harris，“Why Hackers and Spooks Want Our Heads in the Cloud”，2011 年四月 25 日，[http://guardian.co.uk/commentisfree/2011/apr/25/hackers-spooks-cloud-antiauthoritarian-dream](http://guardian.co.uk/commentisfree/2011/apr/25/hackers-spooks-cloud-antiauthoritarian-dream)。
 
- [^wordtoavoid-8]: 参见《服务器真正是在为谁服务？》以获得关于此问题的更多信息。
+ [^wordtoavoid-8]: 参见[《服务器真正是在为谁服务？》](who-does-that-server-really-serve.md)以获得关于此问题的更多信息。
 
  [^wordtoavoid-9]: Peter Mell 和 Anthony Grance，“The NIST Definition of Cloud Computing: Recommendations of the National Institute of Standards and Technology”，NIST Special Publication 800-145 (2011 年九月)，[http://csrc.nist.gov/publications/nistpubs/800-145/SP800-145.pdf](http://csrc.nist.gov/publications/nistpubs/800-145/SP800-145.pdf)。
 
  [^wordtoavoid-10]: Dan Farber，“Oracle’s Ellison Nails Cloud Computing”，2008 年九月 26 日，<http://news.cnet.com/8301-13953_3-10052188-80.html>。 
 
- [^wordtoavoid-11]: 参见《对版权的错误解读——一系列错误》 一文以获得关于此问题的更多信息。
+ [^wordtoavoid-11]: 参见[《对版权的错误解读——一系列错误》](misinterpreting-copyright.md) 一文以获得关于此问题的更多信息。
 
  [^wordtoavoid-12]: Lara O’Reilly，“A Former Googler Has Declared War on Ad Blockers with a New Startup That Tackles Them in an Unorthodox Way”，2015 年六月 18 日，[http://uk.businessinsider.com/former-google-exec-launches-sourcepoint-with-10-million-series-a-funding-
  2015-6?r=US&IR=T](http://uk.businessinsider.com/former-google-exec-launches-sourcepoint-with-10-million-series-a-funding-2015-6?r=US&IR=T)。
 
- [^wordtoavoid-13]: 参见《如今自由软件更加重要》一文以获得关于此问题的更多信息。
+ [^wordtoavoid-13]: 参见[《如今自由软件更加重要》](free-software-even-more-important.md)一文以获得关于此问题的更多信息。
 
  [^wordtoavoid-14]: Owen Hatherley，“Be a User, Not a Consumer: How Capitalism Has Changed Our Language”，2013 年八月 11 日，[http://theguardian.com/commentisfree/2013/aug/11/capitalism-language-raymond-williams](http://theguardian.com/commentisfree/2013/aug/11/capitalism-language-raymond-williams)。
 
  [^wordtoavoid-15]: 美国摇滚音乐家 Courtney Love 于 2000 年五月 16 日在数字好莱坞在线娱乐会议上的演讲的未编辑抄本可以在此找到：<http://www.salon.com/2000/06/14/love_7/>。
 
- [^wordtoavoid-16]: 参见《您说过“知识产权”吗？这是一种迷惑的幻景》获知这一问题的原因。
+ [^wordtoavoid-16]: 参见[《您说过“知识产权”吗？这是一种迷惑的幻景》](not-ipr.md)获知这一问题的原因。
 
  [^wordtoavoid-17]:  Cory Doctorow，“Encryption Won’t Work If It Has a Back Door Only the ‘Good Guys’ Have Keys To”，2015 年五月 1 日，[http://theguardian.com/technology/2015/may/01/encryption-wont-work-if-it-has-a-back-door-only-the-good-guys-have-keys-to-](http://theguardian.com/technology/2015/may/01/encryption-wont-work-if-it-has-a-back-door-only-the-good-guys-have-keys-to-)。
 
@@ -381,9 +381,9 @@ Linux 是 Linus Torvalds 于 1991 年开始开发的内核的名字，使用 Lin
 
  [^wordtoavoid-22]: Richard Stallman，“Public Awareness of Copyright, WIPO, June 2002”，最后更新于 2014 年，[http://gnu.org/philosophy/wipo-PublicAwarenessOfCopyright-2002.html](http://gnu.org/philosophy/wipo-PublicAwarenessOfCopyright-2002.html)。
 
- [^wordtoavoid-23]: 参见《Linux 和 GNU 操作系统》一文以获知 GNU/Linux 操作系统的更多历史背景，由于它与本文所提到的命名问题相关。
+ [^wordtoavoid-23]: 参见[《Linux 和 GNU 操作系统》](linux-and-gnu.md)一文以获知 GNU/Linux 操作系统的更多历史背景，由于它与本文所提到的命名问题相关。
 
- [^wordtoavoid-24]: 参见《为什么说开源漏掉了自由软件的要点》以获得完整解释。
+ [^wordtoavoid-24]: 参见[《为什么说开源漏掉了自由软件的要点》](open-source-misses-the-point.md)以获得完整解释。
 
  [^wordtoavoid-25]: 参见 <http://directory.fsf.org/wiki/GIMP>。
 
@@ -397,5 +397,5 @@ Linux 是 Linus Torvalds 于 1991 年开始开发的内核的名字，使用 Lin
 
  [^wordtoavoid-30]: 为了驳斥他们，您可以援引这一真实案例：Harper Lee 起诉她的代理人涉嫌诱骗她将 To Kill a Mockingbird 一书的版权指认给他。
 
-[^wordtoavoid-32]: 参见《您能够信任您的计算机吗？》以获得关于此问题的更多信息。
+[^wordtoavoid-32]: 参见[《您能够信任您的计算机吗？》](can-you-trust.md)以获得关于此问题的更多信息。
 
