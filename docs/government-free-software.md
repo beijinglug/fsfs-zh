@@ -108,6 +108,6 @@
 
 [^gov-2]: 参见反 DRM 活动网站 [http://defectivebydesign.org/what_is_drm](http://defectivebydesign.org/what_is_drm) 以及《应避免使用（或慎用）的词语》一文中有关 DRM 的章节了解相关问题。
 
-[^gov-3]: 参见《服务器真正为谁服务？》一文的相关章节，了解 SaaSS。
+[^gov-3]: 参见《服务器真正是在为谁服务？》一文的相关章节，了解 SaaSS。
 
 [^gov-4]: 参见我的文章“Technological Neutrality and Free Software” [http://www.gnu.org/philosophy/technological-neutrality.html](http://www.gnu.org/philosophy/technological-neutrality.html)

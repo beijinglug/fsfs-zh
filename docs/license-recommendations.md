@@ -82,7 +82,7 @@
 
  [^recon-4]: 此许可证全文参见 <http://gnu.org/licenses/agpl.html>
 
- [^recon-5]: 有关 SaaSS 可参见《服务器真正为谁服务？》一文
+ [^recon-5]: 有关 SaaSS 可参见《服务器真正是在为谁服务？》一文
 
  [^recon-6]: 参见 <http://gnu.org/licenses/license-list.html\#GNUAllPermissive>
 

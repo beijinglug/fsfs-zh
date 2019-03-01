@@ -114,7 +114,7 @@ Google Docs 向我们展示要评估单一服务到底可以有多么复杂。�
 
  [^server-4]: 参见《JavaScript 陷阱》一文以获得更多信息。 
 
- [^server-5]: 参见《如何为你自己的作品选择一份许可证》一文以获得我们关于许可证选择的建议。
+ [^server-5]: 参见《如何为你的作品选择一份许可证》一文以获得我们关于许可证选择的建议。
 
  [^server-6]: 参见 “How Free Software and Open Source Relate as Categories of Programs,” <http://gnu.org/philosophy/free-open-overlap.html> 一文以获得更多信息。 
 
