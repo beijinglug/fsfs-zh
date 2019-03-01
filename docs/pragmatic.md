@@ -44,4 +44,4 @@ GNU GPL 不是“和事佬”，有时它也会对人们想要做的一些事情
 
 [^pragmatic-1]: 参见《为什么使用 Copyleft？》一文
 
-[^pragmatic-2]: 更多相关信息，请参见《X Window 系统陷阱》一文
+[^pragmatic-2]: 更多相关信息，请参见《X Window 系统的陷阱》一文
