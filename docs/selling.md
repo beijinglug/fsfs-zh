@@ -58,7 +58,7 @@
 
 [^sell-1]: 参见《什么是自由软件？》一文
 
-[^sell-2]: 也称为“专有软件”，参见《自由和非自由软件的分类》一文
+[^sell-2]: 也称为“专有软件”，参见《自由与非自由软件的分类》一文
 
 [^sell-3]: 参见 Savannah 任务列表 <http://savannah.gnu.org/projects/tasklist>
 
