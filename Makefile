@@ -133,7 +133,7 @@ $(PREFACES_PANDOC) $(CHAPTERS_PANDOC) $(APPENDIXS_PANDOC): docs/%_pandoc.md : do
 		s/(who-does-that-server-really-serve.md)/(#服务器真正是在为谁服务)<!--(pdf) \\\\pageto{ux670dux52a1ux5668ux771fux6b63ux662fux5728ux4e3aux8c01ux670dux52a1} (pdf)-->/g;\
 		s/(compromise.md)/(#避免破坏性的妥协)<!--(pdf) \\\\pageto{ux907fux514dux7834ux574fux6027ux7684ux59a5ux534f} (pdf)-->/g;\
 		s/(surveillance-vs-democracy.md)/(#民主可以承受多少监控)<!--(pdf) \\\\pageto{ux6c11ux4e3bux53efux4ee5ux627fux53d7ux591aux5c11ux76d1ux63a7} (pdf)-->/g;\
-		s/(appendix-b.md)/(#不同语言对自由软件和免费软件的翻译)<!--(pdf) \\\\pageto{ux4e0dux540cux8bedux8a00ux5bf9ux81eaux7531ux8f6fux4ef6ux548cux514dux8d39ux8f6fux4ef6ux7684ux7ffbux8bd1} (pdf)--->/g" $@
+		s/(appendix-b.md)/(#不同语言对自由软件和免费软件的翻译)<!--(pdf) \\\\pageto{ux4e0dux540cux8bedux8a00ux5bf9ux81eaux7531ux8f6fux4ef6ux548cux514dux8d39ux8f6fux4ef6ux7684ux7ffbux8bd1} (pdf)-->/g" $@
 
 $(PREFACES_PDF) $(CHAPTERS_PDF) $(APPENDIXS_PDF): docs/%_pdf.md : docs/%_pandoc.md
 	cp $< $@
