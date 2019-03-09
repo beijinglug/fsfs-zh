@@ -1,4 +1,4 @@
-## GNU/Linux 上带有数字限制管理（DRM）的非自由游戏：是好是坏？
+## GNU/Linux 上带有数字限制管理（DRM）的非自由游戏：是好是坏？<!--(pandoc) {#nonfree-games}(pandoc)-->
 
 > Copyright © 2013 自由软件基金会
 

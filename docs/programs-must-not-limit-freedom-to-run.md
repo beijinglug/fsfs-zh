@@ -1,4 +1,4 @@
-##  程序不得限制它们的自由运行
+##  程序不得限制它们的自由运行<!--(pandoc) {#programs-must-not-limit-freedom-to-run}(pandoc)-->
 
 > Copyright © 2012 自由软件基金会。此文 2012 年首发于 <http://gnu.org>
 

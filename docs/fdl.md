@@ -1,4 +1,4 @@
-## GNU 自由文档许可证
+## GNU 自由文档许可证<!--(pandoc) {#fdl}(pandoc)-->
 
 > 此版本由 Leo-Hong (leohca (at) yahoo.com) 翻译整理。源网页：<http://www.thebigfly.com/gnu/FDLv1.3/>。
 > 修改者：IFRFSX <1079092922@qq.com>

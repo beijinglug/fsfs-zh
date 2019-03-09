@@ -1,6 +1,6 @@
 # 珍视社区和你的自由
 
-## 避免破坏性的妥协
+## 避免破坏性的妥协<!--(pandoc) {#compromise}(pandoc)-->
 
 > Copyright © 2008, 2009, 2014, 2015 理查德·斯托曼（Richard Stallman）。本文最早于 2008 年发表于 <http://gnu.org>
 

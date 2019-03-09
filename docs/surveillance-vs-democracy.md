@@ -1,4 +1,4 @@
-## 民主可以承受多少监控？
+## 民主可以承受多少监控？<!--(pandoc) {#surveillance-vs-democracy}(pandoc)-->
 
 > Copyright © 2015 理查德·斯托曼（Richard Stallman）。本文最初以相同的标题发表于《连线》杂志（2013 年 10 月 14 日）[http://www.wired.com/opinion/2013/10/a-necessary-evil-what-it-takes-for-
 democracy-to-survive-surveillance](http://www.wired.com/opinion/2013/10/a-necessary-evil-what-it-takes-for-democracy-to-survive-surveillance)

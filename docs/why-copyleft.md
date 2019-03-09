@@ -1,4 +1,4 @@
-## 为什么使用 Copyleft
+## 为什么使用 Copyleft<!--(pandoc) {#why-copyleft}(pandoc)-->
 
 > Copyright © 2003, 2007, 2008, 2013 自由软件基金会。此文原载于 <http://gnu.org>
 

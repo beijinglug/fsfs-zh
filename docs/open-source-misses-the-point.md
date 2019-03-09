@@ -1,4 +1,4 @@
-## 为什么说开源漏掉了自由软件的要点
+## 为什么说开源漏掉了自由软件的要点<!--(pandoc) {#open-source-misses-the-point}(pandoc)-->
 
 > Copyright © 2007, 2008,2010, 2012–2015 Richard Stallman 此文最早于 2007 年发布于 <http://gnu.org>
 

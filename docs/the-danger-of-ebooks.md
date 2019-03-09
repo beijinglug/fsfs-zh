@@ -1,4 +1,4 @@
-## 电子书的威胁
+## 电子书的威胁<!--(pandoc) {#the-danger-of-ebooks}(pandoc)-->
 
 > Copyright © 2011, 2014 Richard Stallman
 

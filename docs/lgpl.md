@@ -1,4 +1,4 @@
-## GNU 宽通用许可证
+## GNU 宽通用许可证<!--(pandoc) {#lgpl}(pandoc)-->
 
 > 中文翻译 Leo <leohca@yahoo.com>  源网页：<http://www.thebigfly.com/gnu/lgpl/lgpl-v3.php>
 > 修改：IFRFSX <1079092922@qq.com>
