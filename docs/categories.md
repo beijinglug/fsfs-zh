@@ -30,7 +30,7 @@
 
 我们倾向于使用自由软件这一概念，由于它代表自由——这是“开源”这一短语所不能体现的[^cate-3]。
 
-### 公有领域软件（Public Domain Software）
+### 公有领域软件（Public Domain Software）<!--(pandoc) {#categories_public-domain-software}(pandoc)-->
 
 公有领域软件是指不受版权保护的软件。如果源代码也在公有领域中，这将成为一种非左版自由软件的特例。这意味着某些副本或者修改版本可能完全不是自由的。
 
@@ -70,7 +70,7 @@ GNU GPL 是一类特定的发布条款集合，用于使该程序成为左版软
 
 因此，将自由软件等同于使用 GPL 许可的软件是一种错误。
 
-### GNU 操作系统（The GNU Operating System）
+### GNU 操作系统（The GNU Operating System）<!--(pandoc) {#categories_gnu-the-gnu-operating-system}(pandoc)-->
 
 GNU 操作系统是一种“类 Unix 操作系统”，它完全由自由软件构成，我们在 GNU 计划中于 1984 年开始 GNU 操作系统开发[^cate-7]。
 
@@ -84,7 +84,7 @@ GNU 操作系统是一种“类 Unix 操作系统”，它完全由自由软件�
 
 “GNU 程序”是 GNU 软件的同义词。若程序 foo 是一个 GNU 程序，那么它也是一个 GNU 软件。我们有时也称之为 GNU 软件包。
 
-### GNU 软件（GNU Software）
+### GNU 软件（GNU Software）<!--(pandoc) {#categories_gnu-gnu-software}(pandoc)-->
 
 “GNU 软件”是指在 GNU 计划支持下发布的软件[^cate-9]。如果一个程序是 GNU 软件，我们也可称之为 GNU 程序或 GNU 软件包。GNU 软件包的自述文件（README）或手册应当声明它是一个 GNU 软件包；同时，自由软件目录[^cate-10]标识了所有 GNU 软件包。
 
@@ -104,7 +104,7 @@ FSF 不会接受非官方 GNU 软件包的软件的版权转让，这是一条�
 
 非自由软件是指任何不是自由软件的软件。它的使用、再分发或修改被禁止，或者要求您请求授权许可，或者被严格限制以致于您事实上不可能自由地进行以上行为。
 
-### 私有软件（或译为“专有软件”，Proprietary Software）
+### 私有软件（或译为“专有软件”，Proprietary Software）<!--(pandoc) {#categories_proprietary-software}(pandoc)-->
 
 私有软件是非自由软件的另一种叫法。在过去，我们曾将非自由软件进一步细分为“半自由软件”（semifree software），它们允许非商业性的修改和再分发；以及私有软件，它们禁止任何修改或再分发。但我们现在已经放弃了这种区分，并且现在将“私有软件”用作非自由软件的同义词。
 
