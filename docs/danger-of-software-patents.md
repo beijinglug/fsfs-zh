@@ -1,4 +1,4 @@
-## 软件专利的威胁
+## 软件专利的威胁<!--(pandoc) {#danger-of-software-patents}(pandoc)-->
 
 > Copyright © 2009, 2010, 2014 Richard Stallman 此抄本最初于 2009 年发表于 <http://gnu.org>。
 

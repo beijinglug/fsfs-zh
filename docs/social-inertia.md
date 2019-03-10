@@ -1,4 +1,4 @@
-## 克服社会惯性
+## 克服社会惯性<!--(pandoc) {#social-inertia}(pandoc)-->
 
 > Copyright © 2007, 2009 理查德·斯托曼（Richard Stallman），本文最初于 2007 年发布于 <http://gnu.org>
 

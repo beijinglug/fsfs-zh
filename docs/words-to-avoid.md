@@ -1,8 +1,8 @@
-## 应避免使用（或慎用）的词语，由于它们是不公正的或者引起混淆的
+## 应避免使用（或慎用）的词语，由于它们是不公正的或者引起混淆的<!--(pandoc) {#words-to-avoid}(pandoc)-->
 
 > Copyright © 1996–1999，2001–2004，2007–2015，自由软件基金会。本列单最初于 1996 年发表于 <http://gnu.org>。
 
-有些单词或短语是我们建议避免使用或者避免在特定上下文或应用场景使用的。其中的一些词语具有歧义或误导性；而其他一些词语则预设了某种我们所不赞同的观点，并且我们希望您也不会同意那些观点。（参见《自由与非自由软件的分类》和《为何称之为诈骗（Swindle）？》两篇文章。）
+有些单词或短语是我们建议避免使用或者避免在特定上下文或应用场景使用的。其中的一些词语具有歧义或误导性；而其他一些词语则预设了某种我们所不赞同的观点，并且我们希望您也不会同意那些观点。（参见[《自由与非自由软件的分类》](categories.md)和[《为何称之为诈骗（Swindle）？》](why-call-it-the-swindle.md)两篇文章。）
 
 ### 可获得性（Access）
 
@@ -54,7 +54,7 @@
 
 有趣的是，Larry Ellison，一位私有软件开发者也注意到了“云计算”这一概念的空泛性[^wordtoavoid-10]。但他决定仍然使用这一概念，因为他是一位私有软件开发者，毕竟此人与我们不是由相同理念所驱使的。
 
-### 商业（Commercial）
+### 商业（Commercial）<!--(pandoc) {#words-to-avoid_commercial}(pandoc)-->
 
 请不要将“商业”用作“非自由”的同义词。这将两种完全不同的问题混为一谈。
 
@@ -130,7 +130,7 @@
 
 一系列反对 DRM 的运动为其选择了不明智的术语“数字锁”；为了让事情重回正轨，我们必须坚持改正这一错误。FSF 可以为一场反对“数字锁”的运动提供支持，如果我们同意其基本立场；然而，当我们表示我们的支持的时候，我们将会引人注目地将该短语更改为“数字手铐”，并且解释为何如此称呼。
 
-### 数字版权管理（Digital Rights Management）
+### 数字版权管理（Digital Rights Management）<!--(pandoc) {#words-to-avoid_digital-rights-management}(pandoc)-->
 
 “数字版权管理”（简写为 DRM）是指那些被设计用于对计算机用户强行施加限制条件的技术机制。其中“权利”（rights）一词的使用是一种鼓吹，其用意是诱使您在不经意间用那些施加这些限制的少数人的观点来看待这一问题，并且忽略被强行施加了这些限制的公众。
 
@@ -146,7 +146,7 @@
 
 与之相反，对其生存环境持有伦理立场的人们可以决定保护那些如果没有人为干预就会消亡的东西——诸如公民社会、民主、人权、和平、公共卫生、稳定的气候、洁净的空气和水、濒危物种、传统艺术……以及计算机用户的自由。
 
-### 自由和开源软件（FLOSS）
+### 自由和开源软件（FLOSS）<!--(pandoc) {#words-to-avoid_floss}(pandoc)-->
 
 FLOSS 意指“自由和开源软件”（Free/Libre and Open Source Software），这一概念试图在自由和开源之间寻求中立[^wordtoavoid-18]。如果保持中立就是您的最终目标，使用 FLOSS 是保持中立的最佳方式。但如果您想要表达您对自由的支持，就不要使用这种中立性的短语。
 
@@ -158,7 +158,7 @@ FLOSS 意指“自由和开源软件”（Free/Libre and Open Source Software）
 
 为了避免混淆，您可以称该程序可以“作为自由软件（而获得）”。
 
-### 自由和开源软件（FOSS）
+### 自由和开源软件（FOSS）<!--(pandoc) {#words-to-avoid_foss}(pandoc)-->
 
 FOSS 意指“自由和开源软件”（Free and Open Source Software），这一概念试图在自由和开源之间寻求中立[^wordtoavoid-19]。如果保持中立就是您的最终目标，使用 FLOSS 更好。但如果您想要表达您对自由的支持，就不要使用这种中立性的短语。
 
@@ -170,7 +170,7 @@ FOSS 意指“自由和开源软件”（Free and Open Source Software），这�
 
 不要将“免费软件”用作自由软件的同义词。“免费软件”这一短语在 20 世纪 80 年代常用于指代那些仅以可执行文件形式发布的程序，其源代码不可获得。现在这一短语没有任何特别的公认定义。
 
-当使用英语以外的语言时，请避免直接借用英语短语诸如“free software”或“freeware”。最好能将 free software 翻译为您所说的语言。（参见本书附录 B 以获得将 free software 无歧义地翻译为多种语言的方式。）
+当使用英语以外的语言时，请避免直接借用英语短语诸如“free software”或“freeware”。最好能将 free software 翻译为您所说的语言。（参见本书[附录 B](appendix-b.md) 以获得将 free software 无歧义地翻译为多种语言的方式。）
 
 通过使用您自己语言中的词汇，您表明了真正想要表达的自由之意，而非只是对某些神秘的外国市场概念鹦鹉学舌。首次引用自由的概念可能会使您的同胞感到奇怪和不安，但是一旦他们发现它所表达的正是它所宣称的涵义，他们将会真正地理解问题的实质。
 
@@ -188,7 +188,7 @@ FOSS 意指“自由和开源软件”（Free and Open Source Software），这�
 
 请不要散播这种错误。那些破坏安全的人称为骇客（cracker）。
 
-### 知识产权（Intellectual Property）
+### 知识产权（Intellectual Property）<!--(pandoc) {#words-to-avoid_intellectual-property}(pandoc)-->
 
 出版商和律师喜好将版权描述为“知识产权”——这一短语也被应用于专利、商标以及其他更为晦涩的法律领域。这些法律之间的共同特性如此之少，而它们之间的区别如此之大，以至于对它们进行广义化是无谋的。最好还是具体地讨论版权，或是专利，或是商标。
 
@@ -244,7 +244,7 @@ Linux 是 Linus Torvalds 于 1991 年开始开发的内核的名字，使用 Lin
 
 请不要将 photoshop（PS）用于动词以在普遍意义上指代任何照片处理或图像编辑。它只是一款特定的图像编辑软件的名字，我们应当尽量避免使用它，由于它是私有软件。有很多自由软件可用于图像编辑，例如 GIMP[^wordtoavoid-25]。
 
-### 盗版（Piracy）
+### 盗版（Piracy）<!--(pandoc) {#words-to-avoid_piracy}(pandoc)-->
 
 出版商通常将不被它们批准的复制行为称为“盗版”。通过这种形式，它们暗示这在伦理上与在外海攻击船只以及绑架谋杀船上的人一样坏。基于这样一种鼓吹，它们在世界上的大部分地区骗取到了法律支持以便在绝大多数（有时是全部）环境下禁止复制（它们仍在继续施压以使得这些禁令更加完整）。
 
@@ -256,7 +256,7 @@ Linux 是 Linus Torvalds 于 1991 年开始开发的内核的名字，使用 Lin
 
 请不要使用 PowerPoint 指代任何类型的幻灯片演示文稿。它只是一款特定的用于制作演示文稿的私有软件的名字。为了您的自由，您应该只用自由软件来制作演示文稿。推荐的可选工具包括 <!--(pdf)\TeX\iffalse (pdf)-->TeX<!--(pdf) \fi(pdf)--> 的 beamer 类以及 OpenOffice.org（或 LibreOffice——译者注）的 Impress。
 
-### 保护（Protection）
+### 保护（Protection）<!--(pandoc) {#words-to-avoid_protection}(pandoc)-->
 
 出版商的律师喜爱使用“保护”一词来描述版权。这个单词暗示防止破坏或者避免痛苦；因此，它鼓励人们去同情那些通过版权得利的版权持有人和出版商，而非那些受到版权限制的用户。
 
@@ -282,15 +282,15 @@ Linux 是 Linus Torvalds 于 1991 年开始开发的内核的名字，使用 Lin
 
 我们曾经说“软件即服务”是一种不公，但我们随后发现人们对于哪些活动属于 SaaS 的理解还存在诸多分歧。于是我们转为使用一个新的短语，“作为软件替代品的服务”，即 SaaSS。这个短语有两个优点：由于它从未被使用过，因此我们的定义是其唯一定义；另外它解释了这种不公包括哪些方面。
 
-参见《服务器真正是在为谁服务？》一文以获得关于此问题的更多讨论。
+参见[《服务器真正是在为谁服务？》](who-does-that-server-really-serve.md)一文以获得关于此问题的更多讨论。
 
 在西班牙语中，我们继续使用“software como servicio”这一短语，这是由于“software como ser vicio”[^wordtoavoid-27]这个笑话太精妙绝伦了，以至于我们不舍得放弃它。
 
-### 贩卖软件（Sell Software）
+### 贩卖软件（Sell Software）<!--(pandoc) {#words-to-avoid_sell-software}(pandoc)-->
 
 “贩卖软件”这一短语是含混不清的。严格地说，用一份自由软件副本换取一笔资金是在贩卖该软件，这样做也无可厚非。然而，人们通常将“贩卖软件”与对该软件的后续使用的私有限制相关联。您可以保持清醒并且拒绝混淆，通过说“有偿发布软件副本”或者“为软件的使用施加私有限制”。
 
-参见《售卖自由软件》一文以获得关于此问题的更多讨论。
+参见[《售卖自由软件》](selling.md)一文以获得关于此问题的更多讨论。
 
 ### 分享经济（Sharing Economy）
 
@@ -336,38 +336,38 @@ Linux 是 Linus Torvalds 于 1991 年开始开发的内核的名字，使用 Lin
 
 
 
- [^wordtoavoid-1]: 参见《什么是自由软件？》以获得自由软件的完整定义。
+ [^wordtoavoid-1]: 参见[《什么是自由软件？》](free-sw.md)以获得自由软件的完整定义。
 
- [^wordtoavoid-2]: 参见《如今自由软件更加重要》和《服务器真正是在为谁服务？》以获得更多信息。
+ [^wordtoavoid-2]: 参见[《如今自由软件更加重要》](free-software-even-more-important.md)和[《服务器真正是在为谁服务？》](who-does-that-server-really-serve.md)以获得更多信息。
 
  [^wordtoavoid-3]: 参见 “The BSD License Problem” 一文，位于 <http://gnu.org/philosophy/bsd.html>。
 
  [^wordtoavoid-4]: 参见 “Various Licenses and Comments about Them”，位于 <http://gnu.org/licenses/license-list.html>。
 
- [^wordtoavoid-5]: 参见《为什么说开源漏掉了自由软件的要点》。
+ [^wordtoavoid-5]: 参见[《为什么说开源漏掉了自由软件的要点》](open-source-misses-the-point.md)。
 
- [^wordtoavoid-6]: 参见《自由与非自由软件的分类》以获得关于私有软件的更多信息。
+ [^wordtoavoid-6]: 参见《自由与非自由软件的分类》以获得[关于私有软件的更多信息](categories.md#proprietary-software)。
 
  [^wordtoavoid-7]: John Harris，“Why Hackers and Spooks Want Our Heads in the Cloud”，2011 年四月 25 日，[http://guardian.co.uk/commentisfree/2011/apr/25/hackers-spooks-cloud-antiauthoritarian-dream](http://guardian.co.uk/commentisfree/2011/apr/25/hackers-spooks-cloud-antiauthoritarian-dream)。
 
- [^wordtoavoid-8]: 参见《服务器真正是在为谁服务？》以获得关于此问题的更多信息。
+ [^wordtoavoid-8]: 参见[《服务器真正是在为谁服务？》](who-does-that-server-really-serve.md)以获得关于此问题的更多信息。
 
  [^wordtoavoid-9]: Peter Mell 和 Anthony Grance，“The NIST Definition of Cloud Computing: Recommendations of the National Institute of Standards and Technology”，NIST Special Publication 800-145 (2011 年九月)，[http://csrc.nist.gov/publications/nistpubs/800-145/SP800-145.pdf](http://csrc.nist.gov/publications/nistpubs/800-145/SP800-145.pdf)。
 
  [^wordtoavoid-10]: Dan Farber，“Oracle’s Ellison Nails Cloud Computing”，2008 年九月 26 日，<http://news.cnet.com/8301-13953_3-10052188-80.html>。 
 
- [^wordtoavoid-11]: 参见《对版权的错误解读——一系列错误》 一文以获得关于此问题的更多信息。
+ [^wordtoavoid-11]: 参见[《对版权的错误解读——一系列错误》](misinterpreting-copyright.md) 一文以获得关于此问题的更多信息。
 
  [^wordtoavoid-12]: Lara O’Reilly，“A Former Googler Has Declared War on Ad Blockers with a New Startup That Tackles Them in an Unorthodox Way”，2015 年六月 18 日，[http://uk.businessinsider.com/former-google-exec-launches-sourcepoint-with-10-million-series-a-funding-
  2015-6?r=US&IR=T](http://uk.businessinsider.com/former-google-exec-launches-sourcepoint-with-10-million-series-a-funding-2015-6?r=US&IR=T)。
 
- [^wordtoavoid-13]: 参见《如今自由软件更加重要》一文以获得关于此问题的更多信息。
+ [^wordtoavoid-13]: 参见[《如今自由软件更加重要》](free-software-even-more-important.md)一文以获得关于此问题的更多信息。
 
  [^wordtoavoid-14]: Owen Hatherley，“Be a User, Not a Consumer: How Capitalism Has Changed Our Language”，2013 年八月 11 日，[http://theguardian.com/commentisfree/2013/aug/11/capitalism-language-raymond-williams](http://theguardian.com/commentisfree/2013/aug/11/capitalism-language-raymond-williams)。
 
  [^wordtoavoid-15]: 美国摇滚音乐家 Courtney Love 于 2000 年五月 16 日在数字好莱坞在线娱乐会议上的演讲的未编辑抄本可以在此找到：<http://www.salon.com/2000/06/14/love_7/>。
 
- [^wordtoavoid-16]: 参见《您说过“知识产权”吗？这是一种迷惑的幻景》获知这一问题的原因。
+ [^wordtoavoid-16]: 参见[《您说过“知识产权”吗？这是一种迷惑的幻景》](not-ipr.md)以及[本文的“知识产权（Intellectual Property）”一节](words-to-avoid.md#intellectual-property)获知这一问题的原因。
 
  [^wordtoavoid-17]:  Cory Doctorow，“Encryption Won’t Work If It Has a Back Door Only the ‘Good Guys’ Have Keys To”，2015 年五月 1 日，[http://theguardian.com/technology/2015/may/01/encryption-wont-work-if-it-has-a-back-door-only-the-good-guys-have-keys-to-](http://theguardian.com/technology/2015/may/01/encryption-wont-work-if-it-has-a-back-door-only-the-good-guys-have-keys-to-)。
 
@@ -381,9 +381,9 @@ Linux 是 Linus Torvalds 于 1991 年开始开发的内核的名字，使用 Lin
 
  [^wordtoavoid-22]: Richard Stallman，“Public Awareness of Copyright, WIPO, June 2002”，最后更新于 2014 年，[http://gnu.org/philosophy/wipo-PublicAwarenessOfCopyright-2002.html](http://gnu.org/philosophy/wipo-PublicAwarenessOfCopyright-2002.html)。
 
- [^wordtoavoid-23]: 参见《Linux 和 GNU 操作系统》一文以获知 GNU/Linux 操作系统的更多历史背景，由于它与本文所提到的命名问题相关。
+ [^wordtoavoid-23]: 参见[《Linux 和 GNU 操作系统》](linux-and-gnu.md)一文以获知 GNU/Linux 操作系统的更多历史背景，由于它与本文所提到的命名问题相关。
 
- [^wordtoavoid-24]: 参见《为什么说开源漏掉了自由软件的要点》以获得完整解释。
+ [^wordtoavoid-24]: 参见[《为什么说开源漏掉了自由软件的要点》](open-source-misses-the-point.md)以获得完整解释。
 
  [^wordtoavoid-25]: 参见 <http://directory.fsf.org/wiki/GIMP>。
 
@@ -397,5 +397,5 @@ Linux 是 Linus Torvalds 于 1991 年开始开发的内核的名字，使用 Lin
 
  [^wordtoavoid-30]: 为了驳斥他们，您可以援引这一真实案例：Harper Lee 起诉她的代理人涉嫌诱骗她将 To Kill a Mockingbird 一书的版权指认给他。
 
-[^wordtoavoid-32]: 参见《您能够信任您的计算机吗？》以获得关于此问题的更多信息。
+[^wordtoavoid-32]: 参见[《您能够信任您的计算机吗？》](can-you-trust.md)以获得关于此问题的更多信息。
 

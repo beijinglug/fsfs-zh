@@ -1,6 +1,6 @@
 # 版权和不公
 
-## 阅读的权利
+## 阅读的权利<!--(pandoc) {#right-to-read}(pandoc)-->
 
 > Copyright © 1996, 2002, 2007, 2009, 2010, 2014 Richard Stallman。本文撰写于 1996 年并以标题 “The Right to Read: A Dystopian Short Story”（阅读的权利：一段反乌托邦的短故事）于 1997 年二月发表于 Communications of the ACM, vol. 40, n. 2。
 
@@ -37,7 +37,7 @@ Lissa 没有向 SPA 举报 Dan，而他关于帮助她的决定使得他们终�
 
 ### 作者注记
 
--   本文据说应该是由其他人在未来撰写的一篇历史文章，描述了 Dan Halbert 在一种专制社会下的青年生活，这种专制社会是由那些将“盗版”作为宣传口号的敌人创立的。因此本文使用那种社会下的用语。我尝试从今天的视角呈现它，使其看起来更具压迫性。有关“盗版”可参考《应避免使用（或慎用）的词语》一问。
+-   本文据说应该是由其他人在未来撰写的一篇历史文章，描述了 Dan Halbert 在一种专制社会下的青年生活，这种专制社会是由那些将“盗版”作为宣传口号的敌人创立的。因此本文使用那种社会下的用语。我尝试从今天的视角呈现它，使其看起来更具压迫性。有关“盗版”可参考[《应避免使用（或慎用）的词语》一文的“盗版（Piracy）”一节](words-to-avoid.md#piracy)。
 
 -   以下注记自本文初次发表之后经过数次更新。
 
@@ -71,7 +71,7 @@ Lissa 没有向 SPA 举报 Dan，而他关于帮助她的决定使得他们终�
 
 关于阅读的权利的斗争已经在进行中了，敌人已经有备而来严阵以待，而我们还没有。因此这场斗争正在向着对我们不利的方向进行。自本文初次发表之日起发生的一些代表性的坏消息包括：
 
--   今天的商业电子书剥夺了读者的传统自由。参见《电子书的威胁》一文以获得更多信息；
+-   今天的商业电子书剥夺了读者的传统自由。参见[《电子书的威胁》](the-danger-of-ebooks.md)一文以获得更多信息；
 
 -   某一“生物课本”网站[^righttoread-3]允许您访问其出版物，仅当您签订合同以保证不会将其借给任何人阅读[^righttoread-4]。而出版商可以随意废除此合同；
 
@@ -83,7 +83,7 @@ Lissa 没有向 SPA 举报 Dan，而他关于帮助她的决定使得他们终�
 
 ### 参考文献
 
--   美国专利及商标局（USPTO），Intellectual Property and the National Information Infrastructure: The Report of the Working Group on Intellectual Property Rights, Washington, DC: GPO, 1995.（参见《您说过“知识产权”吗？这是一种迷惑的幻景》一文以获知为何“知识产权”这一短语是含混不清的并且永远不应被使用）。
+-   美国专利及商标局（USPTO），Intellectual Property and the National Information Infrastructure: The Report of the Working Group on Intellectual Property Rights, Washington, DC: GPO, 1995.（参见[《您说过“知识产权”吗？这是一种迷惑的幻景》](not-ipr.md)一文以获知为何“知识产权”这一短语是含混不清的并且永远不应被使用）。
 
 -   Samuelson, Pamela, “The Copyright Grab,” *Wired,* January 1996, 4.01, <http://wired.com/wired/archive/4.01/white.paper_pr.html>.
 
@@ -94,7 +94,7 @@ Lissa 没有向 SPA 举报 Dan，而他关于帮助她的决定使得他们终�
 -   公有领域联盟（Union for the Public Domain）——一个致力于抵抗并且逆转版权和专利的权力过度扩张的组织。 
 
 
-[^righttoread-1]: 参见《您能够信任您的计算机吗？》一文以获得更多关于“信任计算”的信息。 
+[^righttoread-1]: 参见[《您能够信任您的计算机吗？》](can-you-trust.md)一文以获得更多关于“信任计算”的信息。 
 
 [^righttoread-2]: 参见 <http://badvista.fsf.org/> 以了解我们反对 Windows Vista 的运动。 
 

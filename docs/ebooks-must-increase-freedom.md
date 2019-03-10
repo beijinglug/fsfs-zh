@@ -1,4 +1,4 @@
-## 电子书必须增进我们的自由而非限制我们的自由
+## 电子书必须增进我们的自由而非限制我们的自由<!--(pandoc) {#ebooks-must-increase-freedom}(pandoc)-->
 
 > Copyright © 2012 理查德·斯托曼（Richard Stallman）。本文最初于 2012 年 4 月 17 日以标题“Technology Should Help Us Share, Not Constrain Us”，发表于英国卫报 <http://guardian.co.uk>，并带有一些特别的修订。此版本整合了部分修订，同时恢复了部分原文。
 
@@ -10,7 +10,7 @@
 
 [^ebooks-n]: 指现代专制政权借由严厉执行政治宣传、监视、故意提供虚假资料、否认事实（双重思想）和操纵过去（包括制造“非人”，意指把一个人过去的存在从公共记录和记忆中消除）的政策以控制社会，就如《一九八四》（作者乔治·奥威尔）中的世界观一样。——译者注，摘自维基百科
 
-> 参阅《电子书的威胁》一文，并且考虑加入我们关于电子书威胁的邮件列表，位于 <http://defectivebydesign.org/ebooks.html>.
+> 参阅[《电子书的威胁》](the-danger-of-ebooks.md)一文，并且考虑加入我们关于电子书威胁的邮件列表，位于 <http://defectivebydesign.org/ebooks.html>.
 
 更坏的是，您不能在读完一部电子书之后将其转卖（如果亚马逊按其意志行事，那些我可以在一个下午光顾好几家的旧书店将成为历史）。您也不能将其赠与他人，由于根据亚马逊的霸王条款，您不能真正拥有它。亚马逊要求用户签订的最终用户许可协议（EULA）如是说。
 
@@ -32,13 +32,13 @@
 
 分享是美好的，并且有了数字技术，分享应该变得更容易。（我指对原始版本进行非商业的再分发）因此，分享理应合法，而阻止分享并不能成为将电子书变为读者数字手铐的理由。如果电子书意味着必须在增进与限制读者自由中二选一，我们必须要求它们增进读者的自由。
 
- [^ebooks-1]: 参见《为何称之为诈骗（Swindle）？》一文以获得更多信息。  
+ [^ebooks-1]: 参见[《为何称之为诈骗（Swindle）？》](why-call-it-the-swindle.md)一文以获得更多信息。  
 
  [^ebooks-2]: Ben Quinn, “Man in London Charged with Terrorism Offences over Al-Qaida Document,” 4 April 2012, <http://www.theguardian.com/world/2012/apr/04/al-qaida-terrorism>.  
 
- [^ebooks-3]: 参见《什么是自由软件？》一文以获知自由软件的完整定义。  
+ [^ebooks-3]: 参见[《什么是自由软件？》](free-sw.md)一文以获知自由软件的完整定义。  
 
  [^ebooks-4]: 参见 <http://gnu.org/proprietary/proprietary.html> 以获知一系列日益增长的威胁。 
 
- [^ebooks-5]: 参见我的文章《如今自由软件更加重要》和 “The Problem Is Software Controlled by Its Developer,” 位于 <http://gnu.org/philosophy/the-root-of-this-problem.html> 以获得更多信息。
+ [^ebooks-5]: 参见我的文章[《如今自由软件更加重要》](free-software-even-more-important.md)和 “The Problem Is Software Controlled by Its Developer,” 位于 <http://gnu.org/philosophy/the-root-of-this-problem.html> 以获得更多信息。
 

@@ -1,4 +1,4 @@
-## 应用自由软件判断准则
+## 应用自由软件判断准则<!--(pandoc) {#applying-free-sw-criteria}(pandoc)-->
 
 > Copyright © 2015 理查德·斯托曼（Richard Stallman）
 
@@ -88,20 +88,20 @@
 
 将“软件应当是自由的”这一基本理念应用到不同场合要求不同的实践策略。随着新情况的出现，GNU 计划和 FSF 将会适配我们的自由准则，不论在实践中还是理论上，都将计算机用户引向自由。通过仅仅推荐尊重用户自由的程序、发行版和硬件产品，并且宣示您的立场，您可以为自由软件运动提供它所急需的支持。
 
-[^apply-1]: 参见《什么是自由软件？》一文以获知自由软件的完整定义。 
+[^apply-1]: 参见[《什么是自由软件？》](free-sw.md)一文以获知自由软件的完整定义。 
 
-[^apply-2]: 我的文章《避免破坏性的妥协》详细论述了这一问题。
+[^apply-2]: 我的文章[《避免破坏性的妥协》](compromise.md)详细论述了这一问题。
 
-[^apply-3]: 参见《为什么自由软件需要自由的文档》以获知关于这一问题的更多细节。
+[^apply-3]: 参见[《为什么自由软件需要自由的文档》](free-doc.md)以获知关于这一问题的更多细节。
 
-[^apply-4]: 参见《Linux 和 GNU 操作系统》一文以获知更多信息。 
+[^apply-4]: 参见[《Linux 和 GNU 操作系统》](linux-and-gnu.md)一文以获知更多信息。 
 
 [^apply-5]: 如需获知为何 GCC 拒绝任何非自由插件，参见我在 GCC 邮件列表中的回复，它位于 <https://gcc.gnu.org/ml/gcc/2014-01/msg00247.html>。
 
 [^apply-6]: 参见 <http://directory.fsf.org/wiki/IceCat>。
 
-[^apply-7]: 参见《如今自由软件更加重要》和《为什么说开源漏掉了自由软件的要点》。
+[^apply-7]: 参见[《如今自由软件更加重要》](free-software-even-more-important.md)和[《为什么说开源漏掉了自由软件的要点》](open-source-misses-the-point.md)。
 
-[^apply-8]: 参见《名字的含义？》一文
+[^apply-8]: 参见[《名字的含义？》](why-gnu-linux.md)一文
 
-[^apply-9]: 参见《JavaScript 陷阱》一文
+[^apply-9]: 参见[《JavaScript 陷阱》](javascript-trap.md)一文

@@ -1,4 +1,4 @@
-## GNU/Linux 上带有数字限制管理（DRM）的非自由游戏：是好是坏？
+## GNU/Linux 上带有数字限制管理（DRM）的非自由游戏：是好是坏？<!--(pandoc) {#nonfree-games}(pandoc)-->
 
 > Copyright © 2013 自由软件基金会
 
@@ -22,13 +22,13 @@ Valve，一家知名的游戏公司，主要发布各种带有数字限制管理
 
 如果您想要推进计算中的自由事业，请注意不要将这类游戏在 GNU/Linux 上的可获得性说成是对我们事业的支持。与之相反，您可以向人们介绍 LibreGameWiki[^nonfreegame-7]，那里试图列出所有自由的游戏软件，以及 FreeGameDev 论坛[^nonfreegame-8]，还有 LibrePlanet Gaming Collective 的自由游戏之夜[^nonfreegame-9]。
 
- [^nonfreegame-1]: 参见《如今自由软件更加重要》 一文以获得更多信息。
+ [^nonfreegame-1]: 参见[《如今自由软件更加重要》](free-software-even-more-important.md) 一文以获得更多信息。
 
- [^nonfreegame-2]: 参见《应避免使用（或慎用）的词语》一文的“商业化”一节以获得关于“商业化”一词所带来的困惑的解释。
+ [^nonfreegame-2]: 参见[《应避免使用（或慎用）的词语》一文的“商业化”一节](words-to-avoid.md#commercial)以获得关于“商业化”一词所带来的困惑的解释。
 
- [^nonfreegame-3]: 参见《售卖自由软件》 一文以获得更多信息。
+ [^nonfreegame-3]: 参见[《售卖自由软件》](selling.md) 一文以获得更多信息。
 
- [^nonfreegame-4]: 参见《什么是自由软件？》 以获知自由软件的完整定义。
+ [^nonfreegame-4]: 参见[《什么是自由软件？》](free-sw.md) 以获知自由软件的完整定义。
 
  [^nonfreegame-5]: 参见我们的运动位于 <http://upgradefromwindows8.org/> 以获得更多信息。
 

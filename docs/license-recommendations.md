@@ -1,4 +1,4 @@
-## 如何为你的作品选择一份许可证
+## 如何为你的作品选择一份许可证<!--(pandoc) {#license-recommendations}(pandoc)-->
 
 > Copyright © 2011, 2013, 2014 自由软件基金会。此文于 2011 年首发于 <http://gnu.org>。
 
@@ -82,7 +82,7 @@
 
  [^recon-4]: 此许可证全文参见 <http://gnu.org/licenses/agpl.html>
 
- [^recon-5]: 有关 SaaSS 可参见《服务器真正是在为谁服务？》一文
+ [^recon-5]: 有关 SaaSS 可参见[《服务器真正是在为谁服务？》](who-does-that-server-really-serve.md)一文
 
  [^recon-6]: 参见 <http://gnu.org/licenses/license-list.html\#GNUAllPermissive>
 
