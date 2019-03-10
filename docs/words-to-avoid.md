@@ -346,7 +346,7 @@ Linux 是 Linus Torvalds 于 1991 年开始开发的内核的名字，使用 Lin
 
  [^wordtoavoid-5]: 参见[《为什么说开源漏掉了自由软件的要点》](open-source-misses-the-point.md)。
 
- [^wordtoavoid-6]: 参见[《自由与非自由软件的分类》](categories.md)以获得关于私有软件的更多信息。
+ [^wordtoavoid-6]: 参见《自由与非自由软件的分类》以获得[关于私有软件的更多信息](categories.md#proprietary-software)。
 
  [^wordtoavoid-7]: John Harris，“Why Hackers and Spooks Want Our Heads in the Cloud”，2011 年四月 25 日，[http://guardian.co.uk/commentisfree/2011/apr/25/hackers-spooks-cloud-antiauthoritarian-dream](http://guardian.co.uk/commentisfree/2011/apr/25/hackers-spooks-cloud-antiauthoritarian-dream)。
 
@@ -367,7 +367,7 @@ Linux 是 Linus Torvalds 于 1991 年开始开发的内核的名字，使用 Lin
 
  [^wordtoavoid-15]: 美国摇滚音乐家 Courtney Love 于 2000 年五月 16 日在数字好莱坞在线娱乐会议上的演讲的未编辑抄本可以在此找到：<http://www.salon.com/2000/06/14/love_7/>。
 
- [^wordtoavoid-16]: 参见[《您说过“知识产权”吗？这是一种迷惑的幻景》](not-ipr.md)获知这一问题的原因。
+ [^wordtoavoid-16]: 参见[《您说过“知识产权”吗？这是一种迷惑的幻景》](not-ipr.md)以及[本文的“知识产权（Intellectual Property）”一节](words-to-avoid.md#intellectual-property)获知这一问题的原因。
 
  [^wordtoavoid-17]:  Cory Doctorow，“Encryption Won’t Work If It Has a Back Door Only the ‘Good Guys’ Have Keys To”，2015 年五月 1 日，[http://theguardian.com/technology/2015/may/01/encryption-wont-work-if-it-has-a-back-door-only-the-good-guys-have-keys-to-](http://theguardian.com/technology/2015/may/01/encryption-wont-work-if-it-has-a-back-door-only-the-good-guys-have-keys-to-)。
 

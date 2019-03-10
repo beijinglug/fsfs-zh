@@ -174,7 +174,7 @@ DMCA 于 1998 年被实施。随之，它宣称合理使用在名义上尚属合
 
  [^mis-copyright-4]: Congressional Record, “Statement on Introduced Bills and Joint Resolutions,” 2 March 1995, p. S3390, <http://gpo.gov/fdsys/pkg/CREC-1995-03-02/pdf/CREC-1995-03-02-pt1-PgS3390-2.pdf>. 
 
- [^mis-copyright-5]: 参见[《应避免使用（或慎用）的词语》](words-to-avoid.md)一文以获知为何在与版权相关联时应当避免使用“保护”一词。 
+ [^mis-copyright-5]: 参见[《应避免使用（或慎用）的词语》一文的“保护（Protection）”一节](words-to-avoid.md#protection)以获知为何在与版权相关联时应当避免使用“保护”一词。 
 
  [^mis-copyright-6]: Jack Valenti 是美国电影协会（MPAA）常任主席。 
 

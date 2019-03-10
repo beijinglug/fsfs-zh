@@ -203,7 +203,7 @@ become-qs-activity-trackers/).
 
  [^surveilance-38]: Public Citizen, “Call Your Representative: Tell Her or Him to Co-Sponsor a Constitutional Amendment to Overturn Citizens United and Restore Democracy to the People,” August 2015, <http://action.citizen.org/p/dia/action3/common/public/?action_KEY=12266>. 
 
- [^surveilance-39]: 参见[《应避免使用（或慎用）的词语》](words-to-avoid.md)一文中有关 DRM 的叙述。
+ [^surveilance-39]: 参见[《应避免使用（或慎用）的词语》一文中有关 DRM 的叙述](words-to-avoid.md#digital-rights-management)。
 
  [^surveilance-40]: James Allworth, “Your Smartphone Works for the Surveillance State,” 7 June 2013, <https://hbr.org/2013/06/your-iphone-works-for-the-secret-police>. 
 

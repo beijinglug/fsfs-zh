@@ -134,4 +134,4 @@ school-of-management/15-352-managing-innovation-emerging-trends-spring-2005/read
 
 [^open-11]: Evgeny Morozov，“Open and Closed”（开放和封闭），2013 年 3 月 16 日，<http://www.nytimes.com/2013/03/17/opinion/sunday/morozov-open-and-closed.html>
 
-[^open-12]: 可参见本文或文章“FLOSS 和 FOSS” <http://www.gnu.org/philosophy/floss-and-foss.html>
+[^open-12]: 可参见[《应避免使用（或慎用）的词语》一文的“自由和开源软件（FLOSS）”一节](words-to-avoid.md#floss)和《FLOSS 和 FOSS》<http://www.gnu.org/philosophy/floss-and-foss.html>

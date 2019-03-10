@@ -103,7 +103,7 @@ $(BOOKNAME).html:  $(PREFACES_PANDOC) $(CHAPTERS_PANDOC) $(APPENDIXS_PANDOC)
 $(PREFACES_PANDOC) $(CHAPTERS_PANDOC) $(APPENDIXS_PANDOC): docs/%_pandoc.md : docs/%.md
 	cp $< $@
 	echo Replacing...
-	@sed -i "s/<!--(pandoc)//g;s/(pandoc)-->//g;s/(\\([a-zA-Z0-9\\-]*\\)\\.md)/(#\1)<!--(pdf) \\\\pageto{\1}(pdf)-->/g" $@
+	@sed -i "s/<!--(pandoc)//g;s/(pandoc)-->//g;s/(\\([a-zA-Z0-9\\-]*\\)\\.md)/(#\1)<!--(pdf) \\\\pageto{\1}(pdf)-->/g;s/(\\([a-zA-Z0-9\\-]*\\)\\.md#\\([a-zA-Z0-9\\-]*\\))/(#\1_\2)<!--(pdf) \\\\pageto{\1_\2}(pdf)-->/g" $@
 
 $(PREFACES_PDF) $(CHAPTERS_PDF) $(APPENDIXS_PDF): docs/%_pdf.md : docs/%_pandoc.md
 	cp $< $@

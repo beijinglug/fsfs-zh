@@ -24,7 +24,7 @@ Valve，一家知名的游戏公司，主要发布各种带有数字限制管理
 
  [^nonfreegame-1]: 参见[《如今自由软件更加重要》](free-software-even-more-important.md) 一文以获得更多信息。
 
- [^nonfreegame-2]: 参见[《应避免使用（或慎用）的词语》](words-to-avoid.md)一文的“商业化”一节以获得关于“商业化”一词所带来的困惑的解释。
+ [^nonfreegame-2]: 参见[《应避免使用（或慎用）的词语》一文的“商业化”一节](words-to-avoid.md#commercial)以获得关于“商业化”一词所带来的困惑的解释。
 
  [^nonfreegame-3]: 参见[《售卖自由软件》](selling.md) 一文以获得更多信息。
 
