@@ -12,8 +12,7 @@
 
 因此，自由软件基金会做出了一些妥协——甚至是重大妥协。例如，我们在 GNU 通用公共许可证（GNU GPL）第三版的专利提供条款中做出了妥协，使得主要的商业软件公司可以贡献并发布基于 GPL v3 的软件，并藉此将部分软件专利置于此条款的效力之下。
 
-> 在生活中的另一个领域存在这样一种类似的观点，例如文章“‘Nudge’ Is Not Enough, It’s True. But We Already Knew That” [http://guardian.co.uk/commentisfree/2011/jul/19/nudge-
-is-not-enough-behaviour-change](http://guardian.co.uk/commentisfree/2011/jul/19/nudge-is-not-enough-behaviour-change)（Jonathan Rowson，2011 年 7 月 19 日）所指出的观点：除了温和的劝说，我们还需要态度和视角方面的转变。
+> 在生活中的另一个领域存在这样一种类似的观点，例如文章“‘Nudge’ Is Not Enough, It’s True. But We Already Knew That” [http://guardian.co.uk/commentisfree/2011/jul/19/nudge-is-not-enough-behaviour-change](http://guardian.co.uk/commentisfree/2011/jul/19/nudge-is-not-enough-behaviour-change)（Jonathan Rowson，2011 年 7 月 19 日）所指出的观点：除了温和的劝说，我们还需要态度和视角方面的转变。
 
 GNU 宽通用公共许可证（GNU LGPL）的目的在于一种妥协，我们将它用于一些选定的自由程序库，以便允许将它们用于非自由软件中。这是由于我们认为如果在法律层面禁止这样做只会迫使开发者转向使用私有程序库。我们在 GNU 软件中接受并安装某种代码使得它们能够与常见的非自由软件协同工作，并且我们对这种行为以这样的方式进行描述和宣传，鼓励后者的用户安装并使用 GNU 软件而不是相反。我们也会支持我们所认同的一些特定的运动，即使我们并不完全认同那些支持这些运动的组织。
 

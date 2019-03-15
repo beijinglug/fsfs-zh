@@ -1,7 +1,6 @@
 ## 民主可以承受多少监控？
 
-> Copyright © 2015 理查德·斯托曼（Richard Stallman）。本文最初以相同的标题发表于《连线》杂志（2013 年 10 月 14 日）[http://www.wired.com/opinion/2013/10/a-necessary-evil-what-it-takes-for-
-democracy-to-survive-surveillance](http://www.wired.com/opinion/2013/10/a-necessary-evil-what-it-takes-for-democracy-to-survive-surveillance)
+> Copyright © 2015 理查德·斯托曼（Richard Stallman）。本文最初以相同的标题发表于《连线》杂志（2013 年 10 月 14 日）[http://www.wired.com/opinion/2013/10/a-necessary-evil-what-it-takes-for-democracy-to-survive-surveillance](http://www.wired.com/opinion/2013/10/a-necessary-evil-what-it-takes-for-democracy-to-survive-surveillance)
 
 多亏了爱德华•斯诺登的揭露，我们才知道当今社会中的普遍监控级别已经与人权不相容。在美国和世界其他地区持续发生的针对持不同政见者、信息来源和新闻工作者的骚扰和指控确认了这一点。我们需要适当降低普遍监控的级别，但是到底应当在多大程度上？我们所必须保证其不被超越的，可接受的*最大监控级别*到底是多少？这种监控级别应当这样定义：一旦超过了这样的级别，监控行为将会干涉民主的运行。此时揭露者（例如斯诺登）很可能因此而被逮捕。
 
@@ -175,8 +174,7 @@ NSA 通过棱镜计划（PRISM）进入了多家大型互联网公司的数据�
 
  [^surveilance-25]: Jon Queally, “Latest Docs Show Financial Ties between NSA and Internet Companies,” 23 August 2013, <http://www.commondreams.org/news/2013/08/23/latest-docs-show-financial-ties-between-nsa-and-internet-companies>. 
 
- [^surveilance-26]: Scott Shane and Colin Moynihan, “Drug Agents Use Vast Phone Trove, Eclipsing N.S.A.’s,” 1 September 2013,
-[http://www.nytimes.com/2013/09/02/us/drug-agents-use-vast-phone-trove-eclipsing-nsas.html?_r=0](http://www.nytimes.com/2013/09/02/us/drug-agents-use-vast-phone-trove-eclipsing-nsas.html?_r=0). 
+ [^surveilance-26]: Scott Shane and Colin Moynihan, “Drug Agents Use Vast Phone Trove, Eclipsing N.S.A.’s,” 1 September 2013, [http://www.nytimes.com/2013/09/02/us/drug-agents-use-vast-phone-trove-eclipsing-nsas.html?_r=0](http://www.nytimes.com/2013/09/02/us/drug-agents-use-vast-phone-trove-eclipsing-nsas.html?_r=0). 
 
  [^surveilance-27]: Dan Kaminsky, “Let’s Cut through the Bitcoin Hype: A Hacker-Entrepreneur’s Take,” 3 May 2013, [http://wired.com/2013/05/lets-cut-through-the-bitcoin-hype/](http://wired.com/2013/05/lets-cut-through-the-bitcoin-hype/). 
 
@@ -188,8 +186,7 @@ NSA 通过棱镜计划（PRISM）进入了多家大型互联网公司的数据�
 
  [^surveilance-31]: Kai Biermann, “Betrayed by Our Own Data,” 26 March 2011, <http://www.zeit.de/digital/datenschutz/2011-03/data-protection-malte-spitz>. 
 
-[^surveilance-32]: Sara M. Watson, “The Latest Smartphones Could Turn Us All into Activity Trackers,” 10 October 2013, [http://wired.com/2013/10/the-trojan-horse-of-the-latest-iphone-with-the-m7-coprocessor-we-all-become-qs-activity-trackers/](http://wired.com/2013/10/the-trojan-horse-of-the-latest-iphone-with-the-m7-coprocessor-we-all-
-become-qs-activity-trackers/). 
+[^surveilance-32]: Sara M. Watson, “The Latest Smartphones Could Turn Us All into Activity Trackers,” 10 October 2013, [http://wired.com/2013/10/the-trojan-horse-of-the-latest-iphone-with-the-m7-coprocessor-we-all-become-qs-activity-trackers/](http://wired.com/2013/10/the-trojan-horse-of-the-latest-iphone-with-the-m7-coprocessor-we-all-become-qs-activity-trackers/). 
 
  [^surveilance-33]: Patrick Toomey, “It Sure Sounds Like the NSA Is Tracking Our Locations,” 30 September 2013, [https://aclu.org/blog/it-sure-sounds-nsa-tracking-our-locations](https://aclu.org/blog/it-sure-sounds-nsa-tracking-our-locations). 
 
