@@ -1,4 +1,4 @@
-## 自由硬件和自由硬件设计<!--(pandoc) {#free-hardware-designs}(pandoc)-->
+## 自由硬件和自由硬件设计<!--(pandoc) {#pandoc_free-hardware-designs}(pandoc)-->
  
 > Copyright © 2015 Richard Stallman。本文分成两部分，分别以标题“为什么我们需要自由的电子硬件设计” <http://wired.com/2015/03/need-free-digital-hardware-designs> 和“硬件设计必须自由，如何行动见此” <http://wired.com/2015/03/richard-stallman-how-to-make-hardware-designs-free>，发表于《连线》杂志网站。2015 年本文发布于 <http://gnu.org>。
 

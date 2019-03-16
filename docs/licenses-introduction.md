@@ -1,6 +1,6 @@
 # 自由软件许可证
 
-## 许可证简介<!--(pandoc) {#licenses-introduction}(pandoc)-->
+## 许可证简介<!--(pandoc) {#pandoc_licenses-introduction}(pandoc)-->
 
 > Copyright © 2010 自由软件基金会。由 Brett Smith 和 Richard Stallman 撰写。
 

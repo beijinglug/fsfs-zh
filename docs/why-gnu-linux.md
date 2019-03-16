@@ -1,6 +1,6 @@
 # 名字的含义
 
-## 名字的含义？<!--(pandoc) {#why-gnu-linux}(pandoc)-->
+## 名字的含义？<!--(pandoc) {#pandoc_why-gnu-linux}(pandoc)-->
 
 > Copyright © 2000, 2006, 2007 Richard Stallman。
 

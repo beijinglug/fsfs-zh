@@ -1,4 +1,4 @@
-## 什么是 Copyleft？ <!--(pandoc) {#copyleft}(pandoc)-->
+## 什么是 Copyleft？ <!--(pandoc) {#pandoc_copyleft}(pandoc)-->
 
 > Copyright © 1996–2009, 2013 自由软件基金会。此文最初于 1996 年发表在 <http://gnu.org>。
 

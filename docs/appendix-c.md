@@ -1,4 +1,4 @@
-# 自由软件之歌<!--(pandoc) {#appendix-c}(pandoc)-->
+# 自由软件之歌<!--(pandoc) {#pandoc_appendix-c}(pandoc)-->
 
 >  Copyright © 2010 Richard Stallman。理查德·斯托曼于 1991 年写出此歌词。
 

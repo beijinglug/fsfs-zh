@@ -1,4 +1,4 @@
-## 政府推动自由软件的措施<!--(pandoc) {#government-free-software}(pandoc)-->
+## 政府推动自由软件的措施<!--(pandoc) {#pandoc_government-free-software}(pandoc)-->
 
 > Copyright © 2011–2014 自由软件基金会，此文于 2011 年首次发表在 <http://gnu.org>。
 
