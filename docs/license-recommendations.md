@@ -1,4 +1,4 @@
-## 如何为你的作品选择一份许可证<!--(pandoc) {#license-recommendations}(pandoc)-->
+## 如何为你的作品选择一份许可证<!--(pandoc) {#pandoc_license-recommendations}(pandoc)-->
 
 > Copyright © 2011, 2013, 2014 自由软件基金会。此文于 2011 年首发于 <http://gnu.org>。
 

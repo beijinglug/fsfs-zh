@@ -1,4 +1,4 @@
-## 对版权的错误解读——一系列错误<!--(pandoc) {#misinterpreting-copyright}(pandoc)-->
+## 对版权的错误解读——一系列错误<!--(pandoc) {#pandoc_misinterpreting-copyright}(pandoc)-->
 
 > Copyright © 2002, 2003, 2007, 2009–2011 自由软件基金会。本文最初于 2002 年发表于 <http://gnu.org>
 

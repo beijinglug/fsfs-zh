@@ -1,4 +1,4 @@
-## 为什么自由软件需要自由的文档<!--(pandoc) {#free-doc}(pandoc)-->
+## 为什么自由软件需要自由的文档<!--(pandoc) {#pandoc_free-doc}(pandoc)-->
 
 >Copyright © 1996–2007, 2009 自由软件基金会。
 

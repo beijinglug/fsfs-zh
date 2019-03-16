@@ -1,6 +1,6 @@
 # 版权和不公
 
-## 阅读的权利<!--(pandoc) {#right-to-read}(pandoc)-->
+## 阅读的权利<!--(pandoc) {#pandoc_right-to-read}(pandoc)-->
 
 > Copyright © 1996, 2002, 2007, 2009, 2010, 2014 Richard Stallman。本文撰写于 1996 年并以标题 “The Right to Read: A Dystopian Short Story”（阅读的权利：一段反乌托邦的短故事）于 1997 年二月发表于 Communications of the ACM, vol. 40, n. 2。
 

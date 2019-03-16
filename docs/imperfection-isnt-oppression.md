@@ -1,4 +1,4 @@
-## 缺陷并不等同于压迫<!--(pandoc) {#imperfection-isnt-oppression}(pandoc)-->
+## 缺陷并不等同于压迫<!--(pandoc) {#pandoc_imperfection-isnt-oppression}(pandoc)-->
 
 > Copyright © 2014 自由软件基金会
 

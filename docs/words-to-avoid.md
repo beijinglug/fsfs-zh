@@ -1,4 +1,4 @@
-## 应避免使用（或慎用）的词语，由于它们是不公正的或者引起混淆的<!--(pandoc) {#words-to-avoid}(pandoc)-->
+## 应避免使用（或慎用）的词语，由于它们是不公正的或者引起混淆的<!--(pandoc) {#pandoc_words-to-avoid}(pandoc)-->
 
 > Copyright © 1996–1999，2001–2004，2007–2015，自由软件基金会。本列单最初于 1996 年发表于 <http://gnu.org>。
 
@@ -54,7 +54,7 @@
 
 有趣的是，Larry Ellison，一位私有软件开发者也注意到了“云计算”这一概念的空泛性[^wordtoavoid-10]。但他决定仍然使用这一概念，因为他是一位私有软件开发者，毕竟此人与我们不是由相同理念所驱使的。
 
-### 商业（Commercial）<!--(pandoc) {#words-to-avoid_commercial}(pandoc)-->
+### 商业（Commercial）<!--(pandoc) {#pandoc_words-to-avoid_commercial}(pandoc)-->
 
 请不要将“商业”用作“非自由”的同义词。这将两种完全不同的问题混为一谈。
 
@@ -130,7 +130,7 @@
 
 一系列反对 DRM 的运动为其选择了不明智的术语“数字锁”；为了让事情重回正轨，我们必须坚持改正这一错误。FSF 可以为一场反对“数字锁”的运动提供支持，如果我们同意其基本立场；然而，当我们表示我们的支持的时候，我们将会引人注目地将该短语更改为“数字手铐”，并且解释为何如此称呼。
 
-### 数字版权管理（Digital Rights Management）<!--(pandoc) {#words-to-avoid_digital-rights-management}(pandoc)-->
+### 数字版权管理（Digital Rights Management）<!--(pandoc) {#pandoc_words-to-avoid_digital-rights-management}(pandoc)-->
 
 “数字版权管理”（简写为 DRM）是指那些被设计用于对计算机用户强行施加限制条件的技术机制。其中“权利”（rights）一词的使用是一种鼓吹，其用意是诱使您在不经意间用那些施加这些限制的少数人的观点来看待这一问题，并且忽略被强行施加了这些限制的公众。
 
@@ -146,7 +146,7 @@
 
 与之相反，对其生存环境持有伦理立场的人们可以决定保护那些如果没有人为干预就会消亡的东西——诸如公民社会、民主、人权、和平、公共卫生、稳定的气候、洁净的空气和水、濒危物种、传统艺术……以及计算机用户的自由。
 
-### 自由和开源软件（FLOSS）<!--(pandoc) {#words-to-avoid_floss}(pandoc)-->
+### 自由和开源软件（FLOSS）<!--(pandoc) {#pandoc_words-to-avoid_floss}(pandoc)-->
 
 FLOSS 意指“自由和开源软件”（Free/Libre and Open Source Software），这一概念试图在自由和开源之间寻求中立[^wordtoavoid-18]。如果保持中立就是您的最终目标，使用 FLOSS 是保持中立的最佳方式。但如果您想要表达您对自由的支持，就不要使用这种中立性的短语。
 
@@ -158,7 +158,7 @@ FLOSS 意指“自由和开源软件”（Free/Libre and Open Source Software）
 
 为了避免混淆，您可以称该程序可以“作为自由软件（而获得）”。
 
-### 自由和开源软件（FOSS）<!--(pandoc) {#words-to-avoid_foss}(pandoc)-->
+### 自由和开源软件（FOSS）<!--(pandoc) {#pandoc_words-to-avoid_foss}(pandoc)-->
 
 FOSS 意指“自由和开源软件”（Free and Open Source Software），这一概念试图在自由和开源之间寻求中立[^wordtoavoid-19]。如果保持中立就是您的最终目标，使用 FLOSS 更好。但如果您想要表达您对自由的支持，就不要使用这种中立性的短语。
 
@@ -188,7 +188,7 @@ FOSS 意指“自由和开源软件”（Free and Open Source Software），这�
 
 请不要散播这种错误。那些破坏安全的人称为骇客（cracker）。
 
-### 知识产权（Intellectual Property）<!--(pandoc) {#words-to-avoid_intellectual-property}(pandoc)-->
+### 知识产权（Intellectual Property）<!--(pandoc) {#pandoc_words-to-avoid_intellectual-property}(pandoc)-->
 
 出版商和律师喜好将版权描述为“知识产权”——这一短语也被应用于专利、商标以及其他更为晦涩的法律领域。这些法律之间的共同特性如此之少，而它们之间的区别如此之大，以至于对它们进行广义化是无谋的。最好还是具体地讨论版权，或是专利，或是商标。
 
@@ -244,7 +244,7 @@ Linux 是 Linus Torvalds 于 1991 年开始开发的内核的名字，使用 Lin
 
 请不要将 photoshop（PS）用于动词以在普遍意义上指代任何照片处理或图像编辑。它只是一款特定的图像编辑软件的名字，我们应当尽量避免使用它，由于它是私有软件。有很多自由软件可用于图像编辑，例如 GIMP[^wordtoavoid-25]。
 
-### 盗版（Piracy）<!--(pandoc) {#words-to-avoid_piracy}(pandoc)-->
+### 盗版（Piracy）<!--(pandoc) {#pandoc_words-to-avoid_piracy}(pandoc)-->
 
 出版商通常将不被它们批准的复制行为称为“盗版”。通过这种形式，它们暗示这在伦理上与在外海攻击船只以及绑架谋杀船上的人一样坏。基于这样一种鼓吹，它们在世界上的大部分地区骗取到了法律支持以便在绝大多数（有时是全部）环境下禁止复制（它们仍在继续施压以使得这些禁令更加完整）。
 
@@ -256,7 +256,7 @@ Linux 是 Linus Torvalds 于 1991 年开始开发的内核的名字，使用 Lin
 
 请不要使用 PowerPoint 指代任何类型的幻灯片演示文稿。它只是一款特定的用于制作演示文稿的私有软件的名字。为了您的自由，您应该只用自由软件来制作演示文稿。推荐的可选工具包括 <!--(pdf)\TeX\iffalse (pdf)-->TeX<!--(pdf) \fi(pdf)--> 的 beamer 类以及 OpenOffice.org（或 LibreOffice——译者注）的 Impress。
 
-### 保护（Protection）<!--(pandoc) {#words-to-avoid_protection}(pandoc)-->
+### 保护（Protection）<!--(pandoc) {#pandoc_words-to-avoid_protection}(pandoc)-->
 
 出版商的律师喜爱使用“保护”一词来描述版权。这个单词暗示防止破坏或者避免痛苦；因此，它鼓励人们去同情那些通过版权得利的版权持有人和出版商，而非那些受到版权限制的用户。
 
@@ -286,7 +286,7 @@ Linux 是 Linus Torvalds 于 1991 年开始开发的内核的名字，使用 Lin
 
 在西班牙语中，我们继续使用“software como servicio”这一短语，这是由于“software como ser vicio”[^wordtoavoid-27]这个笑话太精妙绝伦了，以至于我们不舍得放弃它。
 
-### 贩卖软件（Sell Software）<!--(pandoc) {#words-to-avoid_sell-software}(pandoc)-->
+### 贩卖软件（Sell Software）<!--(pandoc) {#pandoc_words-to-avoid_sell-software}(pandoc)-->
 
 “贩卖软件”这一短语是含混不清的。严格地说，用一份自由软件副本换取一笔资金是在贩卖该软件，这样做也无可厚非。然而，人们通常将“贩卖软件”与对该软件的后续使用的私有限制相关联。您可以保持清醒并且拒绝混淆，通过说“有偿发布软件副本”或者“为软件的使用施加私有限制”。
 

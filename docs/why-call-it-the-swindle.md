@@ -1,4 +1,4 @@
-## 为何称之为诈骗（Swindle）？<!--(pandoc) {#why-call-it-the-swindle}(pandoc)-->
+## 为何称之为诈骗（Swindle）？<!--(pandoc) {#pandoc_why-call-it-the-swindle}(pandoc)-->
 
 > Copyright © 2013 Richard Stallman。
 
