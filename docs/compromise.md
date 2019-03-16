@@ -6,14 +6,13 @@
 
 > 1983 年 9 月 27 日，我发起了一项计划，致力于创造一个完全自由的操作系统，它称作 GNU——意为 GNU 不是 Unix（GNU's Not Unix）。为了纪念 GNU 操作系统 25 周年，我写出了这篇文章，旨在阐述我们的社区怎样才能避开破坏性的妥协。除了避开这类妥协之外，您还可通过很多其他方式帮助 GNU 和自由软件。其中一条基本方式是以合作成员的身份加入自由软件基金会（FSF）[^compromise-1]。
 
+> 在生活中的另一个领域存在这样一种类似的观点，例如文章“‘Nudge’ Is Not Enough, It’s True. But We Already Knew That” [http://guardian.co.uk/commentisfree/2011/jul/19/nudge-is-not-enough-behaviour-change](http://guardian.co.uk/commentisfree/2011/jul/19/nudge-is-not-enough-behaviour-change)（Jonathan Rowson，2011 年 7 月 19 日）所指出的观点：除了温和的劝说，我们还需要态度和视角方面的转变。
+
 自由软件运动致力于带来一场社会变革：让所有软件成为自由的[^compromise-2]，这样所有软件用户将获得自由，并且将会成为协作化社区的一部分。与之相反，任何一个非自由的程序赋予了其开发者凌驾于用户之上的不公权力。我们的目标是终结这种不公。
 
 自由之路，路漫漫兮[^compromise-3]。这需要经历很多步骤，花费很多年的时间才能达到这样一种境地：软件用户拥有自由成为一种常态。这些步骤当中的一些可能会非常艰难，甚至需要为之付出一些牺牲。而其中有些步骤可能会变得简单，如果我们与其他拥有不同最终目标的人们达成某种妥协。
 
 因此，自由软件基金会做出了一些妥协——甚至是重大妥协。例如，我们在 GNU 通用公共许可证（GNU GPL）第三版的专利提供条款中做出了妥协，使得主要的商业软件公司可以贡献并发布基于 GPL v3 的软件，并藉此将部分软件专利置于此条款的效力之下。
-
-> 在生活中的另一个领域存在这样一种类似的观点，例如文章“‘Nudge’ Is Not Enough, It’s True. But We Already Knew That” [http://guardian.co.uk/commentisfree/2011/jul/19/nudge-
-is-not-enough-behaviour-change](http://guardian.co.uk/commentisfree/2011/jul/19/nudge-is-not-enough-behaviour-change)（Jonathan Rowson，2011 年 7 月 19 日）所指出的观点：除了温和的劝说，我们还需要态度和视角方面的转变。
 
 GNU 宽通用公共许可证（GNU LGPL）的目的在于一种妥协，我们将它用于一些选定的自由程序库，以便允许将它们用于非自由软件中。这是由于我们认为如果在法律层面禁止这样做只会迫使开发者转向使用私有程序库。我们在 GNU 软件中接受并安装某种代码使得它们能够与常见的非自由软件协同工作，并且我们对这种行为以这样的方式进行描述和宣传，鼓励后者的用户安装并使用 GNU 软件而不是相反。我们也会支持我们所认同的一些特定的运动，即使我们并不完全认同那些支持这些运动的组织。
 
