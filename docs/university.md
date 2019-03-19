@@ -1,4 +1,4 @@
-## 如果您在大学工作，请发布自由软件
+## 如果您在大学工作，请发布自由软件<!--(pandoc) {#pandoc_university}(pandoc)-->
 
 > Copyright © 2002, 2014 理查德·斯托曼（Richard Stallman）。本文最初于 2002 年发表于 <http://gnu.org>。
 

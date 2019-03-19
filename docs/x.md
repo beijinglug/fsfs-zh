@@ -1,4 +1,4 @@
-## X Window 系统的陷阱
+## X Window 系统的陷阱<!--(pandoc) {#pandoc_x}(pandoc)-->
 
 > Copyright © 1998, 1999, 2009 理查德·斯托曼（Richard Stallman）。本文最初于 1998 年发表在 <http://gnu.org>。
 

@@ -1,4 +1,4 @@
-## 关于出售例外对 GNU GPL 的影响
+## 关于出售例外对 GNU GPL 的影响<!--(pandoc) {#pandoc_selling-exceptions}(pandoc)-->
 
 > Copyright © 2009, 2010 理查德·斯托曼（Richard Stallman）
 

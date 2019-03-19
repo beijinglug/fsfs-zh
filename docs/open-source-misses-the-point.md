@@ -1,4 +1,4 @@
-## 为什么说开源漏掉了自由软件的要点
+## 为什么说开源漏掉了自由软件的要点<!--(pandoc) {#pandoc_open-source-misses-the-point}(pandoc)-->
 
 > Copyright © 2007, 2008,2010, 2012–2015 Richard Stallman 此文最早于 2007 年发布于 <http://gnu.org>
 
@@ -110,9 +110,9 @@
 
 Karim R. Lakhani 和 Robert G. Wolf 的论文“Why Hackers Do What They Do: Understanding Motivation and Effort in Free/Open Source Software Projects”（剑桥：MIT 出版社，2005）[http://ocw.mit.edu/courses/sloan-school-of-management/15-352-managing-innovation-emerging-trends-spring-2005/readings/lakhaniwolf.pdf](http://ocw.mit.edu/courses/sloan-school-of-management/15-352-managing-innovation-emerging-trends-spring-2005/readings/lakhaniwolf.pdf)，在探讨自由软件开发者的动机时，指出相当一部分人被“软件必须是自由的”的观点所鼓舞。这里忽略了他们调查的对象是 SourceFourge 的开发人员这一事实，而该站点并不支持这是个伦理问题的观点。
 
-[^open-1]: 有关自由软件的完整定义，参见《什么是自由软件？》一文。
+[^open-1]: 有关自由软件的完整定义，参见[《什么是自由软件？》](free-sw.md)一文。
 
-[^open-2]: 关于操作系统可参见《Linux 和 GNU 操作系统》一文
+[^open-2]: 关于操作系统可参见[《Linux 和 GNU 操作系统》](linux-and-gnu.md)一文
 
 [^open-3]: 一个典型的例子，比如 Jay Lyman 的文章“Open Source Is Woven Into the Latest, Hottest Trends”（2013 年 9 月 12 日）<http://www.linuxinsider.com/story/Open-Source-Is-Woven-Into-the-Latest-Hottest-Trends-78937.html>
 
@@ -133,4 +133,4 @@ Karim R. Lakhani 和 Robert G. Wolf 的论文“Why Hackers Do What They Do: Und
 
 [^open-11]: Evgeny Morozov，“Open and Closed”（开放和封闭），2013 年 3 月 16 日，<http://www.nytimes.com/2013/03/17/opinion/sunday/morozov-open-and-closed.html>
 
-[^open-12]: 可参见本文或文章“FLOSS 和 FOSS” <http://www.gnu.org/philosophy/floss-and-foss.html>
+[^open-12]: 可参见[《应避免使用（或慎用）的词语》一文的“自由和开源软件（FLOSS）”一节](words-to-avoid.md#floss)和《FLOSS 和 FOSS》<http://www.gnu.org/philosophy/floss-and-foss.html>

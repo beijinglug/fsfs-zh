@@ -1,4 +1,4 @@
-## GNU 操作系统的初始公告
+## GNU 操作系统的初始公告<!--(pandoc) {#pandoc_initial-announcement}(pandoc)-->
 
 这是 GNU 工程的原始通告，由理查德·斯托曼（Richard Stallman）于 1983 年 9 月 27 日发表。
 

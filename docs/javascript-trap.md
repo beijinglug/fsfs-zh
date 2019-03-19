@@ -1,4 +1,4 @@
-## JavaScript 陷阱
+## JavaScript 陷阱<!--(pandoc) {#pandoc_javascript-trap}(pandoc)-->
 
 > Copyright © 2009–2013 Richard Stallman 
 

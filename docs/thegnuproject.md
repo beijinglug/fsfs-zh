@@ -1,4 +1,4 @@
-## GNU 工程
+## GNU 工程<!--(pandoc) {#pandoc_thegnuproject}(pandoc)-->
 
 > Copyright © 1998, 2001, 2002, 2005–2008, 2010 Richard Stallman。本文最初以标题“GNU 操作系统和自由软件运动”发表于由 Chris DiBona 等人编写的《开源软件文集：开源革命之声》（Sebastopol: O’Reilly Media, 1999）[^thegnu-0]。尽管我不是 “开放源码”的支持者，我还是贡献了这篇文章，这样自由软件运动的思想不会在那本书中完全失声。
 
@@ -36,7 +36,7 @@
 
 如果我们拒绝接受这些假设，并基于普通常识下的道德把用户放在首位来判断这些问题，我们会得到非常不同的结论。计算机用户应当有自由去修改程序以适应他们的需求，并自由地共享软件，因为帮助别人是社会的根基。
 
-篇幅所限，结论背后的展开叙述不在此详述，读者请参阅文章《为何软件不应有主》于 <http://gnu.org/philosophy/why-free.html>，以及《如今自由软件更加重要》。
+篇幅所限，结论背后的展开叙述不在此详述，读者请参阅文章《为何软件不应有主》于 <http://gnu.org/philosophy/why-free.html>，以及[《如今自由软件更加重要》](free-software-even-more-important.md)。
 
 ### 严酷的道德抉择 
 
@@ -336,11 +336,11 @@ Harmony 是一个兼容的替代库，设计为使得无需 Qt 运行 KDE 软件
 
 [^thegnu-1]: 一部分大众传媒混淆地将“黑客”一词用来表示“安全破坏者”。我们作为黑客拒绝认可这个含义，并继续用这个词表示“那些喜爱编程、享受有趣的才智，或两者兼备的人。”见拙作 “On Hacking”，于 <http://stallman.org/articles/on-hacking.html>。 
 
-[^thegnu-2]: 参见《应避免使用（或慎用）的词语》一文查看“盗版”一词的更多错误用法。
+[^thegnu-2]: 参见[《应避免使用（或慎用）的词语》一文的“盗版（Piracy）”一节](words-to-avoid.md#piracy)查看“盗版”一词的更多错误用法。
 
 [^thegnu-3]: 作为无神论者，我不追随任何宗教领袖，但我有时发现我钦佩他们说过的一些话。 
 
-[^thegnu-4]: 参见《自由与非自由软件的分类》查找更多公有领域软件的相关内容。 
+[^thegnu-4]: 参见[《自由与非自由软件的分类》中的更多公有领域软件的相关内容](categories.md#public-domain-software)。
 
 [^thegnu-5]: 在 1984 或 1985 年，Don Hopkins（一位非常有想象力的朋友）寄给我一封信。在信封上他写下了不少有趣的话，包括这句：“Copyleft——逆转一切权利。”我用 “copyleft” 一词来命名我正在开发的发行理念。（本文采用了贾星克、李极光发表在云南师范大学学报的《论自由软件运动》一文中对 copyleft 一词的译法，即“左版”。——译者注。）
 
@@ -354,10 +354,10 @@ Harmony 是一个兼容的替代库，设计为使得无需 Qt 运行 KDE 软件
 
 [^thegnu-10]: 这个许可证现在叫 GNU Lesser General Public License（GNU 宽通用公共许可证），以免给出所有库都该使用它的印象。更多信息见《为什么你不应该在下一个函数库中使用宽 GPL》于 <http://www.gnu.org/philosophy/why-not-lgpl.html>。
 
-[^thegnu-11]: Eric Raymond 是开源的主要拥护者；参见《为什么说开源漏掉了自由软件的要点》。 
+[^thegnu-11]: Eric Raymond 是开源的主要拥护者；参见[《为什么说开源漏掉了自由软件的要点》](open-source-misses-the-point.md)。 
 
 [^thegnu-12]: 埃里克`雷蒙德（Eric. S. Raymond），《大教堂与集市》；此书已由机械工业出版社于 2014 年出版，卫剑钒译。
 
-[^thegnu-13]: 更多信息见 “GNU/Linux FAQ”，于 <http://gnu.org/gnu/gnu-linux-faq.html>, 和《Linux 和 GNU 操作系统》。
+[^thegnu-13]: 更多信息见 “GNU/Linux FAQ”，于 <http://gnu.org/gnu/gnu-linux-faq.html>, 和[《Linux 和 GNU 操作系统》](linux-and-gnu.md)。
 
 [^thegnu-14]: 参见 <http://libreboot.org>。

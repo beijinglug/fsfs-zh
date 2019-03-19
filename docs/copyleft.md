@@ -1,4 +1,4 @@
-## 什么是 Copyleft？ 
+## 什么是 Copyleft？ <!--(pandoc) {#pandoc_copyleft}(pandoc)-->
 
 > Copyright © 1996–2009, 2013 自由软件基金会。此文最初于 1996 年发表在 <http://gnu.org>。
 
@@ -36,7 +36,7 @@ GNU 自由文档许可证（GNU FDL）是 Copyleft 的一种形式，用于在�
 
 如果你想用 GNU GPL 或 GNU LGPL 来 copyleft 你的程序，请查看许可证介绍页面的建议 <http://gnu.org/copyleft/gpl-howto.html>。作为建议，请注意你必须使用我们许可证的全文。每篇许可证都是不可分割的整体，因此部分复制是不允许的。
 
-如果你用 GNU FDL 来 copyleft 你的手册，请查看 FDL 文本结尾的说明和 GFDL 说明页面 <http://gnu.org/copyleft/fdl-howto.html>。同样，部分复制是不允许的。
+如果你用 GNU FDL 来 copyleft 你的手册，请查看 [FDL 文本结尾的说明](fdl.md#_1)和 GFDL 说明页面 <http://gnu.org/copyleft/fdl-howto.html>。同样，部分复制是不允许的。
 
 使用反转的字母 C 外套一个圆圈作为版权符号是一个法律错误。Copyleft 是基于合法的版权，所以作品应该有版权声明。版权声明要求要么使用版权符号（园圈里的字母 C），或使用单词“Copyright”（版权所有）。
 

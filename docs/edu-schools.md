@@ -1,4 +1,4 @@
-## 为什么学校应该只使用自由软件
+## 为什么学校应该只使用自由软件<!--(pandoc) {#pandoc_edu-schools}(pandoc)-->
 
 > Copyright © 2003, 2009, 2014 Richard Stallman 此文最早于 2003 年发布在 <http://gnu.org>。
 

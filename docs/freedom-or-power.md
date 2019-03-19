@@ -1,4 +1,4 @@
-## 自由还是权力？
+## 自由还是权力？<!--(pandoc) {#pandoc_freedom-or-power}(pandoc)-->
 
 > Copyright © 2001, 2009 Bradley M. Kuhn 和 Richard Stallman 本文最初于 2001 年发表于 <http://gnu.org>。
 
@@ -26,9 +26,9 @@
 
 随着越来越多的人意识到代码就是法律，并且开始感受到他们也应当拥有自由，他们将会看到我们所主张的自由是多么重要，如同越来越多的用户开始感激我们所开发的自由软件带来的实际价值。
 
- [^free-or-power-1]: 关于自由软件的评价标准可参见《什么是自由软件？》一文。
+ [^free-or-power-1]: 关于自由软件的评价标准可参见[《什么是自由软件？》](free-sw.md)一文。
 
  [^free-or-power-2]:  William J. Mitchell, *City of Bits: Space, Place, and the Infobahn* (Cambridge, Mass.: MIT Press, 1995), p. 111, as quoted by Lawrence Lessig in *Code and Other Laws of Cyberspace, Version 2.0* (New York, NY: Basic Books, 2006), p. 5. 
 
- [^free-or-power-3]: 参见《为什么使用 Copyleft？》获得更多信息。 
+ [^free-or-power-3]: 参见[《为什么使用 Copyleft？》](why-copyleft.md)获得更多信息。 
 

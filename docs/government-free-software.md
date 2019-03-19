@@ -1,4 +1,4 @@
-## 政府推动自由软件的措施
+## 政府推动自由软件的措施<!--(pandoc) {#pandoc_government-free-software}(pandoc)-->
 
 > Copyright © 2011–2014 自由软件基金会，此文于 2011 年首次发表在 <http://gnu.org>。
 
@@ -104,10 +104,10 @@
 
 技术中立是指国家不应该在技术选型时强加干涉。无论这是不是有效的原则或是争议，这仅仅只涉及到技术问题。而这里提出来的措施解决的是道义、社会和政治问题，因此超出了*技术*中立的范畴[^gov-4]。除非他们觉得其政府需要在主权和公民自由上保持“中立”。
 
-[^gov-1]: 参见《什么是自由软件？》一文了解自由软件的定义
+[^gov-1]: 参见[《什么是自由软件？》](free-sw.md)一文了解自由软件的定义
 
-[^gov-2]: 参见反 DRM 活动网站 [http://defectivebydesign.org/what_is_drm](http://defectivebydesign.org/what_is_drm) 以及《应避免使用（或慎用）的词语》一文中有关 DRM 的章节了解相关问题。
+[^gov-2]: 参见反 DRM 活动网站 [http://defectivebydesign.org/what_is_drm](http://defectivebydesign.org/what_is_drm) 以及[《应避免使用（或慎用）的词语》一文中有关 DRM 的章节](words-to-avoid.md#digital-rights-management)了解相关问题。
 
-[^gov-3]: 参见《服务器真正是在为谁服务？》一文的相关章节，了解 SaaSS。
+[^gov-3]: 参见[《服务器真正是在为谁服务？》](who-does-that-server-really-serve.md)一文的相关章节，了解 SaaSS。
 
 [^gov-4]: 参见我的文章“Technological Neutrality and Free Software” [http://www.gnu.org/philosophy/technological-neutrality.html](http://www.gnu.org/philosophy/technological-neutrality.html)

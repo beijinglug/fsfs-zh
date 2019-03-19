@@ -1,4 +1,4 @@
-## 电子书的威胁
+## 电子书的威胁<!--(pandoc) {#pandoc_the-danger-of-ebooks}(pandoc)-->
 
 > Copyright © 2011, 2014 Richard Stallman
 
@@ -50,7 +50,7 @@
 加入这场斗争，在这里签名：<http://DefectiveByDesign.org/ebooks.html>。
 
 
-[^ebook1]: 参见《阅读的权利》一文以获得更多信息。
+[^ebook1]: 参见[《阅读的权利》](right-to-read.md)一文以获得更多信息。
 
-[^ebook2]: 参见《计算机网络时代的版权与社区之争》一文和我在 2012 年致巴西参议院主席 Senator José Sarney 的公开信，位于 <https://stallman.org/articles/internet-sharing-license.en.html>，以获得更多信息。
+[^ebook2]: 参见[《计算机网络时代的版权与社区之争》](copyright-vs-community.md)一文和我在 2012 年致巴西参议院主席 Senator José Sarney 的公开信，位于 <https://stallman.org/articles/internet-sharing-license.en.html>，以获得更多信息。
 

@@ -1,4 +1,4 @@
-## 您说过“知识产权”吗？这是一种迷惑的幻景
+## 您说过“知识产权”吗？这是一种迷惑的幻景<!--(pandoc) {#pandoc_not-ipr}(pandoc)-->
 
 > Copyright © 2004, 2006, 2007, 2009, 2010, 2013, 2015 Richard Stallman。本文创作于 2004 年并且发表在 Policy Futures in Education, vol. 4, n. 4, pp. 334–336, 2006。
 

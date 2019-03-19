@@ -1,6 +1,6 @@
 # 珍视社区和你的自由
 
-## 避免破坏性的妥协
+## 避免破坏性的妥协<!--(pandoc) {#pandoc_compromise}(pandoc)-->
 
 > Copyright © 2008, 2009, 2014, 2015 理查德·斯托曼（Richard Stallman）。本文最早于 2008 年发表于 <http://gnu.org>
 
@@ -53,7 +53,7 @@ GNU 宽通用公共许可证（GNU LGPL）的目的在于一种妥协，我们�
 
  [^compromise-1]: 您可以在此通过加入会员的方式支持自由软件基金会：<http://my.fsf.org/join>. 
 
- [^compromise-2]: 这里的“自由”应理解为 freedom 中的自由，参见《什么是自由软件？》一文以获得自由软件的完整定义。 
+ [^compromise-2]: 这里的“自由”应理解为 freedom 中的自由，参见[《什么是自由软件？》](free-sw.md)一文以获得自由软件的完整定义。 
 
  [^compromise-3]: 参见自由软件基金会执行董事 John Sullivan 于 2008 年发表的文章：“The Last Mile Is Always the Hardest,”，位于 [http://fsf.org/bulletin/2008/spring/the-last-mile-is-always-the-hardest](http://fsf.org/bulletin/2008/spring/the-last-mile-is-always-the-hardest)，所提及的他本人对于这一问题的看法。 
 

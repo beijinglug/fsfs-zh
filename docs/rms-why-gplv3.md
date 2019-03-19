@@ -1,4 +1,4 @@
-## 为何升级到 GPLv3
+## 为何升级到 GPLv3<!--(pandoc) {#pandoc_rms-why-gplv3}(pandoc)-->
 
 > Copyright © 2007, 2009 理查德·斯托曼（Richard Stallman）本文首发于 2007 年在 <http://gnu.org>。
 

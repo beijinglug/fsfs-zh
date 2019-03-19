@@ -1,6 +1,6 @@
 # 软件专利：对程序员的威胁
 
-## 软件专利和文学专利
+## 软件专利和文学专利<!--(pandoc) {#pandoc_software-literary-patents}(pandoc)-->
 
 >Copyright © 2005, 2007, 2008 Richard Stallman 本文最初于 2005 年 6 月 23 日以标题“Patent Absurdity”发表于英国卫报，并且针对当时被提出的“欧洲软件专利指导意见”。
 

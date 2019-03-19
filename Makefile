@@ -5,12 +5,13 @@ METADATA = ebook/metadata.xml
 TOC = --toc --toc-depth=2 --epub-chapter-level=2 
 COVER_IMAGE = docs/cover.png
 LATEX_CLASS = book
-PANDOC_TEX = pandoc --from="markdown_mmd+link_attributes+backtick_code_blocks+fenced_code_attributes+raw_tex+latex_macros" $(TOC) --pdf-engine=xelatex -V documentclass=book
+PANDOC_TEX = pandoc --from="markdown_mmd+link_attributes+backtick_code_blocks+fenced_code_attributes+raw_tex+latex_macros+header_attributes" $(TOC) --pdf-engine=xelatex -V documentclass=book
 TEMPLATE=./pdf
 PREFACES =  docs/foreword-trans.md \
 			docs/foreword-v3.md  \
 			docs/foreword-v1.md  \
 			docs/preface-v3.md  
+PREFACES_PANDOC = $(shell echo $(PREFACES) | sed 's/.md/_pandoc.md/g')
 PREFACES_PDF = $(shell echo $(PREFACES) | sed 's/.md/_pdf.md/g')
 CHAPTERS =	docs/free-sw.md \
 			docs/thegnuproject.md  \
@@ -60,10 +61,12 @@ CHAPTERS =	docs/free-sw.md \
 			docs/freedom-or-power.md  \
 			docs/imperfection-isnt-oppression.md  \
 			docs/surveillance-vs-democracy.md  
+CHAPTERS_PANDOC = $(shell echo $(CHAPTERS) | sed 's/.md/_pandoc.md/g')
 CHAPTERS_PDF = $(shell echo $(CHAPTERS) | sed 's/.md/_pdf.md/g')
 APPENDIXS =	docs/appendix-a.md \
 			docs/appendix-b.md \
 			docs/appendix-c.md
+APPENDIXS_PANDOC = $(shell echo $(APPENDIXS) | sed 's/.md/_pandoc.md/g')
 APPENDIXS_PDF = $(shell echo $(APPENDIXS) | sed 's/.md/_pdf.md/g')
 PDF_IMG = category.pdf code-zh.pdf song-book-jutta-scrunch-crop-zh.pdf
 
@@ -76,7 +79,7 @@ clean:
 		-rm $(PDF_IMG)
 		-rm -r site
 		-rm $(BOOKNAME).*
-		-rm $(PREFACES_PDF) $(CHAPTERS_PDF) $(APPENDIXS_PDF) 
+		-rm $(PREFACES_PDF) $(CHAPTERS_PDF) $(APPENDIXS_PDF) $(PREFACES_PANDOC) $(CHAPTERS_PANDOC) $(APPENDIXS_PANDOC)
 
 epub: $(BOOKNAME).epub
 
@@ -86,21 +89,27 @@ pdf: $(BOOKNAME).pdf
 
 odf: $(BOOKNAME).odt
 
-$(BOOKNAME).epub: $(TITLE) $(PREFACES) $(CHAPTERS) $(APPENDIXS) #$(SVG_IMG)
+$(BOOKNAME).epub: $(TITLE) $(PREFACES_PANDOC) $(CHAPTERS_PANDOC) $(APPENDIXS_PANDOC) 
 	cp docs/*.svg .
 	pandoc $(TOC) -t epub3 --epub-metadata=$(METADATA)  --epub-cover-image=$(COVER_IMAGE) -o $@ $^
 
-$(BOOKNAME).html:  $(PREFACES) $(CHAPTERS) $(APPENDIXS)
+$(BOOKNAME).html:  $(PREFACES_PANDOC) $(CHAPTERS_PANDOC) $(APPENDIXS_PANDOC)
 	pandoc $(TOC) --standalone --to=html5 -o $@ $^ 
 	mkdocs build --clean
 
 %.pdf: docs/%.svg
 	rsvg-convert -f pdf -o $@ $<
 
-$(PREFACES_PDF) $(CHAPTERS_PDF) $(APPENDIXS_PDF): docs/%_pdf.md : docs/%.md
+$(PREFACES_PANDOC) $(CHAPTERS_PANDOC) $(APPENDIXS_PANDOC): docs/%_pandoc.md : docs/%.md
 	cp $< $@
+	echo Replacing...
+	@sed -i "s/<!--(pandoc)//g;s/(pandoc)-->//g;s/(\\([a-zA-Z0-9\\-]*\\)\\.md)/(#pandoc_\1)<!--(pdf) \\\\pageto{pandoc_\1} (pdf)-->/g;s/(\\([a-zA-Z0-9\\-]*\\)\\.md#\\([a-zA-Z0-9\\-]*\\))/(#pandoc_\1_\2)<!--(pdf) \\\\pageto{pandoc_\1_\2} (pdf)-->/g" $@
+
+$(PREFACES_PDF) $(CHAPTERS_PDF) $(APPENDIXS_PDF): docs/%_pdf.md : docs/%_pandoc.md
+	cp $< $@
+	echo Replacing...
 #	编译时把<!--(pdf)和(pdf)-->去掉，把<!--(pdf-newline)--><br>替换成\newline{}，将svg替换成pdf
-	sed -i 's/<!--(pdf)//g;s/(pdf)-->//g;s/.svg)/.pdf)/g;s/<!--(pdf-newline)--><br>/\\newline{}/g' $@
+	@sed -i 's/<!--(pdf)//g;s/(pdf)-->//g;s/.svg)/.pdf)/g;s/<!--(pdf-newline)--><br>/\\newline{}/g' $@
 
 
 $(BOOKNAME).pdf: $(TITLE)  $(PREFACES_PDF) $(CHAPTERS_PDF) $(APPENDIXS_PDF) $(PDF_IMG)
@@ -123,7 +132,7 @@ define pdfgen
 	@echo "Done!"
 endef
 
-$(BOOKNAME).odt:  $(PREFACES) $(CHAPTERS) $(APPENDIXS) 
+$(BOOKNAME).odt:  $(PREFACES_PANDOC) $(CHAPTERS_PANDOC) $(APPENDIXS_PANDOC) 
 	pandoc -t odt -o $@ $^ #$(shell echo $(SVG_IMG) | sed 's/docs\///g' )
 
 
