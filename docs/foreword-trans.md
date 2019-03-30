@@ -1,7 +1,7 @@
 # 译者序
 
-> Copyright © 2016 北京 GNU/Linux 用户组
-> 
+> Copyright © 2019 北京 GNU/Linux 用户组 
+
 > <https://beijinglug.club>
 
 《自由软件，自由社会：理查德·斯托曼选集》（Free Software, Free Society: Selected Essays of Richard M. Stallman）是一本指导了无数人的书籍，它将理查德·斯托曼的自由软件哲学和思想，阐述得淋漓尽致，此书第一版首发于 2002 年。也是在 2002 年，北京 GNU/Linux 用户组（BLUG）成立了，经过十多年的发展壮大，已经成为中国推广自由软件的先锋力量。2015 年，《自由软件，自由社会》第三版发布。到同年冬天，BLUG 成员中已经有很大一部分成为了自由软件基金会（FSF）和电子前哨基金会（EFF）成员。2016 年春，北京 GNU/Linux 用户组正式成为中国第一个被 GNU 工程认可的 GNU 用户组（GNU User Group）[^trans-1]。
