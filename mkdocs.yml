@@ -1,6 +1,6 @@
-site_name: 自由软件，自由社会（第三版）
-site_description: Free Software, Free Society, 3rd editon, Chinese Translation
-site_author: Beijing GNU/Linux User Group
+site_name: '自由软件，自由社会（第三版）'
+site_description: 'Free Software, Free Society, 3rd editon, Chinese Translation'
+site_author: 'Beijing GNU/Linux User Group'
 
 repo_url: https://github.com/beijinglug/fsfs-zh/
 
@@ -73,7 +73,7 @@ pages:
 
 markdown_extensions:
     - toc:
-        permalink: 
+        permalink: "#"
     - admonition:
     - footnotes
 
