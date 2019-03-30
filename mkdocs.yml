@@ -1,6 +1,13 @@
-site_name: My Docs
+site_name: '自由软件，自由社会（第三版）'
+site_description: 'Free Software, Free Society, 3rd editon, Chinese Translation'
+site_author: 'Beijing GNU/Linux User Group'
 
-nav:
+repo_url: https://github.com/beijinglug/fsfs-zh/
+
+theme: readthedocs
+
+pages:
+- Home: index.md
 - 译者序: foreword-trans.md
 - 第三版序言: foreword-v3.md
 - 第一版序言: foreword-v1.md
