@@ -73,7 +73,7 @@ pages:
 
 markdown_extensions:
     - toc:
-        permalink: &para;
+        permalink: "#"
     - admonition:
     - footnotes
 
