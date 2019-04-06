@@ -20,8 +20,8 @@
 
 \ 
 
-雅各·阿贝尔鲍姆[^f3-1]
+\hfill 雅各·阿贝尔鲍姆[^f3-1]
 
-JACOB APPELBAUM
+\hfill JACOB APPELBAUM
 
 [^f3-1]: 雅各·阿贝尔鲍姆（Jacob Appelbaum），美国独立记者，计算机安全研究员，艺术家和黑客（Hacker）。受雇于华盛顿大学，曾是 Tor 项目的核心开发者。——译者注
