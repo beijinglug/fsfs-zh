@@ -20,6 +20,6 @@
 
 \ 
 
-理查德·斯托曼
+\hfill 理查德·斯托曼
 
-RICHARD STALLMAN
+\hfill RICHARD STALLMAN
