@@ -20,6 +20,6 @@
 
 \ 
 
-\hfill 理查德·斯托曼
+<!--(pdf)\hfill(pdf)--> 理查德·斯托曼
 
-\hfill RICHARD STALLMAN
+<!--(pdf)\hfill(pdf)--> RICHARD STALLMAN
