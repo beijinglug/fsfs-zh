@@ -75,11 +75,12 @@ all: book html
 book: epub pdf odf
 
 clean:
-		-rm *.tex *.aux *.fot *.toc *.log *.out
-		-rm $(PDF_IMG)
-		-rm -r site
-		-rm $(BOOKNAME).*
-		-rm $(PREFACES_PDF) $(CHAPTERS_PDF) $(APPENDIXS_PDF) $(PREFACES_PANDOC) $(CHAPTERS_PANDOC) $(APPENDIXS_PANDOC)
+	rm $(PDF_IMG) 
+	rm $(PREFACES_PDF) $(CHAPTERS_PDF) $(APPENDIXS_PDF) $(PREFACES_PANDOC) $(CHAPTERS_PANDOC) $(APPENDIXS_PANDOC)
+	rm $(BOOKNAME).*
+	rm code* category* song* cover*
+	rm *.tex
+	rm -r site
 
 epub: $(BOOKNAME).epub
 
@@ -116,21 +117,11 @@ $(BOOKNAME).pdf: $(TITLE)  $(PREFACES_PDF) $(CHAPTERS_PDF) $(APPENDIXS_PDF) $(PD
 	$(PANDOC_TEX) ${PREFACES_PDF} -o preface.tex
 	$(PANDOC_TEX) ${CHAPTERS_PDF} -o chapters.tex
 	$(PANDOC_TEX) ${APPENDIXS_PDF} -o appendix.tex
-	${call pdfgen}
-
-define pdfgen	
 	cp docs/*.png .
-	cp ${TEMPLATE}/template.tex fsfs-zh.tex
-
-	xelatex fsfs-zh.tex
-	xelatex fsfs-zh.tex
-	xelatex fsfs-zh.tex
-	
+	pandoc --pdf-engine=xelatex *.tex -o $@ --template $(TEMPLATE)/template.tex
 	@echo "PDF Compiled!"
-	
 	@echo
 	@echo "Done!"
-endef
 
 $(BOOKNAME).odt:  $(PREFACES_PANDOC) $(CHAPTERS_PANDOC) $(APPENDIXS_PANDOC) 
 	pandoc -t odt -o $@ $^ #$(shell echo $(SVG_IMG) | sed 's/docs\///g' )
