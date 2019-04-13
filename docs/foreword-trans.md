@@ -26,9 +26,9 @@
 
 \   
 
-<!--(pdf)\hfill(pdf)--> 北京 GNU/Linux 用户组（<https://beijinglug.club>） 
+<!--(pdf)\hfill(pdf)--> <!--(pdf)\iffalse (pdf)--><p align="right"><!--(pdf)\fi (pdf)-->北京 GNU/Linux 用户组（<https://beijinglug.club>）<!--(pdf)\iffalse (pdf)--></p><!--(pdf)\fi(pdf)-->
 
-<!--(pdf)\hfill(pdf)--> 2019 年 4 月于北京
+<!--(pdf)\hfill(pdf)--> <!--(pdf)\iffalse (pdf)--><p align="right"><!--(pdf)\fi (pdf)-->2019 年 4 月于北京<!--(pdf)\iffalse (pdf)--></p><!--(pdf)\fi(pdf)-->
 
 [^trans-1]: 相关信息可见 <https://savannah.gnu.org/projects/blug>
 
