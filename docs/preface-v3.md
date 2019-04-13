@@ -20,6 +20,6 @@
 
 \ 
 
-<!--(pdf)\hfill(pdf)--> <!--(pdf)\iffalse (pdf)--><p align="right"><!--(pdf)\fi (pdf)-->理查德·斯托曼<!--(pdf)\iffalse (pdf)--></p><!--(pdf)\fi(pdf)-->
+<!--(pdf)\hfill(pdf)--> 理查德·斯托曼
 
-<!--(pdf)\hfill(pdf)--> <!--(pdf)\iffalse (pdf)--><p align="right"><!--(pdf)\fi (pdf)-->RICHARD STALLMAN<!--(pdf)\iffalse (pdf)--></p><!--(pdf)\fi(pdf)-->
+<!--(pdf)\hfill(pdf)--> RICHARD STALLMAN
