@@ -92,7 +92,7 @@ SaaSS 并不意味着运行在服务器上的程序是非自由的（虽然大�
 
 [^fsemi-2]: 自由软件的完整定义可参见[《什么是自由软件？》](free-sw.md)一文。
 
-[^fsemi-3]: 参见[《自由与非自由软件的分类》](categories.md)一文中关于专有软件的脚注 1。
+[^fsemi-3]: 本文的第一个脚注。
 
 [^fsemi-4]: 参见 Marcelo Rinesi 于 2015 年 8 月 6 日发表的文章“The Telemarketer Singularity”<http://ieet.org/index.php/IEET/more/rinesi20150806>
 
