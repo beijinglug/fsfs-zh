@@ -283,7 +283,7 @@ Version 1.3, 3 November 2008
     called “Opaque”.
 
     Examples of suitable formats for Transparent copies include plain
-    ASCII without markup, Texinfo input format, <!--(pdf)\LaTeX\iffalse (pdf)-->LaTeX<!--(pdf) \fi(pdf)--> input format, SGML
+    ASCII without markup, Texinfo input format, <!--(pdf)\LaTeX\ \iffalse (pdf)-->LaTeX<!--(pdf) \fi(pdf)--> input format, SGML
     or XML using a publicly available DTD, and standard-conforming
     simple HTML, PostScript or PDF designed for human modification.
     Examples of transparent image formats include PNG, XCF and JPG.
