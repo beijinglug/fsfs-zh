@@ -1,20 +1,20 @@
 @font-face
 {
-font-family:zc_wenyi;
-src:url("zcool-wenyi.ttf");
+font-family:whz_sj;
+src:url("whz-songjian.ttf");
 
 }
 
 @font-face
 {
-font-family:zc_xiaowei;
-src:url("zcool-xiaowei.otf");
+font-family:whz_ty;
+src:url("whz-teyuan.ttf");
 
 }
 
 .L
 {
-font-family:zc_wenyi;
+font-family:whz_sj;
 font-size:18;
 color:#00688B;
 font-style:oblique;
@@ -22,7 +22,7 @@ font-style:oblique;
 
 .M
 {
-font-family:zc_wenyi;
+font-family:whz_sj;
 font-size:24;
 color:#000080;
 
@@ -30,7 +30,7 @@ color:#000080;
 
 .B
 {
-font-family:zc_wenyi;
+font-family:whz_sj;
 font-size:36;
 color:Orange;
 font-weight:bold;
@@ -39,7 +39,7 @@ font-weight:bold;
 
 body.BL
 {
-font-family:zc_wenyi;
+font-family:whz_sj;
 font-size:18;
 color:black;
 background-color:#F0F8FF;
@@ -47,7 +47,7 @@ background-color:#F0F8FF;
 
 body.BM
 {
-font-family:zc_wenyi;
+font-family:whz_sj;
 font-size:24;
 color:black;
 background-color:#F0F8FF;
@@ -55,7 +55,7 @@ background-color:#F0F8FF;
 
 body.BB
 {
-font-family:zc_wenyi;
+font-family:whz_sj;
 font-size:36;
 color:black;
 background-color:#F0F8FF;
@@ -64,6 +64,6 @@ background-color:#F0F8FF;
 table,tr,th,td{
 	font-size:27;
 	color:orange;
-	font-family:zc_xiaowei;
+	font-family:whz_ty;
 	background-color:cyan;
 }
