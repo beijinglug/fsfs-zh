@@ -1,5 +1,4 @@
-<link href=css/fsfszh.css rel=stylesheet type=text/css>
-<span class=M>
+
 [![Build Status](https://travis-ci.org/beijinglug/fsfs-zh.svg?branch=master)](https://travis-ci.org/beijinglug/fsfs-zh)
 [![GitHub release](https://img.shields.io/github/release/beijinglug/fsfs-zh.svg)](https://github.com/beijinglug/fsfs-zh/releases)
 [![Github All Releases](https://img.shields.io/github/downloads/beijinglug/fsfs-zh/total.svg)](https://github.com/beijinglug/fsfs-zh/releases)
@@ -47,5 +46,3 @@ Free Software, Free Society v3 Chinese Translation
 --------
 
 GNU FDL 1.3 （GNU 自由文档许可证）
-
-</span>
