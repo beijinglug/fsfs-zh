@@ -75,12 +75,12 @@ all: book html
 book: epub pdf odf
 
 clean:
-	rm $(PDF_IMG) 
-	rm $(PREFACES_PDF) $(CHAPTERS_PDF) $(APPENDIXS_PDF) $(PREFACES_PANDOC) $(CHAPTERS_PANDOC) $(APPENDIXS_PANDOC)
-	rm $(BOOKNAME).*
-	rm code* category* song* cover*
-	rm *.tex
-	rm -r site
+	-rm $(PDF_IMG) 
+	-rm $(PREFACES_PDF) $(CHAPTERS_PDF) $(APPENDIXS_PDF) $(PREFACES_PANDOC) $(CHAPTERS_PANDOC) $(APPENDIXS_PANDOC)
+	-rm $(BOOKNAME).*
+	-rm code* category* song* cover*
+	-rm *.tex
+	-rm -r site
 
 epub: $(BOOKNAME).epub
 
