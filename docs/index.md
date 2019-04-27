@@ -36,7 +36,7 @@
 - [第三版序言](foreword-v3.md)
 - [第一版序言](foreword-v1.md)
 - [前言](preface-v3.md)
-- 第一部分：GNU 计划和自由软件
+- 第一部分：GNU 工程和自由软件
     - [什么是自由软件？](free-sw.md)
     - [GNU 工程](thegnuproject.md)
     - [GNU 操作系统的初始公告](initial-announcement.md)
