@@ -1,20 +1,20 @@
 @font-face
 {
-font-family:whz_sj;
-src:url("whz-songjian.ttf");
+font-family:wqy-microhei;
+src:url("wqy-microhei.ttc");
 
 }
 
 @font-face
 {
-font-family:whz_ty;
-src:url("whz-teyuan.ttf");
+font-family:wqy-zhenghei;
+src:url("wqy-zenhei.ttc");
 
 }
 
 .L
 {
-font-family:whz_sj;
+font-family:wqy-zhenghei;
 font-size:18;
 color:#00688B;
 font-style:oblique;
@@ -22,7 +22,7 @@ font-style:oblique;
 
 .M
 {
-font-family:whz_sj;
+font-family:wqy-microhei;
 font-size:24;
 color:#000080;
 
@@ -30,7 +30,7 @@ color:#000080;
 
 .B
 {
-font-family:whz_sj;
+font-family:wqy-microhei;
 font-size:36;
 color:Orange;
 font-weight:bold;
@@ -39,7 +39,7 @@ font-weight:bold;
 
 body.BL
 {
-font-family:whz_sj;
+font-family:wqy-zenhei;
 font-size:18;
 color:black;
 background-color:#F0F8FF;
@@ -47,7 +47,7 @@ background-color:#F0F8FF;
 
 body.BM
 {
-font-family:whz_sj;
+font-family:wqy-microhei;
 font-size:24;
 color:black;
 background-color:#F0F8FF;
@@ -55,15 +55,18 @@ background-color:#F0F8FF;
 
 body.BB
 {
-font-family:whz_sj;
+font-family:wqy-microhei;
 font-size:36;
 color:black;
 background-color:#F0F8FF;
 }
 
 table,tr,th,td{
-	font-size:27;
+	font-size:24;
 	color:orange;
-	font-family:whz_ty;
+	font-family:wqy-zhenghei;
 	background-color:cyan;
+	border-style:groove;
+	border-color:darkcyan;
+	border-width:6px;
 }
