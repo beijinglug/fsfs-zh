@@ -146,7 +146,7 @@ FSF 遵循这样的规则：我们不能在自己的计算机上安装任何私�
 
  [^cate-1]: 参见[《Linux 和 GNU 操作系统》](linux-and-gnu.md)一文以获得更多信息。 
 
- [^cate-2]: 参见 “自由软件更值得信赖！” 一文，位于 <http://gnu.org/software/reliability.html>。 
+ [^cate-2]: 参见《自由软件更值得信赖！》一文，位于 <http://gnu.org/software/reliability.html>。 
 
  [^cate-3]: 参见[《为什么说开源漏掉了自由软件的要点》](open-source-misses-the-point.md)一文。 
 
