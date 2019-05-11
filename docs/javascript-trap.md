@@ -99,7 +99,7 @@ tion 7, you may distribute non-source (e.g.,minimized
 or compacted) forms of that code without the copy of 
 the GNU GPL normally required by section 4, provided 
 you include this license notice and a URL through which 
-recipients can acc ess the Corresponding Source.
+recipients can access the Corresponding Source.
 ```
 
 感谢 Jaffar Rumith 提醒我关注这一问题。
