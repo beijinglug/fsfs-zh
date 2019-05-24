@@ -74,7 +74,7 @@
 
 如果你的作品不是为某个特定的软件项目而创作的，或者使用和项目相同的许可证不合适，那么我们只推荐你选择一个适合你作品的 copyleft 许可证。有一些在我们的许可证列表中列出[^recon-8]。如果没有许可证看起来合适的，创作共用署名-相同方式共享许可证（CC-BY-SA[^recon-9]）是一个可以用于很多不同种类作品的 copyleft 许可证。
 
- [^recon-1]: 参见我们对数字限制管理 Digital Restrictions Management 的斗争活动 [DefectiveByDesign.org](DefectiveByDesign.org)。
+ [^recon-1]: 参见我们对数字限制管理 Digital Restrictions Management 的斗争活动 [DefectiveByDesign.org](https://DefectiveByDesign.org)。
 
  [^recon-2]: 参见 <http://gnu.org/licenses/gpl-faq.html>.
 
