@@ -30,6 +30,6 @@
 
 如果您不赞同我们所选定的带有讽刺意味的谐音或形近单词，您可以创造您自己所喜好的名字，越多越欢乐。当然，还有其他方式以表达谴责。如果您想要表现得“专业”，您可以采用其他方式将其呈现。它们能够表达您的用意，但需要更多时间和努力，特别是当您不想使用嘲讽的手法时。注意到这一点，您的谴责才不会有所欠缺；不要让关于反对这种“题外话”的压力迫使您未能对您所提到的那些龌龊的东西进行足够的批判，因为这将会起到使其合法化的反效果。
 
-[^swindle-1]: 采取行动反对 iThings，位于 [u.fsf.org/ithings](u.fsf.org/ithings)；反对亚马逊诈骗（Swindle）位于 [u.fsf.org/swindle](u.fsf.org/swindle) 和 [u.fsf.org/ebookslist](u.fsf.org/ebookslist)；以及反对 Windows，位于 [upgradefromwindows.org](upgradefromwindows.org)。
+[^swindle-1]: 采取行动反对 iThings，位于 [u.fsf.org/ithings](https://u.fsf.org/ithings)；反对亚马逊诈骗（Swindle）位于 [u.fsf.org/swindle](https://u.fsf.org/swindle) 和 [u.fsf.org/ebookslist](https://u.fsf.org/ebookslist)；以及反对 Windows，位于 [upgradefromwindows.org](https://upgradefromwindows.org)。
 
 [^swindle-2]: 参见 <https://u.fsf.org/drm> 以获得关于数字限制管理（DRM）的更多信息。

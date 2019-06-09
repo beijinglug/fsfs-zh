@@ -106,7 +106,7 @@ Google Docs 向我们展示要评估单一服务到底可以有多么复杂。�
 
 与此同时，如果一家商业公司邀请您使用它的服务器来进行您自己的计算任务，不要屈服；也不要使用 SaaSS。不要购买或安装所谓的“瘦客户机”，它们只不过是厂商为了使您在其服务器上进行真实工作而提供的低性能计算机，除非您将会在*您自己的*服务器上使用它们。使用一台真实的计算机来工作并且保存您的数据。使用您自己的自由软件副本来进行您自己的计算，这是为了您的自由。
 
- [^server-1]: 请加入我们的运动一起反对 DRM，它位于 [DefectiveByDesign.org](DefectiveByDesign.org)。 
+ [^server-1]: 请加入我们的运动一起反对 DRM，它位于 [DefectiveByDesign.org](https://DefectiveByDesign.org)。 
 
  [^server-2]: 如需获知监控正在通过哪些日益增加的方式在业界蔓延，参见 <http://gnu.org/philosophy/proprietary/proprietary-surveillance.html>。
 
