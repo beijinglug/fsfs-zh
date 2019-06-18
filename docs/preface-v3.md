@@ -20,6 +20,6 @@
 
 <!--(pandoc)\(pandoc)-->  
 
-<!--(pdf)\hfill(pdf)--> <!-- (pdf)--><p align="right"><!--(pdf) -->理查德·斯托曼<!-- (pdf)--></p><!--(pdf) -->
+<!--(pdf)\hfill\ (pdf)--> <!-- (pdf)--><p align="right"><!--(pdf) -->理查德·斯托曼<!-- (pdf)--></p><!--(pdf) -->
 
-<!--(pdf)\hfill(pdf)--> <!-- (pdf)--><p align="right"><!--(pdf) -->RICHARD STALLMAN<!-- (pdf)--></p><!--(pdf) -->
+<!--(pdf)\hfill\ (pdf)--> <!-- (pdf)--><p align="right"><!--(pdf) -->RICHARD STALLMAN<!-- (pdf)--></p><!--(pdf) -->
