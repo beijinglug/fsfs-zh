@@ -24,7 +24,7 @@
 
 本书的翻译依然有不完善之处，我们非常欢迎各界朋友雅正。本书的翻译项目托管在 <https://github.com/beijinglug/fsfs-zh>，您可以直接在那里提交 Issue 或 Pull Request 来帮助我们改正。此处亦附上此书英文原版下载地址 <https://www.gnu.org/doc/fsfs3-hardcover.pdf>，以便对照。
 
-\   
+<!--(pandoc)\(pandoc)-->  
 
 <!--(pdf)\hfill(pdf)--> <!-- (pdf)--><p align="right"><!--(pdf) -->北京 GNU/Linux 用户组（<https://beijinglug.club>）<!-- (pdf)--></p><!--(pdf) -->
 
