@@ -18,7 +18,7 @@
 
 要感谢 Jeanne Rasata 管理此项目，编辑书目，排版文字，并建立目录。还要感谢 Karl Berry 协助解决 Texinfo 技术问题，以及 Kyle Winfree 设计和排版此书的封面。
 
-\ 
+<!--(pandoc)\(pandoc)-->  
 
 <!--(pdf)\hfill(pdf)--> <!-- (pdf)--><p align="right"><!--(pdf) -->理查德·斯托曼<!-- (pdf)--></p><!--(pdf) -->
 
