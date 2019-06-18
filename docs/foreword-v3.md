@@ -20,8 +20,8 @@
 
 \ 
 
-<!--(pdf)\hfill(pdf)--> <!-- (pdf)--><p align="right"><!--(pdf) -->雅各·阿贝尔鲍姆[^f3-1]<!-- (pdf)--></p><!--(pdf) -->
+<!--(pdf)\hfill\ (pdf)--> <!-- (pdf)--><p align="right"><!--(pdf) -->雅各·阿贝尔鲍姆[^f3-1]<!-- (pdf)--></p><!--(pdf) -->
 
-<!--(pdf)\hfill(pdf)--> <!-- (pdf)--><p align="right"><!--(pdf) -->JACOB APPELBAUM<!-- (pdf)--></p><!--(pdf) -->
+<!--(pdf)\hfill\ (pdf)--> <!-- (pdf)--><p align="right"><!--(pdf) -->JACOB APPELBAUM<!-- (pdf)--></p><!--(pdf) -->
 
 [^f3-1]: 雅各·阿贝尔鲍姆（Jacob Appelbaum），美国独立记者，计算机安全研究员，艺术家和黑客（Hacker）。受雇于华盛顿大学，曾是 Tor 项目的核心开发者。——译者注

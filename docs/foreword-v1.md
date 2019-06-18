@@ -46,9 +46,9 @@
 
 \ 
 
-<!--(pdf)\hfill(pdf)--> <!-- (pdf)--><p align="right"><!--(pdf) -->劳伦斯·莱斯格[^f1-1]<!-- (pdf)--></p><!--(pdf) -->
+<!--(pdf)\hfill\ pdf)--> <!-- (pdf)--><p align="right"><!--(pdf) -->劳伦斯·莱斯格[^f1-1]<!-- (pdf)--></p><!--(pdf) -->
 
-<!--(pdf)\hfill(pdf)--> <!-- (pdf)--><p align="right"><!--(pdf) -->LAWRENCE LESSIG<!-- (pdf)--></p><!--(pdf) -->
+<!--(pdf)\hfill\ (pdf)--> <!-- (pdf)--><p align="right"><!--(pdf) -->LAWRENCE LESSIG<!-- (pdf)--></p><!--(pdf) -->
 
 [^f1-1]: 劳伦斯·莱斯格（Lawrence Lessig），是一位美国学者暨学术与政治的行动主义者，哈佛法学院法学教授。他还是知识共享（Creative Commons）发起委员、软件自由法律中心（SFLC）委员、阳光基金会咨询委员与电子前哨基金会（EFF）前任委员。——译者注
 
