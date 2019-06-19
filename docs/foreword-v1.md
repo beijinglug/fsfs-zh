@@ -46,7 +46,7 @@
 
 <!--(pandoc)\(pandoc)-->  
 
-<!--(pdf)\hfill\ pdf)--> <!-- (pdf)--><p align="right"><!--(pdf) -->劳伦斯·莱斯格[^f1-1]<!-- (pdf)--></p><!--(pdf) -->
+<!--(pdf)\hfill\ (pdf)--> <!-- (pdf)--><p align="right"><!--(pdf) -->劳伦斯·莱斯格[^f1-1]<!-- (pdf)--></p><!--(pdf) -->
 
 <!--(pdf)\hfill\ (pdf)--> <!-- (pdf)--><p align="right"><!--(pdf) -->LAWRENCE LESSIG<!-- (pdf)--></p><!--(pdf) -->
 
