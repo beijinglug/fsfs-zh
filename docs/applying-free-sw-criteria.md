@@ -1,4 +1,4 @@
-## 应用自由软件判断准则<!--(pandoc) {#pandoc_applying-free-sw-criteria}(pandoc)--><!--(po)2016-01-01 05:55+0000,2019-06-25 23:02+0800(po)-->
+## 应用自由软件判断准则<!--(pandoc) {#pandoc_applying-free-sw-criteria}(pandoc)--><!--(po)2016-01-01 05:55+0000,2019-06-25 23:02+0800,philosophy/applying-free-sw-criteria.zh-cn.po(po)-->
 
 > Copyright © 2015 理查德·斯托曼（Richard Stallman）
 
