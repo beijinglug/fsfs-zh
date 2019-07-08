@@ -1,4 +1,4 @@
-## 如何为你的作品选择一份许可证<!--(pandoc) {#pandoc_license-recommendations}(pandoc)--> <!--(po)2018-01-01 05:57+0000,2019-06-25 22:51+0800,licenses/license-recommendations.zh-cn.po(po)-->
+## 如何为你的作品选择一份许可证<!--(pandoc) {#pandoc_license-recommendations}(pandoc)--> <!--(po)2018-01-01 05:57+0000,2019-06-25 22:51+0800,licenses/po/license-recommendations.pot(po)-->
 
 > Copyright © 2011, 2013, 2014 自由软件基金会。此文于 2011 年首发于 <http://gnu.org>。
 
