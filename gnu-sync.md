@@ -32,11 +32,11 @@
 #### 版本的标注
 在 fsfs-zh 的 md 文件里，为了方便跟踪英文原文的之后变化，应在 fsfs-zh 的译文中作版本标记。
 
-某一篇译文与 GNU 同步后，应在这篇译文在 fsfs-zh 处的 md 文件的第一行**末尾**加入标记：
+某一篇译文与 GNU 同步后，应在这篇译文在 fsfs-zh 处的 md 文件的第一行**末尾**加入标记：`<!--(po)pot文件创建日期,[po文件修改日期],pot文件在 gnu.org 的路径(po)-->`，其中 po文件修改日期 省略时表示正在进行第一次同步。
 
-如 pot 文件里是 `POT-Creation-Date: 2018-01-01 05:58+0000`，那么加入 md 文件的应该是 `<!--(po)2018-01-01 05:58+0000(po)-->`。
+如 pot 文件 licenses/po/license-recommendations.pot 里是 `POT-Creation-Date: 2018-01-01 05:58+0000`（这个日期是 pot 文件创建日期），那么开始第一次同步时加入 md 文件的应该是 `<!--(po)2018-01-01 05:58+0000,,licenses/po/license-recommendations.pot(po)-->`。
 
-po 文件里 PO-Revision-Date 处的内容由**负责后续跟踪者**写入 md 文件，如 po 文件里是 `PO-Revision-Date: 2019-02-11 13:52+0800`，那么 md 文件中应是`<!--(po)2018-01-01 05:58+0000,2019-02-11 13:52+0800(po)-->`
+po 文件里 PO-Revision-Date 处的内容，即 po 文件修改日期，由**负责后续跟踪者**写入 md 文件，如 po 文件里是 `PO-Revision-Date: 2019-02-11 13:52+0800`，那么 md 文件中应是`<!--(po)2018-01-01 05:58+0000,2019-02-11 13:52+0800,licenses/po/license-recommendations.pot(po)-->`
 ## 参考资料
 《GNU 中文翻译组工作流程(草案)》 <https://www.gnu.org/server/standards/translations/zh-cn/workflow.zh-cn.html>
 
