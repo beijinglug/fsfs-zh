@@ -1,6 +1,8 @@
 # fsfs-zh 中的 hack
 为了同时兼顾 pandoc 和 mkdocs，以便得到多种格式（包括 pandoc 生成的 odt、pdf、html 以及基于 html 的 epub 以及 mkdocs 生成的 html 站点）的 fsfs，我们不得不进行一些 hack。
 
+另外还有一种是 [gnu-sync.md](gnu-sync.md) 中提到的以`<!--(po)和`(po)-->`括着的标记，用于记录和 gnu.org 同步的版本。
+
 这些 hack 主要是以 html 注释的形式（`<!-- -->`）存在在源码（Markdown）里，并且由 Makefile 在编译时进行处理。
 
 同时，要保证源码能直接用于生成 mkdocs 的站点，因为使用了 [readthedocs.io](https://readthedocs.io)。
@@ -10,7 +12,10 @@
 
 ## 关于 pandoc 的 hack
 在 Makefile 中体现为 
-`sed -i "s/<!--(pandoc)//g;s/(pandoc)-->//g;s/(\\([a-zA-Z0-9\\-]*\\)\\.md)/(#pandoc_\1)<!--(pdf) \\\\pageto{pandoc_\1} (pdf)-->/g;s/(\\([a-zA-Z0-9\\-]*\\)\\.md#\\([a-zA-Z0-9\\-]*\\))/(#pandoc_\1_\2)<!--(pdf) \\\\pageto{pandoc_\1_\2} (pdf)-->/g" $@`
+`sed -i "s/<!--(po).*(po)-->//g;s/<!--(pandoc)//g;s/(pandoc)-->//g;s/(\\([a-zA-Z0-9\\-]*\\)\\.md)/(#pandoc_\1)<!--(pdf) \\\\pageto{pandoc_\1} (pdf)-->/g;s/(\\([a-zA-Z0-9\\-]*\\)\\.md#\\([a-zA-Z0-9\\-]*\\))/(#pandoc_\1_\2)<!--(pdf) \\\\pageto{pandoc_\1_\2} (pdf)-->/g" $@`
+
+### `s/<!--(po).*(po)-->//g`
+若不去掉该标记，pandoc 的格式可能会受干扰。
 
 ### `s/<!--(pandoc)//g;s/(pandoc)-->//g`
 使用 pandoc 前将`<!--(pandoc)`和`(pandoc)-->`去掉。
