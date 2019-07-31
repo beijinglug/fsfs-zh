@@ -103,7 +103,7 @@ checksync() {
 	echo "$_helpText"
 	exit 0
 else
-	$_mdFiles="$@"
+	_mdFiles="$@"
 fi
 
 _success=0
