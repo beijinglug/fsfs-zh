@@ -61,7 +61,7 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.18533325px;font-family:'Noto Sans CJK SC';-inkscape-font-specification:'Noto Sans CJK SC, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:1px"
        y="19.885723"
        x="43.339935"
-       id="tspan9207">源代码</tspan></text>
+       id="tspan9207">源代碼</tspan></text>
   <text
      id="text9209-04"
      y="20.547146"
@@ -70,7 +70,7 @@
      xml:space="preserve"><tspan
        y="20.547146"
        x="177.41278"
-       id="tspan9239">编译器</tspan></text>
+       id="tspan9239">編譯器</tspan></text>
   <text
      id="text9209-00"
      y="20.62376"
@@ -79,7 +79,7 @@
      xml:space="preserve"><tspan
        y="20.62376"
        x="323.21588"
-       id="tspan9249">汇编器</tspan></text>
+       id="tspan9249">彙編器</tspan></text>
   <text
      id="text9209-7"
      y="19.189922"
@@ -88,7 +88,7 @@
      xml:space="preserve"><tspan
        y="19.189922"
        x="458.25946"
-       id="tspan9259">计算机</tspan></text>
+       id="tspan9259">計算機</tspan></text>
   <text
      id="text9209-9"
      y="65.509621"
@@ -97,5 +97,5 @@
      xml:space="preserve"><tspan
        y="65.509621"
        x="460.23859"
-       id="tspan9269">机器码</tspan></text>
+       id="tspan9269">機器碼</tspan></text>
 </svg>

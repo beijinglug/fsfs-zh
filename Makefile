@@ -109,7 +109,7 @@ $(PREFACES_PANDOC) $(CHAPTERS_PANDOC) $(APPENDIXS_PANDOC): docs/%_pandoc.md : do
 $(PREFACES_PDF) $(CHAPTERS_PDF) $(APPENDIXS_PDF): docs/%_pdf.md : docs/%_pandoc.md
 	cp $< $@
 	echo Replacing...
-#	编译时把<!--(pdf)和(pdf)-->去掉，把<!--(pdf-newline)--><br>替换成\newline{}，将svg图片以pdf代替
+#	編譯時把<!--(pdf)和(pdf)-->去掉，把<!--(pdf-newline)--><br>替換成\newline{}，將svg圖片以pdf代替
 	@sed -i 's/<!--(pdf)//g;s/(pdf)-->//g;s/.svg)<!--(pdf-svg)-->/.pdf)/g;s/<!--(pdf-newline)--><br>/\\newline{}/g' $@
 
 

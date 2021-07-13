@@ -46,7 +46,7 @@
 
 \usepackage{url}
 \def\UrlBreaks{\do\.\do\@\do\\\do\/\do\!\do\_\do\|\do\;\do\>\do\]\do\)\do\,\do\?\do\&\do\'\do+\do\=\do\#\do\-}
-%长url断行
+%長url斷行
 
 \usepackage{pdfpages}
 \usepackage[bindingoffset=0.5cm, margin=1.5cm, includeheadfoot]{geometry}
@@ -92,19 +92,19 @@ framexleftmargin=20pt
 
 \definecolor{shadecolor}{gray}{0.90}
 
-% 修改字体，粗体为 Noto Sans CJK，普通文字 FandolSong 宋体（GPLv3） 
-%    字体选择： AR PL UMing 文鼎PL细上海宋 - 会出现问号在中间的错误
-%               AR PL SungtiL GB 文鼎PL简报宋 - 英文字体不好看
-%               Adobe Song Std L Adobe宋体 - item的·号无法显示 
-%               Hiragino Sans - 字体很完美，但item的·不能显示！
-%               WenQuanYi Micro Hei 文泉驿微米黑 - 没有对应的粗体字体
-%               Source Sans Han S (Noto Sans CJK)  思源黑体 - 不能用有错误
-%                jjgod 给 xdvipdfmx 写了补丁，会被包含在 TeX Live 2015。
-%                 讨论：http://tug.org/pipermail/xetex/2014-July/025385.html 起
-%                 补丁：https://gist.github.com/jjgod/c1194a9b371848aaa746
+% 修改字體，粗體為 Noto Sans CJK，普通文字 FandolSong 宋體（GPLv3） 
+%    字體選擇： AR PL UMing 文鼎PL細上海宋 - 會出現問號在中間的錯誤
+%               AR PL SungtiL GB 文鼎PL簡報宋 - 英文字體不好看
+%               Adobe Song Std L Adobe宋體 - item的·號無法顯示 
+%               Hiragino Sans - 字體很完美，但item的·不能顯示！
+%               WenQuanYi Micro Hei 文泉驛微米黑 - 沒有對應的粗體字體
+%               Source Sans Han S (Noto Sans CJK)  思源黑體 - 不能用有錯誤
+%                jjgod 給 xdvipdfmx 寫了補丁，會被包含在 TeX Live 2015。
+%                 討論：http://tug.org/pipermail/xetex/2014-July/025385.html 起
+%                 補丁：https://gist.github.com/jjgod/c1194a9b371848aaa746
 %                       https://gist.github.com/jjgod/cf39032b839bb3542107
 
-% 设置英文字体
+% 設置英文字體
 \setmainfont
     [ Numbers        = {Proportional,Lining},
       UprightFont    = *-Regular,
@@ -114,16 +114,16 @@ framexleftmargin=20pt
     ]
     {Liberation Serif}
 
-% 设置中文字体
+% 設置中文字體
 \setCJKmainfont
     [
       %BoldFont   = FandolSong-Bold,
       BoldFont = Noto Sans CJK SC, % uncomment for release build
-      ItalicFont = FandolKai,
+      ItalicFont = Noto Sans CJK SC,
       %ItalicFont = AR PL KaitiM GB,
     ]
     %{AR PL SungtiL GB}
-    {FandolSong}
+    {Noto Sans CJK SC}
 
 \setCJKsansfont{Noto Sans CJK SC} 
 %\setCJKsansfont{WenQuanYi Micro Hei}
@@ -131,7 +131,7 @@ framexleftmargin=20pt
 \setCJKmonofont{Noto Sans Mono CJK SC} % uncomment for release build
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% 使用 DejaVu Sans 显示 ⚠ ☢ ☠ ✔ 这四个 dingbats 字符
+% 使用 DejaVu Sans 顯示 ⚠ ☢ ☠ ✔ 這四個 dingbats 字符
 % http://tex.stackexchange.com/questions/23049/font-substitution-with-xelatex
 
 \newcommand\la[1]{{#1}}
@@ -177,10 +177,10 @@ framexleftmargin=20pt
 
 \settowidth{\parindent}{文字}
 \setcounter{footnote}{1}
-\interfootnotelinepenalty=10000 %使脚注不跨页
+\interfootnotelinepenalty=10000 %使腳註不跨頁
 
-\title{\huge{\textbf{自由软件，自由社会}}\\
-\large{理查德·斯托曼选集（第三版）}}
+\title{\huge{\textbf{自由軟件，自由社會}}\\
+\large{理查德·斯托曼選集（第三版）}}
 
 \makeatletter
 \let\savedauthor=\@author
@@ -193,7 +193,7 @@ framexleftmargin=20pt
 \title{{\savedtitle}}
 
 \author{\textbf{[美] Richard M. Stallman 著}\\
-       \textbf{北京 GNU/Linux 用户组\ 译}\thanks{本书基于 GNU 自由文档协议 1.3 版（GNU Free Documentation License 1.3）授权发布，可自由复制和分发，和/或基于 GNU 自由文档协议 1.3 版或自由软件基金会发布的更高版本，做出修改。本书使用 Markdown 书写，源码地址：\url{https://github.com/beijinglug/fsfs-zh/}。}}
+       \textbf{北京 GNU/Linux 用戶組\ 譯}\thanks{本書基於 GNU 自由文檔協議 1.3 版（GNU Free Documentation License 1.3）授權發佈，可自由複製和分發，和/或基於 GNU 自由文檔協議 1.3 版或自由軟件基金會發布的更高版本，做出修改。本書使用 Markdown 書寫，源碼地址：\url{https://github.com/beijinglug/fsfs-zh/}。}}
 
 \def\w3cdtfymd{\the\year 年 \ifnum\month<10 0\fi\the\month 月}
 \date{\w3cdtfymd}
@@ -269,13 +269,13 @@ framexleftmargin=20pt
 \renewcommand{\sectionmark}[1]{\markright{\textbf{\presect \thesection \postsect}\hspace*{1ex}#1}}
 \newcommand{\chap}[1]{\newpage\thispagestyle{empty}\chapter{#1}\label{chap:\thechapter}}
 \newcommand{\chapref}[1]{\hyperref[chap:#1]{\prechap #1\postchap}}
-\newcommand{\imgref}[1]{\hyperref[img:#1]{图 #1}}
+\newcommand{\imgref}[1]{\hyperref[img:#1]{圖 #1}}
 \newcommand{\tabref}[1]{\hyperref[tab:#1]{表 #1}}
 \newcommand{\e}[1]{ \times 10^{#1}}
-\renewcommand{\contentsname}{目录}
-\renewcommand{\figurename}{图 }
+\renewcommand{\contentsname}{目錄}
+\renewcommand{\figurename}{圖 }
 \renewcommand{\tablename}{表 }
-\renewcommand{\appendixname}{附录 }
+\renewcommand{\appendixname}{附錄 }
 
 % chapter 
 \makeatletter

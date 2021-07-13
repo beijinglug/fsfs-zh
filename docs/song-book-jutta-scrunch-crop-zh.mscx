@@ -146,7 +146,7 @@
         <height>10</height>
         <Text>
           <style>Title</style>
-          <text>自由软件之歌</text>
+          <text>自由軟件之歌</text>
           </Text>
         </VBox>
       <Measure number="1" len="7/8">
@@ -178,7 +178,7 @@
           <Lyrics>
             <no>1</no>
             <style>Lyrics Even Lines</style>
-            <text>贪</text>
+            <text>貪</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
@@ -208,7 +208,7 @@
             </Lyrics>
           <Lyrics>
             <no>2</no>
-            <text>实</text>
+            <text>實</text>
             </Lyrics>
           <Lyrics>
             <no>3</no>
@@ -251,7 +251,7 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Lyrics>
-            <text>们</text>
+            <text>們</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
@@ -261,12 +261,12 @@
           <Lyrics>
             <no>2</no>
             <pos x="1.55828" y="13.9524"/>
-            <text><u>们的</u></text>
+            <text><u>們的</u></text>
             </Lyrics>
           <Lyrics>
             <no>3</no>
             <style>Lyrics Even Lines</style>
-            <text>们</text>
+            <text>們</text>
             </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
@@ -311,7 +311,7 @@
           <Lyrics>
             <no>1</no>
             <style>Lyrics Even Lines</style>
-            <text>财</text>
+            <text>財</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
@@ -340,21 +340,21 @@
           <durationType>eighth</durationType>
           <Beam>1</Beam>
           <Lyrics>
-            <text>软</text>
+            <text>軟</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
             <style>Lyrics Even Lines</style>
-            <text>万</text>
+            <text>萬</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
-            <text>软</text>
+            <text>軟</text>
             </Lyrics>
           <Lyrics>
             <no>3</no>
             <style>Lyrics Even Lines</style>
-            <text>软</text>
+            <text>軟</text>
             </Lyrics>
           <Slur type="start" id="2"/>
           <Note>
@@ -381,7 +381,7 @@
           <Lyrics>
             <no>1</no>
             <style>Lyrics Even Lines</style>
-            <text>贯，</text>
+            <text>貫，</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
@@ -410,11 +410,11 @@
           <Lyrics>
             <no>1</no>
             <style>Lyrics Even Lines</style>
-            <text>确</text>
+            <text>確</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
-            <text>齐</text>
+            <text>齊</text>
             </Lyrics>
           <Lyrics>
             <no>3</no>
@@ -442,7 +442,7 @@
             <no>1</no>
             <pos x="1.65828" y="10.9762"/>
             <style>Lyrics Even Lines</style>
-            <text><u>实如</u></text>
+            <text><u>實如</u></text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
@@ -557,21 +557,21 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Lyrics>
-            <text>们，</text>
+            <text>們，</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
             <style>Lyrics Even Lines</style>
-            <text>们，</text>
+            <text>們，</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
-            <text>们，</text>
+            <text>們，</text>
             </Lyrics>
           <Lyrics>
             <no>3</no>
             <style>Lyrics Even Lines</style>
-            <text>们，</text>
+            <text>們，</text>
             </Lyrics>
           <StemDirection>down</StemDirection>
           <Note>
@@ -591,11 +591,11 @@
           <Lyrics>
             <no>1</no>
             <style>Lyrics Even Lines</style>
-            <text>确</text>
+            <text>確</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
-            <text>齐</text>
+            <text>齊</text>
             </Lyrics>
           <Lyrics>
             <no>3</no>
@@ -617,7 +617,7 @@
           <Lyrics>
             <no>1</no>
             <style>Lyrics Even Lines</style>
-            <text>实</text>
+            <text>實</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
@@ -706,7 +706,7 @@
             </Lyrics>
           <Lyrics>
             <no>2</no>
-            <text>抛</text>
+            <text>拋</text>
             </Lyrics>
           <Lyrics>
             <no>3</no>
@@ -732,7 +732,7 @@
             </Lyrics>
           <Lyrics>
             <no>2</no>
-            <text>弃</text>
+            <text>棄</text>
             </Lyrics>
           <Lyrics>
             <no>3</no>
@@ -754,7 +754,7 @@
           <Lyrics>
             <no>1</no>
             <style>Lyrics Even Lines</style>
-            <text>帮</text>
+            <text>幫</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
@@ -775,7 +775,7 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Lyrics>
-            <text>们</text>
+            <text>們</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
@@ -789,7 +789,7 @@
           <Lyrics>
             <no>3</no>
             <style>Lyrics Even Lines</style>
-            <text>们</text>
+            <text>們</text>
             </Lyrics>
           <StemDirection>up</StemDirection>
           <Note>
@@ -815,7 +815,7 @@
             </Lyrics>
           <Lyrics>
             <no>2</no>
-            <text>肮</text>
+            <text>骯</text>
             </Lyrics>
           <Lyrics>
             <no>3</no>
@@ -841,7 +841,7 @@
             </Lyrics>
           <Lyrics>
             <no>2</no>
-            <text>脏</text>
+            <text>髒</text>
             </Lyrics>
           <Lyrics>
             <no>3</no>
@@ -866,12 +866,12 @@
           <durationType>eighth</durationType>
           <Beam>2</Beam>
           <Lyrics>
-            <text>软</text>
+            <text>軟</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
             <style>Lyrics Even Lines</style>
-            <text>邻</text>
+            <text>鄰</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
@@ -880,7 +880,7 @@
           <Lyrics>
             <no>3</no>
             <style>Lyrics Even Lines</style>
-            <text>软</text>
+            <text>軟</text>
             </Lyrics>
           <Slur type="start" id="5"/>
           <Note>
@@ -911,7 +911,7 @@
             </Lyrics>
           <Lyrics>
             <no>2</no>
-            <text>权，</text>
+            <text>權，</text>
             </Lyrics>
           <Lyrics>
             <no>3</no>
@@ -936,7 +936,7 @@
           <Lyrics>
             <no>1</no>
             <style>Lyrics Even Lines</style>
-            <text>这</text>
+            <text>這</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
@@ -998,7 +998,7 @@
             </Lyrics>
           <Lyrics>
             <no>2</no>
-            <text>远，</text>
+            <text>遠，</text>
             </Lyrics>
           <Lyrics>
             <no>3</no>
@@ -1079,21 +1079,21 @@
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
           <Lyrics>
-            <text>们，</text>
+            <text>們，</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
             <style>Lyrics Even Lines</style>
-            <text>们，</text>
+            <text>們，</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
-            <text>们，</text>
+            <text>們，</text>
             </Lyrics>
           <Lyrics>
             <no>3</no>
             <style>Lyrics Even Lines</style>
-            <text>们，</text>
+            <text>們，</text>
             </Lyrics>
           <StemDirection>down</StemDirection>
           <Note>
@@ -1172,7 +1172,7 @@
             </Lyrics>
           <Lyrics>
             <no>2</no>
-            <text>远。</text>
+            <text>遠。</text>
             </Lyrics>
           <Lyrics>
             <no>3</no>
