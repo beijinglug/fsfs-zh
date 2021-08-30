@@ -5,10 +5,14 @@
 
 封面设计 Kyle Winfree
 
+### 下载电子版（PDF）
 
-下载电子版（PDF）：[这里下载](https://github.com/beijinglug/fsfs-zh/releases)
+- 最新版本：[GitHub](https://github.com/beijinglug/fsfs-zh/releases/download/2019.1/fsfs-zh.pdf)、[FastGit](https://hub.fastgit.org/beijinglug/fsfs-zh/releases/download/2019.1/fsfs-zh.pdf)。
+- 历史版本：[GitHub](https://github.com/beijinglug/fsfs-zh/tags)、[FastGit](https://hub.fastgit.org/beijinglug/fsfs-zh/tags)。
 
-下载电子书（EPUB）：[这里下载](https://github.com/beijinglug/fsfs-zh/releases)
+### 下载电子书（EPUB）
+- 最新版本：[GitHub](https://github.com/beijinglug/fsfs-zh/releases/download/2019.1/fsfs-zh.epub)、[FastGit](https://hub.fastgit.org/beijinglug/fsfs-zh/releases/download/2019.1/fsfs-zh.epub)。
+- 历史版本：[GitHub](https://github.com/beijinglug/fsfs-zh/tags)、[FastGit](https://hub.fastgit.org/beijinglug/fsfs-zh/tags)。
 
 贡献者
 -------
@@ -24,10 +28,10 @@
 | @MandyMY | 大量校对和修订 |
 | @biergaizi | 少量翻译并做了大量社交网络推广 |
 | @mytbk | 少量翻译和校对，并协助 PDF 格式排版，Pandoc 及 Texlive 的格式适配等 |
-| @wxy | 参与修订，并将此书增加到[Linux中国](https://linux.cn)的每周微博、微信推送中 |
+| @wxy | 参与修订，并将此书增加到 [Linux 中国](https://linux.cn)的每周微博、微信推送中 |
 | @IceCatX | 少量修订，并在他的学校里以及博客上推广此书 |
 | @hagb | 大量校对和修订，解决了交叉引用格式问题，并将此书反馈到 GNU 官网的中文翻译中 | 
-
+| @zuorong-zhang | 添加 FastGit 下载源 |
 
 目  录
 -----
