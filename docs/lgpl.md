@@ -7,7 +7,7 @@
 
 这是一份 GNU 宽通用许可证非正式的中文翻译。它并非由自由软件基金会所发表，亦非使用 GNU 宽通用许可证的文件的法定发布条款——只有 GNU 宽通用许可证英文原文 <http://www.gnu.org/licenses/lgpl.html> 的版本始具有此等效力。然而，我们希望这份翻译能帮助中文的使用者更了解 GNU 宽通用许可证。
 
-This is an unofficial translation of the LGPL Free Documentation License into Chinese. It was not published by the Free Software Foundation, and does not legally state the distribution terms for documents that uses the GNU LGPL--only the original English text of the GNU LGPL <http://www.gnu.org/licenses/lgpl.html> does that. However, we hope that this translation will help Chinese speakers understand the GNU LGPL better
+This is an unofficial translation of the GNU Lesser General Public License into Chinese. It was not published by the Free Software Foundation, and does not legally state the distribution terms for documents that uses the GNU LGPL--only the original English text of the GNU LGPL <http://www.gnu.org/licenses/lgpl.html> does that. However, we hope that this translation will help Chinese speakers understand the GNU LGPL better
 
 -----
 
@@ -29,19 +29,19 @@ This is an unofficial translation of the LGPL Free Documentation License into Ch
 
 “组合软件”是“库”和“应用软件”结合或连接而产生的一种软件。这种通过“组合软件”产生的特殊版本的“库”也被称之为“连接版本”。
 
-“组合软件”里“最小对应源代码”是指“组合软件”基于“应用程序”，而非“连接版本”里的“对应源代码”，不包括被认为是孤立“组合软件”部份里的任何原代码。
+“组合软件”里“最小对应源代码”是指“组合软件”基于“应用程序”，而非“连接版本”里的“对应源代码”，不包括被认为是孤立“组合软件”部分里的任何原代码。
 
 “组合软件”里“对应应用程序代码”是指“应用程序”的目标编码和/或原代码，包括“应用程序”里重新编制“组合软件”所需的数据和有效程序，但不包括“组合软件”里的系统数据库。
 
 ### 1.通用公共授权第三版之例外
 
-你可以发布本许可证第三和四部份下的涉及的作品，不受 GNU GPL 第三部份的限制。
+你可以发布本许可证第三和四部分下的涉及的作品，不受 GNU GPL 第三部分的限制。
 
 ### 2.发布修订版本
 
 如果你修改了“库”的副本，并且在你的修改版本中，一个组件引用了使用此组件的“应用程序”提供的函数或数据（有别于作为组件被调用时传递的参数），那么你可以发布修改版的副本：
 
-a)在此许可下，假如你尽力确保在“应用程序”不能提供这些函数和数据的情况下，该组件仍能工作，并执行其目标中仍有意义的任何部份，否则
+a)在此许可下，假如你尽力确保在“应用程序”不能提供这些函数和数据的情况下，该组件仍能工作，并执行其目标中仍有意义的任何部分，否则
 
 b)在通用公共授权下，任何本授权中的额外许可都不适用于该副本。
 
@@ -69,7 +69,7 @@ d)做下列之一：
 
 1)使用适当的共享库机构联接库。适当机制是指(a)在运行时使用已经存在于用户电脑系统的库的副本。（b）库的修改版可以正常工作并且与连接版本兼容。
 
-e)提供安装信息，但只有如果你，否则必须根据通用共公授权第六部份提供这些资料，范围仅限于这些资料是必要的安装和执行修改后的版本合并的工作所产生的重组或再重新联接应用程序与联系版本的修改版本。（如果选择 4d0，安装信息必须与最小通讯资源和通讯应用软件代码一起使用。如果选择 4d1，你必须在指定的方式下提供安装信息，由通用公共授权第六部份传输通讯资源。）
+e)提供安装信息，但只有如果你，否则必须根据通用共公授权第六部分提供这些资料，范围仅限于这些资料是必要的安装和执行修改后的版本合并的工作所产生的重组或再重新联接应用程序与联系版本的修改版本。（如果选择 4d0，安装信息必须与最小通讯资源和通讯应用软件代码一起使用。如果选择 4d1，你必须在指定的方式下提供安装信息，由通用公共授权第六部分传输通讯资源。）
 
 ### 5.组合的库
 
