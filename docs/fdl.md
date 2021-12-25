@@ -30,7 +30,7 @@ Copyright © 2000,2001,2002,2007,2008 自由软件基金会 <http://fsf.org/>
 
 本许可证的效力在于任何媒体中的任何的使用手册或其它作品，只要其中包含由版权所有人所指定的声明，说明它可以在本许可证的条款下被发布。这样的一份声明提供了全球范围内的，免版税的和没有期限的许可，在此所陈述条件下使用那个作品。以下所称的文件，指的是任何像这样的使用手册或作品。公众中的任何成员都是被许可人，并且称作为你。如果你以一种需要在版权法下取得允许的方式进行复制、修改或发布作品，你就接受了这项许可。
 
-“修改版本”指的是任何包含文件或是它的其中一部份，不论是逐字的复制或是经过修正，或翻译成其它语言的任何作品。
+“修改版本”指的是任何包含文件或是它的其中一部分，不论是逐字的复制或是经过修正，或翻译成其它语言的任何作品。
 
 “次要章节”是一个具名的附录，或是文件的本文之前内容的章节，专门用来处理文件的出版者或作者，与文件整体主题（或其它相关内容）的关系，并且不包含任何可以直接落入那个整体主题的内容。（因此，如果文件的部分内容是作为数学教科书，那么其次要章节就可以不用来解释任何数学。）它的关系可以是与主题相关的历史连接，或是与其相关的法律、商业、哲学、伦理道德或政治立场。
 
@@ -94,7 +94,7 @@ Copyright © 2000,2001,2002,2007,2008 自由软件基金会 <http://fsf.org/>
 
 **第十一款、** 在任何标题为感谢或贡献的章节，保存章节的标题，并且在那章节保存到那时候为止，每一个贡献者的感谢以及或贡献的所有声色。
 
-**第十二款、** 保存文件的所有固定章节，于其文字以及标题皆不得变更。章节号码或其同等物并不被认为是章节标题的一部份。
+**第十二款、** 保存文件的所有固定章节，于其文字以及标题皆不得变更。章节号码或其同等物并不被认为是章节标题的一部分。
 
 **第十三款、** 删除任何标题为背书的章节。这样子的章节不可以被包括在修改版本中。
 
@@ -132,7 +132,7 @@ Copyright © 2000,2001,2002,2007,2008 自由软件基金会 <http://fsf.org/>
 
 ### 8. 翻译
 
-翻译被认为一种修改，因此你可以在第四条的条款下发布文件的翻译。用翻译更换固定章节需要取得版权所有者的特别允许，但是你可以包括部份或所有固定章节的翻译，使其附加到这些固定章节的原始版本之中。你可以包括本许可证、文件中的所有许可声明和任何的担保放弃的翻译，其条件为你也必须包括本许可证的原始英文版本，以及这些声明与放弃的原始版本。如果发生翻译与本许可证、声明或放弃的原始版本有任何的不同意时，将以原始版本为准。
+翻译被认为一种修改，因此你可以在第四条的条款下发布文件的翻译。用翻译更换固定章节需要取得版权所有者的特别允许，但是你可以包括部分或所有固定章节的翻译，使其附加到这些固定章节的原始版本之中。你可以包括本许可证、文件中的所有许可声明和任何的担保放弃的翻译，其条件为你也必须包括本许可证的原始英文版本，以及这些声明与放弃的原始版本。如果发生翻译与本许可证、声明或放弃的原始版本有任何的不同意时，将以原始版本为准。
 
 如果在文件中的章节被标题为感谢、贡献或历史，则保存标题第一条的必要条件第四条，典型上将会需要去更动实际的标题。
 
@@ -171,7 +171,7 @@ MMC 有重新授权的资格，如果它是在 MMC 下授权；或者所有的�
 ````
 Copyright (c) YEAR YOUR NAME. Permission is granted to copy,
 distribute and/or modify this document under the terms of
-the GNU Free Documentation License, Version 1.2 or any later
+the GNU Free Documentation License, Version 1.3 or any later
 version published by the Free Software Foundation; with no
 Invariant Sections, no Front-Cover Texts, and no Back-Cover
 Texts. A copy of the license is included in the section
@@ -203,7 +203,7 @@ Version 1.3, 3 November 2008
 > Copyright © 2000, 2001, 2002, 2007, 2008 Free Software Foundation, Inc. http://fsf.org/
 > Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
 
-1.  **PREAMBLE**
+0.  **PREAMBLE**
 
     The purpose of this License is to make a manual, textbook, or other
     functional and useful document *free* in the sense of freedom: to
@@ -227,7 +227,7 @@ Version 1.3, 3 November 2008
     this License principally for works whose purpose is instruction
     or reference.
 
-2.  **APPLICABILITY AND DEFINITIONS**
+1.  **APPLICABILITY AND DEFINITIONS**
 
     This License applies to any manual or other work, in any medium,
     that contains a notice placed by the copyright holder saying it can
@@ -319,7 +319,7 @@ Version 1.3, 3 November 2008
     implication that these Warranty Disclaimers may have is void and has
     no effect on the meaning of this License.
 
-3.  **VERBATIM COPYING**
+2.  **VERBATIM COPYING**
 
     You may copy and distribute the Document in any medium, either
     commercially or noncommercially, provided that this License, the
@@ -335,7 +335,7 @@ Version 1.3, 3 November 2008
     You may also lend copies, under the same conditions stated above,
     and you may publicly display copies.
 
-4.  **COPYING IN QUANTITY**
+3.  **COPYING IN QUANTITY**
 
     If you publish printed copies (or copies in media that commonly have
     printed covers) of the Document, numbering more than 100, and the
@@ -373,7 +373,7 @@ Version 1.3, 3 November 2008
     to give them a chance to provide you with an updated version of
     the Document.
 
-5.  **MODIFICATIONS**
+4.  **MODIFICATIONS**
 
     You may copy and distribute a Modified Version of the Document under
     the conditions of sections 2 and 3 above, provided that you release
@@ -466,7 +466,7 @@ Version 1.3, 3 November 2008
     License give permission to use their names for publicity for or to
     assert or imply endorsement of any Modified Version.
 
-6.  **COMBINING DOCUMENTS**
+5.  **COMBINING DOCUMENTS**
 
     You may combine the Document with other documents released under
     this License, under the terms defined in section 4 above for
@@ -492,7 +492,7 @@ Version 1.3, 3 November 2008
     “Acknowledgements”, and any sections Entitled “Dedications”. You
     must delete all sections Entitled “Endorsements.”
 
-7.  **COLLECTIONS OF DOCUMENTS**
+6.  **COLLECTIONS OF DOCUMENTS**
 
     You may make a collection consisting of the Document and other
     documents released under this License, and replace the individual
@@ -507,7 +507,7 @@ Version 1.3, 3 November 2008
     License in all other respects regarding verbatim copying of
     that document.
 
-8.  **AGGREGATION WITH INDEPENDENT WORKS**
+7.  **AGGREGATION WITH INDEPENDENT WORKS**
 
     A compilation of the Document or its derivatives with other separate
     and independent documents or works, in or on a volume of a storage
@@ -526,7 +526,7 @@ Version 1.3, 3 November 2008
     electronic form. Otherwise they must appear on printed covers that
     bracket the whole aggregate.
 
-9.  **TRANSLATION**
+8.  **TRANSLATION**
 
     Translation is considered a kind of modification, so you may
     distribute translations of the Document under the terms of
@@ -547,7 +547,7 @@ Version 1.3, 3 November 2008
     its Title (section 1) will typically require changing the
     actual title.
 
-10. **TERMINATION**
+9. **TERMINATION**
 
     You may not copy, modify, sublicense, or distribute the Document
     except as expressly provided under this License. Any attempt
@@ -574,7 +574,7 @@ Version 1.3, 3 November 2008
     permanently reinstated, receipt of a copy of some or all of the same
     material does not give you any rights to use it.
 
-11. **FUTURE REVISIONS OF THIS LICENSE**
+10. **FUTURE REVISIONS OF THIS LICENSE**
 
     The Free Software Foundation may publish new, revised versions of
     the GNU Free Documentation License from time to time. Such new
@@ -595,7 +595,7 @@ Version 1.3, 3 November 2008
     proxy’s public statement of acceptance of a version permanently
     authorizes you to choose that version for the Document.
 
-12. **RELICENSING**
+11. **RELICENSING**
 
     “Massive Multiauthor Collaboration Site” (or “MMC Site”) means any
     World Wide Web server that publishes copyrightable works and also
