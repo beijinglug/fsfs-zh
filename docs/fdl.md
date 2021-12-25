@@ -203,7 +203,7 @@ Version 1.3, 3 November 2008
 > Copyright © 2000, 2001, 2002, 2007, 2008 Free Software Foundation, Inc. http://fsf.org/
 > Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
 
-1.  **PREAMBLE**
+0.  **PREAMBLE**
 
     The purpose of this License is to make a manual, textbook, or other
     functional and useful document *free* in the sense of freedom: to
@@ -227,7 +227,7 @@ Version 1.3, 3 November 2008
     this License principally for works whose purpose is instruction
     or reference.
 
-2.  **APPLICABILITY AND DEFINITIONS**
+1.  **APPLICABILITY AND DEFINITIONS**
 
     This License applies to any manual or other work, in any medium,
     that contains a notice placed by the copyright holder saying it can
@@ -319,7 +319,7 @@ Version 1.3, 3 November 2008
     implication that these Warranty Disclaimers may have is void and has
     no effect on the meaning of this License.
 
-3.  **VERBATIM COPYING**
+2.  **VERBATIM COPYING**
 
     You may copy and distribute the Document in any medium, either
     commercially or noncommercially, provided that this License, the
@@ -335,7 +335,7 @@ Version 1.3, 3 November 2008
     You may also lend copies, under the same conditions stated above,
     and you may publicly display copies.
 
-4.  **COPYING IN QUANTITY**
+3.  **COPYING IN QUANTITY**
 
     If you publish printed copies (or copies in media that commonly have
     printed covers) of the Document, numbering more than 100, and the
@@ -373,7 +373,7 @@ Version 1.3, 3 November 2008
     to give them a chance to provide you with an updated version of
     the Document.
 
-5.  **MODIFICATIONS**
+4.  **MODIFICATIONS**
 
     You may copy and distribute a Modified Version of the Document under
     the conditions of sections 2 and 3 above, provided that you release
@@ -466,7 +466,7 @@ Version 1.3, 3 November 2008
     License give permission to use their names for publicity for or to
     assert or imply endorsement of any Modified Version.
 
-6.  **COMBINING DOCUMENTS**
+5.  **COMBINING DOCUMENTS**
 
     You may combine the Document with other documents released under
     this License, under the terms defined in section 4 above for
@@ -492,7 +492,7 @@ Version 1.3, 3 November 2008
     “Acknowledgements”, and any sections Entitled “Dedications”. You
     must delete all sections Entitled “Endorsements.”
 
-7.  **COLLECTIONS OF DOCUMENTS**
+6.  **COLLECTIONS OF DOCUMENTS**
 
     You may make a collection consisting of the Document and other
     documents released under this License, and replace the individual
@@ -507,7 +507,7 @@ Version 1.3, 3 November 2008
     License in all other respects regarding verbatim copying of
     that document.
 
-8.  **AGGREGATION WITH INDEPENDENT WORKS**
+7.  **AGGREGATION WITH INDEPENDENT WORKS**
 
     A compilation of the Document or its derivatives with other separate
     and independent documents or works, in or on a volume of a storage
@@ -526,7 +526,7 @@ Version 1.3, 3 November 2008
     electronic form. Otherwise they must appear on printed covers that
     bracket the whole aggregate.
 
-9.  **TRANSLATION**
+8.  **TRANSLATION**
 
     Translation is considered a kind of modification, so you may
     distribute translations of the Document under the terms of
@@ -547,7 +547,7 @@ Version 1.3, 3 November 2008
     its Title (section 1) will typically require changing the
     actual title.
 
-10. **TERMINATION**
+9. **TERMINATION**
 
     You may not copy, modify, sublicense, or distribute the Document
     except as expressly provided under this License. Any attempt
@@ -574,7 +574,7 @@ Version 1.3, 3 November 2008
     permanently reinstated, receipt of a copy of some or all of the same
     material does not give you any rights to use it.
 
-11. **FUTURE REVISIONS OF THIS LICENSE**
+10. **FUTURE REVISIONS OF THIS LICENSE**
 
     The Free Software Foundation may publish new, revised versions of
     the GNU Free Documentation License from time to time. Such new
@@ -595,7 +595,7 @@ Version 1.3, 3 November 2008
     proxy’s public statement of acceptance of a version permanently
     authorizes you to choose that version for the Document.
 
-12. **RELICENSING**
+11. **RELICENSING**
 
     “Massive Multiauthor Collaboration Site” (or “MMC Site”) means any
     World Wide Web server that publishes copyrightable works and also
