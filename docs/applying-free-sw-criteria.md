@@ -1,6 +1,6 @@
 ## 应用自由软件判断准则<!--(pandoc) {#pandoc_applying-free-sw-criteria}(pandoc)--><!--(po)2016-01-01 05:55+0000,2019-07-28 16:32+0800,philosophy/po/applying-free-sw-criteria.pot(po)-->
 
-> Copyright © 2015 理查德·斯托曼（Richard Stallman）
+> Copyright © 2015, 2016 理查德·斯托曼（Richard Stallman）
 
 四项基本自由为判断某一特定代码片断是否为自由的（即尊重用户自由）提供了准则[^apply-1]。我们应当如何将它们应用于判断一个软件包、一套操作系统、一台计算机、或是一个网页是否适合被推荐使用呢？
 

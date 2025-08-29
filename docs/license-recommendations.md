@@ -1,6 +1,6 @@
-## 如何为你的作品选择一份许可证<!--(pandoc) {#pandoc_license-recommendations}(pandoc)--> <!--(po)2018-01-01 05:57+0000,2019-07-28 16:25+0800,licenses/po/license-recommendations.pot(po)-->
+## 如何为你的作品选择一份许可证<!--(pandoc) {#pandoc_license-recommendations}(pandoc)--> <!--(po)2019-10-13 00:55+0000,2019-12-01 20:28+0800,licenses/po/license-recommendations.pot(po)-->
 
-> Copyright © 2011, 2013, 2014 自由软件基金会。此文于 2011 年首发于 <http://gnu.org>。
+> Copyright © 2011, 2013, 2014, 2015, 2017, 2018, 2019 自由软件基金会。此文于 2011 年首发于 <http://gnu.org>。
 
 ### 前言
 
@@ -42,9 +42,9 @@
 
 对于库，我们分三种情形。
 
-一些实现了自由标准的库与那些限制性标准竞争，例如 Ogg Vorbis（和 MP3 音频竞争）和 WebM（和 MPEG-4 视频竞争）。对于这些项目，代码的广泛使用对于推进自由软件事业非常重要，会比在项目代码上的 copyleft 有更多的好处。
+一些实现了自由标准的库与那些限制性标准竞争，例如 Ogg Vorbis（和 MP3 音频竞争）和 WebM（和 MPEG-4 视频竞争）。自由标准的成功需要众多专有软件能够链接到自由标准的库来处理数据。例如，我们希望非自由的媒体播放器既可以处理 Ogg 也可以处理 MP3。
 
-在这些特殊的情况，我们推荐 Apache 2.0 许可证。
+在这些特殊的情况，我们建议此类处理自由格式的库使用 Apache 2.0 许可证。
 
 对所有其他的库，我们推荐某种 copyleft 许可证。如果开发者已经使用现有的以非自由或不严格的 pushover 许可证发布的库，那么我们建议使用 GNU 宽通用公共许可证（LGPL）。
 
