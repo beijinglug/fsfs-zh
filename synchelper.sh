@@ -90,7 +90,7 @@ checksync() {
 	if po_potDate=$(download "$_gnuLink/$poPath" | getpo_potDate) && po_poDate=$(download "$_gnuLink/$poPath"  | getpo_poDate); then
 		md_poDate=$(getmd_poDate "$1") || return 3
 		[ "$po_potDate" == "$pot_potDate" ] || out_dated $1 : pot_potDate = "$pot_potDate" , but po_potDate = "$po_potDate" .
-		[ "$po_potDate" == "$md_potDate" ] || out_dated $1 : po_potDate = "$po_potDate" , but md_poDate = "$md_potDate" .
+		[ "$po_potDate" == "$md_potDate" ] || out_dated $1 : po_potDate = "$po_potDate" , but md_potDate = "$md_potDate" .
 		[ "$po_poDate" == "$md_poDate" ] || out_dated $1 : po_poDate = "$po_poDate" , but md_poDate = "$md_poDate" .
 	else
 		echo Couldn\'t get po file from "$_gnuLink/$poPath" for "$1". >&2
